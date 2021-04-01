@@ -1,15 +1,15 @@
 # Manifest for Bushdid et al, 2014 data
 [source]
-doi = 10.1126/science.1249168 
+doi = "10.1126/science.1249168 "
 title = "Humans Can Discriminate More than 1 Trillion Olfactory Stimuli"
-authors = C Bushdid, MO Magnasco, LB Vosshall, A Keller
+authors = "C Bushdid, MO Magnasco, LB Vosshall, A Keller"
 
 [raw]
-tableS1.csv
-tableS2.csv
+tableS1.csv = "Supplementary Table 1"
+tableS2.csv = "Supplementary Table 2"
 
 [processed]
-main.ipynb: Processing workflow
-molecules.csv: Molecules used
-mixtures.csv: Mixtures used
-behavior.csv: Triangle test results
+main.ipynb = "Processing workflow"
+molecules.csv = "Molecules used"
+mixtures.csv = "Mixtures used"
+behavior.csv = "Triangle test results"
