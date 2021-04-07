@@ -1,0 +1,95 @@
+---
+title: "Ravia Datasets"
+author: "Robert Pellegrino"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  word_document: default
+  html_document: default
+note: 1st exploratory analysis
+---
+
+## Loadoad Packages
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,message = FALSE,warning = FALSE)
+
+R.Version()$version.string #code ran on R version 4.0.3 (2020-10-10)
+
+# Load packages
+pacman::p_load(tidyverse)
+               
+```
+
+# Data Processing
+## Process Datasets
+Ravia et al. 2021 experiments are broken into four components:
+* Similarity Ratings
+** Includes the mixture number that are being compared as well as their similarity rating
+* Mixtures
+** List the mixtures (lookup number) and their respective component odorants
+* Intensity
+** List individual odorants and their intensity
+* Discrimination
+** List discrimination ability between two mixtures
+
+Experiment breakdown:
+* Experiment 1
+** Similarity rating between several mixtures varying in intensity
+* Experiment 2
+** Similarity rating between several mixtures varying in intensity
+* Experiment 3 - Similarity ratings not included in Supplementary
+** Bell challenge: similarity rating between three mixtures by perfumer
+* Experiment 4  
+** 50 pairs of mixture discriminated with triangle test by 27 subjects in replicate. 100 trials/subject
+* Experiment 5  
+** 50 pairs of mixtures discriminated with two-alternative same–different task by 30 subjects in replicate. Each odorant was used at two different concentration. 400 trials/subject
+* Experiment 6  
+** 40 pairs of mixtures discriminated with two-alternative same–different task by 25 subjects in replicate. Each odorant was used at two different concentration. 320 trials/subject
+* Experiment 7 - Excluded from this analysis
+** Metemors discrimination on individual level
+
+```{r}
+# Set file path for Joel if it exists
+  if (dir.exists("/Users/jmainland/Dropbox (Mainland Lab)/Mainland Lab Team Folder/Bob/snitz")){
+  path="/Users/jmainland/Dropbox (Mainland Lab)/Mainland Lab Team Folder/Bob/ravia"
+}else path=".."
+
+# Read in Ravia Experiments and manipulate for combining
+  ## Odorants     
+     db.ravia.lookup <- read.csv(paste0(path,"/Data/Raw/tableS1.csv")) %>%
+       filter(Type != "mono-molecule", Experiment != "Exp7") %>%
+       na_if(0) %>%
+       unite("Mixture.Cids", starts_with("Mix.Component"), na.rm = TRUE, remove = FALSE, sep = " ") %>%
+       select(ID.In.Exp.1, Mixture.Cids, Experiment) %>%
+       rename(Mixture.number = ID.In.Exp.1)
+     
+  ## Intensity
+     db.ravia.intensity <- read.csv(paste0(path,"/Data/Raw/tableS1.csv")) %>%
+       filter(Type == "mono-molecule", Experiment != "Exp7") %>%
+       select(CID, Dilution1, Intensity1, Dilution2, Intensity2, Dilution3, Intensity3, Experiment) %>%
+       na_if("Blank")
+     
+  ## Similarity
+     db.ravia.similar <- read.csv(paste0(path,"/Data/Raw/tableS2.csv")) %>%
+       rename(Comparison.number = Number, Mixture.number = Mixture1Id,  Mixture.number.1 = Mixture2Id, Average.rated.similarity = RatedSimilarity) %>%
+       select(Comparison.number, Mixture.number, Mixture.number.1, Average.rated.similarity, Experiment)
+       
+  ## Discrimination   
+     db.ravia.discrim <- read.csv(paste0(path,"/Data/Raw/tableS3.csv")) %>%
+       filter(Experiment != "Exp7") %>%
+       select(-c(Mixture3, Mixture4)) %>%
+       rename(Comparison.number = CompareIndex, Mixture.number = Mixture1,  Mixture.number.1 = Mixture2)
+     
+# Save processed data to RDS
+  saveRDS(db.ravia.similar, file = paste0(path,"/Data/Processed/db.ravia.similar.rds"))
+  saveRDS(db.ravia.lookup, file = paste0(path,"/Data/Processed/db.ravia.lookup.rds"))
+  saveRDS(db.ravia.intensity, file = paste0(path,"/Data/Processed/db.ravia.intensity.rds"))
+  saveRDS(db.ravia.discrim, file = paste0(path,"/Data/Processed/db.ravia.discrim.rds"))
+    
+# Save processed data to csv
+  write.csv(db.ravia.similar, file = paste0(path,"/Data/Processed/ravia_2021/behavior1.csv"), row.names = FALSE)
+  write.csv(db.ravia.lookup, file = paste0(path,"/Data/Processed/ravia_2021/mixtures.csv"), row.names = FALSE)
+  write.csv(db.ravia.intensity, file = paste0(path,"/Data/Processed/ravia_2021/intensity.csv"), row.names = FALSE)
+  write.csv(db.ravia.discrim, file = paste0(path,"/Data/Processed/ravia_2021/behavior2.csv"), row.names = FALSE)
+    
+```
+
