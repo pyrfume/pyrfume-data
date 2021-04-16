@@ -1,0 +1,13 @@
+# Manifest for Manoel et al, 2021 data
+[source]
+doi = "10.1038/s41586-020-2891-7 "
+title = "Deconstructing the mouse olfactory percept through an ethological atlas"
+authors = "D Manoel, M Makhlouf, CJ Arayata, A Sathappan, S Da’as, D Abdelrahman, S Selvaraj, R Hasnah, JD Mainland, RC Gerkin, LR Saraiva"
+
+[raw]
+"raw behavioral scores mouse 73 odorants.csv" = "Raw scored behaviors for each mouse and odorant"
+"SmilesInfo2.xlsx" = "Information about each odorant"
+
+[processed]
+"main.ipynb" = "Processing workflow"
+"behavior.csv" = "Scored behaviors for each mouse and odorant"
