@@ -1,0 +1,13 @@
+# Manifest for Keller and Vosshall, 2016 data
+[source]
+doi = "10.1186/s12868-016-0287-2"
+title = "Olfactory perception of chemically diverse molecules"
+authors = "A Keller, LB Vosshall"
+
+[raw]
+"12868_2016_287_MOESM1_ESM" = "Raw ratings for all odorants, subjects, descriptors, and replicates"
+
+[processed]
+"main.ipynb" = "Processing workflow"
+"molecules.csv" = "Information about odorant molecules used"
+"behavior.csv" = "Re-organized ratings for all odorants, subjects, descriptors, and replicates"

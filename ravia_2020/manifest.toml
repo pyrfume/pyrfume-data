@@ -11,7 +11,8 @@ authors = "A Ravia, K Snitz, D Honigstein, M Finkel, R Zirler, O Perl, L Secundo
 
 [processed]
 "main.rmd" = "Processing workflow"
-"main.ipynb" = "Additional processing for generation of molecules information" 
+"main.ipynb" = "Additional processing for generation of molecules information"
+"molecules.csv" = "Information about odorant molecules used"
 "mixtures.csv" = "Mixtures used"
 "intensity.csv" = "Intensity of mixtures used"
 "behavior1.csv" = "Similarity rating test results"
