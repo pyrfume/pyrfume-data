@@ -1,0 +1,33 @@
+Descriptor,Dragon Index,Weight,Description,Group
+1,959,1,3D-MoRSE - signal 04 / weighted by atomic van der Waals volumes,3D-MoRSE descriptors
+2,96,1,maximal electrotopological negative variation,topological descriptors
+3,946,1,3D-MoRSE - signal 23 / weighted by atomic masses,
+4,1558,2,phenol / enol / carboxyl OH,atom-centred fragments
+5,688,1,aromaticity index,geometrical descriptors
+6,948,2,3D-MoRSE - signal 25 / weighted by atomic masses,3D-MoRSE descriptors
+7,592,1,Eigenvalue sum from electronegativity weighted distance matrix,eigenvalue-based indices
+8,1528,1,R--CH—X,atom-centred fragments
+9,690,1,d COMMA2 value / weighted by atomic masses,geometrical descriptors
+10,963,3,3D-MoRSE - signal 08 / weighted by atomic van der Waals volumes, 3D-MoRSE descriptors
+11,1321,1,R maximal autocorrelation of lag 1 / weighted by atomic Sanderson electronegativities,GETAWAY descriptors
+12,1012,1,3D-MoRSE - signal 25 / weighted by atomic,Sanderson electronegativities
+13,1191,1,leverage-weighted autocorrelation of lag 6 / weighted by atomic masses,GETAWAY descriptors
+14,433,1,Eigenvalue 11 from edge adj. matrix weighted by resonance integrals edge adjacency indices
+15,513,1,lowest eigenvalue n. 8 of Burden matrix / weighted by atomic masses,Burden eigenvalues
+16,698,1,d COMMA2 value / weighted by atomic Sanderson electronegativities,geometrical descriptors
+17,1110,1,1st component shape directional WHIM index / weighted by atomic electrotopological states,WHIM descriptors
+18,1541,2,R-C(=X)-X / R-C#X / X=C=X,atom-centered fragments
+19,48,1,number of benzene-like rings,constitutional descriptors
+20,359,1,Geary autocorrelation - lag 1 / weighted by atomic masses 2D autocorrelations
+21,582,1,global topological charge index,topological charge indices
+22,1430,1,number of aromatic hydroxyls,functional group counts 
+23,404,1,Eigenvalue 12 from edge adj. matrix weighted by edge degrees,edge adjacency indices
+24,1576,1,R--N--R / R--N--X,atom-centered fragments
+25,1373,2,number of carboxylic acids (aliphatic),functional group counts
+26,1348,1,number of terminal primary C(sp3),functional group counts
+27,1331,3,R autocorrelation of lag 2 / weighted by atomic polarizabilities,GETAWAY descriptors
+28,92,1,Balaban-type index from mass weighted distance matrix,topological descriptors
+29,1069,1,2st component symmetry directional WHIM index / weighted by atomic masses,WHIM descriptors
+30,678,1,average span R,geometrical descriptors
+31,22,1,number of double bonds,constitutional descriptors
+32,1286,1,R maximal autocorrelation of lag 2 / weighted by atomic masses,GETAWAY descriptors 
