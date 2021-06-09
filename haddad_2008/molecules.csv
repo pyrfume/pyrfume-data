@@ -1,0 +1,125 @@
+CID,MolecularWeight,IsomericSMILES,IUPACName,name
+712,30.026,C=O,formaldehyde,formaldehyde
+177,44.05,CC=O,acetaldehyde,acetaldehyde
+527,58.08,CCC=O,propanal,propionaldehyde
+261,72.11,CCCC=O,butanal,butyraldehyde
+8063,86.13,CCCCC=O,pentanal,pentanal
+6184,100.16,CCCCCC=O,hexanal,hexanal
+8130,114.19,CCCCCCC=O,heptanal,heptanal
+454,128.21,CCCCCCCC=O,octanal,octanal
+31289,142.24,CCCCCCCCC=O,nonanal,nonanal
+8175,156.26,CCCCCCCCCC=O,decanal,decanal
+8186,170.29,CCCCCCCCCCC=O,undecanal,undecanal
+240,106.12,C1=CC=C(C=C1)C=O,benzaldehyde,benzaldehyde
+5281168,98.14,CCC/C=C/C=O,(E)-hex-2-enal,trans-2-hexenal
+887,32.042,CO,methanol,methanol
+702,46.07,CCO,ethanol,ethanol
+1031,60.10,CCCO,propan-1-ol,1-propanol
+263,74.12,CCCCO,butan-1-ol,1-butanol
+6276,88.15,CCCCCO,pentan-1-ol,1-pentanol
+8103,102.17,CCCCCCO,hexan-1-ol,1-hexanol
+8129,116.20,CCCCCCCO,heptan-1-ol,1-heptanol
+957,130.23,CCCCCCCCO,octan-1-ol,1-octanol
+8914,144.25,CCCCCCCCCO,nonan-1-ol,1-nonanol
+8174,158.28,CCCCCCCCCCO,decan-1-ol,1-decanol
+8184,172.31,CCCCCCCCCCCO,undecan-1-ol,1-undecanol
+637566,154.25,CC(=CCC/C(=C/CO)/C)C,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",geraniol
+7966,100.16,C1CCC(CC1)O,cyclohexanol,cyclohexanol
+12297,102.17,CCCCC(C)O,hexan-2-ol,2-hexanol
+5281167,100.16,CC/C=C\CCO,(Z)-hex-3-en-1-ol,cis-3-hexen-1-ol
+3776,60.10,CC(C)O,propan-2-ol,isopropanol
+6568,74.12,CCC(C)O,butan-2-ol,2-butanol
+22386,88.15,CCCC(C)O,pentan-2-ol,2-pentanol
+10976,116.20,CCCCCC(C)O,heptan-2-ol,2-heptanol
+20083,130.23,CCCCCCC(C)O,octan-2-ol,2-octanol
+12367,144.25,CCCCCCCC(C)O,nonan-2-ol,2-nonanol
+12178,102.17,CCCC(CC)O,hexan-3-ol,3-hexanol
+244,108.14,C1=CC=C(C=C1)CO,phenylmethanol,benzyl alcohol
+16666,156.26,C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C,"(1R,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",l-menthol
+7438,152.23,CC1=CCC(CC1O)C(=C)C,2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-ol,carveol
+284,46.025,C(=O)O,formic acid,formic acid
+176,60.05,CC(=O)O,acetic acid,acetic acid
+1032,74.08,CCC(=O)O,propanoic acid,propionic acid
+264,88.11,CCCC(=O)O,butanoic acid,butyric acid
+7991,102.13,CCCCC(=O)O,pentanoic acid,valeric acid
+8892,116.16,CCCCCC(=O)O,hexanoic acid,hexanoic acid
+8094,130.18,CCCCCCC(=O)O,heptanoic acid,heptanoic acid
+379,144.21,CCCCCCCC(=O)O,octanoic acid,octanoic acid
+8158,158.24,CCCCCCCCC(=O)O,nonanoic acid,nonanoic acid
+2969,172.26,CCCCCCCCCC(=O)O,decanoic acid,decanoic acid
+8180,186.29,CCCCCCCCCCC(=O)O,undecanoic acid,undecanoic acid
+10430,102.13,CC(C)CC(=O)O,3-methylbutanoic acid,isovaleric acid
+243,122.12,C1=CC=C(C=C1)C(=O)O,benzoic acid,benzoic acid
+999,136.15,C1=CC=C(C=C1)CC(=O)O,2-phenylacetic acid,phenylacetic acid
+6590,88.11,CC(C)C(=O)O,2-methylpropanoic acid,isobutyric acid
+8314,102.13,CCC(C)C(=O)O,2-methylbutanoic acid,2-methylbutanoic acid
+444539,148.16,C1=CC=C(C=C1)/C=C/C(=O)O,(E)-3-phenylprop-2-enoic acid,cinnamic acid
+637090,86.09,C/C=C/C(=O)O,(E)-but-2-enoic acid,crotonic acid
+297,16.043,C,methane,(11c)methane
+6324,30.07,CC,ethane,ethane
+6334,44.10,CCC,propane,propane
+7843,58.12,CCCC,butane,butane
+8003,72.15,CCCCC,pentane,pentane
+8058,86.18,CCCCCC,hexane,hexane
+8900,100.20,CCCCCCC,heptane,heptane
+356,114.23,CCCCCCCC,octane,octane
+8141,128.25,CCCCCCCCC,nonane,nonane
+15600,142.28,CCCCCCCCCC,decane,decane
+14257,156.31,CCCCCCCCCCC,undecane,undecane
+6360,58.12,CC(C)C,2-methylpropane,isobutane
+6556,72.15,CCC(C)C,2-methylbutane,isopentane
+10041,72.15,CC(C)(C)C,"2,2-dimethylpropane",neopentane
+11507,100.20,CCCC(C)CC,3-methylhexane,3-methylhexane
+11233,114.23,CCCC(C)(C)CC,"3,3-dimethylhexane","3,3-dimethylhexane"
+88038,142.28,CCC(CC)C(CC)CC,"3,4-diethylhexane","3,4-diethylhexane"
+7288,86.13,CCC(=O)CC,pentan-3-one,3-pentanone
+16724,150.22,CC1=CC[C@@H](CC1=O)C(=C)C,(5S)-2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-one,2244-16-8
+7895,86.13,CCCC(=O)C,pentan-2-one,2-pentanone
+439570,150.22,CC1=CC[C@H](CC1=O)C(=C)C,(5R)-2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-one,(-)-carvone
+11509,100.16,CCCC(=O)CC,hexan-3-one,3-hexanone
+6986,154.25,CC1CCC(C(=O)C1)C(C)C,5-methyl-2-propan-2-ylcyclohexan-1-one,10458-14-7
+8892,116.16,CCCCCC(=O)O,hexanoic acid,hexanoic acid
+31246,114.19,CCCC(=O)CCC,heptan-4-one,4-heptanone
+2537,152.23,CC1(C2CCC1(C(=O)C2)C)C,"1,7,7-trimethylbicyclo[2.2.1]heptan-2-one",camphor
+996,94.11,C1=CC=C(C=C1)O,phenol,phenol
+11583,100.16,CCCCC(=O)C,hexan-2-one,2-hexanone
+444294,152.23,C[C@]12CC[C@H](C1(C)C)CC2=O,"(1S,4S)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one",(-)-camphor
+335,108.14,CC1=CC=CC=C1O,2-methylphenol,o-cresol
+7802,114.19,CCCCC(=O)CC,heptan-3-one,3-heptanone
+1549018,164.24,CC/C=C\CC1=C(CCC1=O)C,3-methyl-2-[(Z)-pent-2-enyl]cyclopent-2-en-1-one,cis-jasmone
+342,108.14,CC1=CC(=CC=C1)O,3-methylphenol,m-cresol
+11516,128.21,CCCCC(=O)CCC,octan-4-one,4-octanone
+6987,152.23,CC1=CC(=O)C(CC1)C(C)C,3-methyl-6-propan-2-ylcyclohex-2-en-1-one,piperitone
+2879,108.14,CC1=CC=C(C=C1)O,4-methylphenol,p-cresol
+10405,142.24,CCCCC(=O)CCCC,nonan-5-one,5-nonanone
+442495,152.23,C[C@@H]1CCC(=C(C)C)C(=O)C1,(5R)-5-methyl-2-propan-2-ylidenecyclohexan-1-one,(+)-pulegone
+6997,122.16,CCC1=CC=CC=C1O,2-ethylphenol,2-ethylphenol
+8051,114.19,CCCCCC(=O)C,heptan-2-one,2-heptanone
+62378,166.26,CCCCCC1=C(CCC1=O)C,3-methyl-2-pentylcyclopent-2-en-1-one,dihydrojasmone
+12101,122.16,CCC1=CC(=CC=C1)O,3-ethylphenol,3-ethylphenol
+246728,128.21,CCCCCC(=O)CC,octan-3-one,3-octanone
+7967,98.14,C1CCC(=O)CC1,cyclohexanone,cyclohexanone
+31242,122.16,CCC1=CC=C(C=C1)O,4-ethylphenol,4-ethylphenol
+8093,128.21,CCCCCCC(=O)C,octan-2-one,octan-2-one
+12338,88.15,CCCCOC,1-methoxybutane,1-methoxybutane
+460,124.14,COC1=CC=CC=C1O,2-methoxyphenol,guaiacol
+12203,156.26,CCCCCCC(=O)CCC,decan-4-one,4-decanone
+8114,102.17,CCCOCCC,1-propoxypropane,dipropyl ether
+7144,138.16,CC1=CC(=C(C=C1)O)OC,2-methoxy-4-methylphenol,2-methoxy-4-methylphenol
+13187,142.24,CCCCCCCC(=O)C,nonan-2-one,2-nonanone
+2758,154.25,CC1(C2CCC(O1)(CC2)C)C,"1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane",eucalyptol
+3314,164.20,COC1=C(C=CC(=C1)CC=C)O,2-methoxy-4-prop-2-enylphenol,eugenol
+13576,156.26,CCCCCCCC(=O)CC,decan-3-one,3-decanone
+241,78.11,C1=CC=CC=C1,benzene,benzene
+7519,108.14,COC1=CC=CC=C1,anisole,anisole
+84467,170.29,CCCCCCCC(=O)CCC,undecan-4-one,4-undecanone
+1140,92.14,CC1=CC=CC=C1,toluene,toluene
+7674,122.16,CCOC1=CC=CC=C1,ethoxybenzene,ethoxybenzene
+7410,120.15,CC(=O)C1=CC=CC=C1,1-phenylethanone,acetophenone
+82227,136.23,CC1=CC[C@@H]2C[C@H]1C2(C)C,"(1R,5R)-2,6,6-trimethylbicyclo[3.1.1]hept-2-ene",(+)-alpha-pinene
+62539,114.14,CCC(=O)C(=O)CC,"hexane-3,4-dione","3,4-hexanedione"
+637759,146.19,CC(=O)/C=C/C1=CC=CC=C1,(E)-4-phenylbut-3-en-2-one,benzylideneacetone
+6616,136.23,CC1(C2CCC(C2)C1=C)C,"2,2-dimethyl-3-methylidenebicyclo[2.2.1]heptane",camphene
+19707,114.14,CCCC(=O)C(=O)C,"hexane-2,3-dione","2,3-hexanedione"
+5282108,192.30,CC1=CCCC(C1/C=C/C(=O)C)(C)C,"(E)-4-(2,6,6-trimethylcyclohex-2-en-1-yl)but-3-en-2-one",alpha-ionone
+7462,136.23,CC1=CC=C(CC1)C(C)C,"1-methyl-4-propan-2-ylcyclohexa-1,3-diene",alpha-terpinene

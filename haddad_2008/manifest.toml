@@ -9,6 +9,7 @@ authors = "R Haddad, R Khan, YK Takahashi, K Mori, D Harel, N Sobel"
 
 [parsed]
 "dragon-weights.csv" = "Weights and names for the 32 Dragon features given in the supplement"
+"cas.txt" = "Molecules listed in Supplemental Tables 1 and 3"
 
 [computed]
 "dragon6-symbols.csv" = "Equivalent features symbols in version 6 of Dragon"
@@ -16,6 +17,7 @@ authors = "R Haddad, R Khan, YK Takahashi, K Mori, D Harel, N Sobel"
 
 [processed]
 "main.ipynb" = "Processing workflow from parsed to processed data"
+"molecules.csv" = "Molecules listed in the supplement"
 "features_weighted.csv" = "The 32 Dragon 6 feature values, pre-weighted for distance metric computation"
 
 [code]
