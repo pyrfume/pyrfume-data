@@ -1,0 +1,315 @@
+CAS	Name	I_max	C	D
+37609-25-9	(5Z)-cyclohexadec-5-en-1-one	14.5	-2.48	0.27
+470-82-6	1,8-cineol	58.98	1.41	0.86
+112-45-8	10-undecenal	60.03	0.29	0.75
+3391-86-4	1-octen-3-ol	41.28	0.93	0.62
+2442-10-6	1-octen-3-yl acetate	54.08	1.66	0.87
+29895-73-6	2-(phenylmethyl)-1,3-dioxan-5-ol	40.75	-1.85	0.55
+140-88-5	2,6-nonadienal	48.08	0.42	0.85
+28069-72-9	2,6-nonadienol	47.41	-0.27	0.6
+110-41-8	2-methyl undecanal	48.3	0.67	0.53
+3452-97-9	3,5,5-trimethyl-1-hexanol	41.11	1.76	0.38
+122-97-4	3-phenylpropyl alcohol	41.32	0.02	0.38
+534-15-6	acetaldehyde dimethyl acetal	66.44	3.02	0.92
+513-86-0	acetoin	49.69	0.9	0.76
+98-86-2	acetophenone	67.67	0.97	0.68
+80449-58-7	acetyl cedrene	37.09	-0.64	0.61
+93-28-7	acetyl eugenol	18.31	-0.82	0.43
+93-29-8	acetyl isoeugenol	29.42	-2.35	0.54
+77-83-8	aldehyde c-16 strawberry	37.65	0.23	0.48
+79-78-7	allyl alpha-ionone	30.67	-0.57	0.26
+124899-75-8	allyl amyl glycolate	59.5	0.15	0.6
+2705-87-5	allyl cyclohexane propionate	45.18	0.96	0.49
+68901-15-5	allyl cyclohexyl glycolate	36.2	-1.08	0.4
+142-19-8	allyl heptanoate	40.73	0.69	0.69
+123-68-2	allyl hexanoate	61.79	1.6	0.8
+7493-74-5	allyl phenoxyacetate	24.82	-0.02	0.25
+43052-87-5	alpha-damascone	49.33	0.35	0.54
+127-41-3	alpha-ionone	37.15	1.31	0.19
+7785-26-4	alpha-pinene	47.36	2.08	0.79
+99-86-5	alpha-terpinene	56.48	1.5	0.77
+98-55-5	alpha-terpineol	34.59	0.83	0.48
+139504-68-0	amber core	6.93	0.05	0.37
+3738-00-9	ambrotech	23.86	-0.67	0.11
+6790-58-5	ambroxan	29.65	-0.91	0.47
+122-40-7	amyl cinnamaldehyde	30.79	-1.86	0.34
+2050-08-0	amyl salicylate	15.2	-1.2	0.11
+105-13-5	anis alcohol	24.23	-1.15	0.37
+123-11-5	anis aldehyde	39.89	0.67	0.4
+104-21-2	anisyl acetate	19.56	-0.73	0.45
+104-20-1	anisyl acetone	29.82	-1.19	0.45
+67845-30-1	bark carbaldehyde	41.75	-0.43	0.61
+100-52-7	benzaldehyde	62.02	1.23	0.69
+140-11-4	benzyl acetate	35.31	0.74	0.43
+100-51-6	benzyl alcohol	30.28	1.49	0.33
+120-51-4	benzyl benzoate	13.25	-2.37	0.16
+104-57-4	benzyl formate	31.57	1.67	0.55
+103-28-6	benzyl isobutyrate	29.67	1.31	0.37
+103-37-7	benzyl n-butyrate	39.93	0.53	0.33
+122-63-4	benzyl propionate	34.24	0.86	0.28
+118-58-1	benzyl salicylate	7.2	-2.78	0.6
+87-44-5	beta-caryophyllene	20.21	1.71	0.1
+35044-68-9	beta-damascone	47.67	-0.15	0.49
+14901-07-6	beta-ionone	53.35	-0.09	0.68
+23267-57-4	beta-ionone epoxide	9.25	-0.06	0.11
+127-91-3	beta-pinene	44.33	2.08	0.6
+58567-11-6	boisambrene forte	8.9	-0.51	0.67
+507-70-0	borneol	43.67	-0.07	0.52
+123-86-4	butyl acetate	81.23	2.54	0.89
+109-21-7	butyl butyrate	60.49	2.29	0.67
+28940-11-6	calone	44.56	-0.65	0.46
+79-92-5	camphene	41.88	2.38	0.36
+464-49-3	camphor	51.04	1.47	0.51
+5462-06-6	canthoxal	35.03	-0.57	0.23
+33704-61-9	cashmerane	35.04	0.95	0.63
+77-53-2	cedrol	6.73	-0.8	0.14
+77-54-3	cedryl acetate	29.89	-0.94	0.29
+67874-81-1	cedryl methyl ether	18.8	0.25	0.41
+13171-00-1	celestolide	14.74	-2.03	0.38
+4407-36-7	cinnamic alcohol	34.87	-1.61	0.36
+104-55-2	cinnamic aldehyde	40.44	0.62	0.07
+103-54-8	cinnamyl acetate	41.42	-1.39	0.62
+928-96-1	cis-3-hexenol	57.45	0.85	0.59
+3681-71-8	cis-3-hexenyl acetate	71.83	1.35	0.84
+25152-85-6	cis-3-hexenyl benzoate	34.77	-1.53	0.52
+16491-36-4	cis-3-hexenyl butyrate	50.27	0.97	0.71
+31501-11-8	cis-3-hexenyl hexanoate	49.56	0.71	0.58
+41519-23-7	cis-3-hexenyl isobutyrate	56.99	1.89	0.43
+65405-77-8	cis-3-hexenyl salicylate	23.36	-1.17	0.13
+67883-79-8	cis-3-hexenyl tiglate	44.85	0.01	0.63
+21662-09-9	cis-4-decenal	60.69	0.42	0.77
+6728-31-0	cis-4-heptenal	79.63	-0.06	0.7
+35854-86-5	cis-6-nonen-1-ol	26.97	-0.65	0.47
+2277-19-2	cis-6-nonenal	59.93	-0.19	0.87
+488-10-8	cis-jasmone	40.15	-0.35	0.28
+5392-40-5	citral	44.11	0.66	0.66
+106-23-0	citronellal	52.79	0.58	0.52
+26489-01-0	citronellol	32.29	0.72	0.53
+150-84-5	citronellyl acetate	39.95	0.08	0.39
+105-85-1	citronellyl formate	54.74	0.97	0.65
+97-89-2	citronellyl isobutyrate	24.9	0.65	0.44
+91-64-5	coumarin	26.79	-0.68	0.77
+122-03-2	cumin aldehyde	49.53	1.29	0.47
+103-95-7	cyclamen aldehyde	29.71	-0.7	0.44
+25485-88-5	cyclohexyl salicylate	10.07	-1.09	0.51
+80-71-7	cyclotene	46.43	-0.59	0.32
+23726-93-4	damascenone	55.82	-1.5	0.44
+112-31-2	decanal	76.62	-0.46	0.74
+112-30-1	decanol	14.99	-0.54	0.5
+34131-98-1	decatone	22.65	-0.5	0.14
+13019-22-2	decenol	19.69	-0.98	0.37
+57378-68-4	delta-damascone	50.03	0.6	0.72
+705-86-2	delta-decalactone	40.11	-0.91	0.1
+713-95-1	delta-dodecalactone	27.46	-1.83	0.35
+3301-94-8	delta-nonalactone	35.68	0.01	0.19
+710-04-3	delta-undecalactone	32.98	-1.23	0.13
+108-59-8	diethyl malonate	35.24	1.3	0.36
+17283-81-7	dihydro beta-ionone	29.83	0.64	0.45
+2785-87-7	dihydro eugenol	34.34	1.7	0.17
+1128-08-1	dihydro jasmone	39.88	-0.06	0.44
+18479-58-8	dihydro myrcenol	45.47	0.88	0.83
+58985-02-7	dihydro terpineol	44.64	1.54	0.46
+151-05-3	dimethy benzyl carbinyl acetate	34.97	1.21	0.45
+100-86-7	dimethyl benzyl carbinol	19.81	1.34	0.39
+10094-34-5	dimethyl benzyl carbinyl butyrate	32.43	0.47	0.3
+2550-11-0	dimethyl octenone	42.75	1.58	0.49
+103-05-9	dimethyl phenyl ethyl carbinol	35.47	0.31	0.47
+13254-34-7	dimetol	42.89	0.76	0.58
+101-84-8	diphenyl oxide	40.0	0.96	0.42
+112-54-9	dodecanal	50.27	0.94	0.29
+56973-85-4	dynascone	54.96	-0.06	0.97
+7452-79-1	ethyl 2-methyl butyrate	77.55	0.63	1.21
+141-78-6	ethyl acetate	35.06	2.95	0.35
+141-97-9	ethyl acetoacetate	44.94	1.36	0.45
+93-89-0	ethyl benzoate	49.9	0.16	0.51
+105-54-4	ethyl butyrate	81.16	2.62	1.2
+4192-77-2	ethyl cinnamate	26.9	-1.52	0.56
+110-38-3	ethyl decanoate	27.8	0.8	0.48
+106-30-9	ethyl heptanoate	50.58	1.7	0.7
+123-66-0	ethyl hexanoate	71.87	2.67	0.88
+97-62-1	ethyl isobutyrate	71.42	1.66	1.03
+108-64-5	ethyl isovalerate	65.79	0.66	1.06
+10339-55-6	ethyl linalool	45.38	0.61	0.69
+4940-11-8	ethyl maltol	49.29	-1.59	0.61
+123-29-5	ethyl nonanoate	33.54	1.48	0.18
+106-32-1	ethyl octanoate	45.22	1.27	0.56
+121-39-1	ethyl phenyl glycidate	30.43	-0.65	0.09
+105-37-3	ethyl propionate	73.76	3.26	0.72
+35044-59-8	ethyl safranate	51.12	1.22	0.58
+118-61-6	ethyl salicylate	45.06	-0.58	0.48
+121-32-4	ethyl vanillin	43.45	-1.06	0.45
+97-53-0	eugenol	34.29	-0.76	0.59
+1632-73-1	fenchyl alcohol	52.15	1.04	0.42
+67634-25-7	floralate	40.01	0.56	0.49
+68480-15-9	floralol	29.91	1.34	0.43
+67634-14-4	floralozone	42.47	0.33	0.36
+67801-64-3	floramat	26.92	0.37	0.55
+5182-36-5	floropal	41.51	0.22	0.48
+63500-71-0	florosa	35.09	0.73	0.53
+4621-04-9	folrosia	49.73	0.98	0.46
+6413-10-1	fructone	42.03	1.05	0.63
+80623-07-0	fruitate	44.72	1.18	0.69
+4166-20-5	furaneol	48.78	-0.94	0.56
+1222-05-5	galaxolide	16.67	-1.14	0.56
+706-14-9	gamma-decalactone	25.69	-0.83	0.24
+2305-05-7	gamma-dodecalactone	28.3	-1.18	0.14
+695-06-7	gamma-hexalactone	51.21	1.71	0.53
+104-61-0	gamma-nonalactone	34.6	-0.09	0.45
+104-50-7	gamma-octanoic lactone	40.87	1.09	0.27
+99-85-4	gamma-terpinene	43.25	1.18	0.55
+104-67-6	gamma-undecalactone	33.76	-0.52	0.77
+108-29-2	gamma-valerolactone	30.71	1.63	0.38
+106-24-1	geraniol	29.88	0.17	0.35
+105-87-3	geranyl acetate	25.52	-0.43	0.35
+106-29-6	geranyl butyrate	38.1	-0.61	0.26
+68133-79-9	geranyl cyclopentanone	29.58	-1.96	0.45
+68901-32-6	glycolierral	19.89	-0.16	0.44
+3720-16-9	gravenone	36.42	0.3	0.23
+134-28-1	guaiyl acetate	14.76	-0.9	0.35
+1205-17-0	helional	23.06	-1.91	0.47
+120-57-0	heliotropine	29.56	0.23	0.41
+55418-52-5	heliotropyl acetone	8.37	-1.98	0.47
+141773-73-1	helvetolide	7.05	-0.75	0.22
+111-71-7	heptanal	60.55	1.89	0.82
+111-70-6	heptanol	30.5	0.6	0.33
+67583-77-1	herbavert	23.26	3.4	0.64
+66-25-1	hexanal	80.92	1.16	0.88
+111-27-3	hexanol	45.98	1.66	0.73
+142-92-7	hexyl acetate	48.92	1.66	0.84
+2639-63-6	hexyl butyrate	45.58	1.24	0.56
+6259-76-3	hexyl salicylate	7.79	-1.72	0.68
+107-75-5	hydroxy citronellal	23.94	-0.42	0.32
+107-74-4	hydroxy citronellol	8.53	-1.61	0.14
+18096-62-3	indoflor	25.86	-0.19	0.08
+120-72-9	indole	43.59	-0.19	0.54
+2983-37-1	irotyl	38.22	1.65	0.5
+54464-57-2	ISO E super	29.16	-0.18	0.43
+123-92-2	isoamyl acetate	84.97	3.07	0.9
+123-51-3	isoamyl alcohol	48.56	1.42	0.78
+87-20-7	isoamyl salicylate	26.58	-0.2	0.32
+124-76-5	isoborneol	44.1	-0.78	0.61
+125-12-2	isobornyl acetate	30.17	0.53	0.51
+110-19-0	isobutyl acetate	71.78	2.89	0.75
+1335-66-6	isocyclocitral	59.65	1.38	0.66
+39872-57-6	isodamascone	33.57	1.02	0.44
+97-54-1	isoeugenol	39.34	-0.54	0.31
+23787-90-8	isolongifolanone	31.42	-0.34	0.51
+491-07-6	isomenthone	45.96	1.27	0.68
+40379-24-6	isononyl acetate	30.08	2.05	0.38
+61699-38-5	jasmacyclat	38.94	0.63	0.33
+1322-17-4	Jasmonyl	41.77	-0.6	0.37
+117933-89-8	karanal	48.88	-1.32	0.5
+36306-87-3	kephalis	26.06	-0.21	0.39
+112-53-8	lauryl alcohol	10.53	-1.15	0.7
+6485-40-1	l-carvone	48.78	1.31	0.69
+67633-96-9	liffarome	54.43	0.87	0.57
+80-54-6	lilial	35.47	-0.67	0.26
+73018-51-6	lime oxide	61.96	1.82	0.65
+7392-19-0	limetol	43.19	2.39	0.96
+138-86-3	limonene	52.62	1.71	0.5
+78-70-6	linalool	50.63	0.08	0.65
+60047-17-8	linalool oxide	40.96	1.51	0.6
+115-95-7	linalyl acetate	43.52	1.79	0.35
+115-99-1	linalyl formate	39.82	0.3	0.62
+78-35-3	linalyl isobutyrate	34.29	1.02	0.33
+2216-51-5	l-menthol	33.06	0.66	0.46
+14073-97-3	l-menthone	46.69	1.27	0.6
+31906-04-4	lyral	25.22	-2.18	0.09
+118-71-8	maltol	37.51	-1.32	0.41
+20407-84-5	mandarine aldehyde	47.26	-1.39	0.38
+39255-32-8	manzanate	70.38	1.26	1.22
+106-72-9	melonal	45.92	-0.64	0.95
+67707-75-9	melusat	39.7	1.87	0.59
+58985-18-5	menthanyl acetate	48.48	1.48	0.75
+121-98-2	methyl anisate	17.84	0.64	0.12
+134-20-3	methyl anthranilate	30.49	1.36	0.59
+93-58-3	methyl benzoate	30.42	1.56	0.48
+93-08-3	methyl beta-naphthyl ketone	37.39	-1.23	0.73
+623-42-7	methyl butyrate	61.9	1.27	0.89
+103-26-4	methyl cinnamate	39.82	0.01	0.44
+24851-98-7	methyl dihydrojasmonate	15.83	-0.7	0.37
+127-51-5	methyl ionone-gamma	45.02	0.26	0.63
+93-16-3	methyl isoeugenol	37.97	-1.75	0.44
+112-12-9	methyl nonyl ketone	40.05	0.29	0.38
+111-80-8	methyl octine carbonate	51.9	-0.83	0.61
+119-36-8	methyl salicylate	54.43	1.71	0.73
+82356-51-2	muscenone delta	12.56	-0.72	0.73
+541-91-3	muscone	2.9	-1.71	0.37
+37677-14-8	myrac aldehyde	34.47	-0.18	0.27
+123-35-3	myrcene	49.14	1.05	0.8
+1118-39-4	myrcenyl acetate	34.34	1.46	0.49
+106-25-2	nerol	29.66	0.68	0.52
+7212-44-4	nerolidol	39.68	-0.88	0.49
+93-18-5	nerolin bromelia	43.31	-0.1	0.55
+93-04-9	nerolin yara yara	34.08	-0.1	0.31
+141-12-8	neryl acetate	29.85	-0.08	0.4
+124-19-6	nonanal	52.35	1.35	0.82
+143-08-8	nonanol	29.81	1.18	0.34
+4674-50-4	nootkatone	27.13	-2.24	0.36
+128-51-8	nopyl acetate	24.1	1.3	0.38
+70788-30-6	norlimbanol	23.3	-0.46	0.75
+13877-91-3	ocimene	46.66	2.22	0.57
+4430-31-3	octahydrocoumarin	29.65	-0.54	0.49
+124-13-0	octanal	78.17	1.33	1.13
+111-87-5	octanol	40.11	0.6	0.51
+112-14-1	octyl acetate	42.69	1.77	0.52
+88-41-5	o-tert-butylcyclohexyl acetate	30.91	1.21	0.44
+106-44-5	p-cresol	51.68	-0.19	0.63
+140-39-6	p-cresyl acetate	35.62	0.95	0.68
+104-93-8	p-cresyl methyl ether	55.95	2.3	0.84
+99-87-6	p-cymene	53.33	1.61	0.51
+106-02-5	pentalide	6.29	-1.36	0.18
+90397-38-9	peranat	31.66	1.65	0.29
+2111-75-3	perillaldehyde	56.27	0.93	0.56
+103-60-6	phenoxy ethyl isobutyrate	28.83	-0.47	0.21
+3558-60-9	phenyl ethyl methyl ether	50.53	1.26	0.79
+55066-48-3	phenyl hexanol	28.72	-0.72	0.7
+101-48-4	phenylacetaldehyde dimethyl acetal	41.82	0.26	0.58
+103-45-7	phenylethyl acetate	38.38	1.35	0.57
+60-12-8	phenylethyl alcohol	20.15	0.05	0.58
+103-48-0	phenylethyl isobutyrate	37.51	1.1	0.45
+122-70-3	phenylethyl propionate	34.3	0.87	0.32
+99-82-1	p-menthane	28.99	3.34	0.5
+2511-00-4	poirenate	38.02	-0.38	0.4
+2109-22-0	pollenal II	60.08	1.17	0.63
+1191-16-8	prenyl acetate	72.19	1.94	0.7
+105-66-8	propyl butyrate	58.95	2.57	0.82
+106-36-5	propyl propionate	53.79	2.74	0.66
+98-52-2	p-tert-butylcyclohexanol	11.41	0.46	0.7
+32210-23-4	p-tert-butylcyclohexyl acetate	39.71	1.3	0.63
+104-87-0	p-tolyl aldehyde	56.18	1.4	0.79
+5471-51-2	raspberry ketone	21.91	-0.52	0.35
+82461-14-1	rhubafuran	41.03	0.84	0.51
+16409-43-1	rose oxide	50.32	1.26	0.69
+90-17-5	rosephenone	7.79	-2.29	0.3
+60335-71-9	rosyrane	43.92	1.12	0.66
+116-26-7	safranal	48.97	0.29	0.71
+28219-60-5	sandalmysore core	18.12	-0.19	0.31
+83-34-1	skatole	29.64	-2.26	0.35
+93-92-5	styrallyl acetate	38.9	1.86	0.45
+120-45-6	styrallyl propionate	40.98	1.37	0.41
+6658-48-6	suzaral	26.79	-0.96	0.37
+20126-76-5	terpinene-4-ol	39.89	1.87	0.44
+8000-41-7	terpineol	51.35	0.66	0.58
+586-62-9	terpinolene	41.83	1.08	0.68
+80-26-2	terpinyl acetate	40.69	0.09	0.5
+1247790-47-1	terpirosa	36.61	1.48	0.66
+1333-49-9	tetrahydrogeraniol	35.28	-0.21	0.32
+78-69-3	tetrahydrolinalool	44.84	0.08	0.54
+21145-77-7	tonalide	13.89	-0.66	0.58
+3913-81-3	trans-2-decenal	20.82	1.39	0.76
+928-95-0	trans-2-hexen-1-ol	51.49	1.74	0.68
+6728-26-3	trans-2-hexenal	70.22	1.3	0.7
+2497-18-9	trans-2-hexenyl acetate	48.31	1.44	0.44
+65405-70-1	trans-4-decenal	55.22	0.11	0.8
+5413-60-5	tricyclodecenyl acetate	41.15	0.71	0.54
+113889-23-9	tricyclodecenyl butyrate	24.15	-0.51	0.11
+67634-20-2	tricyclodecenyl isobutyrate	30.73	0.21	0.59
+17511-60-3	tricyclodecenyl propionate	31.74	0.06	0.61
+68039-49-6	triplal	73.42	1.4	0.88
+80480-24-6	troenan	25.54	1.71	0.36
+112-44-7	undecanal	35.68	0.41	0.19
+81782-77-6	undecavertol	61.49	0.41	0.72
+4630-07-3	valencene	27.03	0.96	0.28
+121-33-5	vanillin	39.02	-1.81	0.0
+87731-18-8	violiff	43.25	0.61	0.44
