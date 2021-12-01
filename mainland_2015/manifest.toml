@@ -3,11 +3,17 @@
 doi = "https://doi.org/10.1038/sdata.2015.2"
 title = "Human olfactory receptor responses to odorants"
 authors = "Joel D Mainland, Yun R Li, Ting Zhou, Wen Ling L Liu, Hiroaki Matsunami"
+extra = "This experiment uses some substances (mixtures) that do not resolve to a PubChem Compounds ID number. Consequently the relevant columns for joins should be OR and Odorant, which give an unique integer identifier specific to these experiments"
 
 [raw]
-No Raw Data available
+Receptors.tsv = 'List of receptors tested'
+Odors.tsv = 'List of odorants used'
+PrimaryScreen.tsv = 'Results of primary odorant/receptor screen'
+sdata20152-s2.xls = 'Supplementary data file from paper containing results'
 
 [processed]
 main.ipynb = "Processing workflow"
 molecules.csv = "Molecules used"
-behavior.csv = "Compiled odor thresholds and threshold algorithm parameters"
+receptors.csv = "Receptors used"
+behavior_1.csv = "Results from a screening experiment for active odorant/OR combinations"
+behavior_2.csv = "Computed activation thresholds and threshold algorithm parameters from the main experiment"
