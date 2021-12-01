@@ -1,67 +1,67 @@
-Number,Odorant,Log(air/mucus partition coefficient),Chemical Abstracts Service (CAS) registry number
-1,Vanillin,−7.191,121-33-5
-2,Methyl pyridone,−5.9962,694-85-9
-3,Methyl isonicotinate,−5.7353,2459-09-8
-4,Octanoic acid,−5.7213,124-07-2
-5,Nonanoic acid,−5.693,112-05-0
-6,Heptanoic acid,−5.4656,111-14-8
-7,Hexanoic acid,−5.0868,142-62-1
-8,P-anisaldehyde,−4.9669,123-11-5
-9,Menthol,−4.7082,89-78-1
-10,Perillyl alcohol,−4.6035,536-59-4
-11,Ethylacetoacetate,−4.3132,141-97-9
-12,Beta-ionone,−4.2567,79-77-6
-13,Ethylbenzaldehyde,−4.19,4748-78-1
-14,Hydrocinnamaldehyde,−4.1736,104-53-0
-15,Heptanol,−4.1292,111-70-6
-16,Fenchone,−4.1198,7787-20-4
-17,Pyrazine,−3.927,290-37-9
-18,Hexanol,−3.8021,111-27-3
-19,Trimethylpyrazine,−3.7991,14667-55-1
-20,Acetophenone,−3.7373,98-86-2
-21,Methyl benzoate,−3.5808,93-58-3
-22,D-carvone,−3.5713,2244-16-8
-23,Decanone,−3.5397,693-54-9
-24,Propanol,−3.5226,71-23-8
-25,Butanol,−3.4474,71-36-3
-26,Cyclohex anone,−3.4382,108-94-1
-27,Cineole-1-8,−3.4368,470-82-6
-28,t-Butyl alcohol,−3.4357,75-65-0
-29,Methyl nonanate,−3.3604,1731-84-6
-30,Camphor,−3.3451,76-22-2
-31,Cineole-1-4,−3.3121,470-67-7
-32,Benzaldehyde,−3.2654,100-52-7
-33,Cyclohexenone,−3.0122,930-68-7
-34,Octanone,−2.9731,111-13-7
-35,Methyloctanoate,−2.9464,111-11-5
-36,Cyclohexylacetate,−2.912,622-45-7
-37,Methylcyclohexane carboxylate,−2.912,4630-82-4
-38,Phenyl acetate,−2.8866,122-79-2
-39,Octanal,−2.7922,124-13-0
-40,Heptanone,−2.7761,110-43-0
-41,Heptaldehyde,−2.766,111-71-7
-42,Methyl heptanoate,−2.6752,106-73-0
-43,Methyl hexanoate,−2.6639,106-70-7
-44,Hexanone,−2.6601,591-78-6
-45,Hexanal,−2.5508,66-25-1
-46,Methyl valerate,−2.489,624-24-8
-47,Pentanone,−2.4702,107-87-9
-48,Amyl acetate,−2.4038,123-92-2
-49,Anisole,−2.4002,100-66-3
-50,Butyraldehyde,−2.3317,123-72-8
-51,Ethyl butyrate,−2.3218,105-54-4
-52,P-cymene,−2.2855,99-87-6
-53,Methyl butyrate,−2.2616,623-42-7
-54,Gamma terpinene,−2.2243,99-85-4
-55,Methyl propionate,−2.1519,554-12-1
-56,d-limonene,−2.1164,5989-27-5
-57,Toluene,−1.6498,108-88-3
-58,Alpha pinene,−1.3141,80-56-8
-59,Vinyl cyclohexane,−0.9878,695-12-5
-60,Alpha terpinene,−0.8582,99-86-5
-61,Isopropylcyclohexane,−0.8005,696-29-7
-62,Cyclohexane,−0.7389,110-82-7
-63,Octane,−0.4943,111-65-9
-64,Heptane,−0.3753,142-82-5
-65,Decane,−0.1829,124-18-5
-66,Hexane,0.0532,110-54-3
+Odorant,Log(air/mucus partition coefficient),Chemical Abstracts Service (CAS) registry number
+Vanillin,−7.191,121-33-5
+Methyl pyridone,−5.9962,694-85-9
+Methyl isonicotinate,−5.7353,2459-09-8
+Octanoic acid,−5.7213,124-07-2
+Nonanoic acid,−5.693,112-05-0
+Heptanoic acid,−5.4656,111-14-8
+Hexanoic acid,−5.0868,142-62-1
+P-anisaldehyde,−4.9669,123-11-5
+Menthol,−4.7082,89-78-1
+Perillyl alcohol,−4.6035,536-59-4
+Ethylacetoacetate,−4.3132,141-97-9
+Beta-ionone,−4.2567,79-77-6
+Ethylbenzaldehyde,−4.19,4748-78-1
+Hydrocinnamaldehyde,−4.1736,104-53-0
+Heptanol,−4.1292,111-70-6
+Fenchone,−4.1198,7787-20-4
+Pyrazine,−3.927,290-37-9
+Hexanol,−3.8021,111-27-3
+Trimethylpyrazine,−3.7991,14667-55-1
+Acetophenone,−3.7373,98-86-2
+Methyl benzoate,−3.5808,93-58-3
+D-carvone,−3.5713,2244-16-8
+Decanone,−3.5397,693-54-9
+Propanol,−3.5226,71-23-8
+Butanol,−3.4474,71-36-3
+Cyclohex anone,−3.4382,108-94-1
+Cineole-1-8,−3.4368,470-82-6
+t-Butyl alcohol,−3.4357,75-65-0
+Methyl nonanate,−3.3604,1731-84-6
+Camphor,−3.3451,76-22-2
+Cineole-1-4,−3.3121,470-67-7
+Benzaldehyde,−3.2654,100-52-7
+Cyclohexenone,−3.0122,930-68-7
+Octanone,−2.9731,111-13-7
+Methyloctanoate,−2.9464,111-11-5
+Cyclohexylacetate,−2.912,622-45-7
+Methylcyclohexane carboxylate,−2.912,4630-82-4
+Phenyl acetate,−2.8866,122-79-2
+Octanal,−2.7922,124-13-0
+Heptanone,−2.7761,110-43-0
+Heptaldehyde,−2.766,111-71-7
+Methyl heptanoate,−2.6752,106-73-0
+Methyl hexanoate,−2.6639,106-70-7
+Hexanone,−2.6601,591-78-6
+Hexanal,−2.5508,66-25-1
+Methyl valerate,−2.489,624-24-8
+Pentanone,−2.4702,107-87-9
+Amyl acetate,−2.4038,123-92-2
+Anisole,−2.4002,100-66-3
+Butyraldehyde,−2.3317,123-72-8
+Ethyl butyrate,−2.3218,105-54-4
+P-cymene,−2.2855,99-87-6
+Methyl butyrate,−2.2616,623-42-7
+Gamma terpinene,−2.2243,99-85-4
+Methyl propionate,−2.1519,554-12-1
+d-limonene,−2.1164,5989-27-5
+Toluene,−1.6498,108-88-3
+Alpha pinene,−1.3141,80-56-8
+Vinyl cyclohexane,−0.9878,695-12-5
+Alpha terpinene,−0.8582,99-86-5
+Isopropylcyclohexane,−0.8005,696-29-7
+Cyclohexane,−0.7389,110-82-7
+Octane,−0.4943,111-65-9
+Heptane,−0.3753,142-82-5
+Decane,−0.1829,124-18-5
+Hexane,0.0532,110-54-3

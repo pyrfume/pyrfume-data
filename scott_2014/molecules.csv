@@ -1,5 +1,6 @@
 CID,MolecularWeight,IsomericSMILES,IUPACName,name
 1183,152.15,COC1=C(C=CC(=C1)C=O)O,4-hydroxy-3-methoxybenzaldehyde,vanillin
+12755,109.13,CN1C=CC=CC1=O,1-methylpyridin-2-one,1-methyl-2-pyridone
 227085,137.14,COC(=O)C1=CC=NC=C1,methyl pyridine-4-carboxylate,methyl isonicotinate
 379,144.21,CCCCCCCC(=O)O,octanoic acid,octanoic acid
 8158,158.24,CCCCCCCCC(=O)O,nonanoic acid,nonanoic acid
@@ -8,6 +9,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 31244,136.15,COC1=CC=C(C=C1)C=O,4-methoxybenzaldehyde,4-methoxybenzaldehyde
 1254,156.26,CC1CCC(C(C1)O)C(C)C,5-methyl-2-propan-2-ylcyclohexan-1-ol,menthol
 10819,152.23,CC(=C)C1CCC(=CC1)CO,(4-prop-1-en-2-ylcyclohexen-1-yl)methanol,perillyl alcohol
+8868,130.14,CCOC(=O)CC(=O)C,ethyl 3-oxobutanoate,ethyl acetoacetate
 638014,192.30,CC1=C(C(CCC1)(C)C)/C=C/C(=O)C,"(E)-4-(2,6,6-trimethylcyclohexen-1-yl)but-3-en-2-one",beta-ionone
 123406,134.17,CCC1=CC=CC=C1C=O,2-ethylbenzaldehyde,2-ethylbenzaldehyde
 7707,134.17,C1=CC=C(C=C1)CCC=O,3-phenylpropanal,3-phenylpropanal
@@ -22,11 +24,17 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 13175,156.26,CCCCCC(=O)CCCC,decan-5-one,5-decanone
 1031,60.10,CCCO,propan-1-ol,1-propanol
 263,74.12,CCCCO,butan-1-ol,1-butanol
+7967,98.14,C1CCC(=O)CC1,cyclohexanone,cyclohexanone
+2758,154.25,CC1(C2CCC(O1)(CC2)C)C,"1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane",eucalyptol
 6386,74.12,CC(C)(C)O,2-methylpropan-2-ol,tert-butanol
+15606,172.26,CCCCCCCCC(=O)OC,methyl nonanoate,methyl nonanoate
 2537,152.23,CC1(C2CCC1(C(=O)C2)C)C,"1,7,7-trimethylbicyclo[2.2.1]heptan-2-one",camphor
+10106,154.25,CC(C)C12CCC(O1)(CC2)C,1-methyl-4-propan-2-yl-7-oxabicyclo[2.2.1]heptane,"1,4-cineole"
 240,106.12,C1=CC=C(C=C1)C=O,benzaldehyde,benzaldehyde
 13594,96.13,C1CC=CC(=O)C1,cyclohex-2-en-1-one,2-cyclohexen-1-one
 8093,128.21,CCCCCCC(=O)C,octan-2-one,2-octanone
+8091,158.24,CCCCCCCC(=O)OC,methyl octanoate,methyl octanoate
+12146,142.20,CC(=O)OC1CCCCC1,cyclohexyl acetate,cyclohexyl acetate
 20748,142.20,COC(=O)C1CCCCC1,methyl cyclohexanecarboxylate,methyl cyclohexanecarboxylate
 31229,136.15,CC(=O)OC1=CC=CC=C1,phenyl acetate,phenyl acetate
 454,128.21,CCCCCCCC=O,octanal,octanal
