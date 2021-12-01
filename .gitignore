@@ -1,3 +1,7 @@
+# Pipeline notebooks
+# These should be under version control as .py files via jupytext
+*/main.ipynb
+
 \#test.sh\#
 
 # Byte-compiled / optimized / DLL files
