@@ -1,0 +1,13 @@
+# Manifest for Scott et al, 2014 data
+[source]
+doi = "https://doi.org/10.1523/JNEUROSCI.3736-13.2014"
+title = "Tuning to Odor Solubility and Sorption Pattern in Olfactory Epithelial Responses"
+authors = "John W. Scott, Lisa Sherrill, Jianbo Jiang, and Kai Zhaor"
+
+[raw]
+no raw data
+
+[processed]
+main.ipynb = "Processing workflow"
+molecules.csv = "Molecules used"
+behavior.csv = "Odorants used in this study arranged in order of the log of the calculated air/mucus partition coefficient"
