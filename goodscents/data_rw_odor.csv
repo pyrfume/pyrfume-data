@@ -207,7 +207,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1002141,"['green','waxy','floral','herbal','vegetable','cucumber','fruity']","Green, waxy, floral, herbaceous, with a slight vegetative cucumber and unripe fruity nuance",1.0,,,,,,,,,"Mosciano, Gerard P&F 26, No. 2, 40",2001,
 1002151,"['floral','green','soapy','cedar','pine','woody']",floral green soapy cedar pine woody,100.0,,,,,,,,,,,
 1002152,"['floral','green','soapy','cedar','pine','woody']",floral green soapy cedar pine woody,100.0,,,,100.0,,,100.0,,"Luebke, William tgsc",1986,"Chem-Fleur, Inc."
-1002161,"['slightly','ethereal']",slightly ethereal,100.0,,,,,,,,,"Luebke, William tgsc",1987,"Fritzsche Dodge & Olcott, Inc."
+1002161,['ethereal'],slightly ethereal,100.0,,,,,,,,,"Luebke, William tgsc",1987,"Fritzsche Dodge & Olcott, Inc."
 1002171,"['green','phenolic','nasturtium','ethereal','medicinal','aldehydic','cherry','narcissus','metallic','fruity']",green phenolic nasturtium ethereal medicinal aldehydic cherry narcissus metallic fruity,10.0,dipropylene glycol,medium,10.0,,,1.0,100.0,,"Luebke, William tgsc",2017,"Bedoukian Research, Inc."
 1002181,"['caramellic','sweet','maple','fruity','almond','acorn','nutty']",sweet caramel maple fruity almond acorns nutty,100.0,,,,51.0,,,100.0,,"Luebke, William tgsc",1984,"Fritzsche Dodge & Olcott, Inc."
 1002191,"['green','leafy','hyacinth']",strong leafy green hyacinth,1.0,dipropylene glycol,high,1.0,32.0,,,100.0,,"Luebke, William tgsc",1985,Berje Inc.
@@ -357,7 +357,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1003762,"['green','oily','violet','lily','seedy','fruity','kiwi']",green oily violet lily seedy fruity kiwi,100.0,dipropylene glycol,,,31.0,,,100.0,,"Luebke, William tgsc",1995,Givaudan Corporation
 1003821,"['tonka','sweet','herbal','coumarinic','woody']",sweet herbal coumarin tonka woody,10.0,dipropylene glycol,medium,10.0,400.0,,,100.0,,"Luebke, William tgsc",1987,Takasago International Corp
 1003821,"['tonka','sweet','creamy','lactonic','coconut','coumarinic','milky','vanilla']","Sweet, creamy, lactonic, coconut, coumarin, with milky and creamy vanilla nuances",1.0,,,,,,,,,"Mosciano, Gerard P&F 26, No. 3, 80",2001,
-1003831,"['sweet','hay','tonka','new','mown','hay']",sweet hay tonka new mown hay,10.0,dipropylene glycol,medium,10.0,364.0,,,10.0,dipropylene glycol,,,
+1003831,"['new mown hay','sweet','hay','tonka']",sweet hay tonka new mown hay,10.0,dipropylene glycol,medium,10.0,364.0,,,10.0,dipropylene glycol,,,
 1003832,"['tonka','sweet','hay','hay new mown hay','coumarinic']",sweet hay tonka new mown hay,10.0,dipropylene glycol,medium,10.0,364.0,,,10.0,dipropylene glycol,"Luebke, William tgsc",1982,Givaudan Corporation
 1003851,"['phenolic','narcissus','animal','mimosa']",phenolic narcissus animal mimosa,0.1,dipropylene glycol,high,0.1,400.0,,,10.0,dipropylene glycol,"Luebke, William tgsc",1981,Berje Inc.
 1003881,"['vanilla','sweet','powdery']",sweet powdery vanilla,100.0,,,,,,,,,,,
@@ -369,7 +369,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1003932,"['naphthyl','narcissus','ylang','powdery','nutty']",naphthyl cresol ylang powdery nutty,1.0,dipropylene glycol,high,1.0,8.0,,,100.0,,"Luebke, William tgsc",1996,"Ungerer & Company, Inc."
 1003932,"['naphthyl','phenolic','camphoreous','minty','powdery','nutty']","Naphthyl, phenolic, camphoraceous, minty, powdery and nutty",,,,,,,,,,"Mosciano, Gerard P&F 15, No. 3, 51",1990,
 1003941,['bland'],bland odor,100.0,,,,,,,,,"Luebke, William tgsc",1999,CA Aromatics Company Inc.
-1003941,"['no','apparent','odor']",No apparent odor,,,,,,,,,,"Mosciano, Gerard P&F 20, No. 1, 31",1995,
+1003941,['odorless'],No apparent odor,,,,,,,,,,"Mosciano, Gerard P&F 20, No. 1, 31",1995,
 1003951,"['herbal','fresh','fruity','floral','chamomile','rose red rose']",fresh herbal fruity floral chamomile red rose,10.0,dipropylene glycol,medium,10.0,3.0,,,100.0,,"Luebke, William tgsc",1988,Henkel Corporation
 1003961,"['floral','sweet','cardamom','fruity','tropical','fresh']",sweet cardamom floral fruity tropical fresh,100.0,,,,24.0,,,100.0,,"Luebke, William tgsc",1988,"Fritzsche Dodge & Olcott, Inc."
 1003971,"['animal','rose','honey','narcissus','lily','hyacinth']",animal rose honey narcissus lily hyacinth,10.0,dipropylene glycol,medium,10.0,400.0,,,20.0,dipropylene glycol,"Luebke, William tgsc",1983,Berje Inc.
@@ -600,7 +600,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1006051,"['fresh','citrus','lime','floral','clean','cologne','weedy']",fresh citrus lime floral clean cologne weedy,100.0,,,,,,,,,,,
 1006052,"['citrus','fresh','lime','floral','clean','cologne','weedy']",fresh citrus lime floral clean cologne weedy,100.0,,,,16.0,,,100.0,,"Luebke, William tgsc",1988,International Flavors & Fragrances Inc.
 1006071,"['marine','fresh','seashore','watery','floral','ozone','aldehydic','woody','mossy','magnolia']",fresh sea breeze watery floral ozone,100.0,,,,287.0,,,100.0,,"Luebke, William tgsc",1985,"Chem-Fleur, Inc."
-1006081,"['mild','alcohol','odor']",mild alcohol odor,100.0,,,,,,,,,,,
+1006081,"['mild','alcohol']",mild alcohol odor,100.0,,,,,,,,,,,
 1006091,"['spicy','sweet','cinnamon','cassia','oily','woody','paper']",sweet cinnamon cassia oily woody paper,100.0,,,,48.0,,,100.0,,"Luebke, William tgsc",1985,"Chem-Fleur, Inc."
 1006091,"['spicy','sweet','cinnamyl','woody','resinous']","Sweet, cinnamic, spicy, slightly woody and resinous nuances",5.0,,,,,,,,,"Mosciano, Gerard P&F 26, No. 3, 80",2001,
 1006101,"['fruity','leathery','strawberry','dry','hay','animal']",fruity leather strawberry dry straw animal,100.0,,,,284.0,,,100.0,,"Luebke, William tgsc",1988,International Flavors & Fragrances Inc.
@@ -614,7 +614,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1006241,"['sweet','vanilla','woody','tobacco','spicy','phenolic','powdery']",sweet vanilla woody tobacco spicy phenolic powdery,10.0,dipropylene glycol,medium,10.0,,,,,,,,
 1006242,"['vanilla','sweet','woody','tobacco','spicy','phenolic','powdery']",sweet vanilla woody tobacco spicy phenolic powdery,10.0,dipropylene glycol,medium,10.0,400.0,,,20.0,dipropylene glycol,"Luebke, William tgsc",1997,CA Aromatics Company Inc.
 1006242,"['vanilla','sweet','powdery','anisic','creamy','floral']","Sweet, powdery, vanillin-like, anisic, creamy with a floral nuance",,,,,,,,,,"Mosciano, Gerard P&F 18, No. 2, 38",1993,
-1006281,"['very','mild','grassy']",very mild grassy,100.0,,,,,,,,,"Luebke, William tgsc",2007,
+1006281,"['mild','grassy']",very mild grassy,100.0,,,,,,,,,"Luebke, William tgsc",2007,
 1006291,"['woody','herbal','fir needle','camphoreous','terpenic']",woody herbal fir needle camphor terpenic,10.0,dipropylene glycol,medium,10.0,,,1.0,10.0,dipropylene glycol,"Luebke, William tgsc",1997,CA Aromatics Company Inc.
 1006291,"['woody','camphoreous','cooling','pine','terpenic','citrus','green','minty','spicy']","Camphoraceous, cooling, piney woody with terpy nuances. It has citrus and green minty and green spicy notes",10.0,,,,,,,,,"Mosciano, Gerard P&F 25, No. 6, 26",2000,
 1006292,"['woody','herbal','fir needle']",woody herbal fir needle,10.0,dipropylene glycol,medium,10.0,,,1.0,10.0,dipropylene glycol,"Luebke, William tgsc",1997,CA Aromatics Company Inc.
@@ -662,10 +662,10 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1006691,"['floral','sweet','orris','woody','raspberry','powdery']","Sweet, orris, woody, raspberry and powdery",,,,,,,,,,"Mosciano, Gerard P&F 19, No. 5, 79",1994,
 1006711,"['fruity','sweet','banana','solvent']",sweet fruity banana solvent,10.0,dipropylene glycol,high,1.0,,,4.0,100.0,,"Luebke, William tgsc",1983,"Fritzsche Dodge & Olcott, Inc."
 1006711,"['fruity','sweet','banana','ripe','estery']",sweet fruity banana solvent ethereal,10.0,dipropylene glycol,,,,,,,,"Luebke, William tgsc",1982,Berje Inc.
-1006711,"['sweet,','banana,','fruity','with','a','ripe','estry','nuance']","Sweet, banana, fruity with a ripe estry nuance",,,,,,,,,,"Mosciano, Gerard P&F 16, No. 6, 43",1991,
+1006711,"['sweet','banana','fruity','ripe','estry']","Sweet, banana, fruity with a ripe estry nuance",,,,,,,,,,"Mosciano, Gerard P&F 16, No. 6, 43",1991,
 1006712,"['fruity','sweet','banana','solvent']",sweet fruity banana solvent,10.0,dipropylene glycol,high,1.0,,,4.0,100.0,,"Luebke, William tgsc",1983,"Fritzsche Dodge & Olcott, Inc."
 1006712,"['fruity','sweet','banana','ripe','estery']",sweet fruity banana solvent ethereal,10.0,dipropylene glycol,,,,,,,,"Luebke, William tgsc",1982,Berje Inc.
-1006712,"['sweet,','banana,','fruity','with','a','ripe','estry','nuance']","Sweet, banana, fruity with a ripe estry nuance",,,,,,,,,,"Mosciano, Gerard P&F 16, No. 6, 43",1991,
+1006712,"['sweet','banana','fruity','ripe','estry']","Sweet, banana, fruity with a ripe estry nuance",,,,,,,,,,"Mosciano, Gerard P&F 16, No. 6, 43",1991,
 1006751,"['fruity','green','apricot','pear','banana']",fruity green apricot pear banana,100.0,,,,,,2.0,100.0,,,,
 1006752,"['fruity','green','apricot','pear','banana']",fruity green apricot pear banana,100.0,,,,,,2.0,100.0,,"Luebke, William tgsc",1983,"Fritzsche Dodge & Olcott, Inc."
 1006752,"['fruity','sweet','estery','green','tropical','apple','melon','tutti frutti']","Fruity, sweet estry, green, tropical, apple and melon-like with tutti frutti notes",2.0,,,,,,,,,"Mosciano, Gerard P&F 24, No. 2, 49",1999,Harrmann & Reimer Corporation
@@ -757,7 +757,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1007611,"['green','fruity','radish','chrysanthemum','gardenia','metallic']",green fruity radish chrysanthemum gardenia metallic,10.0,dipropylene glycol,high,10.0,,,4.0,100.0,,"Luebke, William tgsc",1987,Naarden International
 1007621,"['fruity','tropical','green','ethereal','herbal','celery','cocoa','jammy','peach','grassy']",fruity tropical green ethereal herbal celery cocoa jammy peach grassy,100.0,dipropylene glycol,,,,,2.0,100.0,,"Luebke, William tgsc",2021,
 1007631,"['green','aldehydic','leafy','cortex','tart','floral','peely']",green aldehydic leafy cortex tart floral peely,10.0,dipropylene glycol,high,10.0,8.0,,,100.0,,"Luebke, William tgsc",1995,International Flavors & Fragrances Inc.
-1007641,"['very','faint','phenolic']",very faint phenolic,100.0,,,,,,,,,,,
+1007641,"['faint','phenolic']",very faint phenolic,100.0,,,,,,,,,,,
 1007651,"['fruity','earthy','sweet','rose']",earthy sweet weak rose,100.0,,,,,,,,,,,
 1007651,"['fruity','sweet','estery','banana','ripe','tutti frutti','cherry','rummy']","Sweet, estry, banana, ripe, tufti-frutti, bright, lifting, cherry and rum-like",,,,,,,,,,"Mosciano, Gerard P&F 22, No. 4, 75",1997,
 1007661,"['woody','amber','dry','fatty','soapy','raisin']",woody amber dry fatty soapy raisin,100.0,,,,44.0,,,100.0,,"Luebke, William tgsc",1991,International Flavors & Fragrances Inc.
@@ -961,7 +961,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1009221,"['sulfurous','onion cooked onion']",sulfurous cooked onion,0.1,propylene glycol,,,,,,,,,,
 1009231,"['fruity','sweet','apricot','pineapple','rancid','sweaty']",fruity sweet apricot pineapple rancid sweaty,100.0,,,,,,1.0,100.0,,,,
 1009231,"['fruity','sweet','bubble gum','tutti frutti','ethereal']",fruity sweet apricot tutti frutti bubble gum pineapple ripe,100.0,,,,,,,,,"Luebke, William tgsc",2009,Alfrebro LLC/ Archer Daniels Midland Company
-1009231,"['fruity,','sweet,','bubble','gum','and','tutti-frutti-like','with','a','good','etherial','lift']","Fruity, sweet, bubble gum and tutti-frutti-like with a good etherial lift",,,,,,,,,,"Mosciano, Gerard P&F 20, No. 3, 63",1995,
+1009231,"['bubble gum','fruity','sweet','tutti frutti','ethereal']","Fruity, sweet, bubble gum and tutti-frutti-like with a good etherial lift",,,,,,,,,,"Mosciano, Gerard P&F 20, No. 3, 63",1995,
 1009241,"['sulfurous','corn chip','nutty','ethereal']",corn chip nutty sulfurous ether,0.1,propylene glycol,,,,,,,,,,
 1009251,"['fishy','sour','ammoniacal']",sickening sour putrid fishy amine,0.01,propylene glycol,,,,,,,,,,
 1009261,"['nutty','sweet','warm','ethereal']",sweet warm nutty ethereal,0.1,propylene glycol,,,,,,,,,,
@@ -1003,7 +1003,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1009652,"['woody','sandalwood','greasy','oily','waxy']",woody sandalwood greasy oily waxy,10.0,dipropylene glycol,high,10.0,400.0,,,100.0,,"Luebke, William tgsc",1992,International Flavors & Fragrances Inc.
 1009671,"['floral','bean green bean','gardenia','jasmin','fruity','weedy','pea green pea']",green bean gardenia jasmin fruity weedy green pea,100.0,,,,12.0,,,100.0,,"Luebke, William tgsc",1987,Givaudan Corporation
 1009672,"['floral','bean green bean','gardenia','jasmin','fruity','weedy','pea green pea']",green bean gardenia jasmin fruity weedy green pea,100.0,,,,12.0,,,100.0,,"Luebke, William tgsc",1987,Givaudan Corporation
-1009701,"['faint','odor']",faint odor,,,,,,,,,,,,
+1009701,['faint'],faint odor,,,,,,,,,,,,
 1009711,"['balsamic','woody','sweet','fir needle','raspberry','jammy']",balsam woody sweet fir balsam raspberry jam,100.0,,,,16.0,,,100.0,,"Luebke, William tgsc",1991,International Flavors & Fragrances Inc.
 1009731,"['floral','woody','carvone','sweet','cortex','grapefruit']",floral woody carvone sweet cortex grapefruit,100.0,,,,4.0,,,100.0,,"Luebke, William tgsc",1985,International Flavors & Fragrances Inc.
 1009751,"['fruity','sweet','floral','cherry','berry']",sweet floral cherry berry,100.0,,,,,,,,,,,
@@ -1034,7 +1034,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1010052,"['floral','rose','rose dried rose']",floral rose dried rose flower rose water,100.0,,,,32.0,,,100.0,,"Luebke, William tgsc",1981,Berje Inc.
 1010052,"['floral','sweet','fresh','bready','rose','honey']","Sweet, floral, fresh and bready with a rosey honey nuance",,,,,,,,,,"Mosciano, Gerard P&F 18, No. 4, 51",1993,
 1010061,"['woody','spruce','cedarwood','balsamic','berry','blueberry','incense','resinous']",sweet woody spruce cedarwood balsamic berry blueberry incense resinous,100.0,,,,,,,,,,,
-1010071,"['floral','fruity','rose','tea','rose','peach','pastry']",floral fruity rose tea rose peach pastry,100.0,,,,,,,,,,,
+1010071,"['floral','fruity','rose','tea','peach','pastry']",floral fruity rose tea rose peach pastry,100.0,,,,,,,,,,,
 1010072,"['floral','fruity','rose tea rose','peach']",floral fruity rose tea rose peach pastry,100.0,,,,164.0,,,100.0,,"Luebke, William tgsc",1983,"PPF Norda, Inc"
 1010072,"['floral','fruity','honey','yeasty','balsamic','waxy','rose']","Heavy fruity, honey and yeasty, with balsamic nuances and waxy rosy floral notes on dry out",1.0,,,,,,,,,"Mosciano, Gerard P&F 25, No. 4, 71",2000,
 1010081,"['floral','musty','sweet','yeasty','strawberry']",musty sweet floral yeast strawberry,100.0,,,,,,,,,"Luebke, William tgsc",1987,International Flavors & Fragrances Inc.
@@ -1085,7 +1085,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1010901,"['floral','hawthorn','anisic','powdery']",powerful hawthorn,10.0,dipropylene glycol,,,,,,,,,,
 1010911,"['woody','clean','sandalwood','balsamic']",woody clean sandalwood balsam,100.0,,,,400.0,,,100.0,,"Luebke, William tgsc",1989,Takasago International Corp
 1010913,"['woody','clean','sandalwood','balsamic']",woody clean sandalwood balsam,100.0,,,,400.0,,,100.0,,"Luebke, William tgsc",1989,Takasago International Corp
-1010921,"['like','the','butyrate']",like the butyrate,100.0,,,,,,,,,,,
+1010921,,like the butyrate,100.0,,,,,,,,,,,
 1010951,"['fruity','sweet','apricot','tangerine']",sweet fruity apricot tangerine,100.0,,,,,,,,,,,
 1010991,"['floral','sweet','fresh','berry','rose']",sweet floral fresh berry rose,100.0,,,,16.0,,,100.0,,"Luebke, William tgsc",1988,"Bedoukian Research, Inc."
 1011001,"['herbal','parsley']",parsley faint,100.0,,,,,,,,,,,
@@ -1147,7 +1147,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1011861,"['floral','rose']",weak rose,100.0,,,,,,,,,,,
 1011871,"['woody','sweet','balsamic','rooty','sandalwood']",sweet balsam woody root sandalwood,100.0,,,,341.0,,,100.0,,"Luebke, William tgsc",1986,International Flavors & Fragrances Inc.
 1011911,"['herbal','warm','fruity','spicy']",warm herbal fruity spicy,10.0,dipropylene glycol,,,,,,,,,,
-1011931,"['similar','to','methyl','heptine','carbonate','violet','green','melon']",similar to methyl heptine carbonate violet green melon,,,,,,,,,,,,
+1011931,"['methyl heptine carbonate','violet','green','melon']",similar to methyl heptine carbonate violet green melon,,,,,,,,,,,,
 1011951,"['sweet','woody','floral','violet','orris','tropical','fruity']",sweet woody floral violet orris tropical fruity,10.0,dipropylene glycol,medium,10.0,,,,,,,,
 1011952,"['floral','sweet','woody','violet','orris','tropical','fruity']",sweet woody floral violet orris tropical fruity,10.0,dipropylene glycol,medium,10.0,112.0,,,100.0,,"Luebke, William tgsc",1983,Givaudan Corporation
 1011971,"['powdery','sweet','floral','fruity','violet','orris','woody']",sweet floral fruity powdery violet orris woody,10.0,dipropylene glycol,medium,10.0,124.0,,,100.0,,"Luebke, William tgsc",1986,Harrmann & Reimer Corporation
@@ -1329,7 +1329,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1014111,"['balsamic','fruity','winey','cognac','cinnamyl']",soft fruity winey cognac cinnamyl balsamic,100.0,,,,400.0,,,100.0,,"Luebke, William tgsc",1986,"Fritzsche Dodge & Olcott, Inc."
 1014151,"['green','waxy','sweet','honey','hyacinth']",green waxy sweet honey hyacinth,100.0,,,,72.0,,,100.0,,"Luebke, William tgsc",1985,"Nickstadt Moeller, Inc."
 1014161,['odorless'],odorless,100.0,,,,,,,,,,,
-1014221,"['pleasent','odor']",pleasent odor,,,,,,,,,,,,
+1014221,['pleasant'],pleasent odor,,,,,,,,,,,,
 1014231,"['woody','patchouli','ambergris']",radiant woody patchouli ambergris,100.0,,,,,,,,,,,
 1014241,"['mild','borneol']",mild borneol,,,,,,,,,,,,
 1014251,"['green','musty','leafy','violet','herbal','sweet','woody','peony']",musty leafy violet herbal green sweet woody peony,10.0,dipropylene glycol,medium,10.0,12.0,,,100.0,,"Luebke, William tgsc",1984,Givaudan Corporation
@@ -1349,7 +1349,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1014441,"['sweet','sugar burnt sugar']",burnt sugar,100.0,,,,,,,,,,,
 1014471,"['citrus','terpenic','herbal','pine','solvent','resinous','phenolic','cypress','medicinal','woody']",citrus terpenic herbal pine solvent resinous phenolic cypress medicinal woody,100.0,,,,,,1.0,100.0,,"Luebke, William tgsc",2017,Vigon International
 1014531,"['floral','sweet','grape','orangeflower','wintergreen']",sweet floral grape orangeblossom wintergreen,100.0,,,,28.0,,,100.0,,"Luebke, William tgsc",1996,Bell Flavors & Fragrances Inc.
-1014541,"['pleasent','mild']",pleasent mild,,,,,,,,,,,,
+1014541,"['pleasant','mild']",pleasent mild,,,,,,,,,,,,
 1014591,"['fruity','sweet','tutti frutti','tropical','berry','floral','caramellic']",sweet fruity tutti frutti tropical berry floral caramel,10.0,dipropylene glycol,high,10.0,24.0,,,100.0,,"Luebke, William tgsc",1988,Fairmont Chemical Co. Inc.
 1014601,"['minty','spearmint']",spearmint,100.0,,,,,,,,,,,
 1014611,"['buttery','sweet','creamy','pungent','caramellic']",strong butter sweet creamy pungent caramel,1.0,propylene glycol,high,1.0,44.0,,,10.0,dipropylene glycol,,,
@@ -1469,7 +1469,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1016211,['odorless'],odorless,,,,,,,,,,,,
 1016331,"['balsamic','rose','metallic','powdery','geranium','herbal']",balsam rose metallic powdery geranium,10.0,dipropylene glycol,medium,10.0,394.0,,,100.0,,"Luebke, William tgsc",1981,"Ungerer & Company, Inc."
 1016332,"['balsamic','rose','metallic','powdery','geranium','herbal']",balsam rose metallic powdery geranium,10.0,dipropylene glycol,medium,10.0,394.0,,,100.0,,"Luebke, William tgsc",1981,"Ungerer & Company, Inc."
-1016351,"['sweet','balsam','fruity','like','labdanum']",sweet balsam fruity like labdanum,100.0,,,,,,,,,,,
+1016351,"['sweet','balsam','fruity','labdanum']",sweet balsam fruity like labdanum,100.0,,,,,,,,,,,
 1016352,"['balsamic','sweet','fruity','labdanum']",sweet balsam fruity like labdanum,100.0,,,,168.0,,,100.0,,"Luebke, William tgsc",1988,"Nickstadt Moeller, Inc."
 1016352,"['balsamic','sweet','fruity','spicy']","Sweet, fruity, balsamic and spice-like",,,,,,,,,,"Mosciano, Gerard P&F 15, No. 2, 69",1990,
 1016371,"['herbal','fresh','phenolic','metallic','rosemary','tobacco','spicy']",fresh herbal phenolic metallic rosemary tobacco spicy,1.0,dipropylene glycol,high,1.0,64.0,,,100.0,,"Luebke, William tgsc",2009,Vigon International
@@ -1477,7 +1477,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1016391,"['mossy','oakmoss','fruity','marine','woody','hay']",oakmoss fruity iodine woody hay,10.0,dipropylene glycol,medium,10.0,400.0,,,20.0,,"Luebke, William tgsc",1985,Roure Bertrand Dupont Inc.
 1016431,"['floral','sweet','fruity','green','peach','apricot','rose']",sweet floral fruity green peach apricot rose,100.0,,,,9.0,,,100.0,,"Luebke, William tgsc",1993,International Flavors & Fragrances Inc.
 1016431,"['floral','sweet','fruity','green','powdery','citrus']",sweet floral fatty fruity green citrus tropical rose,100.0,,,,,,,,,"Luebke, William tgsc",2009,Alfrebro LLC/ Archer Daniels Midland Company
-1016431,"['sweet,','floral,','fruity','and','green','with','powdery','citrus','nuances']","Sweet, floral, fruity and green with powdery citrus nuances",,,,,,,,,,"Mosciano, Gerard P&F 20, No. 1, 31",1995,
+1016431,"['sweet','floral','fruity','green','powdery','citrus']","Sweet, floral, fruity and green with powdery citrus nuances",,,,,,,,,,"Mosciano, Gerard P&F 20, No. 1, 31",1995,
 1016451,"['spicy','cumin','caraway','herbal','leathery']",strong cumin caraway spicy herbal leather,100.0,,,,68.0,,,100.0,,"Luebke, William tgsc",1992,International Flavors & Fragrances Inc.
 1016471,"['herbal','fresh','bergamot','woody','green','grapefruit','rose','apple','minty']",fresh bergamot woody green grapefruit rose apple mint,100.0,,,,20.0,,,100.0,,"Luebke, William tgsc",1986,SCM Organic Chemicals
 1016471,"['herbal','green','waxy','aldehydic','fatty','citrus','minty','anisic']","Green, waxy, aldehydic, fatty and citrus-like with a slightly minty, anisic nuance",,,,,,,,,,"Mosciano, Gerard P&F 21, No. 5, 49",1996,
@@ -1630,7 +1630,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1018691,['odorless'],odorless,,,,,,,,,,,,
 1018711,"['slight','alcoholic']",slight alcoholic,100.0,,,,,,,,,,,
 1018712,"['slight','alcoholic']",slight alcoholic,100.0,,,,,,,,,"Luebke, William tgsc",1981,Berje Inc.
-1018721,"['faint','odor']",faint odor,100.0,,,,,,,,,,,
+1018721,['faint'],faint odor,100.0,,,,,,,,,,,
 1018731,"['herbal','winey','sweet']",very faint herbal wine sweet,100.0,,,,204.0,,,100.0,,"Luebke, William tgsc",1993,"Morflex Chemical Company, Inc."
 1018811,"['green','fresh','cortex','leafy','hyacinth','ozone','leathery']",fresh green cortex leafy hyacinth ozone leather,10.0,dipropylene glycol,medium,10.0,188.0,,,100.0,,"Luebke, William tgsc",1990,International Flavors & Fragrances Inc.
 1018831,"['animal','fecal','hay','ylang','jasmin','indole','green']",animal fecal hay ylang jasmin indole green,1.0,dipropylene glycol,medium,1.0,292.0,,,100.0,,,,
@@ -1811,7 +1811,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1021061,"['nutty','cocoa']",nutty cocoa,0.1,dipropylene glycol,,,,,,,,,,
 1021071,"['waxy','green','orange','aldehydic','rose','mushroom']",waxy green orange aldehydic rose mushroom,10.0,dipropylene glycol,medium,10.0,92.0,,,100.0,,"Luebke, William tgsc",1983,Berje Inc.
 1021071,"['waxy','green','citrus','aldehydic','floral','sweet','fatty','coconut']","Waxy, green, citrus, aldehydic and floral with a sweet, fatty, coconut nuance",,,,,,,,,,"Mosciano, Gerard P&F 20, No. 3, 63",1995,
-1021081,"['low','odor','diterpene','solvent']",low odor diterpene solvent,100.0,,,,,,,,,,,
+1021081,['almost odorless'],low odor diterpene solvent,100.0,,,,,,,,,,,
 1021091,"['fruity','sweet','banana','pineapple','ripe','fruit tropical fruit']",sweet fruity banana pineapple ripe tropical fruit,100.0,,,,4.0,,,100.0,,"Luebke, William tgsc",1997,"Ungerer & Company, Inc."
 1021091,"['fruity','sweet','estery','apple','banana','fresh','green','tropical']","Sweet, estry, fruity apple, banana with a fresh green slightly tropical nuance",2.0,,,,,,,,,"Mosciano, Gerard P&F 24, No. 2, 49",1999,
 1021111,"['balsamic','floral','amber','cocoa','orchid','musty']",floral amber cocoa orchid musty,100.0,,,,17.0,,,,,"Luebke, William tgsc",1986,Elan Inc.
@@ -2113,7 +2113,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1025671,"['popcorn','toasted','corn chip','raw','nutty','bready']","Toasted corn chip, popcorn with a raw nutty and bready nuance",,,,,,,,,,"Mosciano, Gerard P&F 14, No. 6, 47",1989,
 1025681,"['fruity','cheesy','sweet','cognac','pineapple']",fruity cheese sweet cognac pineapple,10.0,dipropylene glycol,,,,,,,,,,
 1025681,"['fruity','cheesy','sweet','tutti frutti','cognac','pineapple']","Diffusive, fruity, cheesy, sweet, tutti-frutti, cognac and pineapple nuances",,,,,,,,,,"Mosciano, Gerard P&F 23, No. 1, 33",1998,
-1025691,"['similar','to','the','acetate','but','more','fruity']",similar to the acetate but more fruity,100.0,,,,,,,,,,,
+1025691,,similar to the acetate but more fruity,100.0,,,,,,,,,,,
 1025701,"['green','oily','cucumber','seedy','waxy','fatty','creamy','dry','salty','fishy']",green oily cucumber seed waxy fatty creamy dry salt fishy,100.0,,,,6.0,,,100.0,,"Luebke, William tgsc",2009,"Bedoukian Research, Inc."
 1025701,"['green','fruity','waxy','vegetable','apple','herbal']","Green fruity, waxy, plant and vegetable like with an apple and herbal nuance",,,,,,,,,,"Mosciano, Gerard P&F 16, No. 4, 45",1991,
 1025711,"['fatty','pungent','plastic','green']",pungent fatty plastic green,1.0,dipropylene glycol,,,,,,,,,,
@@ -2218,7 +2218,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1027021,"['wild','hyacinth','foliage','green']",wild hyacinth foliage green,,,,,,,,,,,,
 1027041,"['fruity','sweet','green','apple','apple skin','strawberry']",sweet green fruity apple unripe fruit apple skin strawberry,100.0,,,,3.0,,,100.0,,"Luebke, William tgsc",1996,Sigma-Aldrich
 1027041,"['fruity','sweet','green','apple','fresh','juicy','apple skin']",sweet green fruity apple pear tropical apple skin waxy,100.0,,,,,,,,,"Luebke, William tgsc",2009,Alfrebro LLC/ Archer Daniels Midland Company
-1027041,"['sweet,','fruity,','green,','apple-like','with','fresh','juicy','skin','notes']","Sweet, fruity, green, apple-like with fresh juicy skin notes",,,,,,,,,,"Mosciano, Gerard P&F 17, No. 3, 57",1992,
+1027041,"['sweet','fruity','green','apple','fresh','juicy','skin']","Sweet, fruity, green, apple-like with fresh juicy skin notes",,,,,,,,,,"Mosciano, Gerard P&F 17, No. 3, 57",1992,
 1027051,"['woody','sandalwood','dry','oily','floral']",sandalwood woody dry oily floral,100.0,,,,68.0,,,100.0,,"Luebke, William tgsc",1988,Harrmann & Reimer Corporation
 1027071,"['herbal','sweet','lavender','cumin']",sweet herbal lavender cumin,100.0,,,,36.0,,,100.0,,"Luebke, William tgsc",1997,Harrmann & Reimer Corporation
 1027081,"['floral','herbal','fatty','violet']",floral herbal fatty irone,1.0,dipropylene glycol,medium,1.0,8.0,,,100.0,,,,
@@ -2506,7 +2506,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1031331,"['mentholic','sweet','fruity','valerian root']",mild sweet mentholic fruity valerian,100.0,,,,,,,,,,,
 1031351,"['sulfurous','onion','roasted','gassy','meaty']",sulfurous onion roasted gassy meaty,0.1,propylene glycol,high,0.1,133.0,,,10.0,triacetin,"Luebke, William tgsc",2007,Sigma-Aldrich
 1031351,"['sulfurous','meaty','roasted','beefy','fried','onion','coffee','chocolate']","Meaty, roasted beef, sulfurous, fried onion, with nuances of coffee and chocolate",0.1,triacetin,,,,,,,,"Mosciano, Gerard P&F 26, No. 5, 68",2001,
-1031401,"['powerful','green','tart','grapefruit','concord','grape']",powerful green tart grapefruit concord grape,,,,,,,,,,,,
+1031401,"['concord grape','powerful','green','tart','grapefruit']",powerful green tart grapefruit concord grape,,,,,,,,,,,,
 1031451,"['phenolic','gasoline','ethereal','anise']",phenolic gasoline ethereal anise,1.0,dipropylene glycol,high,1.0,4.0,,,100.0,,"Luebke, William tgsc",1987,Harrmann & Reimer Corporation
 1031461,"['caramellic','meaty roasted meaty']",roasted in sugar syrup meaty,0.1,propylene glycol,,,,,,,,,,
 1031471,"['herbal','fresh','camphoreous','rosemary']",fresh camphor herbal rosemary,10.0,dipropylene glycol,medium,10.0,4.0,,,20.0,,"Luebke, William tgsc",1985,Roure Bertrand Dupont Inc.
@@ -2648,7 +2648,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1033161,"['floral','green','metallic','sweet','fruity','citrus','tropical']","Green, metallic, sweet, fruity, floral, citrus and tropical",,,,,,,,,,"Mosciano, Gerard P&F 16, No. 4, 45",1991,
 1033181,"['fruity','floral','green','jammy','berry']",fruity floral green jammy berry,100.0,,,,10.0,,,100.0,,,,
 1033181,"['fruity','floral','sweet','green','tutti frutti','powdery']",fruity geranium green neroli grape berry jam waxy,100.0,,,,,,,,,"Luebke, William tgsc",2009,Alfrebro LLC/ Archer Daniels Midland Company
-1033181,"['fruity,','floral,','sweet,','green,','tutti-frutti,','with','a','powdery','nuance']","Fruity, floral, sweet, green, tutti-frutti, with a powdery nuance",,,,,,,,,,"Mosciano, Gerard P&F 18, No. 2, 38",1993,
+1033181,"['fruity','floral','sweet','green','tutti frutti','powdery']","Fruity, floral, sweet, green, tutti-frutti, with a powdery nuance",,,,,,,,,,"Mosciano, Gerard P&F 18, No. 2, 38",1993,
 1033201,"['floral','sweaty','rose','bergamot','citrus','fruity']",sweaty floral rose bergamot citrus fruity,100.0,,,,,,,,,,,
 1033201,"['floral','sour','sweaty','rose','bergamot','citrus','fruity','blueberry','cranberry','apple','grape']","Sour sweaty with floral rosy under notes, a bergamot citrus nuance and fruity notes of blueberry, cranberry, apple and grape",1.0,,,,,,,,,"Mosciano, Gerard P&F 26, No. 2, 40",2001,
 1033211,"['tropical','autumn','fresh','ozone','orris','woody','earthy']",tropical autumn fresh ozone orris woody earthy,10.0,dipropylene glycol,medium,10.0,85.0,,,100.0,,"Luebke, William tgsc",2010,"The John D. Walsh Company, Inc"
@@ -3056,7 +3056,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1037481,"['fruity','sweet','green','oily','ethereal','tropical','pineapple']","Fruity, sweet, green, oily, etherial and lifting, tropical with a pineapple nuance",,,,,,,,,,"Mosciano, Gerard P&F 18, No. 3, 53",1993,
 1037491,"['floral','sweet','fruity','honey','fig','rose','nutty']",sweet fruity floral honey fig rose nutty,100.0,,,,,,,,,,,
 1037501,"['fruity','musty','alcoholic','fusel','vegetable','cider','cocoa','cheesy']",fruity,1.0,,,,,,,,,,,
-1037501,"['impacting,','musty,','alcoholic,','fuesl','like,','with','nuances','of','vegetables,','cider,','cocoa','and','cheese']","impacting, musty, alcoholic, fuesl like, with nuances of vegetables, cider, cocoa and cheese",,,,,,,,,,"Mosciano, Gerard",2009,
+1037501,"['impacting','musty','alcoholic','fusel','vegetables','cider','cocoa','cheese']","impacting, musty, alcoholic, fuesl like, with nuances of vegetables, cider, cocoa and cheese",,,,,,,,,,"Mosciano, Gerard",2009,
 1037511,"['phenolic','smoky','medicinal','woody','spicy','clove','rooty','caramellic']",phenolic smoke medicinal woody spice eugenol root caramel,10.0,dipropylene glycol,,,,,,,,,,
 1037511,"['phenolic','smoky','medicinal','woody','spicy','clove','rooty','caramellic']","Phenolic, smokey, medicinal, woody, spicy, eugenol-like and rooty with a caramellic nuance",,,,,,,,,,"Mosciano, Gerard P&F 19, No. 3, 51",1994,
 1037521,"['sulfurous','alliaceous','smoky','savory','vegetable']",sulfurous alliaceous smoky savory vegetable,0.1,propylene glycol,,,,,,,,,,
@@ -3103,7 +3103,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1038021,"['creamy','waxy','jasmin','peach','coconut']",creamy waxy jasmin peach coconut,10.0,dipropylene glycol,medium,10.0,36.0,,,100.0,,"Luebke, William tgsc",1988,"Bedoukian Research, Inc."
 1038021,"['creamy','lactonic','fatty','dairy','waxy','tropical','fruity']","Creamy, lactonic, fatty and dairy with a waxy, tropical and fruity nuance",5.0,,,,,,,,,"Mosciano, Gerard P&F 22, No. 6, 41",1997,
 1038041,"['minty','cooling']",mild cooling,100.0,,,,,,,,,,,
-1038041,"['little','or','no','apparent','odor']",Little or no apparent odor,,,,,,,,,,"Mosciano, Gerard P&F 23, No. 2, 43",1998,
+1038041,['almost odorless'],Little or no apparent odor,,,,,,,,,,"Mosciano, Gerard P&F 23, No. 2, 43",1998,
 1038051,['fruity'],fruity,1.0,dipropylene glycol,,,,,,,,,,
 1038061,['bland'],bland,100.0,,,,,,,,,,,
 1038071,['odorless'],odorless,,,,,,,,,,,,
@@ -3260,7 +3260,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1041851,"['fruity','rummy','tobacco','woody']",fruity liquor rum tobacco woody,1.0,dipropylene glycol,,,,,,,,,,
 1041861,"['roasted','savory','green']",roasted savory green,1.0,dipropylene glycol,,,,,,,,,,
 1041871,"['tobacco','sweet','acorn','nut skin','spicy']",sweet acorn nut skin tobacco spicy,100.0,,,,,240.0,,100.0,,"Luebke, William tgsc",2009,Vigon International
-1041901,"['clean,','fresh','aroma']","Clean, fresh aroma",,,,,,,,,,,,
+1041901,"['clean','fresh']","Clean, fresh aroma",,,,,,,,,,,,
 1041921,"['green','natural','fresh','dusty','fruity']",natural fresh green pollen,10.0,dipropylene glycol,,,,,,,,,,
 1041931,"['fruity','herbal']",fruity herbal,100.0,,,,,,,,,,,
 1041981,"['musk','sweet','animal']",sweet musk animal,100.0,,,,,,,,,,,
@@ -3558,7 +3558,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1049551,"['fruity','blueberry','raspberry','pomegranate','pineapple','chrysanthemum','honey','fruit dried fruit']",fruity blueberry raspberry pomegranate pineapple chrysanthemum honey dried fruit,100.0,,,,,,,,,,,
 1049571,"['alliaceous','ripe','onion','gassy','meaty','sulfurous']",strong ripe onion gassy meaty sulfurous,0.1,propylene glycol,very high,0.01,9.0,,,100.0,,"Luebke, William tgsc, 1993)",,Sigma-Aldrich
 1049571,"['alliaceous','onion','sharp','pungent','meaty','sulfurous','brothy','chicken']","Onion, sharp and pungent, meaty sulfurous, brothy chicken and poultry-like",0.01,ethyl alcohol,,,,,,,,"Mosciano, Gerard P&F 24, No. 6, 10",1999,
-1049601,"['like','acetaldehyde']",like acetaldehyde,,,,,,,,,,,,
+1049601,['acetaldehyde'],like acetaldehyde,,,,,,,,,,,,
 1049631,"['woody','fruity','green']",woody fruity green,0.1,propylene glycol,,,,,,,,,,
 1049641,"['green','vegetable']",green vegetable,,,,,,,,,,,,
 1049651,['ammoniacal'],ammoniacal,0.1,propylene glycol,,,,,,,,,,
@@ -3701,8 +3701,8 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1054851,"['aldehydic','citrus','fruity']",aldehydic citrus fruity,1.0,dipropylene glycol,,,,,,,,,,
 1055001,['bland'],bland fatty waxy,100.0,,,,,,,,,,,
 1055241,['cherry'],cherry,1.0,dipropylene glycol,,,,,,,,,,
-1055351,"['dull','pleasent','sweet']",dull pleasent sweet,,,,,,,,,,,,
-1055381,"['like','thujone']",like thujone,,,,,,,,,,,,
+1055351,"['dull','pleasant','sweet']",dull pleasent sweet,,,,,,,,,,,,
+1055381,['thujone'],like thujone,,,,,,,,,,,,
 1055401,"['spicy','thyme']",spicy thyme,,,,,,,,,,,,
 1055441,"['aldehydic','muguet','waxy','watery','hyacinth','floral','green']",aldehydic muguet waxy watery hyacinth floral green,10.0,dipropylene glycol,medium,10.0,72.0,,,100.0,,"Luebke, William tgsc",1985,Dragoco Inc.
 1055511,"['green','earthy','mushroom']",green earthy mushroom,100.0,,,,,,,,,,,
@@ -3812,7 +3812,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1060561,"['mentholic','minty','sweet']",mentholic minty sweet,10.0,dipropylene glycol,,,,,,,,,,
 1060611,"['green','minty','herbal','vegetable','basil']",green mint herbal vegetable basil,1.0,dipropylene glycol,,,,,,,,,,
 1060651,"['jasmin','nitrile','nerol','oxide']",jasmin nitrile nerol oxide,,,,,,,,,,,,
-1060791,"['very','mild','caramellic']",very mild caramellic,100.0,,,,,,,,,"Luebke, William tgsc",2007,Sigma-Aldrich
+1060791,"['mild','caramellic']",very mild caramellic,100.0,,,,,,,,,"Luebke, William tgsc",2007,Sigma-Aldrich
 1060801,['odorless'],odorless,,,,,,,,,,,,
 1060831,"['spicy','sweet','carnation','phenolic','floral']",sweet spicy carnation phenolic floral,100.0,,,,,,,,,"Luebke, William tgsc",1985,"Chem-Fleur, Inc."
 1060851,"['spicy','sweet','woody','clove','dry']",sweet woody spice clove dry,100.0,,,,44.0,,,100.0,,"Luebke, William tgsc",1999,CA Aromatics Company Inc.
@@ -3912,11 +3912,11 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1071641,"['woody','amber']","strong, woody ambery",10.0,dipropylene glycol,,,,,,,,,,
 1072121,"['spicy','cinnamon','cassia']",cinnamon spicy cassia,100.0,,,,,,,,,,,
 1072591,['woody'],woody,,,,,,,,,,,,
-1072621,"['powerful,','tobacco','character,','reminiscent','of','the','note','of','cigar']","powerful, tobacco character, reminiscent of the note of cigar",,,,,,,,,,,,
-1072631,"['woody,','dry']","woody, dry",,,,,,,,,,,,
+1072621,"['powerful','tobacco','cigar']","powerful, tobacco character, reminiscent of the note of cigar",,,,,,,,,,,,
+1072631,"['woody','dry']","woody, dry",,,,,,,,,,,,
 1072641,"['woody','animal']","woody, animal",1.0,dipropylene glycol,,,,,,,,,,
 1072651,"['woody','animal']","woody, animal",1.0,dipropylene glycol,,,,,,,,,,
-1072661,"['slightly','fruity']",slightly fruity,,,,,,,,,,,,
+1072661,['fruity'],slightly fruity,,,,,,,,,,,,
 1072671,"['woody','dry','tobacco']","woody, dry, tobacco character",100.0,,,,,,,,,,,
 1072681,['tobacco'],tobacco notes of Virginia type,1.0,dipropylene glycol,,,,,,,,,,
 1072691,['hay'],hay note,1.0,dipropylene glycol,,,,,,,,,,
@@ -3940,7 +3940,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1075941,"['onion green onion','cabbage','cheesy']","green onion, cabbage, with a note of surface-ripened cheese",0.01,propylene glycol,,,,,,,,,,
 1075951,"['onion','sour','garlic']","sour pickled onion, drying out to a garlic character",0.1,propylene glycol,,,,,,,,,,
 1075961,"['sulfurous','fresh','cabbage','sauerkraut']","aroma and taste at 0.5-2.0 ppm in aqueous solution as found in fresh cabbage, cole slaw, and sauerkraut",0.01,propylene glycol,,,,,,,,,,
-1075971,"['weak','fruity','and','piperonal']",weak fruity and piperonal,100.0,,,,,,,,,,,
+1075971,"['weak','fruity','piperonal']",weak fruity and piperonal,100.0,,,,,,,,,,,
 1075981,"['cabbage','cooked','sauerkraut']",cooked cabbage sauerkraut,0.1,propylene glycol,,,,,,,,,,
 1076001,"['fresh','fruity']",fresh fruity,,,,,,,,,,,,
 1076021,"['onion','sweet']",sweet onion,0.1,propylene glycol,,,,,,,,,,
@@ -3964,7 +3964,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1076371,['camphoreous'],camphoreous,1.0,dipropylene glycol,,,,,,,,,,
 1076391,"['woody','warm']","warm, woody",1.0,dipropylene glycol,,,,,,,,,,
 1076401,"['woody','warm']","warm, woody",1.0,dipropylene glycol,,,,,,,,,,
-1076461,"['citrus,','albedo-like']","citrus, albedo-like",,,,,,,,,,,,
+1076461,"['citrus','albedo']","citrus, albedo-like",,,,,,,,,,,,
 1076481,"['green','floral','violet','cucumber']","green, floral, violet slightly cucumber",1.0,dipropylene glycol,,,,,,,,,,
 1076611,['camphoreous'],camphoreous,1.0,dipropylene glycol,,,,,,,,,,
 1076781,['minty'],Minty,,,,,,,,,,,,
@@ -4089,7 +4089,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1102041,"['green','earthy','mushroom','fatty']",green earthy mushroom fatty,100.0,,,,,,,,,,,
 1102051,"['green','earthy','mushroom','galbanum','fatty']",green earthy mushroom galbanum fatty,100.0,,,,,,,,,,,
 1102071,"['fruity','fresh','green','melon','cucumber']",fresh fruity green melon cucumber,0.1,dipropylene glycol,,,,,,,,,,
-1102091,"['very','slightly','milky','aroma']",Very slightly milky aroma,,,,,,,,,,,,
+1102091,['milky'],Very slightly milky aroma,,,,,,,,,,,,
 1102111,"['fruity','currant black currant']",fruity black currant,1.0,dipropylene glycol,,,,,,,,,,
 1102211,"['sulfurous','fruity','fruit tropical fruit']",sulfurous fruity tropical,0.1,dipropylene glycol,,,,,,,,,,
 1102211,"['sulfurous','fruity','savory','chicken','meaty','coffee roasted coffee']","Sulfurous, initially fruity then becoming savory and chicken meaty with a slight roasted coffee nuance and a hint of fruitiness on dry out",0.1,,,,,,,,,"Mosciano, Gerard P&F 25, No. 4, 71",2000,
@@ -4411,8 +4411,8 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1233891,['mentholic'],very mild mentholic,100.0,,,,,,,,,,,
 1234591,['odorless'],odorless,100.0,,,,,,,,,,,
 1234831,['odorless'],odorless,100.0,,,,,,,,,,,
-1234871,"['very','mild','alcoholic']",very mild alcoholic,100.0,,,,,,,,,,,
-1235201,"['very','mild','alcoholic']",very mild alcoholic,100.0,,,,,,,,,"Luebke, William tgsc",1986,Harrmann & Reimer Corporation
+1234871,"['mild','alcoholic']",very mild alcoholic,100.0,,,,,,,,,,,
+1235201,"['mild','alcoholic']",very mild alcoholic,100.0,,,,,,,,,"Luebke, William tgsc",1986,Harrmann & Reimer Corporation
 1235811,['bland'],bland,100.0,,,,,,,,,,,
 1236571,"['sweet','ethereal']",sweet ethereal,100.0,,,,,,,,,,,
 1236621,"['mild','rotten','fish','ammonia']",mild rotten fish ammonia,,,,,,,,,,,,
@@ -5036,7 +5036,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1450561,"['floral','sweet','anise','hawthorn','green','cortex','mimosa','spicy','powdery']",sweet anise hawthorn green floral cortex mimosa absolute spicy powdery,50.0,dipropylene glycol,medium,50.0,400.0,,,100.0,,"Luebke, William tgsc",1988,"Bedoukian Research, Inc."
 1450681,['green'],green,100.0,,,,,,,,,,,
 1450761,['odorless'],odorless,100.0,,,,,,,,,,,
-1450761,"['little','or','no','odor,','a','slight','coolness']","Little or no odor, a slight coolness",5.0,,,,,,,,,"Mosciano, Gerard P&F 23, No. 5, 49",1998,
+1450761,['almost odorless'],"Little or no odor, a slight coolness",5.0,,,,,,,,,"Mosciano, Gerard P&F 23, No. 5, 49",1998,
 1450781,"['herbal','sweet','sage clary sage','rose']",sweet herbal clary sage rose,100.0,,,,,,,,,,,
 1450831,"['mentholic','minty']",mentholic minty,10.0,dipropylene glycol,,,,,,,,,,
 1450851,['odorless'],odorless,100.0,,,,,,,,,,,
@@ -5081,7 +5081,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1455521,"['fruity','hay','winey','mushroom','chemical']","fruity with hay quality, winey with mushroom note, slightly harsh and chemical",100.0,,,,,,,,,,,
 1455901,"['fruity','coconut','oily']",coconut oily fruity,100.0,,,,,,,,,,,
 1455961,"['fruity','currant black currant','berry']",black currant,10.0,dipropylene glycol,,,,,,,,,,
-1456091,"['urine,','woody-lactone']","urine, woody-lactone",,,,,,,,,,,,
+1456091,"['urine','woody-lactone']","urine, woody-lactone",,,,,,,,,,,,
 1456111,"['woody','herbal','celery','lactonic']",woody herbal celery lactone,100.0,,,,,,,,,,,
 1456301,"['fruity','currant black currant','berry']",black currant,10.0,dipropylene glycol,,,,,,,,,,
 1456331,"['coconut','lactonic','tropical','creamy','coumarinic','dairy','plum']",lactonic coconut meadow tropical creamy coumarinic dairy plum,10.0,dipropylene glycol,high,10.0,168.0,,,100.0,,"Luebke, William tgsc",2008,Vigon International
@@ -5450,7 +5450,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1554361,"['flowery','warm','green','fresh']",flowery warm green fresh,,,,,,,,,,,,
 1554371,['bland'],bland,,,,,,,,,,,,
 1554401,"['fatty','caprylic']",fatty caprylic,,,,,,,,,,,,
-1554411,"['caprylic','slightly','fatty']",caprylic slightly fatty,,,,,,,,,,,,
+1554411,"['caprylic','fatty']",caprylic slightly fatty,,,,,,,,,,,,
 1554421,"['meaty','mutton','goaty','fresh']",muttony goaty fresh meaty,0.1,dipropylene glycol,,,,,,,,,,
 1554431,"['meaty','mutton','goaty']",muttony goaty,0.1,dipropylene glycol,,,,,,,,,,
 1554441,"['goaty','muttony']",goaty muttony,,,,,,,,,,,,
@@ -5467,7 +5467,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1554891,"['metallic','oily','waxy','earthy']",metallic oily waxy earthy,,,,,,,,,,,,
 1554921,"['sulfurous','herbal']",sulfury herbal,0.1,propylene glycol,,,,,,,,,,
 1554931,"['fruity','juicy','fruit tropical fruit','grapefruit','currant black currant','buchu','mango','guava']",fruity juicy tropical fruits grapefruit blackcurrant buchu mango guava,0.1,dipropylene glycol,,,,,,,,,,
-1554961,"['sulfury','rubber-like']",sulfury rubber-like,,,,,,,,,,,,
+1554961,"['sulfury','rubber']",sulfury rubber-like,,,,,,,,,,,,
 1554971,"['green','citrus','peel','fruity']",green citrus peel fruity,,,,,,,,,,,,
 1555001,"['fruity','tropical']",tropical fruity exotic,0.1,propylene glycol,,,,,,,,,,
 1555011,['spice'],spice,,,,,,,,,,,,
@@ -5510,10 +5510,10 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1556531,"['flowery','lily-of-the-valley']",flowery lily-of-the-valley,,,,,,,,,,,,
 1557221,"['musk','animal','powdery']",powerful musky rich musk,0.1,dipropylene glycol,high,0.1,336.0,,,100.0,,,,
 1557401,"['musk','ambrette','fruity','pear','woody','floral']",musk ambrette fruity pear woody floral,100.0,,,,,336.0,,100.0,,"Luebke, William tgsc",1996,Firmenich Inc.
-1557441,"['musk','sweet','flowery','ambergris','ambrette','musk','nitromusk']",musk sweet flowery ambergris ambrette musk nitromusk,,,,,,,,,,,,
-1557451,"['musk','sweet','flowery','ambergris','animal','ambrette','musk','nitromusk']",musk sweet flowery ambergris animal ambrette musk nitromusk,,,,,,,,,,,,
-1557461,"['musk','sweet','woody','ambergris','animal','ambrette','musk','nitromusk']",musk sweet woody ambergris animal ambrette musk nitromusk,,,,,,,,,,,,
-1557471,"['musk','sweet','woody','ambergris','animal','ambrette','musk','nitromusk']",musk sweet woody ambergris animal ambrette musk nitromusk,,,,,,,,,,,,
+1557441,"['musk','sweet','flowery','ambergris','ambrette','nitromusk']",musk sweet flowery ambergris ambrette musk nitromusk,,,,,,,,,,,,
+1557451,"['musk','sweet','flowery','ambergris','animal','ambrette','nitromusk']",musk sweet flowery ambergris animal ambrette musk nitromusk,,,,,,,,,,,,
+1557461,"['musk','sweet','woody','ambergris','animal','ambrette','nitromusk']",musk sweet woody ambergris animal ambrette musk nitromusk,,,,,,,,,,,,
+1557471,"['musk','sweet','woody','ambergris','animal','ambrette','nitromusk']",musk sweet woody ambergris animal ambrette musk nitromusk,,,,,,,,,,,,
 1557601,"['herbal','earthy','rooty','cellar']",herbal earthy rooty cellar,,,,,,,,,,,,
 1557611,"['herbal','thujonic','fruity','spicy','berry']",herbal thujonic fruity spicy berry,,,,,,,,,,,,
 1557701,"['floral','lily of the valley']",lily of the valley,100.0,,,,,,,,,,,
@@ -5720,7 +5720,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1590301,"['green','citrus']",green citrus,10.0,dipropylene glycol,,,,,,,,,,
 1590311,"['citrus','fruity','grapefruit']",fruity citrus grapefruit,100.0,,,,,,,,,,,
 1590321,['odorless'],odorless,10.0,,,,,,,,,,,
-1590321,"['little','or','no','odor']",Little or no odor,,,,,,,,,,"Mosciano, Gerard P&F 25, No. 6, 26",2000,
+1590321,['almost odorless'],Little or no odor,,,,,,,,,,"Mosciano, Gerard P&F 25, No. 6, 26",2000,
 1590331,['pungent'],pungent,,,,,,,,,,,,
 1590431,"['citrus','grapefruit','floral','citronella']",grapefruit citrus floral citronella,100.0,,,,,,,,,,,
 1590441,"['earthy','herbal','pine','melon']","earthy, herbal, pine, and melon",100.0,,,,,,,,,,,
@@ -5756,7 +5756,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1593621,"['sour','cheesy','creamy']",sour cheese cream cheese,,,,,,,,,,,,
 1593631,"['citrus','fatty']",citrus fatty,10.0,dipropylene glycol,,,,,,,,,,
 1593641,"['citrus','fatty','green']",citrus fatty green,10.0,dipropylene glycol,,,,,,,,,,
-1593671,"['very','mild','fruity']",very mild fruity,100.0,,,,,,,,,,,
+1593671,"['mild','fruity']",very mild fruity,100.0,,,,,,,,,,,
 1593711,"['alliaceous','roasted']",roasted alliaceous,0.1,propylene glycol,,,,,,,,,,
 1593721,"['meaty','cooked','brown','roasted']",cooked brown roasted meaty,0.1,propylene glycol,,,,,,,,,,
 1593731,"['fruity','berry']",fruity berry,10.0,dipropylene glycol,,,,,,,,,,
@@ -5831,7 +5831,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1595601,"['floral','metallic','cyclamen']",floral metallic cyclamen,100.0,,,,,,,,,,,
 1595631,"['green','cucumber','violet leaf']",cucumber violet leaf green,1.0,dipropylene glycol,high,1.0,,240.0,,100.0,,,,
 1596041,"['green','herbal']",green herbal,100.0,,,,,,,,,,,
-1596151,"['slightly','milky','to','faint','savory','aroma']",Slightly milky to faint savory aroma,,,,,,,,,,,,
+1596151,"['milky','faint','savory']",Slightly milky to faint savory aroma,,,,,,,,,,,,
 1596181,"['floral','plum','rose']",floral plum rose,10.0,dipropylene glycol,high,10.0,128.0,,,100.0,,,,
 1596191,"['powdery','floral','violet','orris','woody']",floral violet orris powdery woody,10.0,dipropylene glycol,medium,10.0,124.0,,,100.0,,"Luebke, William tgsc",1984,Union Camp Corporation
 1596201,"['powdery','floral','woody','orris','violet']",floral woody orris violet,10.0,dipropylene glycol,medium,10.0,124.0,,,100.0,,"Luebke, William tgsc",1984,Union Camp Corporation
@@ -6144,7 +6144,7 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1697391,"['herbal','aldehydic','fresh','floral','grapefruit','terpenic']","hesperidic, fresh, floral, grapefruit, terpenic",10.0,dipropylene glycol,,,,,,,,,,
 1697401,"['herbal','aldehydic','minty','fruity']","agrestic, minty, fruity",10.0,dipropylene glycol,,,,,,,,,,
 1697411,"['fruity','minty','saffron','rose','apple']",fruity minty saffron rosy apple,100.0,,,,,,,,,,,
-1697451,"['hesperidic,','floral,','green,','cumin']","hesperidic, floral, green, cumin",,,,,,,,,,,,
+1697451,"['hesperidic','floral','green','cumin']","hesperidic, floral, green, cumin",,,,,,,,,,,,
 1697461,"['floral','rose','aldehydic','green']",rosy aldehydic green,1.0,dipropylene glycol,,,,,,,,,,
 1697741,"['floral','sweet','lilac','lily','aromatic']",,,,,,,,,,,,,
 1697751,"['fruity','floral']",fruity floral,,,,,,,,,,,,
@@ -6153,6 +6153,6 @@ TGSC ID,Tags,Description,Concentration %,Solvent,Strength,Recommended Max Concen
 1699641,"['woody','sweet']",sweet woody,100.0,,,,,,,,,,,
 1703021,"['woody','fruity','fresh','resinous','apple']","woody, fruity, fresh, resin, and apple notes",100.0,,,,,,,,,,,
 1804521,"['fruity','pineapple','pear','plum','jackfruit']",fruity pineapple pear plum jackfruit,1.0,dipropylene glycol,,,,,,,,,,
-1804751,"['floral,','aldehydic,','green,','lilial,','watery']","floral, aldehydic, green, Lilial, watery",,,,,,,,,,,,
+1804751,"['floral','aldehydic','green','lilial','watery']","floral, aldehydic, green, Lilial, watery",,,,,,,,,,,,
 1838431,"['citrus','aldehydic','tangerine']",,,,high,1.0,,168.0,,100.0,,,,
 1839191,"['woody','tobacco','woody old wood','ambergris','vetiver','peppery','spicy','amber','powdery']",,,,,,192.0,,,100.0,,,,Vigon International
