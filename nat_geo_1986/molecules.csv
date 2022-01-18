@@ -1,0 +1,9 @@
+CID,MolecularWeight,IsomericSMILES,IUPACName,name
+3314,164.20,COC1=C(C=CC(=C1)CC=C)O,2-methoxy-4-prop-2-enylphenol,eugenol
+6054,122.16,C1=CC=C(C=C1)CCO,2-phenylethanol,2-phenylethanol
+6364,76.16,CC(C)S,propane-2-thiol,2-propanethiol
+6387,90.19,CC(C)(C)S,2-methylpropane-2-thiol,2-methyl-2-propanethiol
+7848,76.16,CCCS,propane-1-thiol,1-propanethiol
+10560,90.19,CCC(C)S,butane-2-thiol,2-butanethiol
+91497,258.4,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,"4,6,6,7,8,8-hexamethyl-1,3,4,7-tetrahydrocyclopenta[g]isochromene",galaxolide
+6852393,272.4,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CCC(=O)C4)C,"(5S,8R,9S,10S,13R,14S)-10,13-dimethyl-1,2,4,5,6,7,8,9,11,12,14,15-dodecahydrocyclopenta[a]phenanthren-3-one",5alpha-androst-16-en-3-one

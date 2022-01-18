@@ -26,7 +26,7 @@ data_dict = pd.read_excel('Data dictionary.xlsx', index_col=0)  # Load the data 
 
 # Determine which integer value, if any, is used for no response (usually 0)
 has_non_response_option = data_dict[data_dict['VALUES'].str.contains('No response') == True]
-value_for_nan = has_no_response_option['VALUES'].apply(lambda x: x.split('=')[0]).astype(int)
+value_for_nan = has_non_response_option['VALUES'].apply(lambda x: x.split('=')[0]).astype(int)
 
 # Replace the value for no response with Python `None`)
 df = df.apply(lambda col: col.replace(value_for_nan.get(col.name, None), None))
@@ -34,14 +34,14 @@ df = df.apply(lambda col: col.replace(value_for_nan.get(col.name, None), None))
 # +
 # Odorant abbreviations used in the column names
 odorant_abbreviations = {'AND': 'Androstenone',
-                         'AA': 'Amyl acetate',
-                         'AMY': 'Amyl acetate',
+                         'AA': 'Isoamyl acetate',
+                         'AMY': 'Isoamyl acetate',
                          'GAL': 'Galaxolide',
                          'GALAX': 'Galaxolide',
                          'EUG': 'Eugenol', 
                          'MER': 'Mercaptans',
                          'MERCAP': 'Mercaptans',
-                         'ROSE': 'Phenyl Ethyl Alcohol'}
+                         'ROSE': 'Rose'}
 
 # Question abbreviations used in the column names (see data dictionary for full question)
 question_abbreviations = {'SMELL': 'Smell',
@@ -77,24 +77,50 @@ data.columns = pd.MultiIndex.from_tuples(data.columns.map(f).tolist(), names=('O
 data.head()
 # -
 
-# Get PubChem IDs for each odorant
-names_to_cids = get_cids(odorant_names)
+# From methods.txt
+# PEA added due to common knowledge that
+# this is primary ingredient of IFF rose
+molecule_names = ['5a-androst-16-en-3-one',
+                  'isoamyl acetate',
+                  'Galaxolide',
+                  'eugenol',
+                  'tert-butyl mercaptan',
+                  'isopropyl mercaptan',
+                  'n-propyl mercaptan',
+                  'sec-butyl mercaptan',
+                  'phenyl ethyl alcohol']
 
-# Manual fixes
-names_to_cids['Mercaptans'] = 878  # Mercaptan (methanethiol) itself
+# Get PubChem IDs for each odorant
+names_to_cids = get_cids(molecule_names)
 
 # Generate information about molecules
 cids = list(names_to_cids.values())
-molecules = pd.DataFrame(from_cids(cids)).set_index('CID')
+molecules = pd.DataFrame(from_cids(cids)).set_index('CID').sort_index()
 molecules.head()
+
+names_to_cids
 
 # Save this molecule data
 molecules.to_csv('molecules.csv')
 
+mixtures = pd.DataFrame(index=odorant_names, columns=[0]+cids)
+# v/v * components ratios
+mixtures.loc['Mercaptans'] = 0.04*pd.Series({6387: 0.76,
+                                             6364: 0.18,
+                                             7848: 0.04,
+                                             10560: 0.02})
+mixtures.loc['Androstenone'] = 0.001*pd.Series({6852393: 1})
+mixtures.loc['Isoamyl acetate'] = 1*pd.Series({31276: 1})
+mixtures.loc['Eugenol'] = 1*pd.Series({3314: 1})
+mixtures.loc['Galaxolide'] = 0.425*pd.Series({91497: 1})
+# Using common knowledge that IFF Rose is ~40% PEA
+mixtures.loc['Rose'] = 0.8*pd.Series({6054: 0.4, 0: 0.6})
+mixtures = mixtures.fillna(0)
+mixtures.to_csv('mixtures.csv')
+mixtures.head()
+
 # Convert odorant names to PubChem IDs and pivot dataframe
 data = data.stack('Question')
-data.columns = data.columns.map(names_to_cids.get)
-data.columns.name = 'CID'
 data = data.T.stack('Subject')#.reorder_levels([1, 0])
 data.head()
 
