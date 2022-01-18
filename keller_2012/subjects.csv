@@ -1,0 +1,392 @@
+subject,BMI,age (years),gender,race,hispanic,marital status,education,income,picky eater,enthusiastic eater,weight,cigarettes,perfume usage (per week)
+33,40.32009849184365,43.86027397260274,Male,Caucasian,No,Single,Graduate School,Do Not Wish To Specify,No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+36,23.333014140253436,25.123287671232877,Male,Other,No,Single,Some College,"$50,000 to $74,999",No,No,Underweight,Very rarely (e.g. 1 per week),8-13 times
+37,25.11817656518682,34.66575342465753,Male,Caucasian,No,Married,College Graduate,"$50,000 to $74,999",No,Yes,Just Right,Less than 5,I do not use perfume cologne and/or toliet water
+38,24.713839750260142,28.915068493150685,Male,Caucasian,No,Single,College Graduate,"$20,000 to $34,999",Yes,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+39,31.01869355177483,31.016438356164382,Female,African-American,No,Single,Graduate School,Do Not Wish To Specify,Yes,Yes,Overweight,I do not smoke,7 times
+42,25.357761501915487,32.68219178082192,Male,Caucasian,No,Married,College Graduate,"$10,000 to $19,999",No,Yes,Just Right,Very rarely (e.g. 1 per week),7 times
+45,35.77169043466366,55.942465753424656,Female,African-American,No,Widowed,College Graduate,"$35,000 to $49,000",Yes,Yes,Overweight,Less than 5,7 times
+46,22.920971074380166,27.627397260273973,Male,Asian,No,Single,College Graduate,"$50,000 to $74,999",Yes,Yes,Underweight,I do not smoke,1-3 times
+52,21.17768595041322,34.5547945205479,Female,Caucasian,No,Do Not Wish To Specify,Graduate School,"$35,000 to $49,000",Yes,No,Just Right,I do not smoke,4-6 times
+53,25.67301430376072,46.47671232876712,Male,Caucasian,No,Single,College Graduate,"less than $10,000",No,Yes,Underweight,I do not smoke,7 times
+55,24.35306365258775,31.17808219178082,Female,Caucasian,No,Married,Graduate School,"$100,000 or more",No,Yes,Just Right,I do not smoke,14 or more times
+56,28.603514334786627,47.706849315068496,Male,Caucasian,No,Single,Do Not Wish To Specify,Do Not Wish To Specify,No,Yes,Just Right,I do not smoke,14 or more times
+61,26.179788974720015,31.775342465753425,Female,Caucasian,No,Married,Graduate School,"$75,000 to $99,999",Yes,Yes,Overweight,I do not smoke,1-3 times
+66,21.052485014724205,36.24657534246575,Male,Caucasian,No,Single,Graduate School,"$35,000 to $49,000",No,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+67,18.73614098613891,32.93150684931507,Female,Caucasian,No,Single,Graduate School,"$35,000 to $49,000",No,No,Just Right,Less than 5,7 times
+68,21.09375,33.273972602739725,Female,African-American,No,Single,Graduate School,"$50,000 to $74,999",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+77,21.410944984758313,27.986301369863014,Female,Caucasian,No,Single,Graduate School,"$35,000 to $49,000",No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+107,21.04804761213529,35.38082191780822,Female,Caucasian,No,Single,College Graduate,Do Not Wish To Specify,Yes,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+108,23.92485822306238,35.10958904109589,Male,Caucasian,No,Married,Graduate School,"$75,000 to $99,999",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+110,31.27953686200378,30.764383561643836,Male,Caucasian,No,Single,Graduate School,"$35,000 to $49,000",Do Not Wish To Specify,Yes,Overweight,I do not smoke,7 times
+111,27.674081105502868,26.638356164383563,Male,Other,No,Single,College Graduate,"$20,000 to $34,999",Yes,No,Just Right,I do not smoke,4-6 times
+112,33.87435440695001,46.46027397260274,Female,African-American,No,Single,Graduate School,"$10,000 to $19,999",No,Yes,Overweight,I do not smoke,1-3 times
+113,23.075381063041526,32.5972602739726,Male,Caucasian,No,Single,Graduate School,"$20,000 to $34,999",No,Yes,Just Right,I do not smoke,1-3 times
+114,31.745062727022983,24.32054794520548,Male,Caucasian,No,Single,College Graduate,Do Not Wish To Specify,Yes,Yes,Overweight,I do not smoke,8-13 times
+115,21.490184414039266,33.31780821917808,Female,African-American,No,Single,College Graduate,Do Not Wish To Specify,No,Yes,Just Right,I do not smoke,4-6 times
+117,27.2,47.0,Female,Caucasian,No,Single,Graduate School,"$50,000 to $74,999",No,Yes,Just Right,I do not smoke,7 times
+118,35.625,55.84109589041096,Female,African-American,Yes,Divorced,College Graduate,"$50,000 to $74,999",No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+124,24.953893635439798,56.33150684931507,Male,African-American,No,Divorced,Some College,"$50,000 to $74,999",No,No,Just Right,005-010,4-6 times
+125,20.56067816775729,31.147945205479452,Female,Caucasian,No,Single,College Graduate,"$35,000 to $49,000",Yes,Yes,Just Right,Less than 5,1-3 times
+126,28.179610820423385,37.24931506849315,Male,African-American,No,Single,College Graduate,Do Not Wish To Specify,Yes,Yes,Just Right,Very rarely (e.g. 1 per week),8-13 times
+127,21.751481210940668,25.610958904109587,Female,Asian,No,Single,College Graduate,Do Not Wish To Specify,No,Yes,Just Right,I do not smoke,1-3 times
+178,22.786437059547538,61.33424657534247,Female,Caucasian,No,Single,Some College,"less than $10,000",No,Yes,Overweight,I do not smoke,4-6 times
+179,21.45087235996327,46.945205479452056,Female,Caucasian,No,Single,College Graduate,Do Not Wish To Specify,Yes,No,Just Right,I do not smoke,8-13 times
+181,34.19855682090216,39.0986301369863,Male,Do Not Wish To Specify,Do Not Wish To Specify,Single,Do Not Wish To Specify,Do Not Wish To Specify,Yes,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+183,23.795359904818564,24.767123287671232,Female,Caucasian,No,Single,College Graduate,"$20,000 to $34,999",No,Yes,Just Right,Very rarely (e.g. 1 per week),4-6 times
+184,20.601057057983873,27.676712328767124,Female,Caucasian,No,Single,College Graduate,"$20,000 to $34,999",Yes,Yes,Just Right,I do not smoke,1-3 times
+185,23.188405797101446,27.410958904109588,Male,Caucasian,No,Single,Graduate School,"$35,000 to $49,000",Yes,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+186,20.18730489073881,26.778082191780822,Female,Asian,No,Domestic Partnership,College Graduate,"$20,000 to $34,999",Yes,No,Just Right,Very rarely (e.g. 1 per week),I do not use perfume cologne and/or toliet water
+188,40.74588171355968,38.56986301369863,Male,Caucasian,Yes,Single,College Graduate,"$100,000 or more",No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+190,22.622301819210104,36.15890410958904,Female,Caucasian,No,Single,College Graduate,"$50,000 to $74,999",No,Yes,Just Right,005-010,1-3 times
+193,29.552549427679498,26.471232876712328,Female,Do Not Wish To Specify,No,Domestic Partnership,Graduate School,"$50,000 to $74,999",No,Yes,Overweight,I do not smoke,4-6 times
+194,21.203703703703702,27.58082191780822,Female,Caucasian,No,Single,College Graduate,"$20,000 to $34,999",Yes,Yes,Just Right,I do not smoke,4-6 times
+195,30.249969810409368,32.06849315068493,Male,African-American,No,Separated,Other Education Beyond High School,Do Not Wish To Specify,No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+196,25.759637188208618,24.243835616438357,Female,Other,Yes,Single,College Graduate,"$35,000 to $49,000",No,No,Overweight,I do not smoke,7 times
+199,20.213628988642512,31.512328767123286,Female,Caucasian,No,Married,College Graduate,"$35,000 to $49,000",No,Yes,Just Right,I do not smoke,1-3 times
+200,20.807656673664884,55.20821917808219,Female,African-American,No,Single,Graduate School,"$35,000 to $49,000",Yes,Yes,Just Right,I do not smoke,1-3 times
+201,22.507021083026775,30.747945205479454,Female,Caucasian,No,Single,Graduate School,"$75,000 to $99,999",No,Yes,Just Right,I do not smoke,1-3 times
+202,22.615268329554045,28.024657534246575,Female,Asian,No,Single,College Graduate,"$20,000 to $34,999",No,Yes,Just Right,Less than 5,7 times
+205,36.31272618408192,29.5972602739726,Female,Other,Yes,Single,College Graduate,"$10,000 to $19,999",No,No,Overweight,I do not smoke,1-3 times
+208,30.23029839962129,37.28767123287671,Male,African-American,No,Single,Some College,"$20,000 to $34,999",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+211,32.879818594104314,28.041095890410958,Female,Other,Yes,Domestic Partnership,Graduate School,"$35,000 to $49,000",No,Yes,Overweight,I do not smoke,4-6 times
+212,24.9215887937849,28.87123287671233,Female,African-American,No,Single,College Graduate,"$50,000 to $74,999",Yes,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+213,22.63310314101136,33.9,Female,Caucasian,No,Domestic Partnership,College Graduate,"$50,000 to $74,999",Yes,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+217,20.63429077256494,28.72876712328767,Male,Asian,No,Single,Graduate School,"$20,000 to $34,999",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+218,34.02366863905325,46.24109589041096,Female,Caucasian,No,Married,College Graduate,Do Not Wish To Specify,No,Yes,Overweight,I do not smoke,1-3 times
+220,20.551115968095683,20.317808219178083,Male,Asian,No,Single,Some College,"$50,000 to $74,999",No,Yes,Underweight,I do not smoke,1-3 times
+221,27.09029056521332,26.01095890410959,Male,Caucasian,No,Single,College Graduate,Do Not Wish To Specify,No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+222,22.24175229853975,24.14246575342466,Male,Caucasian,No,Single,College Graduate,"$20,000 to $34,999",Yes,Yes,Just Right,Less than 5,7 times
+224,24.455791453910237,28.882191780821916,Male,Caucasian,No,Single,College Graduate,"$50,000 to $74,999",No,Yes,Overweight,Very rarely (e.g. 1 per week),4-6 times
+226,33.60429670489186,43.057534246575344,Female,Caucasian,No,Single,Some College,"less than $10,000",No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+228,21.556621638681982,24.624657534246577,Male,Do Not Wish To Specify,Yes,Single,Graduate School,"less than $10,000",No,Yes,Just Right,I do not smoke,1-3 times
+233,21.728395061728396,25.82191780821918,Male,African-American,No,Single,College Graduate,"$20,000 to $34,999",Yes,Yes,Just Right,I do not smoke,1-3 times
+235,21.621427803076482,24.638356164383563,Female,Other,Yes,Single,College Graduate,"$10,000 to $19,999",Yes,No,Just Right,I do not smoke,7 times
+239,28.055758412313722,30.268493150684932,Male,Native American,Yes,Married,College Graduate,"$100,000 or more",No,Yes,Overweight,Very rarely (e.g. 1 per week),7 times
+240,57.7409280190363,36.32876712328767,Female,Caucasian,No,Divorced,College Graduate,"$35,000 to $49,000",No,Yes,Overweight,I do not smoke,8-13 times
+242,25.41533302850175,39.326027397260276,Female,African-American,No,Married,Some College,"$75,000 to $99,999",Yes,No,Just Right,I do not smoke,14 or more times
+243,25.98345187980839,29.85753424657534,Male,African-American,No,Single,Some College,"$35,000 to $49,000",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+246,29.939033241399333,42.28493150684932,Female,Caucasian,No,Single,Some High School,"$10,000 to $19,999",No,Yes,Overweight,010-020,1-3 times
+247,31.24879441379576,35.14794520547945,Female,Caucasian,No,Single,Some College,"$20,000 to $34,999",Yes,No,Overweight,010-020,8-13 times
+249,24.756657483930216,25.90958904109589,Female,Other,Yes,Domestic Partnership,Some College,"$10,000 to $19,999",Yes,Yes,Just Right,I do not smoke,1-3 times
+251,25.198821914949967,19.980821917808218,Male,Caucasian,No,Single,Some College,"$35,000 to $49,000",No,Yes,Just Right,I do not smoke,4-6 times
+253,49.293829360659394,49.487671232876714,Female,Caucasian,No,Married,Some College,"$75,000 to $99,999",No,No,Overweight,I do not smoke,4-6 times
+256,21.177930056710775,30.53150684931507,Male,African-American,No,Single,College Graduate,"less than $10,000",No,Yes,Underweight,I do not smoke,1-3 times
+257,23.086149212275338,38.583561643835615,Female,Caucasian,Yes,Domestic Partnership,Graduate School,"$35,000 to $49,000",No,No,Just Right,Very rarely (e.g. 1 per week),I do not use perfume cologne and/or toliet water
+258,18.404223676383108,48.032876712328765,Female,Caucasian,No,Single,Graduate School,"$50,000 to $74,999",No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+259,40.15958447815123,46.986301369863014,Female,Other,Yes,Divorced,Graduate School,"$75,000 to $99,999",Yes,No,Overweight,I do not smoke,14 or more times
+260,27.87017261300375,75.78904109589041,Male,Caucasian,No,Married,Graduate School,Do Not Wish To Specify,No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+264,20.754658094316657,22.172602739726027,Male,Caucasian,No,Single,College Graduate,"$10,000 to $19,999",Yes,Yes,Underweight,I do not smoke,8-13 times
+265,26.748380095119536,46.12876712328767,Female,African-American,No,Single,Do Not Wish To Specify,Do Not Wish To Specify,Yes,Yes,Do Not Wish To Specify,Do Not Wish To Specify,7 times
+266,29.620181405895693,30.03287671232877,Female,Do Not Wish To Specify,Do Not Wish To Specify,Single,College Graduate,"$35,000 to $49,000",Yes,Yes,Just Right,I do not smoke,7 times
+267,27.55090519025933,24.345205479452055,Female,African-American,No,Single,College Graduate,"less than $10,000",No,No,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+269,25.809189460283168,57.515068493150686,Female,Other,No,Single,Some College,Do Not Wish To Specify,Yes,Yes,Just Right,I do not smoke,8-13 times
+270,22.755965155914655,25.898630136986302,Male,Other,No,Single,College Graduate,"$20,000 to $34,999",No,No,Just Right,I do not smoke,4-6 times
+272,25.337483228521098,30.397260273972602,Female,African-American,No,Single,Graduate School,"$35,000 to $49,000",No,Yes,Just Right,I do not smoke,1-3 times
+273,32.94043861502907,42.704109589041096,Male,African-American,No,Single,Some College,Do Not Wish To Specify,No,Do Not Wish To Specify,Just Right,010-020,Do Not Wish To Specify
+274,38.12891705472498,35.863013698630134,Female,African-American,No,Married,Some College,"$50,000 to $74,999",No,No,Overweight,I do not smoke,7 times
+275,20.568785751957485,30.923287671232877,Female,Caucasian,No,Single,Graduate School,Do Not Wish To Specify,Yes,No,Just Right,I do not smoke,8-13 times
+276,39.01654368786765,27.70958904109589,Female,Other,Yes,Single,Some College,"$20,000 to $34,999",No,Yes,Overweight,I do not smoke,7 times
+278,41.521489645475135,29.638356164383563,Female,African-American,No,Single,Graduate School,"$20,000 to $34,999",No,Yes,Overweight,I do not smoke,1-3 times
+280,22.14034613304489,46.09041095890411,Male,African-American,Yes,Single,High School Graduate,"$20,000 to $34,999",No,Yes,Underweight,I do not smoke,4-6 times
+283,30.693877551020407,30.898630136986302,Male,Other,No,Single,Graduate School,"$35,000 to $49,000",No,No,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+287,23.806228373702425,60.84931506849315,Female,Caucasian,No,Married,College Graduate,Do Not Wish To Specify,No,Yes,Do Not Wish To Specify,010-020,I do not use perfume cologne and/or toliet water
+288,31.28092182961473,23.802739726027397,Male,Other,Yes,Single,Some College,"$20,000 to $34,999",No,Yes,Overweight,I do not smoke,7 times
+290,45.791867583187994,38.41095890410959,Female,African-American,No,Single,Some College,Do Not Wish To Specify,Yes,Yes,Overweight,I do not smoke,1-3 times
+292,21.775147928994084,19.882191780821916,Female,Other,Yes,Single,Some College,"less than $10,000",Yes,Yes,Just Right,I do not smoke,1-3 times
+297,19.79750837442132,32.989041095890414,Female,Caucasian,No,Single,College Graduate,"$50,000 to $74,999",Yes,No,Just Right,I do not smoke,7 times
+298,21.04981790236894,24.947945205479453,Female,African-American,No,Single,Graduate School,Do Not Wish To Specify,Yes,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+299,25.868370585048286,64.74246575342465,Male,Caucasian,No,Domestic Partnership,Graduate School,Do Not Wish To Specify,Yes,No,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+301,38.258477096966104,41.271232876712325,Female,Caucasian,No,Divorced,Some College,"$35,000 to $49,000",Yes,No,Overweight,I do not smoke,14 or more times
+302,27.228402366863907,50.558904109589044,Female,Caucasian,No,Single,High School Graduate,"less than $10,000",Yes,No,Overweight,I do not smoke,14 or more times
+307,42.325806062069795,49.679452054794524,Male,African-American,No,Separated,Some College,"less than $10,000",Yes,No,Overweight,005-010,8-13 times
+308,33.2718581805864,22.317808219178083,Female,Other,No,Single,Some College,"$100,000 or more",No,Yes,Overweight,010-020,8-13 times
+309,23.63109824014257,53.78904109589041,Male,Caucasian,No,Single,College Graduate,"$50,000 to $74,999",No,Yes,Just Right,20-29,7 times
+310,24.423542058586403,43.57808219178082,Female,Caucasian,No,Married,College Graduate,"$100,000 or more",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+311,22.17183169564122,29.55068493150685,Female,Caucasian,No,Single,College Graduate,"$35,000 to $49,000",No,Yes,Just Right,005-010,I do not use perfume cologne and/or toliet water
+313,37.57727506526528,31.572602739726026,Female,African-American,No,Single,College Graduate,"$20,000 to $34,999",No,Yes,Overweight,I do not smoke,4-6 times
+315,19.45129917259399,23.89041095890411,Female,Caucasian,No,Single,Some College,Do Not Wish To Specify,Yes,No,Just Right,I do not smoke,1-3 times
+317,21.903114186851212,33.47671232876712,Female,Caucasian,No,Married,College Graduate,"$35,000 to $49,000",No,Yes,Just Right,I do not smoke,1-3 times
+318,25.27395378651445,30.145205479452056,Male,Caucasian,No,Single,College Graduate,"$20,000 to $34,999",No,No,Just Right,I do not smoke,1-3 times
+319,17.733844549716338,27.65205479452055,Female,Caucasian,No,Single,Some College,"$10,000 to $19,999",No,Yes,Just Right,I do not smoke,4-6 times
+320,29.75802951388889,26.454794520547946,Male,African-American,No,Single,High School Graduate,"less than $10,000",Yes,No,Just Right,005-010,I do not use perfume cologne and/or toliet water
+321,18.850887075274546,21.589041095890412,Male,Caucasian,No,Single,Some College,Do Not Wish To Specify,Yes,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+323,28.393726338561386,55.38082191780822,Female,African-American,No,Divorced,Graduate School,"$50,000 to $74,999",Yes,No,Overweight,I do not smoke,8-13 times
+324,27.144723472202063,50.62191780821918,Female,Caucasian,No,Single,College Graduate,"less than $10,000",No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+325,24.482109227871938,35.52328767123288,Female,Caucasian,Yes,Married,College Graduate,"$50,000 to $74,999",No,Yes,Overweight,Very rarely (e.g. 1 per week),I do not use perfume cologne and/or toliet water
+326,36.89981096408317,41.9013698630137,Female,Other,No,Married,College Graduate,Do Not Wish To Specify,Do Not Wish To Specify,No,Overweight,I do not smoke,8-13 times
+328,20.380340136731384,55.84109589041096,Female,Caucasian,No,Domestic Partnership,Other Education Beyond High School,"$20,000 to $34,999",Yes,Yes,Just Right,I do not smoke,7 times
+329,24.709394078763445,19.767123287671232,Female,Other,No,Single,Some College,"less than $10,000",No,Yes,Just Right,005-010,1-3 times
+330,26.531453383047857,22.983561643835618,Female,Other,Yes,Single,College Graduate,"$20,000 to $34,999",Yes,No,Just Right,I do not smoke,14 or more times
+331,23.411983761179453,24.98904109589041,Male,Other,Yes,Single,College Graduate,"less than $10,000",No,Yes,Just Right,I do not smoke,1-3 times
+332,21.836944940961,23.065753424657533,Female,Asian,No,Single,College Graduate,"less than $10,000",No,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+333,29.281277728482696,46.71232876712329,Female,Do Not Wish To Specify,Yes,Domestic Partnership,High School Graduate,"less than $10,000",No,No,Overweight,Less than 5,I do not use perfume cologne and/or toliet water
+334,25.858572201189833,44.64657534246575,Male,African-American,No,Single,Some College,Do Not Wish To Specify,Yes,No,Underweight,005-010,4-6 times
+335,20.499741735537192,19.279452054794522,Male,Other,Yes,Single,High School Graduate,Do Not Wish To Specify,Yes,No,Just Right,I do not smoke,4-6 times
+336,23.51043657049862,21.632876712328766,Male,Caucasian,No,Single,Some College,"$75,000 to $99,999",No,No,Just Right,Very rarely (e.g. 1 per week),1-3 times
+337,42.18106995884773,32.9041095890411,Female,Other,Yes,Single,College Graduate,Do Not Wish To Specify,No,Yes,Overweight,I do not smoke,7 times
+338,38.258811717881606,47.78356164383562,Male,African-American,No,Married,College Graduate,"$100,000 or more",No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+341,35.693039857227845,60.31506849315068,Male,Caucasian,No,Married,Some College,"$35,000 to $49,000",No,Yes,Overweight,I do not smoke,7 times
+342,32.9417013682332,38.47397260273973,Female,Other,Yes,Single,Some College,"$35,000 to $49,000",No,Yes,Overweight,005-010,8-13 times
+343,25.75821995464853,59.16712328767123,Female,Caucasian,No,Married,Graduate School,Do Not Wish To Specify,Yes,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+344,19.108087679516252,38.19178082191781,Female,Other,No,Married,Graduate School,"$50,000 to $74,999",No,Yes,Underweight,I do not smoke,4-6 times
+345,20.441832091527843,26.043835616438358,Male,African-American,No,Single,Some High School,Do Not Wish To Specify,Yes,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify
+346,18.608223062381853,19.561643835616437,Male,Asian,No,Single,Some College,Do Not Wish To Specify,No,Yes,Underweight,I do not smoke,1-3 times
+347,24.54395854486888,23.865753424657534,Female,Asian,No,Single,College Graduate,"$100,000 or more",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+348,21.868676849831385,27.720547945205478,Male,Caucasian,No,Single,Some College,"$75,000 to $99,999",Yes,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+349,28.628117913832202,43.03013698630137,Male,Other,Yes,Married,High School Graduate,"$10,000 to $19,999",No,No,Just Right,Less than 5,I do not use perfume cologne and/or toliet water
+350,23.608130286579975,34.364383561643834,Male,Caucasian,No,Single,College Graduate,Do Not Wish To Specify,No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+351,26.00681732104532,24.893150684931506,Male,Other,Yes,Single,High School Graduate,Do Not Wish To Specify,Yes,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+352,28.805870702165915,41.99178082191781,Female,Caucasian,No,Single,Some College,"$35,000 to $49,000",No,Yes,Overweight,I do not smoke,1-3 times
+354,40.24531862389317,61.78082191780822,Female,African-American,No,Married,Some College,"$20,000 to $34,999",Yes,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+356,24.11567727877138,22.284931506849315,Male,Other,No,Single,Some College,Do Not Wish To Specify,No,Yes,Overweight,Very rarely (e.g. 1 per week),I do not use perfume cologne and/or toliet water
+357,25.471332644628102,47.912328767123284,Male,Other,Yes,Single,Some College,"$20,000 to $34,999",No,Yes,Just Right,010-020,1-3 times
+359,23.69576446280992,31.98904109589041,Male,Other,Yes,Single,College Graduate,"$35,000 to $49,000",No,Yes,Just Right,I do not smoke,1-3 times
+360,22.900472488949852,26.6,Female,Asian,No,Single,Graduate School,"$35,000 to $49,000",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+363,33.137241941525104,21.27123287671233,Male,African-American,No,Single,Some College,Do Not Wish To Specify,No,No,Overweight,I do not smoke,4-6 times
+364,23.910034602076124,32.394520547945206,Female,Other,No,Married,College Graduate,"$50,000 to $74,999",Yes,No,Just Right,I do not smoke,7 times
+365,26.195328945170235,20.54794520547945,Female,Other,Yes,Single,Some College,"less than $10,000",No,Yes,Just Right,I do not smoke,1-3 times
+366,69.2973370309733,40.013698630136986,Male,Other,Yes,Single,Graduate School,"$10,000 to $19,999",Yes,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+369,25.60585276634659,45.58082191780822,Female,Caucasian,No,Single,Some College,"less than $10,000",Yes,Yes,Overweight,010-020,14 or more times
+371,19.385206340992546,42.14520547945205,Female,Other,Yes,Single,Some College,"$20,000 to $34,999",Yes,No,Just Right,005-010,1-3 times
+373,28.397395505145973,24.671232876712327,Male,Other,Yes,Single,High School Graduate,"$20,000 to $34,999",Yes,Yes,Just Right,I do not smoke,1-3 times
+374,33.24074356704619,39.14520547945205,Female,Caucasian,Yes,Single,High School Graduate,"less than $10,000",No,No,Overweight,Less than 5,4-6 times
+376,21.185794848346283,24.50958904109589,Female,Caucasian,No,Single,College Graduate,Do Not Wish To Specify,No,No,Just Right,Very rarely (e.g. 1 per week),7 times
+377,28.805870702165915,60.397260273972606,Female,Caucasian,No,Married,High School Graduate,"$35,000 to $49,000",Yes,No,Overweight,I do not smoke,1-3 times
+379,24.794541916733028,24.5972602739726,Male,Caucasian,No,Single,Graduate School,"$20,000 to $34,999",No,Yes,Just Right,Very rarely (e.g. 1 per week),I do not use perfume cologne and/or toliet water
+380,19.68555951909103,27.273972602739725,Male,Caucasian,No,Single,Some College,"less than $10,000",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+381,29.192263273842453,36.62739726027397,Female,African-American,Yes,Domestic Partnership,Graduate School,"$20,000 to $34,999",No,Yes,Just Right,I do not smoke,1-3 times
+382,17.57565771406602,25.706849315068492,Female,African-American,No,Single,Some College,"$10,000 to $19,999",Yes,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+384,19.42721893491124,23.457534246575342,Female,Caucasian,Yes,Single,College Graduate,"less than $10,000",No,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+385,52.45674740484429,26.27123287671233,Female,Other,Yes,Single,College Graduate,"$100,000 or more",Yes,No,Overweight,Very rarely (e.g. 1 per week),4-6 times
+386,25.517762660619805,40.75068493150685,Female,Other,Yes,Single,College Graduate,"$35,000 to $49,000",No,Yes,Overweight,Very rarely (e.g. 1 per week),I do not use perfume cologne and/or toliet water
+388,20.15621063240111,32.73972602739726,Female,Asian,No,Single,College Graduate,Do Not Wish To Specify,Yes,No,Just Right,I do not smoke,1-3 times
+391,25.783152767279752,38.47945205479452,Male,Caucasian,No,Divorced,Some College,"$50,000 to $74,999",Yes,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+393,,35.61917808219178,Male,Caucasian,No,Married,College Graduate,"$50,000 to $74,999",Yes,Yes,Overweight,I do not smoke,1-3 times
+394,27.537738893470543,31.53150684931507,Female,Caucasian,No,Single,College Graduate,"$35,000 to $49,000",No,Yes,Overweight,I do not smoke,1-3 times
+396,32.610569699756155,27.317808219178083,Female,African-American,No,Married,Some College,"$20,000 to $34,999",No,Yes,Overweight,I do not smoke,8-13 times
+397,24.000724550175097,35.032876712328765,Female,Other,No,Single,Some College,Do Not Wish To Specify,Yes,Yes,Overweight,I do not smoke,7 times
+399,48.85392750950356,21.78904109589041,Female,African-American,No,Domestic Partnership,Some College,"$100,000 or more",Yes,No,Overweight,I do not smoke,8-13 times
+401,22.3538480262891,46.73424657534247,Female,Caucasian,No,Single,College Graduate,"$20,000 to $34,999",Yes,Yes,Just Right,40 or more,8-13 times
+403,31.728395061728392,34.3,Male,African-American,No,Single,Some High School,Do Not Wish To Specify,Yes,Do Not Wish To Specify,Do Not Wish To Specify,I do not smoke,1-3 times
+404,17.318656100971708,19.364383561643837,Female,Caucasian,No,Single,High School Graduate,"$50,000 to $74,999",No,Yes,Just Right,I do not smoke,4-6 times
+405,44.61871281773932,20.15890410958904,Male,Asian,No,Single,Some College,"$20,000 to $34,999",No,Yes,Just Right,010-020,I do not use perfume cologne and/or toliet water
+406,30.271642888168664,48.95890410958904,Male,Other,Yes,Do Not Wish To Specify,College Graduate,Do Not Wish To Specify,Yes,Yes,Overweight,I do not smoke,Do Not Wish To Specify
+407,24.246776786019634,36.5013698630137,Male,Other,Yes,Single,High School Graduate,"less than $10,000",No,Yes,Underweight,I do not smoke,I do not use perfume cologne and/or toliet water
+409,,36.0027397260274,Male,Caucasian,Do Not Wish To Specify,Married,High School Graduate,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify,Just Right,Less than 5,1-3 times
+410,35.32123735871506,28.205479452054796,Male,Other,Yes,Single,Some High School,Do Not Wish To Specify,Yes,No,Overweight,005-010,7 times
+411,18.06616733787497,38.942465753424656,Female,Caucasian,No,Divorced,Some College,"$20,000 to $34,999",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+413,31.436845622633104,40.775342465753425,Male,Other,Yes,Single,College Graduate,"$35,000 to $49,000",Yes,Yes,Overweight,010-020,4-6 times
+414,25.697959183673472,28.167123287671235,Female,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify,I do not smoke,Do Not Wish To Specify
+417,25.4653717192739,20.09315068493151,Male,African-American,No,Single,Some College,"$100,000 or more",Yes,No,Just Right,I do not smoke,7 times
+420,22.041522491349486,36.293150684931504,Female,Caucasian,No,Domestic Partnership,High School Graduate,"$10,000 to $19,999",Yes,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+421,24.168962350780536,39.71506849315068,Female,Other,No,Married,Some College,"$35,000 to $49,000",No,Yes,Overweight,I do not smoke,1-3 times
+422,32.77352607709751,55.7,Male,Caucasian,No,Divorced,Graduate School,Do Not Wish To Specify,No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+425,32.67586093591697,36.797260273972604,Female,African-American,No,Single,High School Graduate,"less than $10,000",No,Yes,Overweight,Less than 5,1-3 times
+426,27.43504137030048,42.36986301369863,Male,Caucasian,Yes,Single,Some College,"$50,000 to $74,999",No,Yes,Just Right,010-020,1-3 times
+427,29.968413083770585,21.205479452054796,Male,African-American,No,Single,Some College,Do Not Wish To Specify,Yes,No,Just Right,I do not smoke,8-13 times
+429,26.31417488700584,26.564383561643837,Male,Other,Yes,Single,Some College,"$75,000 to $99,999",No,Yes,Overweight,I do not smoke,1-3 times
+431,25.75147928994083,27.073972602739726,Female,Caucasian,No,Single,College Graduate,Do Not Wish To Specify,Yes,Yes,Just Right,I do not smoke,8-13 times
+432,23.524529988189855,43.1972602739726,Male,African-American,No,Single,Some College,"less than $10,000",Yes,Yes,Just Right,I do not smoke,1-3 times
+433,20.247431043807467,64.76712328767124,Male,Caucasian,No,Single,High School Graduate,"$50,000 to $74,999",Yes,No,Underweight,010-020,4-6 times
+434,24.315221657341567,22.736986301369864,Female,Caucasian,No,Single,Some College,"$100,000 or more",No,Yes,Overweight,Less than 5,8-13 times
+435,30.009182736455468,33.62465753424657,Male,African-American,No,Married,High School Graduate,"$35,000 to $49,000",No,Yes,Overweight,I do not smoke,4-6 times
+436,22.69498966942149,29.16986301369863,Male,Other,No,Single,Some College,"less than $10,000",No,Yes,Just Right,I do not smoke,7 times
+439,,35.23013698630137,Male,Other,No,Married,Graduate School,Do Not Wish To Specify,No,Yes,Overweight,I do not smoke,8-13 times
+441,15.970205782098219,19.956164383561642,Male,African-American,No,Single,Some High School,Do Not Wish To Specify,No,Yes,Underweight,005-010,4-6 times
+442,21.83391003460208,25.33150684931507,Female,African-American,No,Single,Some High School,"$35,000 to $49,000",Yes,Yes,Underweight,40 or more,1-3 times
+445,35.91836734693877,47.63013698630137,Female,African-American,No,Single,Other Education Beyond High School,Do Not Wish To Specify,Yes,No,Do Not Wish To Specify,005-010,I do not use perfume cologne and/or toliet water
+448,37.15737240075614,49.42739726027397,Male,Caucasian,No,Single,Some College,Do Not Wish To Specify,No,Yes,Overweight,005-010,I do not use perfume cologne and/or toliet water
+449,33.88343753493692,55.18082191780822,Female,Caucasian,No,Married,Graduate School,"$100,000 or more",No,Yes,Overweight,I do not smoke,4-6 times
+454,24.664390571116517,25.4027397260274,Female,Caucasian,No,Single,Some College,"$75,000 to $99,999",No,Yes,Just Right,Less than 5,14 or more times
+455,24.272214601432704,51.271232876712325,Female,Caucasian,No,Married,High School Graduate,"$35,000 to $49,000",No,Yes,Just Right,I do not smoke,8-13 times
+456,31.74572745832894,43.06575342465754,Female,Caucasian,No,Married,Graduate School,"$100,000 or more",No,Yes,Overweight,I do not smoke,7 times
+457,21.426832237643048,21.019178082191782,Female,African-American,No,Single,Some College,"$20,000 to $34,999",Yes,Yes,Just Right,I do not smoke,4-6 times
+458,30.305896922111085,44.084931506849315,Female,African-American,No,Widowed,Some College,"less than $10,000",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+459,28.13208616780046,43.63013698630137,Female,African-American,No,Married,Some High School,"less than $10,000",No,Yes,Just Right,005-010,4-6 times
+460,25.50361570247934,19.284931506849315,Male,Caucasian,No,Single,Some College,"less than $10,000",No,Yes,Just Right,Less than 5,I do not use perfume cologne and/or toliet water
+461,22.13877551020408,46.87123287671233,Female,Caucasian,No,Divorced,College Graduate,"$35,000 to $49,000",No,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+463,30.793672255273123,32.21643835616438,Male,Other,Yes,Single,Some College,Do Not Wish To Specify,No,Yes,Just Right,005-010,1-3 times
+464,34.423668639053254,24.671232876712327,Female,Other,Yes,Single,Some College,"less than $10,000",Yes,No,Overweight,I do not smoke,7 times
+465,54.9346016646849,51.726027397260275,Female,Other,Yes,Married,Some College,"$35,000 to $49,000",No,Yes,Overweight,Less than 5,8-13 times
+466,18.194005553959588,30.043835616438358,Male,Caucasian,Yes,Single,Graduate School,"$20,000 to $34,999",Yes,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+468,23.918477854645417,39.320547945205476,Male,Do Not Wish To Specify,No,Single,Other,Do Not Wish To Specify,Yes,No,Underweight,I do not smoke,Do Not Wish To Specify
+469,27.531956735496554,45.05205479452055,Female,African-American,No,Single,High School Graduate,Do Not Wish To Specify,Yes,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify
+470,22.3948060486522,42.45753424657534,Male,Native American,Yes,Single,High School Graduate,"less than $10,000",No,No,Underweight,005-010,4-6 times
+471,28.713398082767448,39.73972602739726,Female,Asian,No,Married,College Graduate,"$75,000 to $99,999",No,No,Overweight,I do not smoke,4-6 times
+472,23.04398316156191,55.20821917808219,Female,Caucasian,No,Married,College Graduate,"$100,000 or more",No,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+473,,61.013698630136986,Female,Caucasian,No,Married,Graduate School,Do Not Wish To Specify,No,Yes,Just Right,I do not smoke,8-13 times
+474,20.694561210631832,20.671232876712327,Female,Asian,No,Single,Some College,"$75,000 to $99,999",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+475,23.34595678324794,24.813698630136987,Male,African-American,No,Single,Some College,"less than $10,000",Yes,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+476,48.619484994072025,24.682191780821917,Male,Caucasian,No,Single,College Graduate,"less than $10,000",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+477,27.77427092538821,35.07671232876712,Male,Caucasian,No,Single,Graduate School,Do Not Wish To Specify,Yes,No,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+480,19.30780323666079,44.054794520547944,Male,Asian,No,Single,College Graduate,"$50,000 to $74,999",Yes,No,Overweight,I do not smoke,7 times
+481,20.792722547108514,28.594520547945205,Male,Caucasian,No,Single,Graduate School,"$10,000 to $19,999",No,No,Underweight,Less than 5,4-6 times
+482,26.9643444695006,55.83561643835616,Male,Caucasian,No,Single,College Graduate,"$10,000 to $19,999",No,Yes,Overweight,I do not smoke,1-3 times
+483,27.863748487172145,58.68493150684932,Female,Caucasian,No,Divorced,College Graduate,Do Not Wish To Specify,No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+484,22.49002378369772,29.117808219178084,Male,African-American,No,Single,Some High School,"less than $10,000",Yes,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify
+490,32.29449650499069,47.49315068493151,Male,African-American,No,Separated,High School Graduate,"$35,000 to $49,000",Yes,Yes,Overweight,Less than 5,7 times
+491,34.40786465477823,53.66849315068493,Female,African-American,Yes,Separated,Some High School,"$10,000 to $19,999",No,No,Overweight,I do not smoke,4-6 times
+493,21.698597752745744,24.405479452054795,Male,Caucasian,No,Single,College Graduate,"$35,000 to $49,000",No,Yes,Just Right,I do not smoke,4-6 times
+494,19.30617475310963,48.14794520547945,Male,African-American,No,Domestic Partnership,Some College,Do Not Wish To Specify,Yes,Yes,Underweight,005-010,I do not use perfume cologne and/or toliet water
+495,23.230903784357466,27.32054794520548,Female,Asian,No,Single,College Graduate,"$75,000 to $99,999",No,Yes,Just Right,I do not smoke,7 times
+496,22.76883359030442,23.936986301369863,Female,Asian,No,Single,College Graduate,"$50,000 to $74,999",Yes,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+497,24.664390571116517,28.03287671232877,Female,African-American,No,Single,College Graduate,Do Not Wish To Specify,No,Yes,Overweight,Very rarely (e.g. 1 per week),I do not use perfume cologne and/or toliet water
+498,26.415891800507183,41.07945205479452,Male,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify,High School Graduate,Do Not Wish To Specify,No,Yes,Do Not Wish To Specify,I do not smoke,Do Not Wish To Specify
+500,20.693440082644628,61.09315068493151,Female,Caucasian,No,Single,Graduate School,"$35,000 to $49,000",No,Yes,Just Right,I do not smoke,7 times
+501,26.87867813490267,38.93698630136986,Male,Caucasian,No,Single,College Graduate,"$10,000 to $19,999",No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+502,30.778701138811947,52.38082191780822,Male,Caucasian,No,Domestic Partnership,College Graduate,"$100,000 or more",Yes,Yes,Overweight,I do not smoke,14 or more times
+503,20.60147026063711,24.134246575342466,Female,Caucasian,No,Single,Some College,Do Not Wish To Specify,No,Yes,Underweight,005-010,4-6 times
+504,23.26019044751402,23.72876712328767,Female,Caucasian,No,Single,College Graduate,"$50,000 to $74,999",No,Yes,Overweight,Very rarely (e.g. 1 per week),I do not use perfume cologne and/or toliet water
+505,21.159183673469386,27.002739726027396,Male,Asian,No,Single,Graduate School,"$20,000 to $34,999",No,Yes,Just Right,I do not smoke,4-6 times
+506,22.6599124801931,29.167123287671235,Female,Caucasian,No,Married,College Graduate,"$35,000 to $49,000",No,No,Just Right,I do not smoke,8-13 times
+507,27.239224483255885,50.9013698630137,Female,Caucasian,No,Domestic Partnership,College Graduate,"$50,000 to $74,999",No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+508,24.99248220789201,62.93424657534246,Male,Caucasian,No,Married,College Graduate,"$35,000 to $49,000",Yes,Yes,Just Right,I do not smoke,1-3 times
+509,27.297959183673466,25.265753424657536,Male,Other,Yes,Single,High School Graduate,"$20,000 to $34,999",No,Yes,Just Right,I do not smoke,1-3 times
+510,22.726326742976063,20.13150684931507,Female,Caucasian,No,Single,Some College,"$50,000 to $74,999",Yes,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+511,19.47111720774272,30.12054794520548,Female,Other,Yes,Single,College Graduate,"$50,000 to $74,999",Yes,Yes,Just Right,I do not smoke,4-6 times
+516,19.9343546613808,66.04931506849314,Female,Caucasian,No,Married,College Graduate,"$100,000 or more",No,Yes,Just Right,I do not smoke,8-13 times
+519,22.083984318837523,38.484931506849314,Female,Caucasian,Yes,Single,College Graduate,"$50,000 to $74,999",Yes,Yes,Just Right,I do not smoke,8-13 times
+520,25.059967175861633,51.66301369863014,Male,Other,Yes,Single,Some College,"$10,000 to $19,999",No,Yes,Just Right,I do not smoke,1-3 times
+523,25.734016484740476,56.26027397260274,Male,African-American,No,Separated,Some High School,"$20,000 to $34,999",No,Yes,Just Right,Less than 5,Do Not Wish To Specify
+524,26.36079714455682,44.94794520547945,Female,African-American,No,Single,Other,Do Not Wish To Specify,Yes,Yes,Underweight,005-010,7 times
+526,21.6464987105733,43.084931506849315,Male,Native American,No,Married,High School Graduate,"$50,000 to $74,999",No,Yes,Just Right,I do not smoke,1-3 times
+527,21.247773006789764,58.45753424657534,Female,Caucasian,No,Divorced,Graduate School,"less than $10,000",Yes,Yes,Overweight,I do not smoke,1-3 times
+529,25.637869822485207,21.673972602739727,Female,Caucasian,No,Do Not Wish To Specify,Some College,Do Not Wish To Specify,Yes,No,Just Right,Do Not Wish To Specify,4-6 times
+530,36.14053295076463,32.772602739726025,Female,African-American,Yes,Single,Some College,"$10,000 to $19,999",Yes,Yes,Overweight,010-020,1-3 times
+532,21.02918244597906,25.54794520547945,Female,Asian,No,Single,College Graduate,"$100,000 or more",No,Yes,Overweight,I do not smoke,8-13 times
+535,20.06232274780295,51.175342465753424,Female,Caucasian,No,Single,Graduate School,"$100,000 or more",No,Yes,Just Right,I do not smoke,7 times
+537,24.331022894349925,29.17808219178082,Male,Asian,No,Single,High School Graduate,Do Not Wish To Specify,No,Yes,Just Right,Less than 5,1-3 times
+539,27.60945175517229,49.2,Male,African-American,No,Single,Some College,"less than $10,000",Yes,Yes,Just Right,010-020,8-13 times
+540,21.306818181818183,47.52602739726027,Male,Caucasian,No,Married,High School Graduate,Do Not Wish To Specify,Yes,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+541,32.751020408163264,44.895890410958906,Male,Caucasian,No,Divorced,Some College,"$20,000 to $34,999",No,Yes,Overweight,Less than 5,7 times
+542,20.397146392711505,21.057534246575344,Female,African-American,Yes,Single,High School Graduate,"$20,000 to $34,999",Yes,No,Just Right,I do not smoke,1-3 times
+544,17.384952520087655,32.89041095890411,Male,Other,Yes,Divorced,High School Graduate,"less than $10,000",Yes,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+545,27.38357407707083,35.5013698630137,Male,Caucasian,No,Married,Graduate School,"$75,000 to $99,999",No,Yes,Overweight,Very rarely (e.g. 1 per week),7 times
+548,33.63265306122449,37.1013698630137,Male,Do Not Wish To Specify,Yes,Single,High School Graduate,"less than $10,000",Yes,No,Just Right,20-29,I do not use perfume cologne and/or toliet water
+549,29.919506328145584,41.912328767123284,Male,Other,Yes,Single,High School Graduate,"less than $10,000",No,Yes,Just Right,005-010,1-3 times
+551,23.570415879017013,35.273972602739725,Male,Caucasian,No,Married,Some College,"$20,000 to $34,999",Yes,No,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+552,22.236734693877548,39.20821917808219,Male,Other,Do Not Wish To Specify,Married,Some College,Do Not Wish To Specify,Do Not Wish To Specify,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+553,30.046292252598484,57.484931506849314,Female,Caucasian,No,Widowed,Some College,"$20,000 to $34,999",Yes,Yes,Overweight,I do not smoke,1-3 times
+554,31.28334095412284,39.104109589041094,Female,Other,Yes,Single,Some High School,,,,,,
+555,23.18763547575347,22.964383561643835,Male,Caucasian,No,Single,College Graduate,"$20,000 to $34,999",No,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+556,25.697959183673472,22.572602739726026,Female,Caucasian,No,Single,College Graduate,"less than $10,000",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+557,26.39094826299396,41.47945205479452,Female,Asian,No,Single,College Graduate,"less than $10,000",No,No,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+558,27.871823809035263,47.49041095890411,Male,African-American,No,Married,College Graduate,"$35,000 to $49,000",Yes,No,Just Right,I do not smoke,14 or more times
+559,26.55737419618694,53.586301369863016,Male,Caucasian,No,Single,Graduate School,Do Not Wish To Specify,Yes,Yes,Overweight,I do not smoke,1-3 times
+562,21.855131140613793,19.065753424657533,Female,Caucasian,No,Single,High School Graduate,"less than $10,000",Yes,Yes,Just Right,I do not smoke,8-13 times
+563,27.82011847281423,38.74246575342466,Female,African-American,No,Married,College Graduate,"$75,000 to $99,999",Yes,No,Overweight,I do not smoke,8-13 times
+564,23.798508128992463,34.31232876712329,Male,Caucasian,No,Single,Graduate School,"less than $10,000",No,Yes,Just Right,I do not smoke,1-3 times
+565,20.895436551677864,34.03013698630137,Female,Other,Yes,Single,Some High School,Do Not Wish To Specify,No,Yes,Just Right,010-020,14 or more times
+567,23.320411464851503,19.854794520547944,Female,Caucasian,No,Single,Some College,Do Not Wish To Specify,Yes,No,Just Right,010-020,4-6 times
+568,30.048064170442128,31.0,Female,Other,Yes,Single,College Graduate,"$20,000 to $34,999",No,Yes,Overweight,Very rarely (e.g. 1 per week),I do not use perfume cologne and/or toliet water
+570,27.76388449407466,52.29041095890411,Female,Asian,No,Married,College Graduate,"$50,000 to $74,999",No,No,Overweight,I do not smoke,1-3 times
+572,22.2668435583922,60.104109589041094,Female,Caucasian,No,Divorced,High School Graduate,"$10,000 to $19,999",No,No,Just Right,005-010,1-3 times
+573,28.051720359412673,28.087671232876712,Male,Other,Yes,Single,Other,Do Not Wish To Specify,Yes,Yes,Overweight,Do Not Wish To Specify,Do Not Wish To Specify
+574,32.60250893609271,46.320547945205476,Male,Caucasian,No,Divorced,Some College,"less than $10,000",No,Yes,Overweight,20-29,8-13 times
+575,24.315886134067956,25.945205479452056,Male,Other,Yes,Single,High School Graduate,"less than $10,000",Yes,No,Just Right,I do not smoke,4-6 times
+576,22.60042483294777,30.526027397260275,Female,Caucasian,Yes,Married,College Graduate,Do Not Wish To Specify,No,No,Just Right,Less than 5,8-13 times
+577,22.251936837162777,37.48219178082192,Female,Asian,No,Single,Graduate School,"$35,000 to $49,000",No,Yes,Overweight,I do not smoke,1-3 times
+580,22.398424282215096,24.005479452054793,Male,Caucasian,No,Domestic Partnership,College Graduate,"$10,000 to $19,999",No,Yes,Just Right,Very rarely (e.g. 1 per week),I do not use perfume cologne and/or toliet water
+581,21.498107084910764,21.019178082191782,Female,Asian,No,Single,Some College,"$75,000 to $99,999",Yes,Yes,Just Right,I do not smoke,1-3 times
+582,23.931855056787455,42.06301369863014,Male,Caucasian,No,Domestic Partnership,High School Graduate,Do Not Wish To Specify,Yes,Yes,Just Right,010-020,7 times
+583,25.5078125,29.9,Female,Caucasian,No,Single,College Graduate,"$50,000 to $74,999",No,Yes,Overweight,Very rarely (e.g. 1 per week),7 times
+700,31.086488150200065,22.243835616438357,Female,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify,Do Not Wish To Specify,Yes,Yes,Overweight,I do not smoke,14 or more times
+701,21.998485039767708,39.391780821917806,Male,Caucasian,No,Single,Some College,Do Not Wish To Specify,Yes,Yes,Just Right,I do not smoke,8-13 times
+702,24.90973264635482,52.95068493150685,Female,African-American,No,Single,Other Education Beyond High School,"$35,000 to $49,000",Yes,Yes,Just Right,005-010,4-6 times
+703,24.333881866881416,32.221917808219175,Female,Caucasian,No,Married,Graduate School,"$75,000 to $99,999",Yes,Yes,Overweight,I do not smoke,4-6 times
+704,31.14727153188691,30.610958904109587,Female,Caucasian,No,Single,College Graduate,"$20,000 to $34,999",Yes,Yes,Overweight,005-010,4-6 times
+705,21.304003170828377,23.397260273972602,Male,African-American,No,Single,High School Graduate,"less than $10,000",Yes,Yes,Underweight,005-010,I do not use perfume cologne and/or toliet water
+706,22.789955000725794,36.30684931506849,Female,African-American,No,Single,Graduate School,"$50,000 to $74,999",No,Yes,Just Right,I do not smoke,7 times
+707,22.017045454545457,29.65205479452055,Male,African-American,No,Single,College Graduate,"$20,000 to $34,999",No,No,Underweight,I do not smoke,I do not use perfume cologne and/or toliet water
+708,27.68166089965398,47.95616438356164,Female,African-American,No,Single,Some College,Do Not Wish To Specify,Yes,Yes,Overweight,005-010,1-3 times
+709,30.12350296220112,58.18356164383562,Male,Caucasian,No,Single,College Graduate,"less than $10,000",Yes,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+710,28.655378779689666,45.06849315068493,Female,Caucasian,No,Single,Graduate School,Do Not Wish To Specify,No,Yes,Overweight,I do not smoke,7 times
+711,43.56586074778703,51.43013698630137,Female,African-American,No,Married,Other Education Beyond High School,"$75,000 to $99,999",No,No,Overweight,Less than 5,8-13 times
+712,27.13331824354912,29.915068493150685,Male,Caucasian,No,Domestic Partnership,College Graduate,"$75,000 to $99,999",No,Yes,Overweight,I do not smoke,1-3 times
+713,36.630959882377645,27.167123287671235,Female,African-American,No,Domestic Partnership,College Graduate,"less than $10,000",Yes,Yes,Overweight,I do not smoke,1-3 times
+714,24.27930056710775,51.082191780821915,Male,African-American,No,Single,College Graduate,Do Not Wish To Specify,Yes,No,Just Right,010-020,14 or more times
+715,26.64424755868848,57.8,Female,Caucasian,No,Married,Graduate School,"$50,000 to $74,999",No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+716,33.10057482350218,47.775342465753425,Male,Caucasian,No,Single,College Graduate,"$50,000 to $74,999",Yes,No,Overweight,010-020,1-3 times
+719,29.285817970677893,39.134246575342466,Female,African-American,No,Separated,Some College,"$75,000 to $99,999",No,Yes,Overweight,20-29,8-13 times
+720,22.72189349112426,24.81095890410959,Female,Other,No,Single,College Graduate,"$20,000 to $34,999",No,Yes,Just Right,I do not smoke,1-3 times
+721,23.57162146522125,65.5,Female,Other,,,,,,,,,8-13 times
+723,21.945888468809073,19.26027397260274,Male,Caucasian,No,Single,High School Graduate,"$20,000 to $34,999",No,Yes,Just Right,Less than 5,1-3 times
+724,22.625181662042543,29.594520547945205,Male,Other,Yes,Single,College Graduate,"$35,000 to $49,000",No,Yes,Just Right,I do not smoke,7 times
+725,25.342200413223143,36.3041095890411,Male,Other,Yes,Separated,College Graduate,"$20,000 to $34,999",No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+727,21.271000730460187,45.3013698630137,Male,Caucasian,No,Married,Graduate School,Do Not Wish To Specify,No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+728,25.139273816522493,27.83013698630137,Male,African-American,No,Single,Some College,Do Not Wish To Specify,No,Yes,Just Right,005-010,1-3 times
+731,31.459692269279984,35.99452054794521,Male,Caucasian,No,Single,High School Graduate,"$10,000 to $19,999",No,Yes,Overweight,30-39,I do not use perfume cologne and/or toliet water
+732,25.224813290656908,42.26301369863014,Female,Caucasian,No,Single,Some College,"less than $10,000",No,No,Just Right,20-29,8-13 times
+733,19.77040816326531,26.361643835616437,Female,Caucasian,No,Single,College Graduate,"$20,000 to $34,999",No,Yes,Just Right,I do not smoke,1-3 times
+735,29.453931319196847,46.83287671232877,Male,African-American,No,Domestic Partnership,Some College,"$10,000 to $19,999",No,Yes,Overweight,010-020,7 times
+737,29.43998245662126,48.964383561643835,Male,African-American,No,Married,College Graduate,"$10,000 to $19,999",Yes,Yes,Overweight,005-010,4-6 times
+738,22.776518014613256,37.99178082191781,Female,Caucasian,No,Single,College Graduate,"$10,000 to $19,999",No,Yes,Just Right,I do not smoke,4-6 times
+739,30.583259689433152,36.4,Male,Native American,Yes,Single,Grades 1-8,"less than $10,000",Yes,Yes,Just Right,I do not smoke,7 times
+740,23.541290254012115,30.12876712328767,Male,Asian,No,Single,Graduate School,"$75,000 to $99,999",Yes,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+743,26.09534669532038,42.85479452054795,Female,Other,Yes,Single,Some College,"$10,000 to $19,999",No,No,Just Right,005-010,4-6 times
+745,31.804453680141584,38.13972602739726,Male,Other,Yes,Single,High School Graduate,"less than $10,000",Yes,Yes,Overweight,I do not smoke,7 times
+746,20.55797407651261,63.74794520547945,Female,Caucasian,No,Single,College Graduate,Do Not Wish To Specify,Yes,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+748,25.69661232512429,30.389041095890413,Male,African-American,No,Married,College Graduate,Do Not Wish To Specify,No,Yes,Just Right,I do not smoke,1-3 times
+749,26.2890625,28.07123287671233,Female,Caucasian,Yes,Single,Graduate School,"$50,000 to $74,999",No,Yes,Overweight,I do not smoke,1-3 times
+750,34.92741584589217,30.624657534246577,Female,African-American,No,Married,Do Not Wish To Specify,Do Not Wish To Specify,No,Yes,Just Right,Do Not Wish To Specify,1-3 times
+751,28.815806085090266,32.28219178082192,Male,African-American,No,Single,College Graduate,"$10,000 to $19,999",No,Yes,Just Right,I do not smoke,1-3 times
+752,21.551004042901532,44.45479452054794,Female,Caucasian,No,Married,Graduate School,"$100,000 or more",No,No,Just Right,005-010,7 times
+753,21.91764459971931,24.04931506849315,Male,African-American,No,Single,Some College,Do Not Wish To Specify,No,Yes,Just Right,005-010,1-3 times
+754,22.17362559121192,23.613698630136987,Male,Asian,No,Single,College Graduate,"less than $10,000",Yes,Yes,Just Right,Less than 5,I do not use perfume cologne and/or toliet water
+755,22.66270661157025,44.07671232876712,Male,Caucasian,No,Married,Graduate School,"$100,000 or more",Yes,Yes,Overweight,Very rarely (e.g. 1 per week),I do not use perfume cologne and/or toliet water
+756,30.787488927683796,30.86027397260274,Female,African-American,No,Single,Graduate School,"$50,000 to $74,999",Yes,No,Overweight,I do not smoke,4-6 times
+760,23.104896582694217,25.90958904109589,Male,African-American,No,Single,College Graduate,"$20,000 to $34,999",Yes,No,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+761,20.09733552746753,58.69041095890411,Female,Caucasian,No,Married,Some College,"$100,000 or more",No,No,Just Right,I do not smoke,8-13 times
+762,20.34466899331764,42.0027397260274,Female,Caucasian,No,Single,Graduate School,"$50,000 to $74,999",No,Yes,Just Right,I do not smoke,1-3 times
+763,25.47792483157211,36.983561643835614,Female,African-American,No,Single,Graduate School,"$50,000 to $74,999",Yes,Yes,Just Right,I do not smoke,4-6 times
+764,24.70508085625157,64.56712328767124,Male,Caucasian,No,Single,High School Graduate,"$10,000 to $19,999",No,No,Underweight,I do not smoke,I do not use perfume cologne and/or toliet water
+765,20.253848231163918,23.076712328767123,Female,Caucasian,No,Single,College Graduate,"$20,000 to $34,999",Yes,Yes,Just Right,I do not smoke,1-3 times
+766,30.637440161249685,31.5013698630137,Female,African-American,No,Married,Some College,"$35,000 to $49,000",No,Yes,Overweight,I do not smoke,1-3 times
+767,16.448150463594818,60.512328767123286,Female,Caucasian,No,Single,College Graduate,"$35,000 to $49,000",No,Yes,Underweight,I do not smoke,7 times
+771,30.298684068987775,64.43561643835616,Male,Caucasian,No,Married,Graduate School,Do Not Wish To Specify,No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+772,22.467599235733307,21.482191780821918,Male,Caucasian,No,Single,Some College,"$20,000 to $34,999",No,No,Just Right,I do not smoke,8-13 times
+774,28.719723183391007,23.55890410958904,Male,African-American,No,Single,Some College,"$10,000 to $19,999",No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+775,21.25624402168137,31.46027397260274,Male,Caucasian,No,Single,Graduate School,"$35,000 to $49,000",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+776,26.730371900826444,41.989041095890414,Male,African-American,No,Domestic Partnership,Some College,"$20,000 to $34,999",Yes,No,Overweight,005-010,4-6 times
+778,24.359861591695505,21.03013698630137,Male,Caucasian,Yes,Single,Some High School,"less than $10,000",Yes,No,Just Right,Very rarely (e.g. 1 per week),7 times
+782,25.1953125,41.84109589041096,Female,African-American,No,Married,High School Graduate,"$10,000 to $19,999",Yes,Yes,Overweight,005-010,7 times
+783,25.598335067637873,48.09041095890411,Female,Other,Yes,Separated,Some High School,"less than $10,000",No,Yes,Just Right,010-020,4-6 times
+784,20.37396449704142,24.07945205479452,Female,Caucasian,No,Single,College Graduate,"$20,000 to $34,999",No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+787,27.110252384977656,21.526027397260275,Male,African-American,No,Single,Other Education Beyond High School,"$10,000 to $19,999",No,Yes,Just Right,Very rarely (e.g. 1 per week),14 or more times
+788,25.581065759637195,27.304109589041097,Female,Caucasian,Yes,Married,College Graduate,"$75,000 to $99,999",Do Not Wish To Specify,No,Just Right,Very rarely (e.g. 1 per week),1-3 times
+789,23.36493344824284,45.83835616438356,Male,Other,Yes,Separated,High School Graduate,"less than $10,000",Yes,No,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+790,24.435186668803073,61.131506849315066,Female,Caucasian,No,Married,Graduate School,Do Not Wish To Specify,No,Yes,Just Right,I do not smoke,4-6 times
+791,24.327426443828564,29.09315068493151,Male,Caucasian,No,Married,College Graduate,"$50,000 to $74,999",No,No,Just Right,I do not smoke,1-3 times
+792,54.68781694997769,29.076712328767123,Female,Asian,No,Single,College Graduate,"less than $10,000",Yes,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+793,28.4873978318115,29.326027397260273,Female,Caucasian,No,Single,College Graduate,"$35,000 to $49,000",No,Yes,Overweight,I do not smoke,7 times
+794,24.96494647925858,51.553424657534244,Male,Caucasian,No,Single,College Graduate,Do Not Wish To Specify,No,No,Just Right,Less than 5,1-3 times
+795,25.86451247165533,37.92328767123288,Male,African-American,No,Single,Some College,Do Not Wish To Specify,Yes,Yes,Underweight,Less than 5,1-3 times
+796,25.95670462706474,38.23287671232877,Male,Other,Yes,Single,Some College,"$10,000 to $19,999",Do Not Wish To Specify,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+797,19.441989647771745,29.378082191780823,Male,Other,Yes,Domestic Partnership,College Graduate,"$20,000 to $34,999",Yes,No,Just Right,Less than 5,7 times
+798,23.100591715976332,31.786301369863015,Female,Caucasian,Yes,Married,Graduate School,"$50,000 to $74,999",No,Yes,Overweight,I do not smoke,4-6 times
+799,25.03605191475725,59.8027397260274,Female,Caucasian,No,Married,Graduate School,"$100,000 or more",No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+800,31.750318274757912,24.405479452054795,Female,Asian,No,Single,College Graduate,"$10,000 to $19,999",Yes,No,Overweight,I do not smoke,4-6 times
+801,28.360351528307834,55.71506849315068,Female,African-American,No,Single,Some College,"$10,000 to $19,999",Yes,No,Just Right,I do not smoke,4-6 times
+804,44.05858249827579,39.912328767123284,Female,African-American,No,Married,Some High School,Do Not Wish To Specify,Yes,Yes,Overweight,010-020,14 or more times
+805,37.555548130575694,24.019178082191782,Male,African-American,No,Single,High School Graduate,"less than $10,000",Yes,Yes,Overweight,005-010,7 times
+806,22.323912664335722,59.37260273972603,Male,Caucasian,No,Single,Graduate School,Do Not Wish To Specify,Yes,Yes,Underweight,I do not smoke,7 times
+807,24.023522336195665,34.654794520547945,Male,African-American,No,Single,Some College,Do Not Wish To Specify,Yes,Yes,Underweight,Less than 5,1-3 times
+809,30.773697198432284,49.16164383561644,Female,Caucasian,Yes,Single,Some College,Do Not Wish To Specify,No,Yes,Overweight,I do not smoke,1-3 times
+810,35.08650519031143,36.41095890410959,Male,Other,Yes,Single,Other Education Beyond High School,Do Not Wish To Specify,Yes,No,Overweight,I do not smoke,8-13 times
+812,29.66813016528926,45.85753424657534,Male,African-American,No,Domestic Partnership,Some College,Do Not Wish To Specify,Yes,Yes,Just Right,I do not smoke,8-13 times
+813,27.638453081238115,51.76438356164383,Male,Caucasian,No,Single,Some College,"$20,000 to $34,999",No,No,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
+814,29.795561327092855,32.10958904109589,Male,Asian,No,Single,Graduate School,"$35,000 to $49,000",No,Yes,Overweight,Less than 5,1-3 times
+815,22.26812786667134,24.087671232876712,Female,Asian,No,Single,College Graduate,Do Not Wish To Specify,No,Yes,Just Right,I do not smoke,I do not use perfume cologne and/or toliet water
+816,24.27915484890199,40.86027397260274,Female,Other,No,Single,Some College,"$35,000 to $49,000",No,Yes,Overweight,I do not smoke,1-3 times
+901,38.81358836313791,54.33972602739726,Male,African-American,No,Single,College Graduate,"$20,000 to $34,999",No,Yes,Overweight,I do not smoke,1-3 times
+902,26.91871455576559,47.66575342465753,Male,African-American,No,Widowed,College Graduate,Do Not Wish To Specify,No,Yes,Overweight,Less than 5,I do not use perfume cologne and/or toliet water
+903,28.650756143667294,65.68219178082192,Male,Caucasian,No,Married,High School Graduate,Do Not Wish To Specify,Yes,No,Overweight,I do not smoke,7 times
+905,25.201479719910157,35.33424657534247,Male,Caucasian,No,Single,Graduate School,Do Not Wish To Specify,No,Yes,Just Right,Very rarely (e.g. 1 per week),1-3 times
+906,19.344038688077376,45.416438356164385,Male,African-American,No,Single,High School Graduate,"$20,000 to $34,999",No,No,Underweight,I do not smoke,1-3 times
+909,19.18921433814787,23.78082191780822,Female,Asian,No,Single,College Graduate,Do Not Wish To Specify,Yes,Yes,Just Right,I do not smoke,4-6 times
+911,22.03856749311295,36.25753424657534,Male,Do Not Wish To Specify,Do Not Wish To Specify,Single,Do Not Wish To Specify,Do Not Wish To Specify,No,Do Not Wish To Specify,Do Not Wish To Specify,I do not smoke,Do Not Wish To Specify
+912,25.17102914931589,47.032876712328765,Female,Caucasian,No,Married,College Graduate,"$100,000 or more",No,Yes,Just Right,I do not smoke,1-3 times
+914,26.852952833927862,29.15890410958904,Male,Caucasian,No,Single,Graduate School,"less than $10,000",Yes,Yes,Overweight,I do not smoke,4-6 times
+917,20.846070981453984,24.81095890410959,Female,Caucasian,No,Single,Graduate School,"$100,000 or more",No,Yes,Just Right,I do not smoke,1-3 times
+918,20.06301197227473,29.293150684931508,Female,Caucasian,No,Domestic Partnership,Some College,"$50,000 to $74,999",No,Yes,Just Right,I do not smoke,7 times
