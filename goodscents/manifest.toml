@@ -1,0 +1,19 @@
+# Manifest for Leffingwell odor descriptors dataset
+[source]
+doi = ""
+title = "Goodscents Odor Dataset"
+authors = "Contrebande Labs via The Goodscents Company"
+extra = "Originally produced by the Goodscents Company and organized by Contrebande Labs for data science; see LICENSE for use restrictions; Pyrfume developers make no claims concerning copyright"
+
+[raw]
+"data_rw_opl.csv" = "Odor labels for molecules as originally compiled by John Leffingwell and cleaned by Sanchez-Lengeling et al"
+"data_rw_odor.csv" = "Information about the dataset"
+"data_rw_contents.csv" = 
+"LICENSE" = "Licensing information and use restrictions according to the terms of The Goodscents Company"
+
+[processed]
+"main.py" = "Processing workflow"
+"molecules.csv" = "Information about odorant molecules used"
+"identifiers.csv" = "Mappings between PubChem IDs and GoodScents IDs"
+"behavior.csv" = "Odor labels for each molecule (one column per label)"
+"behavior_sparse.csv" = "Odor labels for each molecule (single column)"
