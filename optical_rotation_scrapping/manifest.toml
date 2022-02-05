@@ -1,12 +1,13 @@
-# Manifest for optical_rotation_scrapping
+# Pubchem molecules with optical rotation values
 [source]
 title = "Scrapping optical rotation values from molecules in PubChem"
-authors = "Richard R Gerkin, Liyah A Coleman"
+authors = "Richard C Gerkin, Liyah A Coleman"
 
 [raw]
-Values were extracted from PubChem
+"raw_data" = Values were extracted from PubChem
 
 [processed]
-"opticalrotation.py" = "code for scrapping"
-"opticalroation.ipynb" = "notebook for running code"
-"opr_values.csv" = "dataframe of the scrpped opr values"
+"main.py" = "code for scrapping"
+"main.ipynb" = "notebook for running code"
+"molecules.csv" = "Molecules used"
+"attributes.csv" = "dataframe of the scrpped opr values"
