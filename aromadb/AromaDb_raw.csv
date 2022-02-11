@@ -1,0 +1,1650 @@
+,CID,Molecule Name,Raw Descriptors,Refined Descriptors
+0,6432254,Z-Linalool,flower,flower
+1,5362889,Z-E-Alpha-Farnesene,grass,grass
+2,5356790,Z-11-Tricosene,,
+3,5367706,Z-3-Hexenyl,woody-earthy,"woody, earthy"
+4,15574,Z-3-Hexenyl,banana,banana
+5,5281167,Z-3-Hexenol,grass,grass
+6,5364955,Z-2-Dodecenol,,
+7,7461,Y-Terpinene,pine,pine
+8,5315406,Yomogi,,
+9,54678486,Warfarin,,
+10,6432543,Viridiflorol,grass,grass
+11,29025,Verbenone,mint,mint
+12,61126,Verbenol,balsamic,balsamic
+13,6427476,Verbenene,,
+14,62348,Vanillyl,vanilla,vanilla
+15,71752927,Vanilloyl-Methyl,vanilla,vanilla
+16,1183,Vanillin,vanilla,vanilla
+17,8468,Vanillic,vanilla,vanilla
+18,7991,Valeric,acid,acid
+19,9855795,Valencene,grass,grass
+20,12309745,Valencene,grass,grass
+21,12410,Untriacontane,,
+22,8184,Undecanol,,
+23,8180,Undecanoic,Fatty aroma,Fatty
+24,8186,Undecanal,oil,oil
+25,22266808,Trimethylindoline,,
+26,8207,Tridecanol,,
+27,12530,Tridecanoic,,
+28,12388,Tridecane,,
+29,79035,Tricyclene,,
+30,12534,Tricosane,,
+31,12535,Triacontane,,
+32,89664,Trans-Verbenol,,
+33,5352145,Trans-Sesquilavandulol,,
+34,62367,Trans-Sabinene,balsamic,balsamic
+35,6430763,Trans-Sabinene,,
+36,7093102,Trans-Rose,,
+37,122484,Trans-P-Menth-2-En-1-Ol,,
+38,85568,Trans-Piperitol,,
+39,12314318,Trans-Pinocarveol,balsamic,balsamic
+40,40326,Trans-Permethrin,,
+41,6430906,Trans-Nuciferol,,
+42,6427501,Trans-Linalool,,
+43,6432254,Trans-Linalool,Flower,Flower
+44,445070,Trans-Farnesol,Flower,Flower
+45,443181,Trans-Dihydrocarvone,mint,mint
+46,443178,Trans-Carveol,mint,mint
+47,6429022,Trans-Calamenene,,
+48,6450269,Trans-Beta-Santalol,sweet,sweet
+49,5281553,Trans-Beta-Ocimene,grass,grass
+50,12300069,Trans-Beta-Bergamotene,,
+51,637563,Trans-Anethole,aniseed,aniseed
+52,54183030,Trans-Alpha-Santalol,sweet,sweet
+53,6428986,Trans-Alpha-Bergamotene,,
+54,441245,"Trans-1,2-Limonene",citrus,citrus
+55,91747180,Torilenol,,
+56,3084331,T-Muurolol,,
+57,125468,Tiglic,,
+58,6989,Thymol,,
+59,97829,Thujopsene,,
+60,8030,Thiophene,garlic,garlic
+61,11005,Tetradecanoic,,
+62,12389,Tetradecane,,
+63,31291,Tetradecanal,,
+64,12592,Tetracosane,,
+65,11463,Terpinolene,,
+66,7462,Terpinene,pine,pine
+67,11230,Terpinen-4-Ol,must,must
+68,11230,Terpinen-4-01,,
+69,160799,T-Cadinol,,
+70,51394521,Tau-Muurolol,,
+71,12302222,Tau-Cadinol,,
+72,5281167,(Z)-hex-3-en-1-ol,,
+73,312145,wortmannin,,
+74,12406,Structure2D_CID_12406,,
+75,5280794,Stigmasterol,,
+76,5281,Stearic,tallow,tallow
+77,119394,Stanols,,
+78,638072,Squalene,,
+79,92231,Spathulenol,,
+80,519743,Seychellene,,
+81,91750198,Sesquisabinene,,
+82,519764,Sesquiphellandrene,sweet,sweet
+83,73114,Sclareol,herbaceous,herbaceous
+84,94164,Santalene,,
+85,91753726,Salviadienol,,
+86,338,Salicylic,nutty aroma,nutty
+87,5144,Safrole,Sasafras aroma ,Sasafras
+88,18818,Sabinene,pepper,pepper
+89,6428926,Rosefuran,,
+90,445354,Retinol,,
+91,7047,Quinoline,balsamic,balsamic
+92,6433154,Pyrethrin,,
+93,71751880,"Pyrazine,",,
+94,6988,Pulegone,grass,grass
+95,92793,Pulegol,camphoraceous,camphoraceous
+96,1032,Propionic,rancid ,rancid 
+97,1032,Propanoic,pungent,pungent
+98,91746458,Prezizaene,,
+99,76,Prasterone,,
+100,11195425,Pogostol,,
+101,538497,"P-Mentha-2,8-Diene",citrus,citrus
+102,7461,"P-Mentha-1,4-Diene",citrus,citrus
+103,68140,"P-Mentha-1(7),8-Diene",mint,mint
+104,520440,P-Menth-1-En-9-Al,herbaceous,herbaceous
+105,6987,Piperitone,mint,mint
+106,525915,Piperitenone,mint,mint
+107,121719,Pinocarvone,,
+108,102667,Pinocarveol,balsamic,balsamic
+109,11038,Pinocamphone,camphor aroma ,camphor
+110,5280435,Phytol,Floral,Floral
+111,5146,P-Hydroxybenzyl,coconut,coconut
+112,126,P-Hydroxybenzaldehyde,nutty aroma,nutty
+113,90797532,P-Hydroxybenzaldehy,nutty aroma,nutty
+114,99748,Phenylacetaldoxime,,
+115,61452,Phenyl,,
+116,72303,Phenyl,,
+117,998,Phenyl,,
+118,31236,Phenoxyethanol,,
+119,31236,Phenoxethol,,
+120,996,Phenol,sweet,sweet
+121,1256,Perillic,,
+122,13849,Pentadecanoic,,
+123,12391,Pentadecane,,
+124,19775,"Pentadecane,",,
+125,17697,Pentadecanal,,
+126,12406,Pentacosane,,
+127,7734,P-Diethylbenzene,,
+128,7463,P-Cyrnene,,
+129,62385,P-Cymenene,citrus,citrus
+130,7463,P-Cymene,citrus,citrus
+131,2879,P-Cresol,,
+132,10955174,Patchouli,,
+133,10998497,Patchoulenone,,
+134,31244,P-Anisaldehyde,mint,mint
+135,445638,Palmitoleic,,
+136,985,Palmitic,grass,grass
+137,985,Palmistic,,
+138,971,Oxalic,,
+139,5353370,Oleoamide,,
+140,445639,Oleic,,
+141,8164,Octyl,,
+142,957,Octanol,,
+143,379,Octanoic,,
+144,454,Octanal,lemon,lemon
+145,445639,Octadecenoic,,
+146,5281,Octadecanoic,,
+147,11635,Octadecane,,
+148,12533,Octadecanal,,
+149,12408,Octacosane,,
+150,57124935,Nor-Patchoulenol,,
+151,57124935,Norpatchoulenol,,
+152,32735,Nopinone,,
+153,17900,Nonylcyclohexane,,
+154,8918,Nony,,
+155,8914,Nonanol,,
+156,8158,Nonanoic,,
+157,70709,Nonanamide,,
+158,31289,Nonanal,,
+159,12401,Nonadecane,,
+160,12409,Nonacosane,,
+161,12401,N-Nonadecanol,,
+162,2682,N-Hexadecanol,,
+163,5354882,Neryl-Formate,rose,rose
+164,7780,Neryl-Acetate,Floral,Floral
+165,1549025,Neryl,Floral,Floral
+166,5284507,Nerolidol,,
+167,643820,Nerol,sweet,sweet
+168,643779,Neral,lemon,lemon
+169,75699,Neo-Menthyl,mint,mint
+170,439263,Neo-Menthol,mint,mint
+171,7058097,Neo-Isopulegyl,mint,mint
+172,6553885,Neo-Isopulegol,,
+173,19244,Neo-Isomenthol,minty aroma,minty
+174,40488241,Neo-Isodihydrocarvyl,mint,mint
+175,8182,N-Dodecane,,
+176,15600,N-Decane,,
+177,31289,Naonanal,fruity,fruity
+178,10582,Myrtenol,,
+179,61130,Myrtenal,,
+180,4276,Myristicin,balsamic,balsamic
+181,10975,Myrcenol,,
+182,31253,Myrcene,balsamic,balsamic
+183,11005,Mylistic,,
+184,6753,Musk,,
+185,55830,MethylIndoline,,
+186,61290,Methyl-citronellate,,
+187,14104,Methyl,,
+188,31284,Methyl,,
+189,8201,Methyl,,
+190,4133,Methyl,mint,mint
+191,4133,Methyl,,
+192,7060,Methyl,,
+193,72662,Methyl,peanut butter,peanut butter
+194,23518,Methyl,,
+195,8181,Methyl,,
+196,8201,Methyl,,
+197,5319706,Methyl,,
+198,5284421,Methyl,,
+199,8181,Methyl,waxy,waxy
+200,15609,Methyl,,
+201,460,Methyl,,
+202,7127,Methyl,,
+203,7127,Methyl,Flowery rose,"Flowery, rose"
+204,8139,Methyl,Flower,Flower
+205,8050,Methyl,grape,grape
+206,637520,Methyl,strawberry,strawberry
+207,68148,Methyl,,
+208,80790,Methyl,carrot,carrot
+209,6826,Methyl,sweet,sweet
+210,8635,Methyl,orange,orange
+211,6584,Methyl,citrus,citrus
+212,31368,Methacrylonitrile,,
+213,27867,Menthyl,mint,mint
+214,26447,Menthone,mint,mint
+215,16666,Menthol,Mint,Mint
+216,329983,Menthofuran,mint,mint
+217,538497,"Mentha-2,8-Diene",citrus,citrus
+218,10085645,Manoyl-Oxide,,
+219,3034394,Manool,,
+220,289151,Longifolene,,
+221,5280934,Linolenic,fruity,fruity
+222,5280934,Linolenic,fruity,fruity
+223,5280450,Linoleic,grass,grass
+224,5280450,Linoleic,fruity,fruity
+225,8294,Linalyl-Acetate,fruity,fruity
+226,61098,Linalyl,fruity,fruity
+227,8294,Linalyl,fruity,fruity
+228,6549,Linalool,lavender,lavender
+229,440917,Limonene,citrus,citrus
+230,92812,Ledol,,
+231,71300377,Ledene,,
+232,94060,Lavindolol,lavander,lavander
+233,30247,Lavandulyl,lavender,lavender
+234,94060,Lavandulol,,
+235,3893,Lauric,lily,lily
+236,62378,Jasmone,jasmine,jasmine
+237,5371268,Jasmolin,,
+238,15690922,Italicene,,
+239,10430,Isovaleric,rancid,rancid
+240,11552,Isovaleraldehyde,almond,almond
+241,34645,Isopulegone,mint,mint
+242,24585,Isopulegol,camphor,camphor
+243,79036,Isopiperitenone,mint,mint
+244,6427105,Isopinocarnphone,,
+245,10453,Isophytol,,
+246,12308615,Isopatchoulenone,,
+247,3767,Isoniazid,,
+248,6432225,Isomenthylacetate,,
+249,6986,Isomenthone,mint,mint
+250,6432468,Isomenthol,mint,mint
+251,78120,Iso-Hexyl,,
+252,91746556,Isogermacrene-D,,
+253,5281326,Isofucosterol,,
+254,853433,Isoeugenol,Flower,Flower
+255,76639,Isocyanatomethylbenzene,,
+256,5281522,Isocaryophyllene,,
+257,1742211,Isocaryophyllene,,
+258,6590,Isobutyric,chees,chees
+259,443131,Isobornyl,balsamic,balsamic
+260,64685,Isoborneol,must,must
+261,7795,Isoamyl-2-Methyl,,
+262,61386,Isoamyl,Fatty aroma,Fatty
+263,12613,Isoamyl,apple,apple
+264,91747195,Isoabienol,,
+265,3728,Iodoquinol,,
+266,798,Indole,,
+267,3639,Hydrochlorothiazide,,
+268,5352470,Humulene-Epoxide,,
+269,5352470,Humulene,,
+270,10704181,Humulene,,
+271,15000206,Humuladienone,,
+272,24838,Hexyl-2-Methyl,,
+273,637523,Hexyl,,
+274,78120,Hexyl,grass,grass
+275,22873,Hexyl,peach,peach
+276,17525,Hexyl,fruity,fruity
+277,8908,Hexyl,fruity,fruity
+278,1549237,Hexatrienoic,,
+279,8103,Hexanol,,
+280,8892,Hexanoic,sweet,sweet
+281,6184,Hexanal,grass,grass
+282,10408,Hexahydrofarnesyl,,
+283,69971,Hexadecyl,,
+284,12393,Hexadecyl,,
+285,5282745,Hexadecenoic,,
+286,985,Hexadecanoic,,
+287,11006,Hexadecane,,
+288,984,Hexadecanal,,
+289,12407,Hexacosane,,
+290,8129,Heptanol,grass,grass
+291,8094,Heptanoic,sour,sour
+292,8130,Heptanal,citrus,citrus
+293,10465,Heptadecanoic,,
+294,12398,Heptadecane,,
+295,11636,Heptacosane,,
+296,12403,Henicosane,,
+297,3015374,Heneicosene,,
+298,12403,Heneicosane,,
+299,6432240,Hedycaryol,,
+300,227829,Guaiol,balsamic,balsamic
+301,460,Guaiacol,smoke-like,smoke-like
+302,6427475,"Guaia-6,9-Diene",spice,spice
+303,11147,Glycerylpalmitate,,
+304,101716,Globulol,,
+305,5373727,Germacrene-D,rose,rose
+306,5281519,Germacrene-B,,
+307,20111820,Germacrene,,
+308,6429375,Germacrene,,
+309,5373727,Germacrene,,
+310,5281519,Germacrene,rose,rose
+311,6429375,Germacren-4-Ol,raspberry,raspberry
+312,1549778,Geranylacetone,rose,rose
+313,1549026,Geranyl-Acetate,Flower,Flower
+314,5367785,Geranyl,Flower,Flower
+315,5365872,Geranyl,pine apple,"pine, apple"
+316,6086514,Geranyl,rose,rose
+317,5365992,Geranyl,pine apple,"pine, apple"
+318,5282109,Geranyl,rose,rose
+319,5355856,Geranyl,rose,rose
+320,1549778,Geranyl,magnolia,magnolia
+321,1549026,Geranyl,rose,rose
+322,1549026,Geranyl,,
+323,637566,Geraniol,rose,rose
+324,5275520,Geranic,,
+325,638011,Geranial,,
+326,11467,Gamma-Terpineol,,
+327,7461,Gamma-Terpinene,pine,pine
+328,521302,Gamma-Patchoulene,,
+329,12313020,Gamma-Muurolene,,
+330,50986224,Gamma-Gurjunene,,
+331,5317072,Gamma-Eudesmol,,
+332,5317072,Gamma-Eudermol,,
+333,12304273,Gamma-Curcumene,,
+334,92313,Gamma-Cadinene,,
+335,25021690,Furyl,,
+336,7362,Furfural,almond,almond
+337,24310,Fructosterol,,
+338,5352449,Fokienol,,
+339,15406,Fenchyl,camphor,camphor
+340,14525,Fenchone,,
+341,1711945,Farnesyl,,
+342,94403,Farnesyl,,
+343,445070,Farnesol,,
+344,19773,Farnesane,,
+345,6430689,Exo-Fenchyl,,
+346,3314,Eugenol,Aroma of cloves ,cloves 
+347,91457,Eudesmol,sweet,sweet
+348,136330,Eucarvone,,
+349,2758,Eucalyptol,,
+350,9033,Ethylenimine,,
+351,16237,Ethyl-3-Phenylpropionate,,
+352,31283,Ethyl,,
+353,5367460,Ethyl,,
+354,7945,Ethyl,,
+355,31265,Ethyl,apple,apple
+356,12366,Ethyl,,
+357,8077,Ethyl,,
+358,8048,Ethyl,grape,grape
+359,24020,Ethyl,,
+360,5281116,Erucic,,
+361,22310,Epoxylinalool,,
+362,53359349,Epi-Sesquithujene,,
+363,7308311,Epi-Globulol,,
+364,91753500,Epi-Cubenol,,
+365,6427498,Epi-Beta-Santalol,,
+366,91746538,Epi-Beta-Santalene,,
+367,6429033,Epi-Beta-Bisabolol,,
+368,3084331,Epi-Alpha-Muurolol,,
+369,1201551,Epi-Alpha-Bisabolol,,
+370,5284507,E-Nerolidole,,
+371,439711,Endo-Fenchol,,
+372,547972,Elemol,,
+373,10248,Elemicine,,
+374,10248,Elemicin,,
+375,10583,Elemene,,
+376,6431467,Eicosanol,,
+377,8222,Eicosane,,
+378,12404,Eicosan-1-Ol,,
+379,5281516,E-E-Alpha-Farnesene,Floral,Floral
+380,12404,Ecosanol,,
+381,5352456,E-2-Hexenyl,herbaceous,herbaceous
+382,445070,"E,E-Farnesol",Floral,Floral
+383,5281516,"E,E-Farnesene",fruity,fruity
+384,91746572,Dolabradiene,,
+385,5362708,Dodecenyl,,
+386,8193,Dodecanol,,
+387,3893,Dodecanoic,,
+388,8182,Dodecane,,
+389,8194,Dodecanal,,
+390,74138,Docosene,,
+391,12405,Docosane,,
+392,34222,Dimethylquinoline,,
+393,6826,Dimethyl,orange,orange
+394,10231,Dillapiole,,
+395,6782,Diisobutyl,,
+396,61206,Dihydrofarnesyl,,
+397,6432687,Dihydroedulan,,
+398,24473,Dihydrocarvone,mint,mint
+399,8283,Dihydro-Alpha-Santalol,sweet,sweet
+400,102706,Dihydro,,
+401,4284,Diethyltoluamide,,
+402,8437,Diethylene,,
+403,3026,Dibutyl,,
+404,31404,Dibunol,,
+405,5316534,Dendrolasin,,
+406,12308846,Delta-Selinene,,
+407,524196,Delta-Patchoulene,,
+408,94275,Delta-Guaiene,,
+409,12004383,Delta-Elemene,,
+410,441005,Delta-Cadinene,rancid,rancid
+411,443156,Delta-3-Carene,fruity,fruity
+412,91746711,Dehydroaromadendrane,,
+413,8167,Decylacetate,,
+414,8174,Decanol,fruity,fruity
+415,2969,Decanoic,rancid,rancid
+416,15600,Decane,sweet,sweet
+417,8175,Decanal,orange,orange
+418,37153,Decamethylene,,
+419,606283,"Decahydro-4,4,8,9,10-Pentamethylnaphthalene",,
+420,606283,"Decahydro-1,1,4a,5,6-Pentamethylnaphthalene",,
+421,441005,D-Cadinene,,
+422,91711829,Cycloseychellene,,
+423,519960,Cyclosativene,,
+424,101925674,Cyclosantalal,,
+425,71343594,Cycloheptanemethanol,,
+426,92139,Curcumene,,
+427,326,Cumin,wood,wood
+428,519857,Cubenol,green tea,green tea
+429,11543111,Cubebol,,
+430,92780,Cryptone,,
+431,5367752,Citronellyl,,
+432,7778,Citronellyl,,
+433,8835,Citronellyl,rose,rose
+434,1549026,Citronellyl,rose,rose
+435,8842,Citronellol,rose,rose
+436,10402,Citronellic,,
+437,7794,Citronellal,,
+438,7794,Citronella,lemon,lemon
+439,164888,Cis-Verbenol,balsamic,balsamic
+440,5352147,Cis-Sesquilavandulol,lavender,lavender
+441,62367,Cis-Sabinenehydrate,balsamic,balsamic
+442,62367,Cis-Sabinene,,
+443,27866,Cis-Roseoxide,,
+444,27866,Cis-Rose,rose,rose
+445,13918681,Cis-P-Mentha-2-En-1-Ol,mint,mint
+446,13918681,Cis-P-Menth-2-En-1-Ol,mint,mint
+447,1268143,Cis-Pinenehydrate,,
+448,67178146,Cis-Nuceferol,,
+449,22310,Cis-Linalooloxide,Floral,Floral
+450,529304,Cis-Linalooloxide,Floral,Floral
+451,529304,Cis-Linalool,Floral,Floral
+452,529304,Cis-Linalool,Floral,Floral
+453,6536796,Cis-Lanceol,,
+454,443167,Cis-Isodihydrocarvone,,
+455,5365890,Cis-Farnesal,minty,minty
+456,443167,Cis-Dihydrocarvone,mint,mint
+457,102024,Cis-Carvylacetate,,
+458,6429077,Cis-Calamenene,,
+459,8748,Cis-Beta-Terpineol,sweet,sweet
+460,5281532,Cis-Beta-Santalol,sweet,sweet
+461,5320250,Cis-beta-ocimene,herbaceous,herbaceous
+462,15560253,Cis-Beta-Guaiene,balsamic,balsamic
+463,6857559,Cis-Alpha-Santalol,sweet,sweet
+464,6429303,Cis-Alpha-Bergamotene,,
+465,5371125,Cis-Allo-Ocimene,,
+466,5367698,cis-3-Hexenyl,banana,banana
+467,444539,Cinnamic,,
+468,6433896,Cinerin,,
+469,2758,Cineole,,
+470,5315892,Cinammyl,,
+471,65575,Cedrol,,
+472,14350,Caryophyllene-Oxide,,
+473,5281515,Caryophyllene,,
+474,14350,Caryophyllene,sweet,sweet
+475,11746218,Caryophyllene,,
+476,439570,Carvone,,
+477,7438,Carveol,mint,mint
+478,54107434,Carvenone,,
+479,10364,Carvacrol,,
+480,442347,Carotol,,
+481,2537,Camphor,,
+482,98497,Campholenicaldehyde,,
+483,6616,Camphene,camphor,camphor
+484,173183,Campesterol,,
+485,6432176,Calarene,,
+486,91752790,Calamusenone,,
+487,6429077,Calamenene,spice,spice
+488,6427091,"Cadina-l,4-diene",,
+489,6430869,"Cadina-1,4-Diene",,
+490,10225,Cadalene,,
+491,264,Butyric,salt,salt
+492,11613,Butyl,,
+493,7353,Butyl,,
+494,263,Butanol,fruity,fruity
+495,90785,Bulnesol,spice,spice
+496,7194,B-Phenylethyl,camomile,camomile
+497,6448,Bornyl,piney aroma ,piney
+498,64685,Borneol,camphoraceous,camphoraceous
+499,1549992,Bisabolol,sweet,sweet
+500,13894537,Bicyclogermacrene,,
+501,6428860,Bicycloelemene,,
+502,91456,Beta-Thujone,,
+503,8748,Beta-Terpineol,,
+504,5281535,Beta-Sinensal,citrus,citrus
+505,442393,Beta-Selinene,,
+506,442393,Beta-Selenine,,
+507,6857681,Beta-Santalol,sweet,sweet
+508,10534,Beta-Santalene,,
+509,14896,Beta-Pinene,resinous piney aroma,"resinous, piney"
+510,11142,Beta-Phellandrene,terpentine,terpentine
+511,101731,Beta-Patchoulene,,
+512,21626411,Beta-oplopenone,,
+513,31253,Beta-Myrcene,spice,spice
+514,5375218,Beta-Methylionone,Flower,Flower
+515,638014,Beta-Ionone,fruity,fruity
+516,5318102,Beta-Humulene,,
+517,6450812,Beta-Gurjunene,,
+518,15560252,Beta-Guaiene,balsamic,balsamic
+519,6450812,Beta-Giurjunene,,
+520,61123,Beta-Fenchol,camphoraceous,camphoraceous
+521,5281517,Beta-Farnesene,fruity,fruity
+522,91457,Beta-Eudesmol,sweet,sweet
+523,6918391,Beta-Elemene,,
+524,6428281,Beta-Elaskene,,
+525,5281515,Beta-E-Caryophyllene,clove-like aroma,clove-like
+526,5366074,Beta-Damascenone,,
+527,9895,Beta-Cyclocitral,camphoraceous,camphoraceous
+528,6428461,Beta-Curcumene,herbaceous,herbaceous
+529,93081,Beta-Cubebene,,
+530,11106485,Beta-cedrene,,
+531,5281515,Beta-Caryophyllene,spice,spice
+532,14350,Beta-Caryophyllene,spice,spice
+533,528708,Beta-Calacorene,,
+534,10657,Beta-Cadinene,oil aroma,oil
+535,10657,Beta-Cadenine,oil aroma,oil
+536,62566,Beta-Bourbonene,Woody aroma,Woody
+537,27208,Beta-Bisabolol,sweet,sweet
+538,10104370,Beta-Bisabolene,balsamic,balsamic
+539,5281758,Beta-asarone,,
+540,8363,Benzyl,Flower,Flower
+541,8794,Benzyl,,
+542,2345,Benzyl,balsamic,balsamic
+543,244,Benzyl,fruity,fruity
+544,8785,Benzyl,floral (Jasmine),"floral, Jasmine"
+545,243,Benzoic,almond,almond
+546,241,Benzene,garlic,garlic
+547,5370615,"Benzene,1,1â-(1,5-Hexadiene-1,6-Diyl)Bis",,
+548,2736960,Benzene,honey floral,"honey, floral"
+549,240,Benzaldehyde,almond,almond
+550,8215,Behenic,,
+551,424,Aspartic,,
+552,558221,Ar-Tumerone,,
+553,68346,Artemisia,grass,grass
+554,15983960,Artemisia,grass,grass
+555,91354,Aromadendrene,fruity,fruity
+556,92139,Ar-Curcumene,herbaceous,herbaceous
+557,10467,Arachidic,,
+558,99748,Anti-Phenylacetaldoxime,,
+559,7738,Anisyl,sweet floral,"sweet, floral"
+560,31231,Anisketone,,
+561,31244,Anisaldehyde,vanilla and almond,"vanilla, almond"
+562,6276,Amyl,,
+563,442409,Alpha-Ylangene,,
+564,261491,Alpha-Thujone,,
+565,12444322,Alpha-Thujene,,
+566,111037,Alpha-Terpinyl,sweet,sweet
+567,11463,Alpha-Terpinolene,sweet,sweet
+568,17100,Alpha-Terpineol,mint,mint
+569,7462,Alpha-Terpinene,pine,pine
+570,10856614,Alpha-Selinene,sweet,sweet
+571,12315252,Alpha-Santalene,sweet,sweet
+572,14059042,Alpha-Santalal,sweet,sweet
+573,6654,Alpha-Pinene,,
+574,70678558,Alpha-Phellandrene,mint,mint
+575,62385,Alpha-P-Dimethylstyrene,,
+576,521710,Alpha-Patchoulene,,
+577,91753440,Alpha-Muurolol,,
+578,12306047,Alpha-Muurolene,,
+579,5280934,Alpha-Linolnic,oily,oily
+580,5281520,Alpha-Humulene,,
+581,5281520,Alpha-Humulene,,
+582,15560276,Alpha-Gurjunene,,
+583,72607,Alpha-Guaiol,balsamic,balsamic
+584,5317844,Alpha-Guaiene,balsamic,balsamic
+585,5317844,Alpha-Guaiene,balsamic,balsamic
+586,6427102,Alpha-Fenchyl,,
+587,439711,Alpha-Fenchol,camphoraceous,camphoraceous
+588,92762,Alpha-Eudesmol,sweet,sweet
+589,6428487,Alpha-Elaskene,,
+590,42608159,Alpha-Cubebene,citrus,citrus
+591,25245021,Alpha-Copaene,,
+592,6431015,Alpha-Cedrene,,
+593,122510,Alpha-Cedrene,,
+594,5281520,Alpha-caryophyllene,spice,spice
+595,12302243,Alpha-Calacorene,,
+596,10398656,Alpha-Cadinol,oily,oily
+597,12306048,Alpha-Cadinene,oily,oily
+598,94275,Alpha-Bulnesene,,
+599,10586,Alpha-Bisabolol,sweet,sweet
+600,91749656,Alpha-Bergamotol,,
+601,86608,Alpha-Bergamotene,,
+602,91749657,Alpha-Bergamotal,,
+603,636822,Alpha-asarone,,
+604,12306052,Alpha-Amorphene,,
+605,6429151,Alpha-Acoradiene,,
+606,6654,Alpha-,pine,pine
+607,5368821,Alloocimene,grass,grass
+608,91746537,Allo-Aromadendrene,fruity,fruity
+609,5281520,A-Humulene,,
+610,92762,A-Eudesmol,sweet,sweet
+611,91747196,A-Cubebene,citrus,citrus
+612,11791204,Acorone,,
+613,12480741,Acorenone,,
+614,565709,Aciphyllene,,
+615,2214,Acetovanillone,vanilla,vanilla
+616,176,Acetic,sour,sour
+617,1549992,A-Bisabolol,sweet,sweet
+618,557527,16-Heptadecenal,,
+619,91752338,13-Epi-Manoyl-Oxide,,
+620,10891602,13-Epi-Manool,,
+621,6430754,10-Epi-Gamma-Eudesmol,sweet,sweet
+622,5367665,9-Octadecen-1-Ol,Fatty aroma,Fatty
+623,39801,9-Decenylacetate,Flower,Flower
+624,25612,9-Decenol,fruity,fruity
+625,111402,9-Cedranone,,
+626,5280678,8-Hydroxylinalool,citrus,citrus
+627,40923,7-Octen-4-Ol,fruity,fruity
+628,10726905,7-Epi-Alpha-Selinene,sweet,sweet
+629,6438070,7-Decen-5-Olide,jasmin,jasmin
+630,46173282,6-Methylthiohexanonitrile,,
+631,9862,6-Methyl-5-Hepten-2-One,grass,grass
+632,9862,6-Methyl-5-Hepten-2-One,,
+633,9862,6-Methyl-5-Hepten-2-One,grass,grass
+634,20745,6-Methyl-5-Hepten-2-Ol,grass,grass
+635,9862,6-Methyl,,
+636,380816,6-Hydroxycarvone,mint,mint
+637,10657,6-Cadinene,grass,grass
+638,10408,"6,10,14-Trimethylpentadecan-2-one",,
+639,530418,"6,10,14-Trimethylpentadecan-2-ol",,
+640,206037,5-Metylthiopentyl,,
+641,46173134,5-Methylthiopentanonitrile,,
+642,29593,5-Methylhexanenitrile,,
+643,12097,5-Methyl-furfural,caramellic,caramellic
+644,12097,5-Methylfurfural,caramellic,caramellic
+645,12323,5-methyl-2-hexanal,sweet,sweet
+646,62453,4-Vinylphenol,vanilla,vanilla
+647,332,4-Vinylguaiacol,curry,curry
+648,5463211,4-Tridecene,,
+649,1727,4-Pyridinamine,,
+650,78160,4-Methylthiobutyl,,
+651,46173192,4-Methylthiobutanonitrile,,
+652,7963,4-Methylpyridine,coffee,coffee
+653,7144,4-Methylguaiacol,vanilla sweet,"vanilla, sweet"
+654,520181,4-Methyldocosane,,
+655,70133,4-Hydroxy-2-Methylacetophenone,almond,almond
+656,11513,4-Heptanol,grass,grass
+657,13886,3-Phenylpyridine,,
+658,521238,3-Octyl,,
+659,520583,3-Octenylacetate,fruity,fruity
+660,15475,3-Octen-2-One,blueberry,blueberry
+661,246728,3-Octanone,fruity,fruity
+662,11527,3-Octanol,,
+663,26630,3-nonen-2-one,fruity,fruity
+664,61235,3-Nonanal,fruity,fruity
+665,11508,3-Methylpentanol,,
+666,17899,3-Methylpentadecane,,
+667,10430,3-Methylbutyric,,
+668,11261,3-Methyl-2-Pentanol,,
+669,90956,3-Methyl-1-Octyn-3-Ol,,
+670,5373819,3-Methoxycinnamaldehyde,Flower,Flower
+671,179,3-Hydroxy-2-Butanone,fruity,fruity
+672,5281167,3-hexenol,grass,grass
+673,5364578,3-Hepten-2-One,grass,grass
+674,25916,"3-Ethyl-2,6-Dimethylpyrazine",balsamic,balsamic
+675,556685,3-Cyclohexen-1-ol,,
+676,6439701,3-Butenyl,,
+677,69389,3-Butenol,,
+678,11716,3-Buten-2-Ol,balsamic,balsamic
+679,5365899,"3,3,5-Trimethyl-1,5-Heptadiene",,
+680,7855,2-Propenenitrile,,
+681,13887,2-Phenylpyridine,,
+682,7654,2-Phenylethylacetate,,
+683,5357002,2-Phenylethyl,rose,rose
+684,7654,2-Phenylethyl,,
+685,6054,2-phenylethanol,,
+686,6054,2-phenyl,Flower,Flower
+687,16800,2-Pentylpyridine,,
+688,22401907,2-Pentanonitrile,,
+689,22386,2-Pentanol,lemon,lemon
+690,8093,2-Octanone,apple,apple
+691,20083,2-Octanol,oily,oily
+692,6590,2-Methylpropanoic,,
+693,15267,2-Methylpentadecane,,
+694,15264,2-Methyloctadecane,,
+695,519145,2-Methyldocosane,,
+696,8314,2-Methylbutyric,grass,grass
+697,62445,2-Methylbutylisovalerate,,
+698,7284,2-methylbutanal,almond,almond
+699,6590,2-Methyl,,
+700,332,2-Methoxy-4-Vinylphenol,peanut,peanut
+701,95331,2-Isopropylcyclohexanol,,
+702,33166,2-Isopropyl-3-Methoxypyrazine,grass,grass
+703,44327976,2-Isopropyl-3-Methoxy,,
+704,545551,2-Hexyl-1-Octanol,,
+705,95337,2-Hexyl-1-Decanol,fruity,fruity
+706,12297,2-Hexanol,,
+707,142390,2-heptenone,,
+708,17167,2-Heptenal,almond,almond
+709,8051,2-heptanone,spice,spice
+710,10976,2-heptanol,grass,grass
+711,7361,2-Furfuryl,burnt,burnt
+712,8697,2-Ethylhexanoic,fruity,fruity
+713,26332,2-Ethyl-6-Methylpyrazine,potato-like,potato-like
+714,25915,2-Ethyl-5-Methylpyrazine,grass,grass
+715,27457,2-Ethyl-3-Methylpyrazine,potato-like,potato-like
+716,19801,2-Decenal,orange,orange
+717,78750,2-Butylpyridine,,
+718,19602,2-Amylfuran,butter,butter
+719,11952,2-Aminoacetophenone,almond,almond
+720,14286,2-Acetylpyridine,popcorn,popcorn
+721,14505,2-Acetyl,,
+722,12867,"2,6-Di-Tert-Butylquinone",,
+723,7938,"2,6-Dimethylpyrazine",coffee,coffee
+724,61016,"2,6-dimethyl-5-heptenal",melon-like,melon-like
+725,19775,"2,6,10-Trimethylpentadecane",,
+726,22201,"2,5-Dimethylpyrazine",potato-like,potato-like
+727,521746,"2,5-Dimethyl-3-Pentylpyrazine",,
+728,578818,"2,5-Dimethyl-3-(2-methylbutyl)pyrazine",,
+729,62913,"2,5-Diethyltetrahydrofuran",carmellic,carmellic
+730,549992,"2,4-Dimethyl-1-Heptanol",,
+731,16899,"2,4-Decadienal",seaweed,seaweed
+732,87632,"2,4-Decadien-1-ol",fat,fat
+733,7937,"2,3-Dimethylpyridine",baked potato,baked potato
+734,22201,"2,3-DIMETHYLPYRAZINE",,
+735,220010,"2,3-Butanediol",onion,onion
+736,225936,"2,3-Butanedio",,
+737,26808,"2,3,5-Trimethylpyrazine",baked potato,baked potato
+738,17000,"2,2,6-trimethylcyclohexanone",tobacco,tobacco
+739,41207,"2,2,4,4,7,7-Hexamethyloctahydro-1H-Indene",,
+740,10472,1-Tetracosanol,,
+741,95910,1-Pyridinyl-2-Propan-1-One,,
+742,17121,1-Octen-3-Yl,,
+743,18827,1-Octen-3-Ol,,
+744,957,1-Octanol,citrus,citrus
+745,20928,1-Hexen-3-Ol,,
+746,2682,1-Hexdecanol,fruity,fruity
+747,12395,1-Hexadecene,,
+748,2682,1-Hexadecanol,fruity,fruity
+749,21057,1-Hepten-3-Ol,butter,butter
+750,519857,1-Epi-Cubenol,green tea,green tea
+751,12404,1-Eicosanol,,
+752,12620,1-Docosanol,,
+753,294710,1-Cyclopentyl-4-N-Octyldodecane,,
+754,5364533,1-Cyclohexylnonene,NA,NA
+755,6857383,"1,8-Cineole",mint,mint
+756,294711,"1,7-Dicyclopentyl-4-N-Octylheptane",,
+757,7222,"1,3-Benzothiazole",gasoline,gasoline
+758,6857383,"1,","mint, camphor like aroma","mint, camphor-like"
+759,2724898,1-octen-3-01,,
+760,1549107,"(Z,Z)-Farnesol",Flower,Flower
+761,1549109,"(Z,E)-Farnesol",Flower,Flower
+762,5362889,"(Z,E)-Alpha-Farnesene",Flower,Flower
+763,91747487,(Z)-Trans-Alpha-Bergamotol,,
+764,91103,(Z)-Tagetone,,
+765,6428432,(Z)-Tagetenone,,
+766,5281517,(Z)-ï¿½-Farnesene,,
+767,5284507,(Z)-Nerolidol,rose apple aroma,"rose, apple"
+768,1549045,(Z)-Methylisoeugenol,,
+769,6431477,(Z)-Linalool,citrus,citrus
+770,5318557,(Z)-isoelemicin,,
+771,3033866,(Z)-Gamma-Bisabolene,balsamic,balsamic
+772,8748,(Z)-Beta-Terpineol,,
+773,5320250,(Z)-Beta-Ocimene,citrus,citrus
+774,5281517,(Z)-Beta-Farnesene,fruity,fruity
+775,6429972,(Z)-Beta-Famesene,,
+776,637563,(Z)-Anethole,,
+777,5368743,(Z)-Alpha-Trans-Bergamotol,,
+778,5282718,(Z)-5-Octenoic,greasy,greasy
+779,44134911,(Z)-5-Heptenoic,rancid,rancid
+780,18827,(Z)-3-Octenol,mushroom,mushroom
+781,5354605,(Z)-3-Octenoic,Fatty aroma,Fatty
+782,92573,(Z)-3-Hexenyl,apple,apple
+783,5281167,(Z)-3-Hexenol,grass,grass
+784,5355152,(Z)-3-Hexenoic,fruity,fruity
+785,5281167,(Z)-3-Hexen-1-Ol,grass,grass
+786,34752,(Z)-3-Heptenoic,Disagreeable rancid,"Disagreeable, rancid"
+787,12297,(Z)-2-Hexenol,grass,grass
+788,1549109,"(E,Z)-Farnesol",Flower,Flower
+789,6428553,"(E,Z)-2,4-Decadienal",,
+790,445070,"(E,E)-Farnesol",Flower,Flower
+791,5281516,"(E,E)-Farnesene",fruity,fruity
+792,5368821,"(E,E)-Alloocimene",grass,grass
+793,181575,"(E,E)-3,5-octadien-2-one",pungent herbaceous odour,"pungent, herbaceous"
+794,637564,"(E,E)-2,4-Hexadienal",citrus,citrus
+795,5367530,"(E,E)-2,4-Dodecadienal",spice,spice
+796,6428553,"(E,E)-2,4-Decadienal",fat,fat
+797,6428431,(E)-Tagetenone,,
+798,5352696,(E)-Octenal,grass,grass
+799,5320128,(E)-Nerolidol,rose,rose
+800,1549045,(E)-Methyl,clove-carnation,"clove, carnation"
+801,637520,(E)-Methyl,honey,honey
+802,6431475,(E)-Linalool,citrus,citrus
+803,5352437,(E)-Gamma-Bisabolene,sweet,sweet
+804,5283345,(E)-Decenal,citrus,citrus
+805,638011,Citral,,
+806,5282110,(E)-Cinnamyl,sweet,sweet
+807,162747,(E)-Chrysanthenol,,
+808,5281520,(E)-Caryophyllene,spice,spice
+809,8748,(E)-Beta-Terpineol,woody-earthy,"woody, earthy"
+810,5281553,(E)-Beta-Ocimene,citrus,citrus
+811,638014,(E)-Beta-Ionone,raspberry,raspberry
+812,5281517,(E)-Beta-Farnesene,citrus,citrus
+813,5374527,(E)-Beta-Damascone,Tea,Tea
+814,5366074,(E)-beta-Damascenone,apple,apple
+815,637563,(E)-Anethole,aniseed,aniseed
+816,5282108,(E)-Alpha-Ionone,raspberry,raspberry
+817,5352653,(E)-Alpha-Bisabolene,coconut,coconut
+818,6429302,(E)-Alpha-Bergamotene,,
+819,5282714,(E)-2-Octenoic,butterscotch,butterscotch
+820,5312586,(E)-2-Nonenoic,fatty aroma,fatty aroma
+821,5318042,(E)-2-Hexenol,waalnut,waalnut
+822,5282707,(E)-2-Hexenoic,sweet,sweet
+823,10460,(E)-2-Hexenal,fruity,fruity
+824,5283345,(E)-2-Decenal,orange,orange
+825,1549108,(22)-(6e)-Farnesol,rose,rose
+826,1549108,"(2z,6e)-Farnesol",rose,rose
+827,86575103,Khusimol,sweet,sweet
+828,91748522,Bicyclovetivenol,fruity,fruity
+829,5317062,Epicurzerenone,spice,spice
+830,92776,Zingiberene,"Fruit, spice","Fruit, spice"
+831,5316217,Curzerene,"Fruit, spice","Fruit, spice"
+832,135215,Baimuxinal,,
+833,5319022,Liguistilide,,
+834,3322,Falcarinol,,
+835,73174,Dehydrocostus,,
+836,6818,Butyl,citrusy,citrusy
+837,1623625,Alpha-Amylcinnamaldehyde,jasmine??,jasmine
+838,61403,Acetaldehyde,leafy aroma,leafy
+839,62876,Acetaldehyde,leafy aroma,leafy
+840,7765,Acetal,fruity,fruity
+841,19892555,Acetaldehyde,fruity aroma??????,fruity
+842,10795,"1,1-Dimethoxyethane",NA,NA
+843,53422473,Acetaldehyde,fruity aroma,fruity
+844,17623,MethylN-acetylanthranilate,Fruity grape aroma??,"Fruity, grape"
+845,8167,Decylacetate,orange-rose odour,"orange, rose"
+846,8205,Lauryl,citrus-rose aroma,"citrus, rose"
+847,5352557,trans-3-Hexenylacetate,NA,NA
+848,177,Acetic,ethereal,ethereal
+849,876160,Acetisoeugenol,clove-like aroma??,clove-like
+850,11966264,Ethylacetoacetate,sweet,sweet
+851,181575,"(E,E)-3,5-octadien-2-one",herbaceous,herbaceous
+852,12578,Acetocumene,herbaceous,herbaceous
+853,179,Acetoin,buttery,buttery
+854,521246,Acetoin,NA,NA
+855,1549045,(E)-Methyl,NA,NA
+856,5317062,Epicurzercenone,NA,NA
+857,92776,Zingiberene,NA,NA
+858,5316217,Curzerene,NA,NA
+859,135215,Baimuxinal,NA,NA
+860,5319022,Liguistilide,NA,NA
+861,3322,Falcarinol,NA,NA
+862,5282110,(E)-Cinnamyl,NA,NA
+863,73174,Dehydrocostus,NA,NA
+864,6448,Bornyl,herbaceous,herbaceous
+865,6818,Butyl,NA,NA
+866,8299,Acetol,sweet-caramellic,"sweet, caramellic"
+867,62384,Acetone,sweet,sweet
+868,15068,"Acetophenone,",herbaceous aroma??,herbaceous
+869,14286,2-Acetopyridine,heavy-oily-fatty aroma??,"heavy, oily, fatty"
+870,62017,1-Acetoxy-1-acetylcyclohexane,"honey, floral, fruity","honey, floral, fruity"
+871,527144,9-Acetoxy-1-p-menthene,spicy,spicy
+872,74096,5-Acetoxy-1-pentene,fruity aroma,fruity
+873,17243,1-Acetoxy-2-hexene,fruity aroma,fruity
+874,7137,1-Acetoxy-2-methoxy-4-1-propenylbenzene,clove-like aroma,clove-like
+875,61155,1-Acetoxy-2-methoxybenzene,woody,woody
+876,61155,o-Acetoxyanisole,woody,woody
+877,4447651,2-Acetoxyethyl,Sweet,Sweet
+878,12506,2-Acetoxymethyloxolane,Bread,Bread
+879,118225,Ethyl5-acetoxyoctanoate,fruity aroma??,fruity
+880,529253,Acetoyl,red berry,red berry
+881,11086,2-Acetyl,"spicy, fruity","spicy, fruity"
+882,11363,"1-Phenyl-1,2-propanedione",pungent,pungent
+883,62484,Acetyl,NA,NA
+884,7136,Acetyl,Mild clove aroma??????,Mild clove
+885,61155,Acetyl,slightly green,slightly green
+886,876160,Isoeugenylacetate,clove-like aroma,clove-like
+887,26204,Acetyl, buttery, buttery
+888,26204,Acetyl, buttery, buttery
+889,179,Acetyl, buttery, buttery
+890,8500,4-Methylacetophenone,fruity,fruity
+891,6505,Acetyl,herbaceous,herbaceous
+892,526853,"5-Acetyl-2,3-dihydro-1,4-thiazine",roasted aroma,roasted
+893,61527,"3-Acetyl-2,5-dimethylfuran",nutty aroma,nutty
+894,520191,"3-Acetyl-2,5-dimethylthiophene",nutty aroma,nutty
+895,529352,4-Acetyl-2-isopropenylpyridine,herbal green aroma,"herbal, green"
+896,5362572,4-Acetyl-2-methylpyrimidine,Burnt meaty aroma,"Burnt, meaty"
+897,169110,2-Acetyl-2-thiazoline,grassy aroma,grassy
+898,579675,"2-Acetyl-3,5-dimethylfuran",Sweet balsamic aroma,"Sweet, balsamic"
+899,61918,"2-Acetyl-3-ethyl-1,4-diazine",potato,potato
+900,61918,2-Acetyl-3-ethylpyrazine,potato,potato
+901,32093,2-Acetyl-3-methylpyrazine,baked potato,baked potato
+902,529344,2-Acetyl-4-isopropenylpyridine,grassy green aroma,"grassy, green"
+903,529345,2-Acetyl-4-isopropylpyridine,leafy aroma,leafy
+904,8500,1-Acetyl-4-methylbenzene,"fruity, floral","fruity, floral"
+905,15068,2-Acetyl-4-methylphenol,herbaceous aroma,herbaceous
+906,14514,2-Acetyl-5-methylfuran,nutty aroma??,nutty
+907,83655,2-Acetyl-5-methylthiophene,sweet,sweet
+908,6985,Acetyl-m-xylene,minty??,minty
+909,91187616,"2,3-Hexanedione",butter-sweet,"butter, sweet"
+910,15068,o-Acetyl-p-cresol,herbaceous aroma,herbaceous
+911,68481,2-Acetylanisole,Spicy mint-like aroma??,"Spicy, mint-like"
+912,7476,4-Acetylanisole,"vanillic, balsamic","vanillic, balsamic"
+913,7476,p-Acetylanisole,"vanillic, balsamic","vanillic, balsamic"
+914,94579,Isopulegylacetate,sweet fruity,"sweet, fruity"
+915,7410,Acetylbenzene,NA,NA
+916,880,Acetylformaldehyde,NA,NA
+917,1060,Acetylformic,sour vinegar,"sour, vinegar"
+918,14505,Acetylfuran,Coffee-like aroma??,Coffee-like
+919,95466,2-Acetylhexanoic,Fruity wine-like aroma,"Fruity, wine-like"
+920,7122,beta-Acetylnaphthalene,orange blossom,orange blossom
+921,11086,2-Acetylphenylamine,spicy animalistic aroma,"spicy, animalistic"
+922,30914,2-Acetylpyrazine,popcorn,popcorn
+923,30914,Acetylpyrazine,popcorn,popcorn
+924,9589,3-Acetylpyridine,popcorn,popcorn
+925,9589,beta-Acetylpyridine,popcorn-like aroma??,popcorn-like
+926,14079,2-Acetylpyrrole,licorice-like aroma,licorice-like
+927,520108,2-Acetylthiazole,popcorn-like aroma??,popcorn-like
+928,92649,8-Acetylthio-p-menthan-3-one,minty??,minty
+929,11340,2-Acetyltoluene,coconut aroma,coconut
+930,11340,o-Acetyltoluene,coconut aroma,coconut
+931,61229,Acetylvanillin,vanilla,vanilla
+932,8821,Ethylacrylate,fruity aroma,fruity
+933,5282708,trans-2-Hexenoicacid,sweet,sweet
+934,21289747,Diisobutyladipate,Bland aroma??,Bland
+935,196,Adipic,minty??????,minty
+936,123935,L-Alanyl-L-Glutamine,Weak savoury aroma,"Weak, savoury"
+937,90887773,1-Decanol,fruity,fruity
+938,2682,1-Hexadecanol,fruity,fruity
+939,8914,1-Nonanol,rose-citrus,"rose, citrus"
+940,8175,Decanal,floral-orange,"floral, orange"
+941,61097,9-Undecenal,NA,NA
+942,8186,Undecanal,floral,floral
+943,7714,Gamma-Undecalactone,fruity,fruity
+944,7710,Gamma-Nonalactone,coconut,coconut
+945,7650,Benzylbutyrate,fruity-floral,fruity
+946,61408,Allyl,fruity,fruity
+947,23001441,Allylphenylacetate,NA,NA
+948,15834,Allylcinnamate,peach/apricot,"peach, apricot"
+949,16324,Allylbutyrate,peach/apricot,"peach, apricot"
+950,13010742,Allylhexanoate,pineapple,pineapple
+951,20219,Allyloctanoate,pineapple,pineapple
+952,20098061,Allyl,peach/apricot,"peach, apricot"
+953,5971,Allyl,pungent,pungent
+954,5971,Allyl,pungent,pungent
+955,61410,Allyl,pineapple,pineapple
+956,61410,Allyl,pineapple,pineapple
+957,24117,Allyl,pineapple,pineapple
+958,15717,Allyl,honey,honey
+959,61319,Allyl,apple/apricot,"apple, apricot"
+960,16591,Allyl,garlic,garlic
+961,61337,Allyl,fruity,fruity
+962,6435833,Allyl,pineapple,pineapple
+963,13367,Allyl,pungent,pungent
+964,5971,Allyl,pungent,pungent
+965,71587538,Allyl,fruity,fruity
+966,5364729,Allyl,fruity/green berry,"fruity, green, berry"
+967,10248,Elemicin,Spice with floral,"Spice, floral"
+968,5144,Safrole,Sasafras aroma??,Sasafras
+969,4276,Myristicin,NA,NA
+970,10659,Apiole,NA,NA
+971,5365976,Allyl-alpha-ionone,woody,woody
+972,543664,Methyl4-pentenoate,NA,NA
+973,543664,Methyl4-pentenoate,NA,NA
+974,226486,4-Allylsyringol,meaty,meaty
+975,5365703,Ambrettolide,musk,musk
+976,7283,1-Amino-2-methylbutane,fishy,fishy
+977,1001,1-Amino-2-phenylethane,fishy,fishy
+978,6274,L-Histidine,no aroma,no aroma
+979,77743,3-Methylthiopropylamine,pungent,pungent
+980,6288,L-Threonine,savoury aroma??,savoury
+981,6106,L-Leucine,no aroma,no aroma
+982,5862,L-Cysteine,Sulferous aroma,Sulferous
+983,8007,1-Aminobutane,Fishy ammonia aroma,"Fishy, ammonia"
+984,5960,L-Asparticacid,NA,NA
+985,6341,1-Aminoethane,Fishy ammonia aroma,"Fishy, ammonia"
+986,1001,2-Aminoethylbenzene,NA,NA
+987,33032,L-Glutamic,bread-like aroma??,bread-like
+988,8102,1-Aminohexane,Fishy aroma,Fishy
+989,994,Aminohydrocinnamic,NA,NA
+990,1182,alpha-Aminoisovaleric,Fishy aroma??????,Fishy
+991,8060,1-Aminopentane,NA,NA
+992,33032,L-Glutamic,Bread,Bread
+993,7852,1-Aminopropane,NA,NA
+994,239,3-Aminopropanoic,NA,NA
+995,74008,Amyl,herbaceous,herbaceous
+996,10886,Amyl,fruity,fruity
+997,61185,Amyl,fruity,fruity
+998,1712058,Amyl,jasmine??????,jasmine
+999,246728,Amyl,fruity,fruity
+1000,74008,Amyl,herbaceous,herbaceous
+1001,8067,Amyl,Meaty aroma??????,Meaty
+1002,8067,Amyl,Meaty aroma??????,Meaty
+1003,8067,Amyl,Meaty aroma,Meaty
+1004,18827,Amyl,rose,rose
+1005,61346,Amyl,mushroom,mushroom
+1006,10725569,5-Amyl-3H-furan-2-one,milky,milky
+1007,6433507,alpha-n-Amyl-beta-phenylacryl,grassy,grassy
+1008,8060,Amylamine,Fishy aroma??,Fishy
+1009,31209,alpha-Amylcinnamyl,grassy,grassy
+1010,31209,alpha-Amylcinnamyl,floral,floral
+1011,19602,2-Amylfuran,Fruity aroma??,Fruity
+1012,16800,2-Amylpyridine,NA,NA
+1013,11559,alpha-Angelica,tobacco,tobacco
+1014,18373617,Anisalcohol,"sweet, floral","sweet, floral"
+1015,7738,Anise,floral,floral
+1016,7478,4-Methoxybenzoicacid,NA,NA
+1017,7738,Anisic,floral,floral
+1018,31244,Anisic,floral,floral
+1019,7695,Anisyl,balsamic,balsamic
+1020,7738,Anisyl,"sweet, floral","sweet, floral"
+1021,243675,Anisyl,plum-like,plum-like
+1022,61054,Anisyl,herbaceous,herbaceous
+1023,61054,Anisyl,herbaceous,herbaceous
+1024,31231,Anisyl,NA,NA
+1025,7599,Anisyl,balsamic-rosy,"balsamic, rosy"
+1026,61007,Anisylacetone,vanilla,vanilla
+1027,24832102,Argeol,"sweet, tenacious","sweet, tenacious"
+1028,6322,L-Arginine,NA,NA
+1029,31244,Aubepine,floral,floral
+1030,7768,2-Azacycloheptanone,spicy aroma,spicy
+1031,31268,Azacyclopentane,NA,NA
+1032,8405,2-Azanaphthalene,herbaceous,herbaceous
+1033,79023,Barosma,minty,minty
+1034,61130,Benihinal,spicy-herbaceous,"spicy, herbaceous"
+1035,5463840,Benzalglycerin,almond,almond
+1036,8405,2-Benzazine,almond,almond
+1037,444539,Cinnamic,honey floral,"honey, floral"
+1038,12205936,Benzenethiol,garlic-like,garlic-like
+1039,7047,Benzopyridine,herbaceous,herbaceous
+1040,660,"1,2-Benzodihydropyrone",coconut,coconut
+1041,240,Benzoic,almond,almond
+1042,8400,Benzoin,balsamic,balsamic
+1043,3102,Benzophenone,floral,floral
+1044,8405,"3,4-Benzopyridine","balsamic, herbaceous","balsamic, herbaceous"
+1045,798,Benzopyrrole,NA,NA
+1046,798,"2,3-Benzopyrrole",NA,NA
+1047,7222,Benzothiazole,NA,NA
+1048,21651867,Ethylbenzoylacetate,cherry,cherry
+1049,62362,Benzoyl,Balsamic,Balsamic
+1050,8400,Benzoyl,balsamic,balsamic
+1051,68482,2-Benzoylaminobenzoic,fruity aroma??????,fruity
+1052,68482,N-Benzoylanthranilic,fruity aroma??????,fruity
+1053,3102,Benzoylbenzene,floral,floral
+1054,61402,Benzyl,"herbaceous, fruity-spicy","herbaceous, fruity, spicy"
+1055,22235151,Benzyl,fruity,fruity
+1056,7646,Benzyl,fruity-floral,"fruity, floral"
+1057,219672,4-Methyl-1-phenyl-2-pentanone,spicy,spicy
+1058,142266,Benzyl,fruity,fruity
+1059,8785,Benzyl,Jasmine,Jasmine
+1060,142266,Benzyl,fruity,fruity
+1061,142266,Benzyl,fruity,fruity
+1062,244,Benzyl,fruity,fruity
+1063,18744,Benzylphenylacetate,honey-floral,"honey, floral"
+1064,2345,Benzyl,balsamic,balsamic
+1065,2345,Benzyl,balsamic,balsamic
+1066,142266,Benzyl,fruity,fruity
+1067,7650,Benzyl,"fruity, floral","fruity, floral"
+1068,61134,Benzyl,NA,NA
+1069,7650,Benzyl,floral,floral
+1070,23367,Benzyl,jasmine aroma??????,jasmine
+1071,7643,Benzyl,rosy-fruity,"rosy, fruity"
+1072,5273469,Benzyl,NA,NA
+1073,7531,Benzyl,herbaceous,herbaceous
+1074,5463905,Benzyl,NA,NA
+1075,8785,Benzyl,Jasmine,Jasmine
+1076,7657,Benzyl,NA,NA
+1077,10873,Benzyl,fruity,fruity
+1078,7708,Benzyl,floral-fruity,"floral, fruity"
+1079,23367,Benzyl,jasmine aroma,jasmine
+1080,62661,Benzyl,sweet,sweet
+1081,219672,Benzyl,"sugar, sweet","sugar, sweet"
+1082,7646,Benzyl,fruity-floral,"fruity, floral"
+1083,764139,Benzyl,rose,rose
+1084,764139,Benzyl,rose,rose
+1085,7651,Benzyl,Apple,Apple
+1086,7651,Benzyl,apple,apple
+1087,7651,Benzyl,apple,apple
+1088,7593,"1,3-Diphenyl-2-propanone",fruity-almond,"fruity, almond"
+1089,81359,Benzyl,fruity aroma,fruity
+1090,7509,Benzylmercaptan,fruity aroma,fruity
+1091,7708,Benzylmethanoate,NA,NA
+1092,13016,Benzylmethyl,NA,NA
+1093,68284,Benzyl,NA,NA
+1094,61134,Benzyl,floral,floral
+1095,7650,Benzyl,floral,floral
+1096,80960,Benzyl,floral aroma,floral
+1097,8363,Benzyl,floral,floral
+1098,7657,Benzyl,floral aroma,floral
+1099,60999,Benzyl,floral aroma,floral
+1100,2345,Benzyl,floral aroma,floral
+1101,31219,Benzyl,floral aroma,floral
+1102,31219,Benzyl,floral aroma,floral
+1103,61202,Benzyl,floral aroma,floral
+1104,8363,Benzyl,floral aroma,floral
+1105,250096,Benzyl,rose,rose
+1106,7531,2-Benzyl-2-propanol,floral aroma,floral
+1107,9024,2-Benzyl-2-propyl,fruity aroma,fruity
+1108,24915,2-Benzyl-2-propyl,fruity aroma,fruity
+1109,61464,2-Benzyl-2-propyl,floral aroma,floral
+1110,5463905,3-Benzyl-4-heptanone,raisin,raisin
+1111,7707,Benzylacetaldehyde,floral,floral
+1112,107,Benzylacetic,balsamic,balsamic
+1113,61202,Benzylbutyl,sweet,sweet
+1114,7655,Phenethyl,fruity-rosy,"fruity, rosy"
+1115,8792,Phenethyl,fruity-rosy,"fruity, rosy"
+1116,5369459,Phenethyl,rose,rose
+1117,7601,Phenethyl,rose,rose
+1118,7658,Benzylcarbinyl,fruity,fruity
+1119,61384,Benzylcarbinyl,banana,banana
+1120,7711,Benzylcarbinyl,"herbaceous,rose","herbaceous, rose"
+1121,61384,Benzylcarbinyl,banana,banana
+1122,7655,Benzylcarbinyl,"fruity, rose","fruity, rose"
+1123,8792,Benzylcarbinyl,"fruity, rose","fruity, rose"
+1124,8792,Benzylcarbinyl,rose,rose
+1125,7711,Benzylcarbinyl,rose,rose
+1126,229888,Benzylcarbinyl,rose,rose
+1127,7601,Benzylcarbinyl,rose,rose
+1128,5357002,Benzylcarbinyl,rose,rose
+1129,998,Benzylcarboxaldehyde,rose,rose
+1130,999,Benzylcarboxylic,rose,rose
+1131,9012,Benzyl,caramellic,caramellic
+1132,12779,Benzyldithiomethane,NA,NA
+1133,61283,Benzylidene,camphor,camphor
+1134,5370646,3-Benzylidene-2-butanone,camphor,camphor
+1135,637759,Benzylidene,floral,floral
+1136,5368491,2-Benzylideneheptanol,floral,floral
+1137,5385520,2-Benzylidenehexanal,floral,floral
+1138,1550884,2-Benzylideneoctanal,floral,floral
+1139,6054,Benzylmethanol,floral,floral
+1140,7509,Benzylthiol,garlic,garlic
+1141,8294,Bergamol,NA,NA
+1142,6054,Phenethyl,rose,rose
+1143,7095,Bibenzene,rose aroma,rose
+1144,138508,Bibutyryl,buttery aroma,buttery
+1145,72300,"2,2-Bichavicol",Bitter aroma,Bitter
+1146,20487,Bicyclononalactone,spicy,spicy
+1147,21003,2-Cyclopentylcyclopentanone,minty aroma??,minty
+1148,7095,Biphenyl,rose like,rose-like
+1149,72300,Magnolol,Bitter aroma??,Bitter
+1150,7017,2-Biphenylol,Bitter aroma,Bitter
+1151,77652,Biso-tolyl,burnt sugar,burnt sugar
+1152,522514,Bois,terpineolic,terpineolic
+1153,61060,Isoborneol,camphoraceous,camphoraceous
+1154,2537,2-Bornanone,minty,minty
+1155,6552009,Borneo,camphoraceous aroma??????,camphoraceous
+1156,6448,Borneol,camphoraceous aroma??????,camphoraceous
+1157,24832090,Bornyl,camphoraceous aroma??????,camphoraceous
+1158,20327362,Isobornylacetate,NA,NA
+1159,97897,Bornyl,camphoraceous aroma??????,camphoraceous
+1160,518472,Bornyl,camphoraceous aroma??????,camphoraceous
+1161,249573,Bornyl,camphoraceous aroma??????,camphoraceous
+1162,13428328,Bornyl,camphoraceous aroma??????,camphoraceous
+1163,110801,Bornyl,camphoraceous aroma??????,camphoraceous
+1164,23617863,Isobornyl,camphoraceous aroma??????,camphoraceous
+1165,61418,Bornyl,camphoraceous aroma??????,camphoraceous
+1166,8467,Ethylvanillin,vanilla,vanilla
+1167,6433214,Bovolide,mint,mint
+1168,79023,Buccocamphor,Minty tea aroma??,Minty tea
+1169,79023,Buchu,Minty tea aroma??????,Minty tea
+1170,161475,Butan-1-ol,Minty tea aroma??,Minty tea
+1171,196,"1,4-Butanedicarboxylic",soure,soure
+1172,89307,Butanoic,herbaceous,herbaceous
+1173,77756,Butanoic,Fruity,Fruity
+1174,4775,Phenylbutyrate,floral aroma??,floral
+1175,6569,2-Butanone,Fruity aroma??,Fruity
+1176,6428929,"2-Butanone,",Fruity aroma??????,Fruity
+1177,21265,"2-Buten-1-ol,",Fruity aroma??????,Fruity
+1178,73555259,Butyl,fruity aroma??????,fruity
+1179,231325,Butyl,Sweet caramel aroma??????,"Sweet, caramel"
+1180,19352744,Butyl,NA,NA
+1181,11576,Butyl,fermented fruit??????,fermented fruit
+1182,7184,Butyl,fermented fruit??????,fermented fruit
+1183,31272,Butyl,fruity,fruity
+1184,11576,Butyl,fruity,fruity
+1185,261,Butyl,nutty,nutty
+1186,8738,Butyllactate,buttery,buttery
+1187,31210,Butyl,"honey, rose","honey, rose"
+1188,24433,Butyl,floral aroma??????,floral
+1189,24433,n-Butyl,floral aroma??????,floral
+1190,61134,Butyl,floral aroma??????,floral
+1191,7983,Butyl,floral aroma??????,floral
+1192,24114,Butyl,floral aroma??????,floral
+1193,12294,Butyl,floral aroma??????,floral
+1194,5273465,Butyl,floral aroma??????,floral
+1195,5463906,Butyl,floral aroma??????,floral
+1196,94314,di-sec-Butyl,sulphureous aroma??????,sulphureous
+1197,11520,Butyl,herbaceous,herbaceous
+1198,21596,butyl,fruity,fruity
+1199,12294,Butyl,fruity,fruity
+1200,7353,Butyl,fruity,fruity
+1201,7981,Butyl,fruity,fruity
+1202,8738,Butyl,buttery,buttery
+1203,61015,Butyl,fruity,fruity
+1204,16331,Butyl,fruity,fruity
+1205,16331,n-Butyl,fruity,fruity
+1206,8012,Butyl,fruity,fruity
+1207,11613,Butyl,fruity,fruity
+1208,24433,Butyl,fruity,fruity
+1209,16330,n-Butyl,fruity,fruity
+1210,31210,Butyl,honey,honey
+1211,5365891,Butyl,floral,floral
+1212,11529,Butyl,sweet,sweet
+1213,522458,Butyl,Sulphureous aroma??????,Sulphureous
+1214,31278,Butyl,fruity,fruity
+1215,54421029,Butyl,fruity,fruity
+1216,61137,Butyl,apple-raspberry,"apple, raspberry"
+1217,21057,Butyl,fatty buttery,"fatty, buttery"
+1218,5463946,2-Butyl-2-butenal,roasted aroma??,roasted
+1219,10608036,4-Butyl-4-hydroxyoctanoic,NA,NA
+1220,5283316,beta-Butylacrolein,fatty aroma,fatty
+1221,22027117,Butylamide,Nutty aroma,Nutty
+1222,8007,Butylamine,Ammoniacal aroma??,Ammoniacal
+1223,61771,2-sec-Butylcyclohexanone,camphoraceous,camphoraceous
+1224,20534,2-Butylfuran,Spicy aroma??,Spicy
+1225,14243,Butylidene,grassy,grassy
+1226,642376,3-Butylidenephthalide,spicy aroma,spicy
+1227,5352899,n-Butylidenephthalide,spicy aroma,spicy
+1228,61361,3-n-Butylphthalide,herbaceous,herbaceous
+1229,61361,3-Butylphthalide,herbaceous,herbaceous
+1230,519539,2-sec-Butylthiazole,herbaceous,herbaceous
+1231,10927,Butyramide,nutty,nutty
+1232,264,Butyric,nutty,nutty
+1233,97897,Butyric,Herbaceous aroma??????,Herbaceous
+1234,15146,Butyric,nutty aroma??????,nutty
+1235,20354,Butyric,floral aroma,floral
+1236,7302,"Butyro-1,4-lactone",caramel,caramel
+1237,7302,gamma-Butyrolactone,caramel,caramel
+1238,13852,4-Butyrothiolactone,garlic aroma??,garlic
+1239,228588,2-Butyrylfuran,Balsamic,Balsamic
+1240,230920,exo-2-Camphanol,camphoraceous aroma??,camphoraceous
+1241,10492,2-Camphanol,camphoraceous aroma??,camphoraceous
+1242,2537,dl-2-camphanone,camphoraceous aroma??,camphoraceous
+1243,2537,2-Camphanone,camphoraceous aroma??,camphoraceous
+1244,6448,2-Camphanyl,camphoraceous aroma??????,camphoraceous
+1245,13428328,2-Camphanyl,camphoraceous aroma??????,camphoraceous
+1246,6616,Camphene,camphoraceous aroma??,camphoraceous
+1247,21149427,Campholene,camphoraceous aroma??????,camphoraceous
+1248,98497,Campholenic,camphoraceous aroma??????,camphoraceous
+1249,61284,alpha-Campholenol,camphoraceous aroma??,camphoraceous
+1250,159055,d-Camphor,camphoraceous aroma??,camphoraceous
+1251,2537,dl-Camphor,camphoraceous aroma??,camphoraceous
+1252,8175,Capraldehyde,floral-orange,"floral, orange"
+1253,24513,Capraldehyde,citrus-floral,"citrus, floral"
+1254,6184,Caproic,grassy,grassy
+1255,7768,6-Caprolactam,minty aroma??,minty
+1256,23623868,Isobornylformate,camphoraceous aroma??,camphoraceous
+1257,565594,Bornylformate,camphoraceous aroma??,camphoraceous
+1258,957,Capryl,fatty-citrus,"fatty, citrus"
+1259,8125,Caprylene,petroleum-like aroma??,petroleum-like
+1260,379,Caprylic,NA,NA
+1261,454,Caprylic,orange,orange
+1262,62897,Caramel,nutty,nutty
+1263,95466,3-Carbethoxy-2-heptanone,Fruity,Fruity
+1264,996,Carbolic,"sweet, tarry","sweet, tarry"
+1265,7151,3-Carbomethoxypyridine,Tobacco,Tobacco
+1266,68482,2-Carboxybenzanilide,fruity aroma??,fruity
+1267,243,Carboxybenzene,almond,almond
+1268,7413,Carboxycyclohexane,fruity aroma??,fruity
+1269,26049,d-3-Carene,fruity aroma??,fruity
+1270,26049,3-Carene,fruity aroma??,fruity
+1271,10364,Carvacrol,spicy,spicy
+1272,527268,Carvacryl,carrot like,carrot like
+1273,7438,Carveol,minty aroma??,minty
+1274,10819,iso-Carveol,minty aroma??,minty
+1275,12956600,Carvomenthenal,minty aroma??,minty
+1276,11230,4-Carvomenthenol,minty aroma??,minty
+1277,6432473,Carvomenthol,minty aroma??,minty
+1278,439570,l-Carvone,minty aroma??,minty
+1279,16724,d-Carvone,minty aroma??,minty
+1280,439570,laevo-Carvone,minty aroma??,minty
+1281,91554343,trans-Carvone,spicy aroma??????,spicy
+1282,7335,Carvyl,minty aroma??????,minty
+1283,7336,Carvyl,minty aroma??????,minty
+1284,1742210,Caryophyllene,spicy aroma??????,spicy
+1285,637511,Cassia,cinnamon,cinnamon
+1286,7695,Cassie,cinnamon,cinnamon
+1287,3782139,Celery,NA,NA
+1288,8842,Cephrol,rose-like aroma??,rose-like
+1289,7122,Cetone,orange,orange
+1290,125468,Cevadic,spicy aroma??????,spicy
+1291,68148,Chavicol,NA,NA
+1292,44390556,Chavicol,Sweet aroma??????,Sweet
+1293,660,2-Chromanone,coconut-like aroma??,coconut-like
+1294,10106,"1,4-Cineole",camphor,camphor
+1295,637511,Cinnamal,cinnamon,cinnamon
+1296,637511,Cinnamaldehyde,cinnamon,cinnamon
+1297,6284401,Cinnamaldehyde,cinnamon,cinnamon
+1298,5273469,Cinnamein,cinnamon,cinnamon
+1299,5315892,Cinnamic,floral,floral
+1300,637511,Cinnamic,cinnamon,cinnamon
+1301,5355851,Cinnamyl,balsamic fruity,"balsamic, fruity"
+1302,5282110,Cinnamyl,balsamic,balsamic
+1303,5315892,Cinnamyl,floral,floral
+1304,5705112,Cinnamyl,spicy,spicy
+1305,1550890,Cinnamyl,floral,floral
+1306,5355254,Cinnamyl,floral balsamic,"floral, balsamic"
+1307,31224,Cinnamyl,"balsamic, floral","balsamic, floral"
+1308,5354883,Cinnamyl,balsamic,balsamic
+1309,5355851,Cinnamyl,balsamic fruity,"balsamic, fruity"
+1310,61091,Cinnamyl,"fruity, floral","fruity, floral"
+1311,7661,Cinnamyl,fruity-floral,"fruity, floral"
+1312,5365794,Citral,herbaceous,herbaceous
+1313,5365794,Citral,herbaceous,herbaceous
+1314,7794,Citronellal,lemon-citronella-rose aroma??,"lemon, citronella, rose"
+1315,7794,beta-Citronellal,lemon-citronella-rose aroma??,"lemon, citronella, rose"
+1316,7888,Citronellaldehyde, sweet floral lily," sweet, floral, lily"
+1317,10402,Citronellic,whisky aroma??????,whisky
+1318,8842,beta-Citronellol,rose-like aroma??,rose-like
+1319,81263,Rhodinol,rose-like aroma??,rose-like
+1320,61401,Citronelloxyacetaldehyde,floral,floral
+1321,9017,Citronellyl,fruity,fruity
+1322,8767,Citronellyl,rose-like aroma??????,rose-like
+1323,109467,Citronellyl,fruity aroma??????,fruity
+1324,7778,Citronellyl,floral,floral
+1325,60985,Citronellyl,rosy-fruity,"rosy, fruity"
+1326,8767,Citronellyl,rose-like aroma??????,rose-like
+1327,8834,Citronellyl,fruity-rosy,"fruity, rosy"
+1328,61416,Citronellyl,honey,honey
+1329,1757003,Citrylideneacetone,floral aroma??,floral
+1330,5315941,Civetone,Musky aroma??,Musky
+1331,5370602,Cocal,Cocoa,Cocoa
+1332,69320,Conyrine,nutty aroma??,nutty
+1333,67179,Coriandrol,floral,floral
+1334,7144,Creosol,vanilla,vanilla
+1335,2879,P-Cresol,tarry-smoky,"tarry, smoky"
+1336,61200,"2,4-Cresotaldehyde",bitter-almond,"bitter, almond"
+1337,8797,p-Cresyl,floral,floral
+1338,7685,p-Cresyl,fruity,fruity
+1339,61954,o-Tolylisobutyrate,fruity,fruity
+1340,62092,p-Cresyl,herbaceous,herbaceous
+1341,7731,p-Cresyl,sweet aroma,sweet
+1342,33637,o-Cresyl,grassy,grassy
+1343,60997,p-Cresyl,faint lily,"faint, lily"
+1344,248474,p-Cresylic,floral,floral
+1345,2879,p-Cresylic,tarry-smoky,"tarry, smoky"
+1346,92780,Crypton,minty herbaceous??,"minty, herbaceous"
+1347,11276107,Cubeb,mint-like aroma??????,mint-like
+1348,11976203,Cubebol,mint-like aroma,mint-like
+1349,5320191,Cucumber,vegetable,vegetable
+1350,326,Cumaldehyde,vegetable,vegetable
+1351,7146,Cumene,vegetable,vegetable
+1352,325,Cumin,caraway,caraway
+1353,326,Cuminal,herbaceous,herbaceous
+1354,326,Cuminaldehyde,herbaceous,herbaceous
+1355,325,Cuminic,caraway,caraway
+1356,326,Cuminic,caraway,caraway
+1357,325,Cuminol,caraway,caraway
+1358,325,Cuminyl,caraway,caraway
+1359,232459,Cumylacetaldehyde,caraway,caraway
+1360,517827,Cyclamal,floral aroma??,floral aroma
+1361,517827,Cyclamen,floral aroma??????,floral
+1362,61014,"Cyclo-1,13-ethylenedioxytridecan-1,13-dione",musk-like,musk-like
+1363,61072,Beta-Cyclocitrylidene,NA,NA
+1364,5372174,Alpha-Cyclocitrylidene,NA,NA
+1365,5371002,Methyl-alpha-ionone,NA,NA
+1366,638014,Beta-Cyclocitrylideneacetone,woody,woody
+1367,5282108,Alpha-Cyclocitrylideneacetone,violet-floral,"violet, floral"
+1368,10954,Cycloheptadeca-9-en-1-one,Musky aroma,Musky
+1369,5315941,9-Cycloheptadecen-1-one,Musky aroma,Musky
+1370,11605,Cyclohexadiene,lemon,lemon
+1371,526762,"1,3-p-Menthadien-7-al",spicy aroma??????,spicy
+1372,7413,Cyclohexanecarboxylic,sweet,sweet
+1373,70744,Methylcyclohexanecarboxylate,cheese,cheese
+1374,13006,"1,2-Cyclohexanedione",NA,NA
+1375,30771,Cyclohexaneethyl,sweet-fruity,"sweet, fruity"
+1376,83763,p-Menthan-7-ol,grassy aroma??,grassy
+1377,7413,Cyclohexanoic,fruity,fruity
+1378,7967,Cyclohexanone,mint,mint
+1379,74279,Cyclohexanone,tobacco,tobacco
+1380,74279,Cyclohexanone,Fruity,Fruity
+1381,101115,"Cyclohexanone,",herbaceous,herbaceous
+1382,36822,Cyclohexapyrazine,Cheese,Cheese
+1383,13594,Cyclohexen-3-one,NA,NA
+1384,86753,"3-Cyclohexene-1-ethanol,",Fruity,Fruity
+1385,13594,2-Cyclohexenone,roasted savoury aroma,"roasted, savoury"
+1386,12146,Cyclohexyl,NA,NA
+1387,24510,Cyclohexyl,orangeblossom,orange blossom
+1388,5357153,Cyclohexyl,Almond,Almond
+1389,243783,Cyclohexyl,sweet,sweet
+1390,243783,Cyclohexyl,sweet,sweet
+1391,5357153,Cyclohexyl,almond,almond
+1392,20358,Cyclohexyl,cherry,cherry
+1393,287439,Cyclohexyl,Banana,Banana
+1394,287439,Cyclohexyl,banana-like aroma??????,banana-like
+1395,287439,Cyclohexyl,banana-like aroma??????,banana-like
+1396,20487,Cyclohexyl,spicy,spicy
+1397,61375,Cyclohexyl,Banana,Banana
+1398,7413,Cyclohexylcarboxylic,fruity,fruity
+1399,30771,Cyclohexylethyl,sweet-fruity,"sweet, fruity"
+1400,7413,Cyclohexylmethanoic,fruity,fruity
+1401,16204532,Cyclohexylmethyl,musty aroma,musty
+1402,102861,Cyclopentaneacetic,NA,NA
+1403,8452,Cyclopentanone,minty aroma??,minty
+1404,21003,"Cyclopentanone,",minty aroma??????,minty
+1405,6660,Cyclotene,maple-liquorice aroma,"maple, liquorice"
+1406,109828,Cyclotene,Fruity nutty aroma,"Fruity, nutty"
+1407,66600,Cyclotene,carmellic buttery aroma??????,"carmellic, buttery"
+1408,61359,p-Cymen-7-carboxaldehyde,woody,woody
+1409,325,p-Cymen-7-ol,caraway,caraway
+1410,14529,p-Cymen-8-ol,caraway,caraway
+1411,7463,p-Cymene,caraway,caraway
+1412,7460,Dihydro-p-Cymene,herbaceous aroma,herbaceous
+1413,10364,p-Cymene-2-ol,spicy,spicy
+1414,6989,3-p-Cymenol,spicy,spicy
+1415,6989,Alpha-Cymophenol,herbaceous,herbaceous
+1416,5366074,Damascenone,fruity,fruity
+1417,5374527,Beta-Damascone,beta-Dam,beta-Dam
+1418,5366077,Alpha-Damascone,balsamic,balsamic
+1419,5365916,Delta-Damascone,balsamic,balsamic
+1420,5374527,Damasione,balsamic,balsamic
+1421,12813,"Deca-1,4-lactone",peach,peach
+1422,12810,"Deca-1,5-lactone",butter,butter
+1423,62566,Beta-Bourbonene,Woody aroma??,Woody
+1424,929262,Sclareolide,Woody aroma??,Woody
+1425,12813,Gamma-Decalactone,peach-like,peach-like
+1426,24513,Decanal,citrus-floral,"citrus, floral"
+1427,2969,Decanoic,rancid,rancid
+1428,69346,5-Oxodecanoicacid,creamy peach,"creamy, peach"
+1429,181747,"2,4,7-Decatrienal",citrusy aroma,citrusy
+1430,5353001,"2E,6Z,8E-Decatrienoic",sweet aroma,sweet
+1431,5283345,2-Decen-1-al,orange aroma,orange
+1432,87630,E-2-Decen-1-ol,Fatty rosy aroma??,"Fatty, rosy"
+1433,5365622,Z-4-Decen-1-ol,fruity aroma,fruity
+1434,5363233,3-Decen-2-one,jasmine-like aroma??,jasmine-like
+1435,170977,1-Decen-3-ol,mouldy aroma??????,mouldy
+1436,21885377,9-Decen-5-olide,nut-like aroma??,nut-like
+1437,19801,2-Decenal,orange aroma??,orange
+1438,61875,4-Decenal,orange,orange
+1439,5283345,Decenaldehyde,orange aroma,orange
+1440,93732,4-Decenoic,fruity aroma??????,fruity
+1441,61743,9-Decenoic,fruity,fruity
+1442,5362620,cis-4-Decenol,NA,NA
+1443,8167,Decyl,floral,floral
+1444,8174,Decyl,fruity,fruity
+1445,229385,Decyl,fatty,fatty
+1446,5283363,3-Decylacrolein,citus aroma??,citus
+1447,5283345,Decylenic,orange aroma??,orange
+1448,12762300,2-Decylfuran,fatty aroma??,fatty
+1449,61041,Dehydro-beta-cyclocitral,tobacco-herbaceous,"tobacco, herbaceous"
+1450,95086,Dehydrodivanillin,Vanilla,Vanilla
+1451,62842,Dehydrolinalool,mouldy aroma??,mouldy
+1452,71587277,Dehydromenthofurolactone,coumarin-like aroma??,coumarin-like aroma??
+1453,71586808,Dehydronootkatone,citrus,citrus
+1454,12810,Delta-Decalactone,coconut-fruity,"coconut, fruity"
+1455,138508,Di-n-butyryl,fatty buttery aroma,"fatty, buttery"
+1456,12198,"1,2-Diacetoxypropane",fruity acetic aroma??????,"fruity, acetic"
+1457,68482,Dianthramid,fruity aroma??,fruity
+1458,9261,"1,4-Diazine",corn-like,corn-like
+1459,7593,Dibenzyl,fruity-almond,"fruity, almond"
+1460,7986,Dibutyl,fruity,fruity
+1461,7986,Dibutyl,fruity,fruity
+1462,10608036,"4,4-Dibutyl-gamma-butyrolactone",coconut-butter,"coconut, butter"
+1463,71586808,"8,9-Didehydronootkatone",citrus,citrus
+1464,5463911,"1,1-Diethoxy-3,7-dimethyl-7-octanol",floral,floral
+1465,8049,Diethyl,winey-fruity,"winey, fruity"
+1466,62333,Diethyl,winey,winey
+1467,24197,Diethyl,winey-fruity,"winey, fruity"
+1468,8077,Diethyl,cabbage,cabbage
+1469,24197,Diethyl,herbaceous,herbaceous
+1470,7761,Diethyl,fruity,fruity
+1471,8049,Diethyl,winey-fruity,"winey, fruity"
+1472,31249,Diethyl,fruity,fruity
+1473,62333,Diethyl,winey,winey
+1474,520895,"3,5-Diethyl-1,2,4-trithiolane",roasted aroma??????,roasted
+1475,22201,"2,3-Diethyl-1,4-diazine",baked potato,baked potato
+1476,28906,"3,5-Diethyl-2-methylpyrazine",vegetable,vegetable
+1477,45274957,"2,6-diethyl-5-isopropyl-2-methyltetrahydropyran",fresh aroma,fresh
+1478,28905,"2,3-Diethyl-5-methylpyrazine",nutty,nutty
+1479,7765,Diethylacetal,fruity,fruity
+1480,10452,Diethylene,NA,NA
+1481,4837,Diethylenediamine,Salty,Salty
+1482,27458,"2,3-Diethylpyrazine",baked potato,baked potato
+1483,62913,"2,5-Diethyltetrahydrofuran",carmellic aroma,carmellic
+1484,263034,Difurfuryl,nutty aroma??,nutty
+1485,53423642,"2,4-Difurfurylfuran",fruity aroma??,fruity
+1486,6441535,Digeranyl,Balsamic,Balsamic
+1487,5365916,Dihydro,fruity,fruity
+1488,5374527,Dihydro,fruity floral,"fruity, floral"
+1489,5366077,Dihydro,fruity floral,"fruity, floral"
+1490,11196546,"3,7-Dihydroxy-4-methoxyflavan",sweet aroma??????,sweet
+1491,18522,Dihydro-2-methyl-32H-furanone,Wintergreen-like aroma??,Wintergreen-like
+1492,20831821,"4,5-Dihydro-2-methyl-3-furanthiol",sulfury aroma??????,sulfury
+1493,529251,"1-3,4-Dihydro-2H-pyroll-5-yl-1-propanone",Fishy aroma??????,Fishy
+1494,526177,"4,5-Dihydro-3-mercapto-2-methylfuran",floral,floral
+1495,27209,Dihydroactinidiolide,coumarin-like aroma??,coumarin-like
+1496,7702,Dihydroanethole,herbaceous,herbaceous
+1497,12072,Dihydrocarveol,spearmint-like,spearmint-like
+1498,24473,Dihydrocarvone,spearmint-like,spearmint-like
+1499,7794,"2,3-Dihydrocitral",lemon-citronella-rose aroma??????,"lemon, citronella, rose"
+1500,110747,dihydrocitronellal,Onion aroma,Onion
+1501,110747,"6,7-dihydrocitronellal",Onion aroma,Onion
+1502,660,Dihydrocoumarin,coconut-like aroma??,coconut-like
+1503,10819,Dihydrocuminic,minty,minty
+1504,16441,Perillyl,minty,minty
+1505,61780,Dihydrocuminyl,minty,minty
+1506,56924101,Dihydrocuminyl,minty,minty
+1507,17739,Dihydroeugenol,floral balsamic,"floral, balsamic"
+1508,5280341,"2,3-Dihydrofarnesol",fruity aroma??????,fruity
+1509,8842,"2,3-Dihydrogeraniol",rose-like aroma??????,rose-like
+1510,4458,Dihydrogeraniol,rose-like aroma??,rose-like
+1511,62378,Dihydrojasmone,jasmine??,jasmine
+1512,14344497,Dihydromintlactone,herbaceous aroma??,herbaceous
+1513,4788,Dihydronaringenin,Sweet aroma,Sweet
+1514,71587038,Dihydronootkatone,green aroma,green
+1515,11572085,"1,10-Dihydronootkatone",green aroma??????,green
+1516,121731,"2,3-Dihydrotoluene",fruity aroma,fruity
+1517,74915,Diisoamyl,Sweet oniony aroma??,"Sweet, oniony"
+1518,15667721,Diisoamyl,garlic like aroma??,garlic-like
+1519,71544,"1,1-Diisobutoxy-2-phenylethane",sweet floral,"sweet, floral"
+1520,8831,Diisobutyl,Bland aroma??,Bland
+1521,7958,Diisobutyl,menthol-like,menthol-like
+1522,23368,Diisopropyl,Sweet oniony aroma,"Sweet, oniony"
+1523,77932,Diisopropyl,Sweet oniony aroma,"Sweet, oniony"
+1524,520484,Diisopropyl,NA,NA
+1525,80046,Diisopropyl,Sweet oniony aroma,"Sweet, oniony"
+1526,62183,"1,3-Diisopropylacetonyl",Sweet oniony aroma,"Sweet, oniony"
+1527,61400,"3,4-Dimethoxy-1-vinylbenzene",floral penetrating aroma,"floral, penetrating"
+1528,6005821,"1,1-Dimethoxy-2-benzylideneheptane",floral odour reminiscent of jasmine??????,"floral, jasmine"
+1529,8863,"1,1-Dimethoxy-3,7-dimethyl-7-octanol",floral odour reminiscent of jasmine??????,"floral, jasmine"
+1530,5352905,"4-Propenyl-2,6-dimethoxyphenol",spicy aroma??,spicy
+1531,7127,"1,2-Dimethoxy-4-allylbenzene",Clove-carnation aroma,"Clove, carnation"
+1532,7127,"2,6-Dimethoxy-p-cresol",phenolic medicinal aroma,"phenolic, medicinal"
+1533,6436486,"1,1-Dimethoxy-trans-2-hexene",fruity aroma??????,fruity
+1534,9025,m-Dimethoxybenzene,nut-like aroma??,nut-like
+1535,7041,"2,6-Dimethoxyphenol",woody,woody
+1536,123233,"3,4-Dimethoxypropylbenzene",clove-carnation aroma??????,"clove, carnation"
+1537,61400,"3,4-Dimethoxystyrene",floral,floral
+1538,62375,"alpha-,alpha-Dimethoxytoluene",floral-almond odour,"floral, almond"
+1539,84559,Dodecanal,citrus-like aroma??????,citrus-like
+1540,12329,Dimethyl,Faint alcoholic aroma??????,"Faint, alcoholic"
+1541,6826,Dimethyl,Grape-like aroma??????,Grape-like
+1542,9024,Dimethyl,fruity aroma??????,fruity
+1543,24915,Dimethyl,fruity aroma??????,fruity
+1544,61464,Dimethyl,floral aroma??????,floral
+1545,12177,"2,4-Dimethyl",fruity aroma,fruity
+1546,12232,Dimethyl,onion-like aroma,onion-like
+1547,12329,Dimethyl,Faint alcoholic aroma??????,"Faint, alcoholic"
+1548,110747,"3,7-dimethyl",fruity,fruity
+1549,14529,Dimethyl,fruity,fruity
+1550,9025,Dimethyl,nut-like aroma??????,nut-like
+1551,61151,Dimethyl,floral,floral
+1552,102993,"2,4-Dimethyl-1,3-dioxolane",fruity,fruity
+1553,7938,"2,6-Dimethyl-1,4-diazine",coffee-like,coffee-like
+1554,22201,"2,3-Dimethyl-1,4-diazine",cocoa-like,cocoa-like
+1555,31252,"2,5-Dimethyl-1,4-diazine",potato-like,potato-like
+1556,23535,Linalyl,Gardenia,Gardenia
+1557,31353,"3,7-Dimethyl-1,6-octadien-3-yl",Gardenia,Gardenia
+1558,5355858,"3,7-Dimethyl-1,6-octadien-3-yl",Gardenia,Gardenia
+1559,5355858,"3,7-Dimethyl-1,6-octadien-3-yl",balsamic,balsamic
+1560,61098,"3,7-Dimethyl-1,6-octadien-3-yl",fruity,fruity
+1561,110747,"3,7-dimethyl-1-octanal",fruity,fruity
+1562,7792,"3,7-Dimethyl-1-octanol",rose-like,rose-like
+1563,5281535,"2,6-Dimethyl-10-methylene-2,6,11-dodecatrienal",citrus-like aroma??????,citrus-like
+1564,586292,"3,6-Dimethyl-2,3,3a,4,5,7a-hexahydrobenzofuran",herbal like,herbal-like
+1565,62105,"2,5-Dimethyl-2,5-dihdroxy-p-dithiane",herbal like,herbal-like
+1566,637566,"trans-3,7-Dimethyl-2,6-octadien-1-ol",rose-like aroma??,rose-like
+1567,643820,"cis-3,7-Dimethyl-2,6-octadien-1-ol",rose-like aroma??,rose-like
+1568,61983,"3,7-Dimethyl-2,6-octadien-1-thiol",orange,orange
+1569,16864,Nerylisobutyrate,rose,rose
+1570,6365572,Thiogeraniol,orange,orange
+1571,4458,"2,6-Dimethyl-2,6-octadien-8-ol",rose-like aroma,rose-like
+1572,4458,"cis-2,6-Dimethyl-2,6-octadien-8-ol",rose-like aroma??,rose-like
+1573,5365794,"3,7-Dimethyl-2,6-octadienal",citrusy,citrusy
+1574,19633,"2,6-Dimethyl-2,6-undecadien-10-one",sweet-rosey aroma??????,"sweet, rosey"
+1575,5362584,"4,5-Dimethyl-2-ethyl-3-thiazoline",sweet-rosey aroma,"sweet, rosey"
+1576,579675,"3,5-Dimethyl-2-furyl",NA,NA
+1577,4120025,"4,5-Dimethyl-2-isobutyl-3-thiazoline",herbaceous,herbaceous
+1578,104513,"4,5-Dimethyl-2-isobutylthiazole",vegetative aroma??,vegetative
+1579,14896,"6,6-Dimethyl-2-methylene-norpinane",piney aroma,piney
+1580,6616,"3,3-Dimethyl-2-methylenenorcamphane",camphoraceous aroma,camphoraceous
+1581,61130,"6,6-Dimethyl-2-norpinene-2-carboxaldehyde",herbaceous aroma,herbaceous
+1582,8842,"2,6-Dimethyl-2-octen-8-ol",rose-like aroma??????,rose-like
+1583,53422899,"2,4-Dimethyl-2-pentenoic",sweet,sweet
+1584,104620,"4,5-Dimethyl-2-propyloxazole",Roasted burnt aroma??,"Roasted, burnt"
+1585,80046,"2,6-Dimethyl-3,4,5-trithiaheptane",garlic-like aroma,garlic-like
+1586,77932,"2,5-Dimethyl-3,4-dithiahexane",oniony,oniony
+1587,1757003,"6,10-Dimethyl-3,5,9-undecatrien-2-one",floral aroma,floral
+1588,61527,"2,5-Dimethyl-3-acetylfuran",nutty aroma??,nutty
+1589,520191,"2,5-Dimethyl-3-acetylthiophene",nutty,nutty
+1590,19309,"2,5-Dimethyl-3-hydroxy-4-oxo-4,5-dihydrofuran",pineapple aroma,pineapple
+1591,6616,"2,2-Dimethyl-3-methylenenorbornane",camphoraceous aroma??????,camphoraceous
+1592,25200724,"2,5-Dimethyl-4,5-dihydrofuran-3-ol-4-one",pineapple aroma,pineapple
+1593,74915,"2,9-Dimethyl-5,6-dithiadecane",Sweet oniony aroma??,"Sweet, oniony"
+1594,1549778,"6,10-Dimethyl-5,9-undecadien-2-one",sweet-rosey aroma??,"sweet, rosey"
+1595,520888,"2,4-Dimethyl-5-acetylthiazole",nutty,nutty
+1596,61016,"2,6-Dimethyl-5-heptenal",melon-like aroma,melon-like
+1597,5362563,"2,4-Dimethyl-5-vinylthiazole",NA,NA
+1598,10402,"3,7-Dimethyl-6-octenoic",whisky aroma,whisky
+1599,543323,"3,7-Dimethyl-7-octen-1-ol",rose-like aroma,rose-like
+1600,61085,"3,7-Dimethyl-7-octen-1-yl",rosy-fruity aroma,"rosy, fruity"
+1601,6985,"2,4-Dimethylacetophenone",minty,minty
+1602,10336,"alpha,beta-Dimethylacrolein",ethereal aroma??,ethereal
+1603,10336,"2,3-Dimethylacrolein",ethereal aroma,ethereal
+1604,10931,"3,3-Dimethylacrylic",dairy aroma,dairy
+1605,10931,"beta,beta-Dimethylacrylic",dairy aroma??,dairy
+1606,11173,"3,3-Dimethylallyl",lavender aroma??????,lavender
+1607,81221,"2,4-Dimethylanisole",herbaceous aroma??,herbaceous
+1608,61814,"2,4-Dimethylbenzaldehyde",Almond,Almond
+1609,2734646,"2,3-Dimethylbenzofuran",spicy aroma??,spicy
+1610,10817,"p,alpha-Dimethylbenzyl",camphoraceous,camphoraceous
+1611,71587848,Dimethylbenzyl,herbaceous aroma,herbaceous
+1612,11830590,"alpha,alpha-Dimethylbenzyl",Fruity aroma??????,Fruity
+1613,650,Dimethyldiketone,buttery odour,buttery
+1614,650,Dimethylglyoxal,buttery odour,buttery
+1615,179,Dimethylketol,buttery aroma,buttery
+1616,8294,"3,7-Dimethylocta-1,6-dien-3-yl",fruity,fruity
+1617,61040,"3,7-Dimethylocta-1,6-dien-3-yl",bergamot-like aroma,bergamot-like
+1618,110747,"3,7-Dimethyloctanal",Onion aroma,Onion
+1619,5463910,"2,6-Dimethyloctanal",sweet fruit odour,"sweet, fruit"
+1620,7531,"alpha,alpha-Dimethylphenethanol",floral aroma??,floral
+1621,9024,Dimethylbenzylcarbinyl,NA,NA
+1622,25125,"N,N-Dimethylphenethylamine",Sweet,Sweet
+1623,7632,Dimethylphenethylcarbinol,rose sweetness aroma??,"rose, sweetness"
+1624,7632,Dimethylphenethylcarbinol,rosey,rosey
+1625,22201,"2,3-Dimethylpyrazine",nutty,nutty
+1626,31252,"2,5-Dimethylpyrazine",potato like aroma,potato-like
+1627,7938,"2,6-Dimethylpyrazine",coffee like aroma,coffee-like
+1628,7937,"2,6-Dimethylpyridine", coffee like aroma,coffee-like
+1629,49,Dimethylpyruvic,fruity aroma??,fruity
+1630,62385,"p,alpha-Dimethylstyrene",citrusy-lemon like aroma??,"citrusy, lemon-like"
+1631,544628,"5,6-Dimethyltetrahydropyran-2-one",NA,NA
+1632,77837,"2,5-Dimethylthiazole",nutty aroma??,nutty
+1633,62510,"4,5-Dimethylthiazole",NA,NA
+1634,79089,"3,4-Dimethylthiophene",onion aroma??????,onion
+1635,31271,Dioctyl,Slight fatty aroma??,"Slight, fatty"
+1636,62539,"3,4-Dioxohexane",NA,NA
+1637,92770,Nepetalactone,minty aroma,minty
+1638,33637,2-Methylanisole,sweet aroma,sweet
+1639,5367806,Isobutyl,fruity aroma,fruity
+1640,519843,Santolina,,
+1641,16315,Diallyl,pungent,pungent
+1642,16590,Diallyl,,
+1643,11617,Diallyl,,
+1644,14257,Undecane,,
+1645,3083821,Osmorhizol,,
+1646,530428,Vulgarone,,
+1647,12252,2-nitroethanol,,
+1648,564412,Dehydroelsholtzia,,
