@@ -1,13 +1,13 @@
 # Pubchem molecules with optical rotation values
 [source]
-title = "Scrapping optical rotation values from molecules in PubChem"
+title = "Scraping optical rotation values from molecules in PubChem"
 authors = "Richard C Gerkin, Liyah A Coleman"
 
 [raw]
-"raw_data" = Values were extracted from PubChem
+"raw_data" = "Values were extracted from PubChem"
 
 [processed]
-"main.py" = "code for scrapping"
-"main.ipynb" = "notebook for running code"
+"main.py" = "Code for scraping"
+"main.ipynb" = "Notebook for running code"
 "molecules.csv" = "Molecules used"
-"attributes.csv" = "dataframe of the scrpped opr values"
+"attributes.csv" = "Dataframe of the scraped opr values"
