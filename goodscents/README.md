@@ -1,6 +1,6 @@
 # The Goodscents Company Dataset
 
-This is a CSV dump of a web scraped HTML data of [The Goodscents Company website by William Luebke](http://www.thegoodscentscompany.com/). The web scraping and the CSV transformation is maintained by [Contrebande Labs](https://github.com/contrebande-labs/) in [their fork](https://github.com/contrebande-labs/pyrfume-data) of the [Pyrfume Data repository](https://github.com/pyrfume/pyrfume-data). This dataset is an extraction of a web scraping from November 30 2021. The data has not been modified, transformed or filtered except when specifically indicated.
+This is a CSV dump of a web scraped HTML data of [The Goodscents Company website by William Luebke](http://www.thegoodscentscompany.com/). The web scraping and the CSV transformation is maintained by [Contrebande Labs](https://github.com/contrebande-labs/) in [their fork](https://github.com/contrebande-labs/pyrfume-data) of the [Pyrfume Data repository](https://github.com/pyrfume/pyrfume-data). This dataset is an extraction of a web scraping from January 17 2022. The data has not been modified, transformed or filtered except when specifically indicated.
 
 ## Usage
 
