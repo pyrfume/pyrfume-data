@@ -1,4 +1,4 @@
-# Manifest for Keller et al, 2012 data
+# Manifest for Leon et al, 2009 data
 [source]
 doi = "10.1002/cne.22046"
 url = "https://onlinelibrary.wiley.com/doi/10.1002/cne.22046"
@@ -10,4 +10,4 @@ authors = “BA Johnson, Zhe X, SS Ali, M Leon”
 [processed]
 "main.py" = "Processing workflow"
 "molecules.csv" = "Information about odorant molecules used"
-"behavior.csv" = “Lookup table matching entries of molecules to .png files of glomerular maps”
+"behavior.csv" = “Lookup table matching entries of molecules to csv files of glomerular maps”
