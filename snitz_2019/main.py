@@ -34,7 +34,8 @@ df1.head()
 
 # SmellSpace data -> behavior_1.csv
 odorIdx1 = [df1.columns.get_loc(col) for col in df1 if col.startswith('Odor')]
-colNames1 = ['CID', 'UID', 'OdorCode'] + [re.sub(r'\d+$', '', x) for x in list(df1)[odorIdx1[0]+1:odorIdx1[0]+14]]
+terms = [re.sub(r'\d+$', '', x) for x in list(df1)[odorIdx1[0]+1:odorIdx1[0]+14]]
+colNames1 = ['CID', 'UID', 'OdorCode'] + terms
 
 data_dict1 = {}
 n = 0
@@ -46,7 +47,6 @@ for row in df1.to_numpy():
             n += 1
 
 behav1 = pd.DataFrame.from_dict(data_dict1, orient='index', columns=colNames1).set_index(['CID', 'UID']).sort_index()
-behav1.insert(1, 'SessionNumber', None) # Add blank column to be consitent with columns in control data
 behav1.drop(['OdorCode'], axis=1).head()
 
 # data from in-lab control group
@@ -60,7 +60,7 @@ df2.head()
 
 # Control group data -> behavior.2.csv
 odorIdx2 = [df2.columns.get_loc(col) for col in df2 if col.startswith('Odor')]
-colNames2 = ['CID', 'UID', 'SessionNumber', 'OdorCode'] + [re.sub(r'\d+$', '', x) for x in list(df2)[odorIdx2[0]+1:odorIdx2[0]+14]]
+colNames2 = ['CID', 'UID', 'SessionNumber', 'OdorCode'] + terms
 
 data_dict2 = {}
 n = 0
@@ -88,3 +88,4 @@ molecules.to_csv('molecules.csv')
 behav1.drop(['OdorCode'], axis=1).to_csv('behavior_1.csv')
 behav2.drop(['OdorCode'], axis=1).to_csv('behavior_2.csv')
 subjects.to_csv('subjects.csv')
+

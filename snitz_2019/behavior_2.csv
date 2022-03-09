@@ -1,4 +1,4 @@
-CID,UID,SessionNumber,Pleasantness,Volatile,Intensity,Bitterness,Chemical,Spicy,Sweet,Fresh,Dirty,Burnt,Fruity,Developmentovertime,Garlic
+CID,UID,SessionNumber,Pleasant,Volatile,WeakStrong,Bitter,Chemical,Spice,Sweet,FreshRotten,CleanDirty,Burnt,Fruity,Develops,Garlic
 326,0,1,33,17,62,39,1,1,1,31,70,13,1,16,30
 326,0,2,20,14,77,39,1,63,1,1,11,23,1,27,7
 326,1,1,72,28,64,56,55,24,68,45,50,1,57,63,12
