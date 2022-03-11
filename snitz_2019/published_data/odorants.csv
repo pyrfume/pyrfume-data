@@ -1,36 +1,36 @@
-﻿,Odor code,Name,CAS number,(V/V in IPM),CID,Number of subjects,Intensity ratings
-1 ,JX ,Laevo-fenchone ,7787-20-4 ,7.60% ,14525,985 ,62.6305 
-2 ,QB ,Isoamyl acetate ,123-92-2 ,25.00% ,31276,985 ,48.0234 
-3 ,SD ,3-Propylidene phthalide ,17369-59-4 ,7.90% ,5373603,985 ,71.9421 
-4 ,EQ ,Cuminaldehyde ,122-03-2 ,13.60% ,326,985 ,74.0538 
-5 ,AY ,Strawberry glycidate 1 (aldehyde C-16) ,77-83-8 ,100.00% ,6501,985 ,56.8213 
-6 ,XI ,Nonanal (aldehyde C-9) ,124-19-6 ,100.00% ,31289,985 ,48.5157 
-7 ,FL ,Citral ,5392-40-5 ,100.00% ,638011,985 ,56.7553 
-8 ,JQ ,Skatole ,83-34-1 ,0.75% ,6736,985 ,53.0751 
-9 ,ZB ,Hexanol ,111-27-3 ,30.00% ,8103,985 ,33.9107 
-10 ,LV ,6-Methylquinoline ,91-62-3 ,10.70% ,7059,985 ,51.3553 
-11 ,KO ,Musk ,1222-05-5 ,100.00% ,91497,65 ,46.3846 
-12 ,JT ,"(Mixture) [XI, LV, SD, EQ] ",,,,65 ,78.6154 
-13 ,UV ,Damascenone ,23696-85-7 ,10.00% ,5366074,53 ,56.8491 
-14 ,OS ,"(Mixture) [EQ, ZB, QB, JX] ",,,,53 ,71.6981 
-15 ,SS ,ISO E Super ,54464-57-2 ,100.00% ,108242,34 ,54.4412 
-16 ,WZ ,"(Mixture) [JX, JQ, LV, EQ] ",,,,34 ,75.0294 
-17 ,LB ,Iralia pure ,1335-46-2 ,100.00% ,5371084,54 ,70.2778 
-18 ,RZ ,"(Mixture) [JQ, QB, LV, XI] ",,,,54 ,61.0741 
-19 ,VY ,"(Mixture) [JX, SD, FL, LV] ",,,,66 ,74.303 
-20 ,MH ,Oxane ,59323-76-1 ,10.00% ,101010,78 ,82.5641 
-21 ,SF ,"(Mixture) [XI, ZB, FL, JX] ",,,,78 ,62.359 
-22 ,ZI ,Damscone alpha ,24720-09-0 ,10.00% ,5366077,94 ,74.7766 
-23 ,WV ,"(Mixture) [JQ, SD, FL, LV, QB, XI, EQ, ZB, JX, AY] ",,,,128 ,78.4922 
-24 ,FE ,"4-(2,6,6-trimethylcyclohexen-1-yl)but-3-en-2-one ",8013-90-9 ,,26955,102 ,64.0294 
-25 ,UB ,Isoamyl phenyl acetate ,102-19-2 ,100.00% ,7600,102 ,68.4804 
-26 ,NB ,Norlimbanol ,70788-30-6 ,25.00% ,116699,119 ,76.3697 
-27 ,TJ ,Thiogeraniol ,38237-00-2 ,25.00% ,6365572,98 ,79.6224 
-28 ,FM ,Clementine aldehide ,20407-84-5 ,,5283361,66 ,74.7424 
-29 ,IF ,Aldehide C7 ,111-71-7 ,10.00% ,8130,155 ,48.7806 
-30 ,HG ,Galaxolide ,1222-05-5 ,70.00% ,91497,33 ,48.9394 
-31 ,OA ,"(Mixture) [ZB, JQ, QB, JX] ",,,,119 ,67.8151 
-32 ,EK ,"(Mixture) [EQ, SD, QB, ZB] ",,,,98 ,77.2551 
-33 ,AS ,"(Mixture) [XI, LV, SD, ZB] ",,,,155 ,76.1677 
-34 ,BA ,"(Mixture) [XI, QB, JQ, EQ] ",,,,33 ,75.9091 
-35 ,NE ,IPM pure (the diluent) ,110-27-0 ,,8042,34 ,37.9412 
+Odor code	Name	CAS number	(V/V in IPM)	CID	Number of subjects	Intensity ratings
+JX	Laevo-fenchone	7787-20-4	7.6	14525	985	62.6305
+QB	Isoamyl acetate	123-92-2	25	31276	985	48.0234
+SD	3-Propylidene phthalide	17369-59-4	7.9	5373603	985	71.9421
+EQ	Cuminaldehyde	122-03-2	13.6	326	985	74.0538
+AY	Strawberry glycidate 1 (aldehyde C-16)	77-83-8	100	6501	985	56.8213
+XI	Nonanal (aldehyde C-9)	124-19-6	100	31289	985	48.5157
+FL	Citral	5392-40-5	100	638011	985	56.7553
+JQ	Skatole	83-34-1	0.75	6736	985	53.0751
+ZB	Hexanol	111-27-3	30	8103	985	33.9107
+LV	6-Methylquinoline	91-62-3	10.7	7059	985	51.3553
+KO	Musk	1222-05-5	100	91497	65	46.3846
+JT	"(Mixture) [XI,LV,SD,EQ]"				65	78.6154
+UV	Damascenone	23696-85-7	10	5366074	53	56.8491
+OS	"(Mixture) [EQ,ZB,QB,JX]"				53	71.6981
+SS	ISO E Super	54464-57-2	100	108242	34	54.4412
+WZ	"(Mixture) [JX,JQ,LV,EQ]"				34	75.0294
+LB	Iralia pure	1335-46-2�	100	5371084	54	70.2778
+RZ	"(Mixture) [JQ,QB,LV,XI]"				54	61.0741
+VY	"(Mixture) [JX,SD,FL,LV]"				66	74.303
+MH	Oxane	59323-76-1	10	101010	78	82.5641
+SF	"(Mixture) [XI,ZB,FL,JX]"				78	62.359
+ZI	Damscone alpha	24720-09-0	10	5366077	94	74.7766
+WV	"(Mixture) [JQ,SD,FL,LV,QB,XI,EQ,ZB,JX,AY]"				128	78.4922
+FE	"4-(2,6,6-trimethylcyclohexen-1-yl)but-3-en-2-one"	8013-90-9		26955	102	64.0294
+UB	Isoamyl phenyl acetate	102-19-2	100	7600	102	68.4804
+NB	Norlimbanol	70788-30-6	25	116699	119	76.3697
+TJ	Thiogeraniol	38237-00-2	25	6365572	98	79.6224
+FM	Clementine aldehide	20407-84-5		5283361	66	74.7424
+IF	Aldehide C7	111-71-7	10	8130	155	48.7806
+HG	Galaxolide	1222-05-5	70	91497	33	48.9394
+OA	"(Mixture) [ZB,JQ,QB,JX]"				119	67.8151
+EK	"(Mixture) [EQ,SD,QB,ZB]"				98	77.2551
+AS	"(Mixture) [XI,LV,SD,ZB]"				155	76.1677
+BA	"(Mixture) [XI,QB,JQ,EQ]"				33	75.9091
+NE	IPM pure (the diluent)	110-27-0		8042	34	37.9412
