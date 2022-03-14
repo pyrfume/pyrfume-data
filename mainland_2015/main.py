@@ -21,17 +21,12 @@ from pyrfume import get_cids
 from pyrfume import from_cids
 
 odorants = pd.read_csv('Odors.tsv', sep='\t')
-#molecules = molecules.set_index('CID')
-#molecules.index = molecules.index.astype(int)
-cids = pd.Series(get_cids(odorants['SMILES'], kind='SMILES'))
+molecules = pd.DataFrame(from_cids(odorants[~odorants.CID.isna()]['CID'].astype(int))) #Retrieve Pubchem informations from CID
 
-odorants['CID'] = odorants['SMILES'].apply(cids.xs).astype(int)
+molecules = molecules.merge(odorants, on='CID', how="outer") #Merge on CID, outer merge if mixtures are wanted
 
-molecules = pd.DataFrame(from_cids(odorants['CID']))
-
-molecules = molecules.join(odorants, rsuffix='_r').set_index('CID')
-molecules = molecules.drop(['CID_r', 'SMILES'], axis=1)
-molecules = molecules.rename(columns={'Odor': 'Odorant'})
+molecules = molecules.drop(['SMILES'], axis=1).drop_duplicates(subset=['Odor'])
+molecules = molecules.rename(columns={'Odor': 'Odorant'}) #Change column name for consistency
 molecules.to_csv('molecules.csv')
 
 receptors = pd.read_csv('Receptors.tsv', sep='\t')
