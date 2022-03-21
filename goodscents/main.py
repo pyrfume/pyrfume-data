@@ -65,13 +65,14 @@ cids_3 = cids_3.apply(lambda x: x[0] if isinstance(x, pd.Series) else x).fillna(
 # Found by each method
 len(cids_1[cids_1>0]), len(cids_2[cids_2>0]), len(cids_3[cids_3>0])
 
+opl = opl.copy() # Bypass ridiculous setting on a copy warning
 # Apply CAS-based CIDs only to those CIDs not found by Contrebande
-opl.loc[cids_1==0, 'CID'] = cids_2
+opl.loc[cids_1==0, 'CID'] = cids_2.copy()
 # Apply name-based CIDs only to those CIDs not found by Contrebande or by CAS
-opl.loc[cids_1==0, :].loc[cids_2==0, 'CID'] = cids_3
+opl.loc[cids_1==0, :].loc[cids_2==0, 'CID'] = cids_3.copy()
 opl['CID'] = opl['CID'].astype(int)
 
-# + jupyter={"outputs_hidden": true} tags=[]
+# + tags=[]
 cids = list(set(opl['CID']) - set([0]))
 # Get standard information from PubChem for the CIDs that were found
 molecules = from_cids(cids)
@@ -83,8 +84,7 @@ molecules.to_csv('molecules.csv')
 molecules.head()
 
 tgsc_id = opl.set_index('CID')['TGSC ID']
-identifiers = molecules.index.map(tgsc_id.get).to_series(name='TGSC ID')
-identifiers.index = molecules.index
+identifiers = tgsc_id[tgsc_id.index>0].sort_index()
 identifiers.to_csv('identifiers.csv')
 
 delivery = odor.set_index('TGSC ID')[['Concentration %', 'Solvent']]
