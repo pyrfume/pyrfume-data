@@ -7,14 +7,14 @@ authors = "AN Gilbert, CJ Wysocki"
 extra = "Originally conducted for National Geographic magazine in 1986 by Avery Gilbert and Charles Wysocki, as reported initially in 'Gilbert, A.N. and Wysocki, C.J. National Geographic Smell Survey: The Results. National Geographic, 1987, 172, 514‑525.' and re-constituted for deposition as a Kaggle dataset by Joel Mainland (see URL)"
 
 [raw]
-"Data dictionary.xlsx" = "The data dictionary"
-"NGS.csv" = "The results"
-"NGSS The Actual Survey from 1986" = "The survey instrument"
-"methods.txt" = "An excerpt describing the odorants from the original Gilbert and Wysocki paper"
+Data_dictionary.xlsx = "The data dictionary"
+NGS.csv = "The results"
+NGSS_The_Actual_Survey_from_1986 = "The survey instrument"
+methods.txt = "An excerpt describing the odorants from the original Gilbert and Wysocki paper"
 
 [processed]
-"main.py" = "Processing workflow"
-"molecules.csv" = "Information about odorant molecules used"
-"mixtures.csv" = "Molecular composition of the odorants used"
-"behavior.csv" = "Subject responses about the odorants"
-"subjects.csv" = "Subject metadata"
+main.py = "Processing workflow"
+molecules.csv = "Information about odorant molecules used"
+mixtures.csv = "Molecular composition of the odorants used"
+behavior.csv = "Subject responses about the odorants"
+subjects.csv = "Subject metadata"

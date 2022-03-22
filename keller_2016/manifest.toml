@@ -5,9 +5,9 @@ title = "Olfactory perception of chemically diverse molecules"
 authors = "A Keller, LB Vosshall"
 
 [raw]
-"12868_2016_287_MOESM1_ESM" = "Raw ratings for all odorants, subjects, descriptors, and replicates"
+12868_2016_287_MOESM1_ESM = "Raw ratings for all odorants, subjects, descriptors, and replicates"
 
 [processed]
-"main.ipynb" = "Processing workflow"
-"molecules.csv" = "Information about odorant molecules used"
-"behavior.csv" = "Re-organized ratings for all odorants, subjects, descriptors, and replicates"
+main.py = "Processing workflow"
+molecules.csv = "Information about odorant molecules used"
+behavior.csv = "Re-organized ratings for all odorants, subjects, descriptors, and replicates"

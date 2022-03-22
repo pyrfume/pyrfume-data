@@ -6,7 +6,7 @@ authors = "Ma, Yue; Tang, Ke; Xu, Yan; Thomas Danguin, Thierry"
 extra = "Originally described in https://doi.org/10.1016/j.dib.2021.107143; also related to 10.1093/chemse/bjaa020."
 
 [raw]
-data in brief V2.xlsx = "This dataset gathered data collected on a set of 222 binary mixtures, based on a set of 72 odorants chiefly found in food, rated by 30 selected and trained assessors for odor intensity and pleasantness."
+data_in_brief_V2.xlsx = "This dataset gathered data collected on a set of 222 binary mixtures, based on a set of 72 odorants chiefly found in food, rated by 30 selected and trained assessors for odor intensity and pleasantness."
 
 [processed]
 main.ipynb = "Processing workflow"

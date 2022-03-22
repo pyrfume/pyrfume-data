@@ -12,8 +12,8 @@ extra = "Originally produced by the Goodscents Company and organized by Contreba
 "LICENSE" = "Licensing information and use restrictions according to the terms of The Goodscents Company"
 
 [processed]
-"main.py" = "Processing workflow"
-"molecules.csv" = "Information about odorant molecules used"
-"identifiers.csv" = "Mappings between PubChem IDs and GoodScents IDs"
-"behavior.csv" = "Odor labels for each molecule (one column per label)"
-"behavior_sparse.csv" = "Odor labels for each molecule (single column)"
+main.py = "Processing workflow"
+molecules.csv = "Information about odorant molecules used"
+identifiers.csv = "Mappings between PubChem IDs and GoodScents IDs"
+behavior.csv = "Odor labels for each molecule (one column per label)"
+behavior_sparse.csv = "Odor labels for each molecule (single column)"

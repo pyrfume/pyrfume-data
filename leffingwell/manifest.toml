@@ -6,12 +6,12 @@ authors = "B Sanchez-Lengeling, JN Wei; BK Lee, RC Gerkin, A Aspuru-Guzik, AB Wi
 extra = "Originally produced by John Leffingwell and cleaned by Sanchez-Lengeling et al for data science; 'raw' the latter and 'processed' additional work for deposition in Pyrfume; see LICENSE for use restrictions; embeddings not provided in this release"
 
 [raw]
-"leffingwell_data.csv" = "Odor labels for molecules as originally compiled by John Leffingwell and cleaned by Sanchez-Lengeling et al"
-"leffingwell_readme.pdf" = "Information about the dataset"
-"LICENSE" = "Licensing information and use restrictions according to the terms of John Leffingwell and Google"
+leffingwell_data.csv = "Odor labels for molecules as originally compiled by John Leffingwell and cleaned by Sanchez-Lengeling et al"
+leffingwell_readme.pdf = "Information about the dataset"
+LICENSE = "Licensing information and use restrictions according to the terms of John Leffingwell and Google"
 
 [processed]
-"main.ipynb" = "Processing workflow"
-"molecules.csv" = "Information about odorant molecules used"
-"behavior.csv" = "Odor labels for each molecule (one column per label)"
-"behavior_sparse.csv" = "Odor labels for each molecule (single column)"
+main.py = "Processing workflow"
+molecules.csv = "Information about odorant molecules used"
+behavior.csv = "Odor labels for each molecule (one column per label)"
+behavior_sparse.csv = "Odor labels for each molecule (single column)"
