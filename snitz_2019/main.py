@@ -19,8 +19,10 @@ odorants.head()
 # mapping for odor codes to CID
 codeToCID = dict(zip(odorants.index, odorants['CID']))
 
-# remove mixtures
+# # remove mixtures
 for key in [key for key in codeToCID if len(codeToCID[key].split(',')) > 1]: del codeToCID[key]                   
+
+cids = list(codeToCID.values())
 info_dict = pyrfume.from_cids(cids)
 
 # create dataframe for molecules.csv
