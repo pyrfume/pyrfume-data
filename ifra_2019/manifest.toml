@@ -6,7 +6,7 @@ authors = "The International Fragrance Associations"
 extra = "Other representatives of IFRA Regular and Supporting Members, IFRA National Associations, and members of IFRA National Associations, may request a copy of the document by visiting ifrafragrance.org/glossary."
 
 [private]
-ifra-fragrance-ingredient-glossary---oct-2019.pdf
+ifra-fragrance-ingredient-glossary---oct-2019.pdf = "..."
 
 [raw]
 ifra-fragrance-ingredient-glossary---oct-2019.pdf = "Data compiled by The International Fragrance Association"
