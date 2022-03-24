@@ -1,0 +1,19 @@
+# Manifest for Snitz et al 2019 odor descriptors dataset
+[source]
+doi = "https://doi.org/10.1093/chemse/bjz014"
+title = "SmellSpace: An Odor-Based Social Network as a Platform for Collecting Olfactory Perceptual Data"
+authors = "K. Snitz, O. Perl, D. Honigstein, L. Secundo, A. Ravia, A. Yablonka, Y. Endevelt-Shapira, N. Sobel"
+extra = "Originally produced by Snitz et al. 2018 and organized as SmellSpace; Pyrfume developers make no claims concerning copyright"
+
+[raw]
+"published_data/odorants.csv" = "Info on odorants used in study; manualy scraped from Table 1 in published manuscript"
+"published_data/bjz014_suppl_supplementary_datafile1.xlsx" = "Supplementary datafile 1; raw data for SmellSpace participants"
+"published_data/bjz014_suppl_supplementary_datafile2.xlsx" = "Supplementary datafile 2; raw data for control group participants"
+"LICENSE" = "This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact journals.permissions@oup.com"
+
+[processed]
+"main.py" = "Processing workflow"
+"molecules.csv" = "Information about odorant molecules used"
+"behavior_1.csv" = "Descriptor ratings from each SmellSpace participant for each odorant (each descriptor in separate column)"
+"behavior_2.csv" = "Descriptor ratings from each control group participant for each odorant (each descriptor in separate column)"
+"subjects.csv" = "Maps partipant UID to age/gender where available"
