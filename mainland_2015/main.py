@@ -26,7 +26,7 @@ molecules = pd.DataFrame(from_cids(odorants[~odorants.CID.isna()]['CID'].astype(
 molecules = molecules.merge(odorants, on='CID', how="outer") #Merge on CID, outer merge if mixtures are wanted
 
 molecules = molecules.drop(['SMILES'], axis=1).drop_duplicates(subset=['Odor'])
-molecules = molecules.rename(columns={'Odor': 'Odorant'}) #Change column name for consistency
+molecules = molecules.rename(columns={'Odor': 'Odorant'}).set_index("CID") #Change column name for consistency
 molecules.to_csv('molecules.csv')
 
 receptors = pd.read_csv('Receptors.tsv', sep='\t')
