@@ -8,6 +8,6 @@ authors = "H Wakayama, M Sakasai, K Yoshikawa, M Inoue"
 wakayama-intensity.txt = "Data scraped from supplemental pdf"
 
 [processed]
-main.ipynb = "Processing workflow"
+main.py = "Processing workflow"
 molecules.csv = "Molecules used"
 behavior.csv = "Supratheshold intensity curve parameters"

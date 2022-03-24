@@ -42,7 +42,7 @@ assert list(features.columns) == list(weights.index)
 weighted_features = features.mul(weights['Weight'])
 
 weighted_features = features.T.mul(weights, axis=0)
-weighted_features.to_csv('feautures_weighted.csv')
+weighted_features.to_csv('features_weighted.csv')
 
 # +
 # Use API to compute distances
