@@ -12,7 +12,7 @@ PrimaryScreen.tsv = 'Results of primary odorant/receptor screen'
 sdata20152-s2.xls = 'Supplementary data file from paper containing results'
 
 [processed]
-main.ipynb = "Processing workflow"
+main.py = "Processing workflow"
 molecules.csv = "Molecules used"
 receptors.csv = "Receptors used"
 behavior_1.csv = "Results from a screening experiment for active odorant/OR combinations"

@@ -6,13 +6,13 @@ authors = "S Arctander"
 extra = "Originally produced by Stefan Arctander and digitzed by the lab of Joel Mainland for data science; 'raw' reflects the latter;  'processed' reflects additional work for deposition in Pyrfume; doi is unregistered but reflects standard ISBN-13 (978-0931710360) conversion; see LICENSE for use restrictions"
 
 [raw]
-"arctander.csv" = "Odor labels and descriptions for odorants as originally compiled by Stefan Arctander and cleaned by the Mainland lab"
-"LICENSE" = "Licensing information and use restrictions"
+arctander.csv = "Odor labels and descriptions for odorants as originally compiled by Stefan Arctander and cleaned by the Mainland lab"
+LICENSE = "Licensing information and use restrictions"
 
 [processed]
-"main.py" = "Processing workflow"
-"molecules.csv" = "Information about odorant molecules used"
-"identifiers.csv" = "Ascending integer identifiers for each odorant"
-"behavior_1.csv" = "Odor labels for each odorant (one column per label)"
-"behavior_1_sparse.csv" = "Odor labels for each odorant (single column)"
-"behavior_2.csv" = "Odor descriptions for each odorant"
+main.py = "Processing workflow"
+molecules.csv = "Information about odorant molecules used"
+identifiers.csv = "Ascending integer identifiers for each odorant"
+behavior_1.csv = "Odor labels for each odorant (one column per label)"
+behavior_1_sparse.csv = "Odor labels for each odorant (single column)"
+behavior_2.csv = "Odor descriptions for each odorant"

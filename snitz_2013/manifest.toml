@@ -5,16 +5,16 @@ title = "Predicting Odor Perceptual Similarity from Odor Structure"
 authors = "K Snitz, A Yablonka, T Weiss, I Frumin, RM Khan, N Sobel"
 
 [raw]
-"pcbi.1003184.s003.pdf" = "Supplementary Table 2: Similarity ratings by dataset"
+pcbi.1003184.s003.pdf = "Supplementary Table 2: Similarity ratings by dataset"
 
 [parsed]
-"experiment1_comparisons.csv" = "Parsed behavior for experiment 1 from raw data"
-"experiment2_comparisons.csv" = "Parsed behavior for experiment 2 from raw data"
-"experiment3_comparisons.csv" = "Parsed behavior for experiment 3 from raw data"
-"experiment2_cids" = "Parsed CIDs for experiment 2 from raw data"
-"experiment3_cids" = "Parsed CIDs for experiment 3 from raw data"
+experiment1_comparisons.csv = "Parsed behavior for experiment 1 from raw data"
+experiment2_comparisons.csv = "Parsed behavior for experiment 2 from raw data"
+experiment3_comparisons.csv = "Parsed behavior for experiment 3 from raw data"
+experiment2_cids = "Parsed CIDs for experiment 2 from raw data"
+experiment3_cids = "Parsed CIDs for experiment 3 from raw data"
 
 [processed]
-"main.ipynb" = "Processing workflow from parsed to processed data"
-"molecules.csv" = "Information about odorant molecules used"
-"behavior.csv" = "Similarity ratings for single molecules and mixtures"
+main.py = "Processing workflow from parsed to processed data"
+molecules.csv = "Information about odorant molecules used"
+behavior.csv = "Similarity ratings for single molecules and mixtures"
