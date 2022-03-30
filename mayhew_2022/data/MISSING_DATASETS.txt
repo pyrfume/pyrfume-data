@@ -1,0 +1,11 @@
+These datasets are currently missing:
+
+"AllTransportData.csv" with header columns
+SMILES,odor,odor.class.source,dataset.assigned,transport.ML.odor.probability,many.feature.ML.odor.probability,boiling.point.experimental,boiling.point.estimate.EPISuite,boiling.point.estimate.Banks,boiling.point.estimate.Burnop,BPbest,VPbest,MLOGP,MW,nHet
+
+"Validity_XGB_all.csv" and "Validity_XGB_transport.csv" with header columns and
+example rows as follows:
+
+"SMILES","split_0","split_1","split_2","split_3","split_4","split_5","split_6","split_7","split_8","split_9","split_10","split_11","split_12","split_13","split_14","split_15","split_16","split_17","split_18","split_19","split_20","split_21","split_22","split_23","split_24","split_25","split_26","split_27","split_28","split_29","split_30","split_31","split_32","split_33","split_34","split_35","split_36","split_37","split_38","split_39","split_40","split_41","split_42","split_43","split_44","split_45","split_46","split_47","split_48","split_49","split_50","split_51","split_52","split_53","split_54","split_55","split_56","split_57","split_58","split_59","split_60","split_61","split_62","split_63","split_64","split_65","split_66","split_67","split_68","split_69","split_70","split_71","split_72","split_73","split_74","split_75","split_76","split_77","split_78","split_79"
+"CC1=CC[C@H](CC1=O)C(=C)C",NA,0.999779988735099,NA,NA,NA,NA,NA,0.999877732640016,NA,NA,NA,NA,NA,0.999690233205911,NA,NA,NA,NA,NA,NA,NA,0.999768318666611,NA,0.999826131403097,NA,0.999263442354277,NA,NA,NA,NA,0.99991215220507,0.999865383084398,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.999743841442978,NA,NA,NA,0.999725484347437,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.999694776517572,NA,NA,0.99983878149942,NA,NA,0.999760215549031,NA,NA,NA,NA,NA,NA,0.999543643847574,NA,NA,NA
+
