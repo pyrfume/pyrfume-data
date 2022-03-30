@@ -1,0 +1,17 @@
+# Manifest for Wachowiak dataset
+[source]
+doi = ""
+title = ""
+authors = "
+extra = ""
+
+[raw]
+"omp114_Lbulb_allglomsORdata_final_registered_checked0423.mat" = "All raw data."
+"ROIPos.csv" = "A table of the X and Y coordinates for the centroids of each of the ROIs; exported from initial .mat file to be Pandas readable."
+"LICENSE" = ""
+
+[processed]
+"main.py" = "Processing workflow"
+"molecules.csv" = "Information about odorant molecules used. -1 CID assigned to 'empty' which is the control."
+"images.csv" = "Paths to response map saved as .csv for every odorant tested."
+"resp_mat.csv" = "A matrix of the response values of every ROI (glomerulus) for every odorant tested."
