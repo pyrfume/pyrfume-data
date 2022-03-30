@@ -9,7 +9,7 @@ tableS1.csv = "Supplementary Table 1"
 tableS2.csv = "Supplementary Table 2"
 
 [processed]
-main.ipynb = "Processing workflow"
+main.py = "Processing workflow"
 molecules.csv = "Molecules used"
 mixtures.csv = "Mixtures used"
 behavior.csv = "Triangle test results"

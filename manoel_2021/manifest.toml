@@ -5,10 +5,10 @@ title = "Deconstructing the mouse olfactory percept through an ethological atlas
 authors = "D Manoel, M Makhlouf, CJ Arayata, A Sathappan, S Da’as, D Abdelrahman, S Selvaraj, R Hasnah, JD Mainland, RC Gerkin, LR Saraiva"
 
 [raw]
-"raw behavioral scores mouse 73 odorants.csv" = "Raw scored behaviors for each mouse and odorant"
-"SmilesInfo2.xlsx" = "Information about each odorant"
+raw_behavioral_scores_mouse_73_odorants.csv = "Raw scored behaviors for each mouse and odorant"
+SmilesInfo2.xlsx = "Information about each odorant"
 
 [processed]
-"main.ipynb" = "Processing workflow"
-"molecules.csv" = "Information about odorant molecules used"
-"behavior.csv" = "Scored behaviors for each mouse and odorant"
+main.py = "Processing workflow"
+molecules.csv = "Information about odorant molecules used"
+behavior.csv = "Scored behaviors for each mouse and odorant"
