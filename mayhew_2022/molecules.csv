@@ -1,4 +1,6 @@
 CID,MolecularWeight,IsomericSMILES,IUPACName,name
+-2,822.4,O[C@@H]1[C@@H](O[C@H]2O[C@H](C(=O)O)[C@H]([C@H]([C@@H]2O)O)O)[C@@H](O[C@@H]([C@H]1O)C(=O)O)O[C@@H]1CC[C@@]2([C@@H](C1(C)C)CC[C@@]1([C@H]2C(=O)C=C2[C@@]1(C)CC[C@@]1([C@H]2C[C@](C)(CC1)C(=O)O)C)C)C,,diastereomer of glycyron
+-1,678.6,CC(=O)OC[C@]1(O[C@H]2O[C@@H](COC(=O)C)[C@@H]([C@H]([C@@H]2OC(=O)C)OC(=O)C)OC(=O)C)O[C@H]([C@@H]([C@H]1OC(=O)C)OC(=O)C)COC(=O)C,,diastereomer of sucrose octaacetate
 4,75.11,CC(CN)O,1-aminopropan-2-ol,1-aminopropan-2-ol
 6,202.55,C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])Cl,"1-chloro-2,4-dinitrobenzene","1-chloro-2,4-dinitrobenzene"
 11,98.96,C(CCl)Cl,"1,2-dichloroethane","1,2-dichloroethane"

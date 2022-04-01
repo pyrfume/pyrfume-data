@@ -21,14 +21,21 @@ s3.head()
 smiles = s1['SMILES'].tolist()
 cids = pyrfume.get_cids(smiles)
 
-# manually add the missing CIDs
-man_add = {'CC(=O)OC[C@]1(O[C@H]2O[C@@H](COC(=O)C)[C@@H]([C@H]([C@@H]2OC(=O)C)OC(=O)C)OC(=O)C)O[C@H]([C@@H]([C@H]1OC(=O)C)OC(=O)C)COC(=O)C': -1,
-           'O[C@@H]1[C@@H](O[C@H]2O[C@H](C(=O)O)[C@H]([C@H]([C@@H]2O)O)O)[C@@H](O[C@@H]([C@H]1O)C(=O)O)O[C@@H]1CC[C@@]2([C@@H](C1(C)C)CC[C@@]1([C@H]2C(=O)C=C2[C@@]1(C)CC[C@@]1([C@H]2C[C@](C)(CC1)C(=O)O)C)C)C': -2}
-
-for name in man_add:
-    cids[name] = man_add[name]
-
 info_dict = pyrfume.from_cids(list(cids.values()))
+
+# manually add the missing CIDs
+man_add = [{'CID': -1,
+            'MolecularWeight': 678.6,
+            'IsomericSMILES': 'CC(=O)OC[C@]1(O[C@H]2O[C@@H](COC(=O)C)[C@@H]([C@H]([C@@H]2OC(=O)C)OC(=O)C)OC(=O)C)O[C@H]([C@@H]([C@H]1OC(=O)C)OC(=O)C)COC(=O)C',
+            'IUPACName': None,
+            'name': 'diastereomer of sucrose octaacetate'},
+           {'CID': -2,
+            'MolecularWeight': 822.4,
+            'IsomericSMILES': 'O[C@@H]1[C@@H](O[C@H]2O[C@H](C(=O)O)[C@H]([C@H]([C@@H]2O)O)O)[C@@H](O[C@@H]([C@H]1O)C(=O)O)O[C@@H]1CC[C@@]2([C@@H](C1(C)C)CC[C@@]1([C@H]2C(=O)C=C2[C@@]1(C)CC[C@@]1([C@H]2C[C@](C)(CC1)C(=O)O)C)C)C',
+            'IUPACName': None,
+            'name': 'diastereomer of glycyron'}]
+
+info_dict += man_add
 
 # create dataframe for molecules.csv
 molecules = pd.DataFrame(info_dict).set_index('CID').sort_index()
@@ -48,3 +55,4 @@ s1.head()
 molecules.to_csv('molecules.csv')
 s1.drop(['SMILES'], axis=1).to_csv('behavior_1.csv')
 s3.to_csv('behavior_2.csv')
+
