@@ -1,0 +1,18 @@
+# Manifest for Arshamian et al 2022
+[source]
+doi = ""
+title = ""
+authors = ""
+extra = ""
+
+[raw]
+tables/S1.csv = ""
+tables/S2.csv = ""
+tables/S3.csv = ""
+LICENSE = ""
+
+[processed]
+main.py = "Processing workflow"
+molecules.csv = "Information about odorant molecules used"
+behavior_1.csv = ""
+behavior_2.csv = ""
