@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# In[2]:
+
 
 import pandas as pd
 from pathlib import Path
@@ -16,6 +18,8 @@ from pyrfume import odorants
 
 
 # We'll work out of the 'patterns_csv' directory, which has glomerular maps + CAS#s bundled together in individual csv files. First flatten the directory:
+
+# In[7]:
 
 
 saved_path = os.getcwd()
@@ -45,12 +49,12 @@ def flatten(directory):
         if dirpath != directory:
             os.rmdir(dirpath)
             
-# if dir isn't flattend already:
-#flatten(path) 
+flatten(root+ccc) 
 
 
 # Walk through the flattened directory, pulling out image data and the corresponding CAS# from the csv files:
 
+# In[8]:
 
 
 Names = [] # simple file/molecule names (nomenclature idiosyncratic to Leon)
@@ -85,6 +89,7 @@ for file in path.glob('*.csv'):
 # Clean up the molecule lists, and write csvs of glomerular maps to a new tmp directory. 
 # For duplicate maps, just name them as X_replicate_1, X_replicate_2, etc.  
 
+# In[15]:
 
 
 # first, remove list indices where the CAS# is = 0 (these probably correspond to mixtures, or things like 'coffee', etc)
@@ -95,61 +100,69 @@ for idx in zeros_idx_list:
     CAS_nums.pop(idx)
     Conditions.pop(idx)
     Data.pop(idx)
-    
 
-# extract unique molecule names, and find replicates     
-tmp_path = '/Users/jcastro/Dropbox/CnG/Leon/CSVs_for_Pyrfume/'
-isExist = os.path.exists(tmp_path)
+# cycle through the CAS numbers & identify unique numbers:
 
-if not isExist:
-    os.mkdir(tmp_path)
+lastCAS = CAS_nums[0]
+filenames = []
 
-cas_unique = np.unique(CAS_nums)
 j=0
-behav = []
-rep_string = []
 
+saved_path = os.getcwd()
+root = '/Users/jcastro/Dropbox/CnG/' # set as needed
+ccc = 'Leon/Glomerular archive/patterns_csv' # dir of glomerular maps
 
+# make the new directory: 
 
-for m in range(len(cas_unique)):
-    indices = [i for i, x in enumerate(CAS_nums) if x == cas_unique[m]]
-    # only one map corresponding to the odorant
-    if len(indices) == 1:
-        molName = Names[indices[0]] + '.csv'
-        Data[indices[0]].to_csv(tmp_path + molName, index=False,header=False)
-        behav.append(molName)
-        
-    # multiple maps corresponding to the odorant    
+tmp_path = root + ccc + '_tmp/'
+os.mkdir(tmp_path)
+
+for i in range(len(CAS_nums)):
+    thisCAS = CAS_nums[i]
+    if i>0 and thisCAS == lastCAS: # is the molecule a replicate?
+        j = j+1
+        name = Names[i] + "_replicate_" + str(j) # ...if so, append a numbered suffix    
     else:
-        j = 0
-        rep_string = ''
-        for id in indices:
-            j = j+1
-            molName = Names[indices[0]] + str('_replicate_'+ str(j) + '.csv')
-            rep_string += (molName + ';')
-            Data[id].to_csv(tmp_path + molName, index=False,header=False)
-        behav.append(rep_string) 
+        name = Names[i]
+        lastCAS = thisCAS
+        j=0
+    filenames.append(name)
+    Data[i].to_csv(tmp_path + name) # write the glomerular map as a csv (just the image, no metadata)
 
 
-# For whatever reason, one CAS# (for Methyl 3-aminobenzoate) is just formatted really strangely. Clean up this one pathological case: 
+# For whatever reason, one CAS# (for Methyl 3-aminobenzoate) is just formatted really strangely: 
 
+# In[69]:
 
 
 # fix a bad CAS#:
-cas_array = cas_unique.tolist()
-idx = cas_array.index('10/9/4518')
-
-cas_unique[idx] = '4518-10-9'
+idx = CAS_nums.index('10/9/4518')
+CAS_nums[idx] = '4518-10-9'
 
 
 # Fetch CIDs from CAS#s, perform standardization for Pyrfume: 
 
+# In[70]:
+
 
 molecules = OrderedDict()
-molecules = odorants.get_cids(cas_unique)
+molecules = odorants.get_cids(CAS_nums)
 
 
-# grab other identifiers for each molecule (SMILES, IUPAC, etc):
+# In[71]:
+
+
+unique_mols = list(molecules.keys())
+behavior = []
+
+for cas in unique_mols:
+    mol_indices = [i for i in range(len(CAS_nums)) if CAS_nums[i] == str(cas) ] # get all molecules w/ the same CAS#
+    behavior.append([filenames[idx] for idx in mol_indices]) # put maps of identical molecules on the same row
+
+
+# In[82]:
+
+
 mols = odorants.from_cids(list(molecules.values()))
 molecules_df = pd.DataFrame(mols)
 molecules_df.set_index('CID', inplace = True)
@@ -157,14 +170,28 @@ molecules_df.set_index('CID', inplace = True)
 
 # Write the 'molecule' and 'behavior' files for pyrfume
 
+# In[124]:
 
-
-tmp_path = '/Users/jcastro/Dropbox/CnG/Leon/CSVs_for_Pyrfume/'
 
 # Molecules
-molecules_df.to_csv('molecules_fin.csv')
+molecules_df.to_csv('molecules.csv')
+
+
+# In[139]:
+
+
+import csv
 
 # Behavior
-dd = pd.DataFrame(behav)
-dd.to_csv(tmp_path + 'behavior_fin.csv',index=False)
+csv_file = open('behavior.csv', 'w')
+writer = csv.writer(csv_file)
+j = -1
+
+for b in behavior:
+    j = j+1
+    writer.writerow([list(molecules.values())[j], [b[i] for i in range(len(b))]])
+
+
+
+
 
