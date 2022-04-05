@@ -1,0 +1,18 @@
+# Manifest for Mayhew et al 2022 Drawing the Borders of Olfactory Space dataset
+[source]
+doi = "https://doi.org/10.1101/2020.12.04.412254"
+title = "Drawing the Borders of Olfactory Space"
+authors = "E.J. Mayhew, C. J. Arayata, R. C. Gerkin, B. K. Lee, M. Magill, L. L. Snyder, K. A. Little, C. W. Yu, J. D. Mainland"
+extra = "Copyright 2021 Emily Mayhew, Rick Gerkin, Brian Lee, Joel Mainland"
+
+[raw]
+tables/S1.csv = ""
+tables/S2.csv = ""
+tables/S3.csv = ""
+LICENSE = ""
+
+[processed]
+main.py = "Processing workflow"
+molecules.csv = "Information about odorant molecules used"
+behavior_1.csv = "Data from S1.csv minus Dragon desriptors, indexed on CID"
+behavior_2.csv = "Data from s3.csv; indexed on SMILES"
