@@ -6,7 +6,7 @@ authors = "A. Arshamian, R.C. Gerkin, N. Kruspe, E. Wnuk, S. Floyd, C. O'Meara, 
 extra = ""
 
 [raw]
-data/All data intensity.txt = "Ordor intensity rankings from global participants"
+data/All_data_intensity.txt = "Ordor intensity rankings from global participants"
 data/Universal Pleasantness.csv = "Pleasantness rankings from global participants"
 data/UniversalPleasantnessMainlandLabRanking.csv = "Pleasantness rankings from Mainland lab"
 LICENSE = ""
@@ -14,7 +14,7 @@ LICENSE = ""
 [processed]
 main.py = "Processing workflow"
 molecules.csv = "Information about odorant molecules used"
-subjects.csv = "Mapping of Participant/Group to ParticipantID's for global participants"
+subjects.csv = "Mapping of Participant/Group to ParticipantID's"
 behavior_1.csv = "Universal pleasantness data, odor names replaced with CID's."
-behavior_2.csv = "All intensity data."
-behavior_3.csv = "Mainland lab ranking with raters converted to anonymized rater ID's."
+behavior_2.csv = "All intensity data. Rank 1 is most intenst odor (by CID), Rank 10 is the least intense/weakest."
+behavior_3.csv = "Mainland lab ranking with raters converted to anonymized ParticipantID's."

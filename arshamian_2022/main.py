@@ -28,8 +28,8 @@ behav1 = pd.read_csv('data\\Universal Pleasantness.csv', index_col=0)
 behav1.head()
 
 # Create unique ParticipantID for each Participant/Group
-participants = sorted(list(set(list(zip(behav1['Group'], behav1['Participant'])))))
-to_pid = {tup: i+1 for i, tup in enumerate(participants)}
+participants = sorted(list(set(list(zip(behav1['Group'], behav1['Participant'], behav1['Subsistence'])))))
+to_pid = {(tup[0], tup[1]): i+1 for i, tup in enumerate(participants)}
 
 # map OdorName to CID, Participant/Group to ParticipantID, and re-index
 behav1['CID'] = behav1.apply(lambda row: name_to_cid[row['OdorName']], axis=1)
@@ -37,24 +37,19 @@ behav1['ParticipantID'] = behav1.apply(lambda row: to_pid[(row['Group'], row['Pa
 behav1 = behav1.set_index(['CID','ParticipantID']).sort_index()
 behav1.head()
 
-# Dataframe for subjects.csv
-subj_dict = dict((v,k) for k,v in to_pid.items())
-subjects = pd.DataFrame.from_dict(subj_dict, orient='index', columns=['Group','Participant'])
-subjects.index.names = ['ParticipantID']
-subjects.head()
-
 # All data intensity -> behavior_2.csv
-behav2 = pd.read_csv('data\\All data intensity.txt', sep='\t')
+behav2 = pd.read_csv('data\\All_data_intensity.txt', sep='\t')
 
-# Replace Participant/Group with ParticipantID
-behav2.rename(columns={'Participant number ': 'Participant','Language/Group':'Group'}, inplace=True)
+# Simplify column names & replace Participant/Group with ParticipantID
+behav2.columns = ['Participant', 'Group', 'Rank 1', 'Rank 2', 'Rank 3', 'Rank 4', 'Rank 5', 'Rank 6', 'Rank 7', 'Rank 8', 'Rank 9', 'Rank 10']
 behav2['ParticipantID'] = behav2.apply(lambda row: to_pid[(row['Group'], row['Participant'])], axis=1)
-
-# Replace oder #'s with odor names
-for col in behav2.columns[2:-1]:
-    behav2[col].replace(order, inplace=True)
-
 behav2 = behav2.set_index(['ParticipantID']).sort_index()
+
+# Replace oder #'s with CID's
+for col in behav2.columns[2:]:
+    behav2[col].replace(order, inplace=True)
+    behav2[col].replace(name_to_cid, inplace=True)
+
 behav2.head()    
 
 # Mainland lab ranking -> behavior_3.csv
@@ -64,16 +59,28 @@ behav3.head()
 # convert rater names to raterID for anonymization
 raters = list(set(behav3['Rater'].tolist()))
 rater_to_id = {}
+offset = max(to_pid.values()) + 1
 for i, rater in enumerate(raters):
-    rater_to_id[rater] = i + 1
+    rater_to_id[rater] = i + offset
 
-behav3['RaterID'] = behav3.apply(lambda row: rater_to_id[row['Rater']], axis=1)
-behav3 = behav3.set_index(['CID','RaterID']).sort_index()
+behav3['ParticipantID'] = behav3.apply(lambda row: rater_to_id[row['Rater']], axis=1)
+behav3 = behav3.set_index(['CID','ParticipantID']).sort_index()
 behav3.head()
+
+# Dataframe for subjects.csv
+subj_dict = {i + 1: (tup[0], tup[1], tup[2]) for i, tup in enumerate(participants)}
+
+# Add Mainland lab raters
+for k,v in rater_to_id.items():
+    subj_dict[v] = ('Philadelphia', k, None)
+
+subjects = pd.DataFrame.from_dict(subj_dict, orient='index', columns=['Group', 'Participant', 'Subsistence'])
+subjects.index.names = ['ParticipantID']
+subjects.head()
 
 # write to disk
 molecules.to_csv('molecules.csv')
 subjects.to_csv('subjects.csv')
-behav1.drop(['OdorName', 'Group', 'Participant'], axis=1).to_csv('behavior_1.csv')
+behav1.drop(['OdorName', 'Group', 'Participant', 'Subsistence'], axis=1).to_csv('behavior_1.csv')
 behav2.drop(['Group', 'Participant'], axis=1).to_csv('behavior_2.csv')
 behav3.drop(['Rater', 'OdorKey', 'OdorName'], axis=1).to_csv('behavior_3.csv')
