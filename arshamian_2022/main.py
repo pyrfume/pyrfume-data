@@ -54,6 +54,7 @@ behav2.head()
 
 # Mainland lab ranking -> behavior_3.csv
 behav3 = pd.read_csv('data\\UniversalPleasantnessMainlandLabRanking.csv')
+behav3['Rater'] = behav3.apply(lambda row: ''.join([x[0:2].upper() for x in row['Rater'].split(' ')]), axis=1)
 behav3.head()
 
 # convert rater names to raterID for anonymization
