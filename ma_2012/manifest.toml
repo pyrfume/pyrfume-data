@@ -1,0 +1,20 @@
+# Manifest for Ma et al 2012
+[source]
+doi = " 10.1073/pnas.1117491109"
+title = "Distributed representation of chemical features and tunotopic organization of glomeruli in the mouse olfactory bulb"
+authors = "L. Ma, Q. Qiu, S. Gradwohl, A. Scott, E. Q. Yu, R. Alexander, W. Wiegraebe, C. R. Yu"
+extra = ""
+
+[raw]
+sd01.xlsx = "Supplementary data file 1. Contains odor names, their functional group, and their ability to elicit response from the dorsal olfactory bulb. Odors used to map spatial representation of chemical features were listed with their odor ID and chemical structures."
+sd02.xls = "Supplementary data file 2. Numerical data for all imaging experiments used in the published manuscript."
+LICENSE = ""
+
+[processed]
+main.py = "Processing workflow"
+molecules.csv = "Information about odorant molecules used"
+behavior_1.csv = "Odorant dorsal response data."
+behavior_2.csv = "DeltaF/F data for each imaging experiment."
+artifact_mask.csv = "Same shape as behavior_2.csc; 0 indicates data that is subject to 'motion artifact' and was not included in published analysis."
+odor_conc.csv = "Concentration of odorants used in each experiment, expressed as percentage of saturated vapor. Index maps to integers in odor abbrevations in behavior_2.csv column headings."
+odor_abbr.csv = "Mapping of published odor abbreviations to CIDs"
