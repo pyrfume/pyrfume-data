@@ -1,101 +1,101 @@
-"OdorKey","Rater","Rep1","Rep2","CID","OdorName"
-827,"Marissa Kamarck",4,1,6549,"Linalool"
-827,"Amy Huang",5,4,6549,"Linalool"
-827,"Katie Bell",3,2,6549,"Linalool"
-827,"Shanice James",2,2,6549,"Linalool"
-827,"Joel Mainland",3,5,6549,"Linalool"
-827,"Matt",3,3,6549,"Linalool"
-827,"Jenny Margolis",2,2,6549,"Linalool"
-827,"Nancy Greene",3,3,6549,"Linalool"
-827,"Britney Nguyen",2,2,6549,"Linalool"
-827,"Bob Pellegrino",2,2,6549,"Linalool"
-879,"Joel Mainland",5,4,3314,"Eugenol"
-879,"Nancy Greene",6,4,3314,"Eugenol"
-879,"Britney Nguyen",5,4,3314,"Eugenol"
-879,"Matt",2,2,3314,"Eugenol"
-879,"Katie Bell",4,5,3314,"Eugenol"
-879,"Bob Pellegrino",6,5,3314,"Eugenol"
-879,"Marissa Kamarck",5,4,3314,"Eugenol"
-879,"Amy Huang",4,3,3314,"Eugenol"
-879,"Jenny Margolis",4,8,3314,"Eugenol"
-879,"Shanice James",6,4,3314,"Eugenol"
-880,"Matt",9,10,10430,"Isovaleric acid"
-880,"Marissa Kamarck",10,10,10430,"Isovaleric acid"
-880,"Amy Huang",10,10,10430,"Isovaleric acid"
-880,"Katie Bell",10,10,10430,"Isovaleric acid"
-880,"Bob Pellegrino",10,10,10430,"Isovaleric acid"
-880,"Shanice James",10,10,10430,"Isovaleric acid"
-880,"Joel Mainland",10,10,10430,"Isovaleric acid"
-880,"Jenny Margolis",9,9,10430,"Isovaleric acid"
-880,"Nancy Greene",9,9,10430,"Isovaleric acid"
-880,"Britney Nguyen",9,9,10430,"Isovaleric acid"
-891,"Katie Bell",7,3,6054,"Phenylethyl alcohol"
-891,"Shanice James",7,7,6054,"Phenylethyl alcohol"
-891,"Joel Mainland",4,3,6054,"Phenylethyl alcohol"
-891,"Matt",6,5,6054,"Phenylethyl alcohol"
-891,"Jenny Margolis",3,3,6054,"Phenylethyl alcohol"
-891,"Nancy Greene",4,5,6054,"Phenylethyl alcohol"
-891,"Britney Nguyen",6,6,6054,"Phenylethyl alcohol"
-891,"Amy Huang",2,5,6054,"Phenylethyl alcohol"
-891,"Bob Pellegrino",4,4,6054,"Phenylethyl alcohol"
-891,"Marissa Kamarck",2,6,6054,"Phenylethyl alcohol"
-1228,"Joel Mainland",2,2,7762,"Ethyl butyrate"
-1228,"Matt",7,7,7762,"Ethyl butyrate"
-1228,"Katie Bell",2,4,7762,"Ethyl butyrate"
-1228,"Nancy Greene",1,2,7762,"Ethyl butyrate"
-1228,"Britney Nguyen",3,3,7762,"Ethyl butyrate"
-1228,"Amy Huang",3,2,7762,"Ethyl butyrate"
-1228,"Jenny Margolis",7,6,7762,"Ethyl butyrate"
-1228,"Bob Pellegrino",3,3,7762,"Ethyl butyrate"
-1228,"Marissa Kamarck",8,8,7762,"Ethyl butyrate"
-1228,"Shanice James",3,3,7762,"Ethyl butyrate"
-1231,"Britney Nguyen",1,1,1183,"Vanillin"
-1231,"Matt",1,1,1183,"Vanillin"
-1231,"Nancy Greene",2,1,1183,"Vanillin"
-1231,"Marissa Kamarck",3,3,1183,"Vanillin"
-1231,"Amy Huang",1,1,1183,"Vanillin"
-1231,"Katie Bell",1,1,1183,"Vanillin"
-1231,"Bob Pellegrino",1,1,1183,"Vanillin"
-1231,"Shanice James",1,1,1183,"Vanillin"
-1231,"Joel Mainland",1,1,1183,"Vanillin"
-1231,"Jenny Margolis",1,1,1183,"Vanillin"
-1291,"Amy Huang",9,7,18827,"1 Octene 3 ol"
-1291,"Katie Bell",6,8,18827,"1 Octene 3 ol"
-1291,"Shanice James",5,6,18827,"1 Octene 3 ol"
-1291,"Joel Mainland",6,7,18827,"1 Octene 3 ol"
-1291,"Matt",4,4,18827,"1 Octene 3 ol"
-1291,"Jenny Margolis",8,5,18827,"1 Octene 3 ol"
-1291,"Nancy Greene",7,7,18827,"1 Octene 3 ol"
-1291,"Britney Nguyen",7,7,18827,"1 Octene 3 ol"
-1291,"Bob Pellegrino",7,6,18827,"1 Octene 3 ol"
-1291,"Marissa Kamarck",1,2,18827,"1 Octene 3 ol"
-1367,"Joel Mainland",7,6,379,"Octanoic acid"
-1367,"Katie Bell",8,6,379,"Octanoic acid"
-1367,"Nancy Greene",5,6,379,"Octanoic acid"
-1367,"Britney Nguyen",8,8,379,"Octanoic acid"
-1367,"Matt",5,6,379,"Octanoic acid"
-1367,"Jenny Margolis",6,4,379,"Octanoic acid"
-1367,"Bob Pellegrino",9,9,379,"Octanoic acid"
-1367,"Marissa Kamarck",6,5,379,"Octanoic acid"
-1367,"Amy Huang",6,6,379,"Octanoic acid"
-1367,"Shanice James",4,5,379,"Octanoic acid"
-1419,"Britney Nguyen",4,5,32594,"3-isobutyl-2-methoxypyrazine"
-1419,"Matt",10,9,32594,"3-isobutyl-2-methoxypyrazine"
-1419,"Marissa Kamarck",9,7,32594,"3-isobutyl-2-methoxypyrazine"
-1419,"Amy Huang",7,9,32594,"3-isobutyl-2-methoxypyrazine"
-1419,"Katie Bell",5,7,32594,"3-isobutyl-2-methoxypyrazine"
-1419,"Bob Pellegrino",5,7,32594,"3-isobutyl-2-methoxypyrazine"
-1419,"Shanice James",9,9,32594,"3-isobutyl-2-methoxypyrazine"
-1419,"Joel Mainland",8,8,32594,"3-isobutyl-2-methoxypyrazine"
-1419,"Jenny Margolis",5,7,32594,"3-isobutyl-2-methoxypyrazine"
-1419,"Nancy Greene",8,8,32594,"3-isobutyl-2-methoxypyrazine"
-2714,"Joel Mainland",9,9,8077,"Diethyl disulfide"
-2714,"Britney Nguyen",10,10,8077,"Diethyl disulfide"
-2714,"Matt",8,8,8077,"Diethyl disulfide"
-2714,"Katie Bell",9,9,8077,"Diethyl disulfide"
-2714,"Nancy Greene",10,10,8077,"Diethyl disulfide"
-2714,"Marissa Kamarck",7,9,8077,"Diethyl disulfide"
-2714,"Amy Huang",8,8,8077,"Diethyl disulfide"
-2714,"Jenny Margolis",10,10,8077,"Diethyl disulfide"
-2714,"Bob Pellegrino",8,8,8077,"Diethyl disulfide"
-2714,"Shanice James",8,8,8077,"Diethyl disulfide"
+OdorKey,Rater,Rep1,Rep2,CID,OdorName
+827,MK,4,1,6549,Linalool
+827,AH,5,4,6549,Linalool
+827,KB,3,2,6549,Linalool
+827,SJ,2,2,6549,Linalool
+827,JDM,3,5,6549,Linalool
+827,MA,3,3,6549,Linalool
+827,JM,2,2,6549,Linalool
+827,NG,3,3,6549,Linalool
+827,BN,2,2,6549,Linalool
+827,BP,2,2,6549,Linalool
+879,JDM,5,4,3314,Eugenol
+879,NG,6,4,3314,Eugenol
+879,BN,5,4,3314,Eugenol
+879,MA,2,2,3314,Eugenol
+879,KB,4,5,3314,Eugenol
+879,BP,6,5,3314,Eugenol
+879,MK,5,4,3314,Eugenol
+879,AH,4,3,3314,Eugenol
+879,JM,4,8,3314,Eugenol
+879,SJ,6,4,3314,Eugenol
+880,MA,9,10,10430,Isovaleric acid
+880,MK,10,10,10430,Isovaleric acid
+880,AH,10,10,10430,Isovaleric acid
+880,KB,10,10,10430,Isovaleric acid
+880,BP,10,10,10430,Isovaleric acid
+880,SJ,10,10,10430,Isovaleric acid
+880,JDM,10,10,10430,Isovaleric acid
+880,JM,9,9,10430,Isovaleric acid
+880,NG,9,9,10430,Isovaleric acid
+880,BN,9,9,10430,Isovaleric acid
+891,KB,7,3,6054,Phenylethyl alcohol
+891,SJ,7,7,6054,Phenylethyl alcohol
+891,JDM,4,3,6054,Phenylethyl alcohol
+891,MA,6,5,6054,Phenylethyl alcohol
+891,JM,3,3,6054,Phenylethyl alcohol
+891,NG,4,5,6054,Phenylethyl alcohol
+891,BN,6,6,6054,Phenylethyl alcohol
+891,AH,2,5,6054,Phenylethyl alcohol
+891,BP,4,4,6054,Phenylethyl alcohol
+891,MK,2,6,6054,Phenylethyl alcohol
+1228,JDM,2,2,7762,Ethyl butyrate
+1228,MA,7,7,7762,Ethyl butyrate
+1228,KB,2,4,7762,Ethyl butyrate
+1228,NG,1,2,7762,Ethyl butyrate
+1228,BN,3,3,7762,Ethyl butyrate
+1228,AH,3,2,7762,Ethyl butyrate
+1228,JM,7,6,7762,Ethyl butyrate
+1228,BP,3,3,7762,Ethyl butyrate
+1228,MK,8,8,7762,Ethyl butyrate
+1228,SJ,3,3,7762,Ethyl butyrate
+1231,BN,1,1,1183,Vanillin
+1231,MA,1,1,1183,Vanillin
+1231,NG,2,1,1183,Vanillin
+1231,MK,3,3,1183,Vanillin
+1231,AH,1,1,1183,Vanillin
+1231,KB,1,1,1183,Vanillin
+1231,BP,1,1,1183,Vanillin
+1231,SJ,1,1,1183,Vanillin
+1231,JDM,1,1,1183,Vanillin
+1231,JM,1,1,1183,Vanillin
+1291,AH,9,7,18827,1 Octene 3 ol
+1291,KB,6,8,18827,1 Octene 3 ol
+1291,SJ,5,6,18827,1 Octene 3 ol
+1291,JDM,6,7,18827,1 Octene 3 ol
+1291,MA,4,4,18827,1 Octene 3 ol
+1291,JM,8,5,18827,1 Octene 3 ol
+1291,NG,7,7,18827,1 Octene 3 ol
+1291,BN,7,7,18827,1 Octene 3 ol
+1291,BP,7,6,18827,1 Octene 3 ol
+1291,MK,1,2,18827,1 Octene 3 ol
+1367,JDM,7,6,379,Octanoic acid
+1367,KB,8,6,379,Octanoic acid
+1367,NG,5,6,379,Octanoic acid
+1367,BN,8,8,379,Octanoic acid
+1367,MA,5,6,379,Octanoic acid
+1367,JM,6,4,379,Octanoic acid
+1367,BP,9,9,379,Octanoic acid
+1367,MK,6,5,379,Octanoic acid
+1367,AH,6,6,379,Octanoic acid
+1367,SJ,4,5,379,Octanoic acid
+1419,BN,4,5,32594,3-isobutyl-2-methoxypyrazine
+1419,MA,10,9,32594,3-isobutyl-2-methoxypyrazine
+1419,MK,9,7,32594,3-isobutyl-2-methoxypyrazine
+1419,AH,7,9,32594,3-isobutyl-2-methoxypyrazine
+1419,KB,5,7,32594,3-isobutyl-2-methoxypyrazine
+1419,BP,5,7,32594,3-isobutyl-2-methoxypyrazine
+1419,SJ,9,9,32594,3-isobutyl-2-methoxypyrazine
+1419,JDM,8,8,32594,3-isobutyl-2-methoxypyrazine
+1419,JM,5,7,32594,3-isobutyl-2-methoxypyrazine
+1419,NG,8,8,32594,3-isobutyl-2-methoxypyrazine
+2714,JDM,9,9,8077,Diethyl disulfide
+2714,BN,10,10,8077,Diethyl disulfide
+2714,MA,8,8,8077,Diethyl disulfide
+2714,KB,9,9,8077,Diethyl disulfide
+2714,NG,10,10,8077,Diethyl disulfide
+2714,MK,7,9,8077,Diethyl disulfide
+2714,AH,8,8,8077,Diethyl disulfide
+2714,JM,10,10,8077,Diethyl disulfide
+2714,BP,8,8,8077,Diethyl disulfide
+2714,SJ,8,8,8077,Diethyl disulfide
