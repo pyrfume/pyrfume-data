@@ -1,0 +1,34 @@
+CID,MolecularWeight,IsomericSMILES,IUPACName,name
+16899,152.23,CCCCCC=CC=CC=O,"deca-2,4-dienal",decadienal
+5367762,142.20,CCCOC(=O)/C(=C/C)/C,propyl (E)-2-methylbut-2-enoate,propyl tiglate
+8063,86.13,CCCCC=O,pentanal,valeraldehyde
+11747,100.12,CCC(=O)C(=O)C,"pentane-2,3-dione","2,3-pentanedione"
+31265,144.21,CCCCCC(=O)OCC,ethyl hexanoate,ethyl caproate
+16324,128.17,CCCC(=O)OCC=C,prop-2-enyl butanoate,allyl butyrate
+10882,130.18,CCCCC(=O)OCC,ethyl pentanoate,ethyl pentanoate
+27458,136.19,CCC1=NC=CN=C1CC,"2,3-diethylpyrazine","2,3-diethylpyrazine"
+6184,100.16,CCCCCC=O,hexanal,hexanal
+7797,158.24,CCCCCCC(=O)OCC,ethyl heptanoate,ethyl heptanoate
+8130,114.19,CCCCCCC=O,heptanal,heptanal
+5364729,140.18,C/C=C(\C)/C(=O)OCC=C,prop-2-enyl (E)-2-methylbut-2-enoate,allyl tiglate
+5281163,128.17,CCOC(=O)/C(=C/C)/C,ethyl (E)-2-methylbut-2-enoate,ethyl tiglate
+31276,130.18,CC(C)CCOC(=O)C,3-methylbutyl acetate,isoamyl acetate
+5323652,114.14,C/C=C(\C)/C(=O)OC,methyl (E)-2-methylbut-2-enoate,methyl tiglate
+21625,134.20,CCOC(=O)CCS,ethyl 3-sulfanylpropanoate,ethyl 3-mercaptopropionate
+31246,114.19,CCCC(=O)CCC,heptan-4-one,4-heptanone
+7461,136.23,CC1=CCC(=CC1)C(C)C,"1-methyl-4-propan-2-ylcyclohexa-1,4-diene",gamma-terpinene
+7749,102.13,CCC(=O)OCC,ethyl propanoate,ethyl propionate
+7765,118.17,CCOC(C)OCC,"1,1-diethoxyethane",acetal
+7762,116.16,CCCC(=O)OCC,ethyl butanoate,ethyl butyrate
+6276,88.15,CCCCCO,pentan-1-ol,1-pentanol
+7410,120.15,CC(=O)C1=CC=CC=C1,1-phenylethanone,acetophenone
+12146,142.20,CC(=O)OC1CCCCC1,cyclohexyl acetate,cyclohexyl acetate
+325,150.22,CC(C)C1=CC=C(C=C1)CO,(4-propan-2-ylphenyl)methanol,4-isopropylbenzyl alcohol
+7997,102.13,CCCOC(=O)C,propyl acetate,propyl acetate
+7848,76.16,CCCS,propane-1-thiol,1-propanethiol
+2758,154.25,CC1(C2CCC(O1)(CC2)C)C,"1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane",eucalyptol
+11583,100.16,CCCCC(=O)C,hexan-2-one,2-hexanone
+10895,130.18,CCC(=O)OCC(C)C,2-methylpropyl propanoate,isobutyl propionate
+8892,116.16,CCCCCC(=O)O,hexanoic acid,hexanoic acid
+9025,138.16,COC1=CC(=CC=C1)OC,"1,3-dimethoxybenzene","1,3-dimethoxybenzene"
+7991,102.13,CCCCC(=O)O,pentanoic acid,valeric acid

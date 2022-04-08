@@ -1,0 +1,52 @@
+# Manifest for Chae et al, 2019 data
+[source]
+doi = "10.1038/s41593-019-0442-z"
+title = ""
+authors = "H Chae, DR Kepple, WG Bast, VN Murthy, AA Koulakov, DF Albeanu"
+
+[raw]
+
+./mosaic_representations/glomerular_data/glomerular_responses__main
+	./animal_#N/left_hemibulb/left_hemibulb_ROI_responses.mat = "glomerular data, left bulb"
+	./animal_#N/right_hemibulb/right_hemibulb_ROI_responses.mat = "glomerular data, right bulb"
+
+./mosaic_representations/MT_cell/mitral_cells
+	./33_odors/mc_field_of_view_N.mat = "cellular data, for the 33 odorant panel"
+	./55_odors/mh_field_of_view_N.mat = "cellular data, for the 55 odorant panel; @ HIGH concentration"
+	./55_odors/ml_field_of_view_N.mat = "cellular data, for the 55 odorant panel; @ LOW concentration"
+	
+
+
+./mosaic_representations/MT_cell/tufted_cells
+	./th_field_of_view_1.mat = "cellular data, for the 55 odorant panel; @ HIGH concentration
+
+
+[processed]
+
+./main.py = "Processing workflow"
+
+./pyrfumeData/Glomerular Data
+
+	left_animal_#N_glom.csv = "glomerular data from individual subjects (N = subject number), from left bulb"
+	right_animal_#N_glom.csv = "glomerular data from individual subjects (N = subject number), from right bulb"
+	molecules_glom_57.csv = "molecules files used for all glomerular imaging experiments in this directory" 
+	
+
+./pyrfumeData/Mitral Data (33 odorant panel)
+
+	mc_field_of_view_N_33.csv = "mitral cell data from distinct FOVS (N = FOV#)"
+	molecules_mitral_33.csv = "molecules files used for all mitral cell imaging experiments in this directory"
+
+./pyrfumeData/Mitral Data (55 odorant panel)
+
+	mh_field_of_view_N_55.csv = "mitral cell data from distinct FOVS (N = FOV#); HIGH concentration of odorant"
+	ml_field_of_view_N_55.csv = "mitral cell data from distinct FOVS (N = FOV#); LOW concentration of odorant"
+	molecules_mitral_55.csv =  "molecules files used for all mitral cell imaging experiments in this directory"
+
+./pyrfumeData/Tufted Data (55 odorant panel)
+
+	th_field_of_view_N_55.csv = "tufted cell data from distinct FOVS (N = FOV#); @ HIGH concentration
+	tl_field_of_view_N_55.csv = "tufted cell data from distinct FOVS (N = FOV#); @ LOW concentration
+	molecules_tufted_55.csv = "molecules files used for all tufted cell imaging experiments in this directory
+
+
