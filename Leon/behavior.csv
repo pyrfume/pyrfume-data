@@ -1,0 +1,221 @@
+10263,"['1,2,3,4-tetramethylbenzene']"
+10686,"['1,2,3-trimethylbenzene']"
+7247,"['1,2,4-trimethylbenzene']"
+82916,"['1,5-cyclooctadiene']"
+19460,"['1,7-octadiene']"
+70099,"['1,7-octadiyne']"
+263,"['1-butanol', '1-butanol']"
+8174,['1-decanol']
+8129,"['1-heptanol', '1-heptanol_replicate_1', '1-heptanol_replicate_2']"
+8103,"['1-hexanol', '1-hexanol_replicate_1', '1-hexanol_replicate_2']"
+8914,['1-nonanol']
+957,"['1-octanol', '1-octanol_replicate_1']"
+8125,['1-octene']
+12370,['1-octyne']
+6276,"['1-pentanol', 'n-pentanol_replicate_1', '1-pentanol_replicate_2', '1-pentanol', '1-pentanol_replicate_1', '1-pentanol_replicate_2']"
+8184,['1-undecanol']
+14296,"['2,3,5,6-tetramethylpyrazine']"
+26808,"['2,3,5-trimethylpyrazine']"
+650,"['2,3-butanedione']"
+22201,"['2,3-dimethylpyrazine']"
+19707,"['2,3-hexanedione']"
+61814,"['2,4-dimethylbenzaldehyde']"
+31252,"['2,5-dimethylpyrazine']"
+8035,"['2,5-hexanedione']"
+61016,"['2,6-dimethyl-5-heptenal']"
+7938,"['2,6-dimethylpyrazine']"
+19309,"['2,5-dimethyl-4-hydroxy-3-(2H)-furanone']"
+98471,['2-acetylcyclopentanone']
+14286,['2-acetylpyridine']
+7581,['2-benzylpyridine']
+6568,"['2-butanol', 'sec-butanol']"
+6569,"['2-butanone', '2-butanone_replicate_1']"
+8160,['2-butoxyethanol acetate']
+12741,"['2-decanone', '2-decanone_replicate_1']"
+22556,['2_dodecanone']
+18554,['2-ethylfuran']
+10976,"['2-heptanol', '2-heptanol_replicate_1']"
+8051,"['2-heptanone', '2-heptanone_replicate_1']"
+12297,['2-hexanol']
+11583,"['2-hexanone', '2-hexanone_replicate_1', '2-hexanone_replicate_2', '2-hexanone_replicate_3', '2-hexanone_replicate_4', '2-hexanone_replicate_5']"
+58,['2-ketobutyric acid']
+8257,['2-methyl-3-buten-2-ol']
+99873,['2-methylcyclopropanecarboxylic acid']
+12243,['2-methyl-2-pentene']
+12367,['2-nonanol']
+13187,"['2-nonanone', '2-nonanone_replicate_1', '2-nonanone_replicate_2']"
+20083,['2-octanol']
+8093,"['2-octanone', '2-octanone_replicate_1', '2-octanone_replicate_2', '2-octanone_replicate_3', '2-octanone_replicate_4']"
+17769,['2-octyne']
+61303,['2-pentadecanone']
+22386,['2-pentanol']
+7895,['2-pentanone']
+11622,['2-tridecanone']
+15448,['2-undecanol']
+8163,['2-undecanone']
+3578033,['3-(5-methyl-2-furyl)butanal']
+62539,"['3,4-hexanedione']"
+7792,"['3,7-dimethyloctan-1-ol']"
+14066,['3-acetyl-1-propanol']
+11520,['3-heptanol']
+7802,['3-heptanone']
+11509,"['3-hexanone', '3-hexanone_replicate_1']"
+9007,['3-methoxyphenol']
+11173,['3-methyl-2-buten-1-ol']
+61020,['3-methyl-2-butenal']
+12216,['3-nonanol']
+11513,['4-heptanol']
+31246,['4-heptanone']
+126,['4-hydroxybenzaldehyde']
+12296,['4-methyl-1-pentanol']
+62003,['4-methylnonanoic acid']
+22217,['4-nonanol']
+16029,['4-octyne']
+61138,['4-pentenoic acid']
+19878,['4-tert-butylpyridine']
+69963,['5-hexen-1-ol']
+219794,['5-hydroxy-4-octanone']
+8034,['5-methyl-2-hexanone']
+12202,['5-nonanol']
+10405,['5-nonanone']
+32045,['6-undecanol']
+9234,['7-oxabicyclo[2.2.1]heptane']
+13162,['8-pentadecanone']
+25612,['9-decen-1-ol']
+11559,['alpha-angelica lactone']
+5282108,"['a-ionone', 'a-ionone_replicate_1', 'a-ionone_replicate_2', 'alpha-ionone_replicate_3', 'a-ionone_replicate_4', 'a-ionone_replicate_5']"
+7460,"['alpha-phellandrene', 'alpha-phellandrene_replicate_1']"
+61199,['abhexone']
+176,['acetic acid']
+179,['acetoin']
+180,"['acetone-simp', 'acetone_replicate_1', 'acetone_replicate_2']"
+7410,['acetophenone']
+13207,['acetylcyclohexane']
+12348,['amyl acetate']
+440967,"['beta-pinene', '(1S)-(-)-beta-pinene']"
+240,"['benzaldehyde', 'benzaldehyde_replicate_1', 'benzaldehyde_replicate_2']"
+244,['benzyl alcohol']
+5281515,['beta-caryophyllene']
+93009,"['L-bornyl acetate', 'L-bornyl acetate']"
+261,['butanal']
+31272,['butyl acetate']
+7705,['butylbenzene']
+11529,['butyl propionate']
+264,"['butyric acid', 'butyric acid_replicate_1']"
+159055,"['(1R)-(+)-camphor', 'D-camphor']"
+8892,"['caproic acid', 'caproic acid_replicate_1']"
+439570,"['carvone(-)', 'carvone(-)_replicate_1']"
+5373603,['celeriax']
+637511,"['cinnamaldehyde', 'cinnamaldehyde_replicate_1']"
+5315892,['cinnamyl alcohol']
+5324489,['cis-2-hexen-1-ol']
+5281167,['cis-3-hexen-1-ol']
+5364446,['cis-4-octene']
+1549018,['cis-jasmone']
+8842,['beta-citronellol']
+7144,['creosol']
+517827,['cyclamen aldehyde']
+9266,['cyclooctane']
+7967,['cyclohexanone']
+16275,['cyclohexanecarboxaldehyde']
+7507,['cyclohexylmethanol']
+638079,['Cyclooctene']
+8175,"['decanal', 'decanal_replicate_1']"
+15600,['decane']
+12844,['delta-dodecanalactone']
+10953,['delta-valerolactone']
+11617,['diallyl sulfide']
+568,['dibenzofuran']
+7765,['diethylacetal']
+7761,['diethyl malonate']
+7268,['diethyl oxalate']
+16301,['diethyl suberate']
+31249,['diethyl succinate']
+7943,['dimethyl malonate']
+7583,['diphenyl ether']
+8902,['dipropylamine']
+12377,['dipropyl disulfide']
+8118,"['dipropylsulfide', 'dipropyl sulfide_replicate_1']"
+8194,['dodecanal']
+8182,['dodecane']
+7334,['ethyl chrysanthemumate']
+702,['ethanol']
+8857,"['ethyl acetate', 'ethyl acetate_replicate_1']"
+7500,"['ethylbenzene', 'ethylbenzene_replicate_1', 'ethylbenzene_replicate_2']"
+7762,"['ethyl butyrate', 'ethyl butyrate_replicate_1', 'ethyl butyrate_replicate_2']"
+31265,"['ethyl caproate', 'ethyl caproate_replicate_1']"
+7799,['ethyl caprylate']
+7797,"['ethyl heptanoate', 'ethyl heptanoate_replicate_1']"
+92831,['ethyl lactate']
+7749,"['ethyl propionate', 'ethyl propionate_replicate_1', 'ethyl propionate_replicate_2']"
+31283,['ethyl tetradecanoate']
+10882,"['ethyl valerate', 'ethyl valerate_replicate_1']"
+2758,['eucalyptol']
+2758,"['eucalyptol', 'eucalyptol_replicate_1']"
+3314,['eugenol']
+61206,['farnesyl acetone']
+82229,['fenchone']
+284,['formic acid']
+637566,"['geraniol', 'geraniol_replicate_1']"
+7780,['geranyl acetate']
+460,['guaiacol']
+8130,"['heptanal', 'heptanal_replicate_1']"
+8900,"['heptane', 'heptane_replicate_1', 'heptane_replicate_2', 'heptane_replicate_3', 'heptane_replicate_4', 'heptane_replicate_5']"
+11006,['hexadecane']
+6184,['hexanal']
+8058,['hexane']
+8908,['hexyl acetate']
+31276,['isoamyl acetate']
+7795,['isoamyl butyrate']
+5463682,['isoamyl tiglate']
+6560,['isobutanol']
+5367807,['isobutyl angelate']
+6590,['isobutyric acid']
+853433,['isoeugenol']
+3776,['isopropanol']
+7406,['isopropylbenzene']
+12508,['isopropyl propionate']
+6669,['ketone moschus']
+82229,['L-fenchone']
+26447,"['L-menthone', 'L-menthone_replicate_1', 'L-menthone', 'L-menthone_replicate_1']"
+3893,['lauric acid']
+8205,['lauryl acetate']
+94060,['lavandulol']
+11579,['levulinic acid']
+440917,['(+)-limonene ']
+439250,"['(-)-limonene', '(-)-limonene_replicate_1', '(-)-limonene_replicate_2']"
+6549,['linalool']
+1796220,['longifolene']
+11569,"['m-anisaldehyde', 'm-anisaldehyde_replicate_1']"
+12105,['m-tolualdehyde']
+7929,['m-xylene']
+8369,['maltol']
+8635,"['methyl anthranilate', 'methyl anthranilate']"
+7559,['methyl phenylacetate']
+4133,"['methyl salicylate', 'methyl salicylate', 'methyl salicylate_replicate_1', 'methyl salicylate_replicate_2', 'methyl salicylate', 'methyl salicylate_replicate_1', 'methyl salicylate_replicate_2']"
+637520,['methyl cinnamate']
+7151,['methyl nicotinate']
+442478,['menthofuran']
+16666,"['L-menthol', 'L-menthol_replicate_1']"
+27867,"['L-menthyl acetate', 'L-menthyl acetate_replicate_1']"
+565690,"['menthyl isovalerate', 'menthyl isovalerate_replicate_1']"
+7947,"['mesitylene', 'mesitylene_replicate_1']"
+8858,['4-methyl-3-penten-2-one']
+887,"['methanol', 'methanol_replicate_1', 'methanol_replicate_2', 'methanol_replicate_3', 'methanol_replicate_4', 'methanol_replicate_5']"
+78274,['methyl 3-aminobenzoate']
+88068,['methyl 3-hydroxybenzoate']
+13546,['methyl 3-methylbutenoate']
+8092,['methyl 2-octynoate']
+5364532,['methyl trans-2-octenoate']
+6584,['methyl acetate']
+7150,"['methyl benzoate', 'methyl benzoate_replicate_1', 'methyl benzoate_replicate_2']"
+7824,['methyl caproate']
+20748,['methyl cyclohexanecarboxylate']
+66774,['methyl glycolate']
+7826,['methyl heptanoate']
+17008,['methyl isocaproate']
+11040,['methyl lactate']
+33094,['methyl benzoate']
+8091,['methyl octanoate']
+21009,['methyl thiosalicylate']
+12206,"['methyl valerate', 'methyl valerate_replicate_1', 'methyl valerate_replicate_2', 'methyl valerate_replicate_3']"
