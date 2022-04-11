@@ -1,0 +1,294 @@
+ParticipantID,Group,Participant,Subsistence
+1,Cha'palaa,1,Farmer
+2,Cha'palaa,2,Farmer
+3,Cha'palaa,3,Farmer
+4,Cha'palaa,4,Farmer
+5,Cha'palaa,5,Farmer
+6,Cha'palaa,6,Farmer
+7,Cha'palaa,7,Farmer
+8,Cha'palaa,8,Farmer
+9,Cha'palaa,9,Farmer
+10,Cha'palaa,10,Farmer
+11,Cha'palaa,11,Farmer
+12,Cha'palaa,12,Farmer
+13,Cha'palaa,13,Farmer
+14,Cha'palaa,14,Farmer
+15,Cha'palaa,15,Farmer
+16,Cha'palaa,16,Farmer
+17,Cha'palaa,17,Farmer
+18,Cha'palaa,18,Farmer
+19,Cha'palaa,19,Farmer
+20,Cha'palaa,20,Farmer
+21,Cha'palaa,21,Farmer
+22,Cha'palaa,22,Farmer
+23,Cha'palaa,23,Farmer
+24,Cha'palaa,24,Farmer
+25,Cha'palaa,25,Farmer
+26,Imbabura Quechua,1,Farmer
+27,Imbabura Quechua,2,Farmer
+28,Imbabura Quechua,3,Farmer
+29,Imbabura Quechua,4,Farmer
+30,Imbabura Quechua,5,Farmer
+31,Imbabura Quechua,6,Farmer
+32,Imbabura Quechua,7,Farmer
+33,Imbabura Quechua,8,Farmer
+34,Imbabura Quechua,9,Farmer
+35,Imbabura Quechua,10,Farmer
+36,Imbabura Quechua,11,Farmer
+37,Imbabura Quechua,12,Farmer
+38,Imbabura Quechua,13,Farmer
+39,Imbabura Quechua,14,Farmer
+40,Imbabura Quechua,15,Farmer
+41,Imbabura Quechua,16,Farmer
+42,Imbabura Quechua,17,Farmer
+43,Imbabura Quechua,18,Farmer
+44,Imbabura Quechua,19,Farmer
+45,Imbabura Quechua,20,Farmer
+46,Imbabura Quechua,21,Farmer
+47,Imbabura Quechua,22,Farmer
+48,Imbabura Quechua,23,Farmer
+49,Imbabura Quechua,24,Farmer
+50,Imbabura Quechua,25,Farmer
+51,Mah Meri,1,Farmer
+52,Mah Meri,2,Farmer
+53,Mah Meri,3,Farmer
+54,Mah Meri,4,Farmer
+55,Mah Meri,5,Farmer
+56,Mah Meri,6,Farmer
+57,Mah Meri,7,Farmer
+58,Mah Meri,8,Farmer
+59,Mah Meri,9,Farmer
+60,Mah Meri,10,Farmer
+61,Mah Meri,11,Farmer
+62,Mah Meri,12,Farmer
+63,Mah Meri,13,Farmer
+64,Mah Meri,14,Farmer
+65,Mah Meri,15,Farmer
+66,Mah Meri,16,Farmer
+67,Mah Meri,17,Farmer
+68,Mah Meri,18,Farmer
+69,Mah Meri,19,Farmer
+70,Mah Meri,20,Farmer
+71,Mah Meri,21,Farmer
+72,Mah Meri,22,Farmer
+73,Mah Meri,23,Farmer
+74,Mah Meri,24,Farmer
+75,Mah Meri,25,Farmer
+76,Maniq,1,Hunter-gatherer
+77,Maniq,2,Hunter-gatherer
+78,Maniq,3,Hunter-gatherer
+79,Maniq,4,Hunter-gatherer
+80,Maniq,5,Hunter-gatherer
+81,Maniq,6,Hunter-gatherer
+82,Maniq,7,Hunter-gatherer
+83,Maniq,8,Hunter-gatherer
+84,Maniq,9,Hunter-gatherer
+85,Maniq,10,Hunter-gatherer
+86,Maniq,11,Hunter-gatherer
+87,Maniq,12,Hunter-gatherer
+88,Maniq,13,Hunter-gatherer
+89,Maniq,14,Hunter-gatherer
+90,Maniq,15,Hunter-gatherer
+91,Maniq,16,Hunter-gatherer
+92,Mexican,1,Urban
+93,Mexican,2,Urban
+94,Mexican,3,Urban
+95,Mexican,4,Urban
+96,Mexican,5,Urban
+97,Mexican,6,Urban
+98,Mexican,7,Urban
+99,Mexican,8,Urban
+100,Mexican,9,Urban
+101,Mexican,10,Urban
+102,Mexican,11,Urban
+103,Mexican,12,Urban
+104,Mexican,13,Urban
+105,Mexican,14,Urban
+106,Mexican,15,Urban
+107,Mexican,16,Urban
+108,Mexican,17,Urban
+109,Mexican,18,Urban
+110,Mexican,19,Urban
+111,Mexican,20,Urban
+112,Mexican,21,Urban
+113,Mexican,22,Urban
+114,Mexican,23,Urban
+115,Mexican,24,Urban
+116,Mexican,25,Urban
+117,Mexican,26,Urban
+118,Mexican,27,Urban
+119,Mexican,28,Urban
+120,Mexican,29,Urban
+121,Mexican,30,Urban
+122,Mexican,31,Urban
+123,Mexican,32,Urban
+124,Mexican,33,Urban
+125,Mexican,34,Urban
+126,Mexican,35,Urban
+127,New York City,1,Urban
+128,New York City,2,Urban
+129,New York City,3,Urban
+130,New York City,4,Urban
+131,New York City,5,Urban
+132,New York City,6,Urban
+133,New York City,7,Urban
+134,New York City,8,Urban
+135,New York City,9,Urban
+136,New York City,10,Urban
+137,New York City,11,Urban
+138,New York City,12,Urban
+139,New York City,13,Urban
+140,New York City,14,Urban
+141,New York City,15,Urban
+142,New York City,16,Urban
+143,New York City,17,Urban
+144,New York City,18,Urban
+145,New York City,19,Urban
+146,New York City,20,Urban
+147,New York City,21,Urban
+148,New York City,22,Urban
+149,New York City,23,Urban
+150,New York City,24,Urban
+151,New York City,25,Urban
+152,New York City,26,Urban
+153,New York City,27,Urban
+154,New York City,28,Urban
+155,New York City,29,Urban
+156,New York City,30,Urban
+157,New York City,31,Urban
+158,New York City,32,Urban
+159,New York City,33,Urban
+160,New York City,34,Urban
+161,New York City,35,Urban
+162,New York City,36,Urban
+163,New York City,37,Urban
+164,New York City,38,Urban
+165,New York City,39,Urban
+166,New York City,40,Urban
+167,New York City,41,Urban
+168,New York City,42,Urban
+169,New York City,43,Urban
+170,New York City,44,Urban
+171,New York City,45,Urban
+172,New York City,46,Urban
+173,New York City,47,Urban
+174,New York City,48,Urban
+175,New York City,49,Urban
+176,New York City,50,Urban
+177,New York City,51,Urban
+178,New York City,52,Urban
+179,New York City,53,Urban
+180,New York City,54,Urban
+181,New York City,55,Urban
+182,Semaq Beri,1,Hunter-gatherer
+183,Semaq Beri,2,Hunter-gatherer
+184,Semaq Beri,3,Hunter-gatherer
+185,Semaq Beri,4,Hunter-gatherer
+186,Semaq Beri,5,Hunter-gatherer
+187,Semaq Beri,6,Hunter-gatherer
+188,Semaq Beri,7,Hunter-gatherer
+189,Semaq Beri,8,Hunter-gatherer
+190,Semaq Beri,9,Hunter-gatherer
+191,Semaq Beri,10,Hunter-gatherer
+192,Semaq Beri,11,Hunter-gatherer
+193,Semaq Beri,12,Hunter-gatherer
+194,Semaq Beri,13,Hunter-gatherer
+195,Semaq Beri,14,Hunter-gatherer
+196,Semaq Beri,15,Hunter-gatherer
+197,Semaq Beri,16,Hunter-gatherer
+198,Semaq Beri,17,Hunter-gatherer
+199,Semaq Beri,18,Hunter-gatherer
+200,Semaq Beri,19,Hunter-gatherer
+201,Semaq Beri,20,Hunter-gatherer
+202,Semaq Beri,21,Hunter-gatherer
+203,Semaq Beri,22,Hunter-gatherer
+204,Semaq Beri,23,Hunter-gatherer
+205,Semaq Beri,24,Hunter-gatherer
+206,Semaq Beri,25,Hunter-gatherer
+207,Semelai,1,Farmer
+208,Semelai,2,Farmer
+209,Semelai,3,Farmer
+210,Semelai,4,Farmer
+211,Semelai,5,Farmer
+212,Semelai,6,Farmer
+213,Semelai,7,Farmer
+214,Semelai,8,Farmer
+215,Semelai,9,Farmer
+216,Semelai,10,Farmer
+217,Semelai,11,Farmer
+218,Semelai,12,Farmer
+219,Semelai,13,Farmer
+220,Semelai,14,Farmer
+221,Semelai,15,Farmer
+222,Semelai,16,Farmer
+223,Semelai,17,Farmer
+224,Semelai,18,Farmer
+225,Semelai,19,Farmer
+226,Semelai,20,Farmer
+227,Semelai,21,Farmer
+228,Semelai,22,Farmer
+229,Semelai,23,Farmer
+230,Semelai,24,Farmer
+231,Semelai,25,Farmer
+232,Seri,1,Hunter-gatherer
+233,Seri,2,Hunter-gatherer
+234,Seri,3,Hunter-gatherer
+235,Seri,4,Hunter-gatherer
+236,Seri,5,Hunter-gatherer
+237,Seri,6,Hunter-gatherer
+238,Seri,7,Hunter-gatherer
+239,Seri,8,Hunter-gatherer
+240,Seri,9,Hunter-gatherer
+241,Seri,10,Hunter-gatherer
+242,Seri,11,Hunter-gatherer
+243,Seri,12,Hunter-gatherer
+244,Seri,13,Hunter-gatherer
+245,Seri,14,Hunter-gatherer
+246,Seri,15,Hunter-gatherer
+247,Seri,16,Hunter-gatherer
+248,Seri,17,Hunter-gatherer
+249,Seri,18,Hunter-gatherer
+250,Seri,19,Hunter-gatherer
+251,Seri,20,Hunter-gatherer
+252,Seri,21,Hunter-gatherer
+253,Seri,22,Hunter-gatherer
+254,Seri,23,Hunter-gatherer
+255,Seri,24,Hunter-gatherer
+256,Seri,25,Hunter-gatherer
+257,Thai,1,Urban
+258,Thai,2,Urban
+259,Thai,3,Urban
+260,Thai,4,Urban
+261,Thai,5,Urban
+262,Thai,6,Urban
+263,Thai,7,Urban
+264,Thai,8,Urban
+265,Thai,9,Urban
+266,Thai,10,Urban
+267,Thai,11,Urban
+268,Thai,12,Urban
+269,Thai,13,Urban
+270,Thai,14,Urban
+271,Thai,15,Urban
+272,Thai,16,Urban
+273,Thai,17,Urban
+274,Thai,18,Urban
+275,Thai,19,Urban
+276,Thai,20,Urban
+277,Thai,21,Urban
+278,Thai,22,Urban
+279,Thai,23,Urban
+280,Thai,24,Urban
+281,Thai,25,Urban
+282,Thai,26,Urban
+283,Thai,27,Urban
+284,Philadelphia,MK,
+285,Philadelphia,JDM,
+286,Philadelphia,BP,
+287,Philadelphia,AH,
+288,Philadelphia,KB,
+289,Philadelphia,JM,
+290,Philadelphia,SJ,
+291,Philadelphia,MA,
+292,Philadelphia,BN,
+293,Philadelphia,NG,

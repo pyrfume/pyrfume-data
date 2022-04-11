@@ -5,9 +5,8 @@ title = "Tuning to Odor Solubility and Sorption Pattern in Olfactory Epithelial 
 authors = "John W. Scott, Lisa Sherrill, Jianbo Jiang, and Kai Zhaor"
 
 [raw]
-no raw data
 
 [processed]
-main.ipynb = "Processing workflow"
+main.py = "Processing workflow"
 molecules.csv = "Molecules used"
 behavior.csv = "Odorants used in this study arranged in order of the log of the calculated air/mucus partition coefficient"

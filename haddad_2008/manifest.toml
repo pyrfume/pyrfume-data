@@ -5,20 +5,20 @@ title = "A metric for odorant comparison"
 authors = "R Haddad, R Khan, YK Takahashi, K Mori, D Harel, N Sobel"
 
 [raw]
-"41592_2008_BFnmeth1197_MOESM181_ESM.pdf" = "Supplementary Text and Figures"
+41592_2008_BFnmeth1197_MOESM181_ESM.pdf = "Supplementary Text and Figures"
 
 [parsed]
-"dragon-weights.csv" = "Weights and names for the 32 Dragon features given in the supplement"
-"cas.txt" = "Molecules listed in Supplemental Tables 1 and 3"
+dragon-weights.csv = "Weights and names for the 32 Dragon features given in the supplement"
+cas.txt = "Molecules listed in Supplemental Tables 1 and 3"
 
 [computed]
-"dragon6-symbols.csv" = "Equivalent features symbols in version 6 of Dragon"
-"features.csv" = "The 32 Dragon 6 feature values for selected molecules"
+dragon6-symbols.csv = "Equivalent features symbols in version 6 of Dragon"
+features.csv = "The 32 Dragon 6 feature values for selected molecules"
 
 [processed]
-"main.ipynb" = "Processing workflow from parsed to processed data"
-"molecules.csv" = "Molecules listed in the supplement"
-"features_weighted.csv" = "The 32 Dragon 6 feature values, pre-weighted for distance metric computation"
+main.py = "Processing workflow from parsed to processed data"
+molecules.csv = "Molecules listed in the supplement"
+features_weighted.csv = "The 32 Dragon 6 feature values, pre-weighted for distance metric computation"
 
 [code]
-"haddad.py" = "Code for computing distance metrics for pairs of molecules using this data"
+haddad.py = "Code for computing distance metrics for pairs of molecules using this data"
