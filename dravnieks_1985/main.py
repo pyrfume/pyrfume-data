@@ -42,18 +42,31 @@ raw.loc['PhenylEthanollowconc', 'CID'] = 6054
 raw.loc['Diola', 'CID'] = 78484
 #raw.loc['MethylAcetaldehydeDiAce', 'CID'] = 8503 # Speculative
 
-behavior_1.index = behavior_1.index.map(raw['CID'].xs)
-behavior_2.index = behavior_2.index.map(raw['CID'].xs)
+raw
+
+behavior_1.index = behavior_1.index.map(lambda x: '_'.join([x, raw['Conc'].xs(x)]))
+behavior_2.index = behavior_2.index.map(lambda x: '_'.join([x, raw['Conc'].xs(x)]))
 behavior_1 = behavior_1[behavior_1.index.notnull()]
 behavior_2 = behavior_2[behavior_2.index.notnull()]
-behavior_1.index = behavior_1.index.astype(int)
-behavior_2.index = behavior_2.index.astype(int)
+#behavior_1.index = behavior_1.index.astype(int)
+#behavior_2.index = behavior_2.index.astype(int)
+behavior_1.index.name = 'Stimulus'
+behavior_2.index.name = 'Stimulus'
 behavior_1.to_csv('behavior_1.csv')
 behavior_2.to_csv('behavior_2.csv')
 
-molecules = pd.DataFrame(from_cids(behavior_1.index.tolist())).set_index('CID')
+behavior_2
+
+molecules = pd.DataFrame(from_cids(raw['CID'].dropna().tolist())).set_index('CID')
 molecules.to_csv('molecules.csv')
 
+identifiers = raw[['CAS', 'CID', 'Conc']].copy()
+identifiers['Name'] = raw.index
+identifiers.index = identifiers.apply(lambda x: '%s_%s' % (x['Name'], x['Conc']), axis=1)
+identifiers.index.name = 'Stimulus'
+identifiers
 
+assert not set(identifiers.index) - set(behavior_1.index)
+assert not set(behavior_1.index) - set(identifiers.index)
 
-
+identifiers.to_csv('identifiers.csv')

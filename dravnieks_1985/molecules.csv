@@ -31,7 +31,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6982,184.66,CC1=CC(=C(C=C1Cl)C(C)C)O,4-chloro-5-methyl-2-propan-2-ylphenol,chlorothymol
 637511,132.16,C1=CC=C(C=C1)/C=C/C=O,(E)-3-phenylprop-2-enal,cinnamaldehyde
 638011,152.23,CC(=CCC/C(=C/C=O)/C)C,"(2E)-3,7-dimethylocta-2,6-dienal",citral
-1551246,149.23,CC(=CCC/C(=C/C#N)/C)C,"(2E)-3,7-dimethylocta-2,6-dienenitrile",geranyl nitrile
+1551246,149.23,CC(=CCC/C(=C/C#N)/C)C,"(2E)-3,7-dimethylocta-2,6-dienenitrile","3,7-dimethylocta-2,6-dienenitrile"
 323,146.14,C1=CC=C2C(=C1)C=CC(=O)O2,chromen-2-one,coumarin
 342,108.14,CC1=CC(=CC=C1)O,3-methylphenol,m-cresol
 2879,108.14,CC1=CC=C(C=C1)O,4-methylphenol,p-cresol
@@ -99,7 +99,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 8635,151.16,COC(=O)C1=CC=CC=C1N,methyl 2-aminobenzoate,methyl anthranilate
 11902,126.11,COC(=O)C1=CC=CO1,methyl furan-2-carboxylate,methyl 2-furoate
 7059,143.18,CC1=CC2=C(C=C1)N=CC=C2,6-methylquinoline,6-methylquinoline
-62444,118.20,CCCC(=O)SC,S-methyl butanethioate,s-methyl thiobutyrate
+62444,118.20,CCCC(=O)SC,S-methyl butanethioate,methyl thiobutyrate
 4133,152.15,COC(=O)C1=CC=CC=C1O,methyl 2-hydroxybenzoate,methyl salicylate
 91497,258.4,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,"4,6,6,7,8,8-hexamethyl-1,3,4,7-tetrahydrocyclopenta[g]isochromene",galaxolide
 89440,258.4,CC1CC(C2=C(C1(C)C)C=C(C(=C2)C(=O)C)C)(C)C,"1-(3,5,5,6,8,8-hexamethyl-6,7-dihydronaphthalen-2-yl)ethanone",tonalide
