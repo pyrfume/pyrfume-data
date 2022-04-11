@@ -24,7 +24,7 @@ molecules = pd.DataFrame(info_dict).set_index('CID').sort_index()
 molecules.head()
 
 # Universal pleasantness data -> behavior_1.csv
-behav1 = pd.read_csv('data\\Universal Pleasantness.csv', index_col=0)
+behav1 = pd.read_csv('data\\Universal_Pleasantness.csv', index_col=0)
 behav1.head()
 
 # Create unique ParticipantID for each Participant/Group

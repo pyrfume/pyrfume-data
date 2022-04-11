@@ -6,8 +6,8 @@ authors = "A. Arshamian, R.C. Gerkin, N. Kruspe, E. Wnuk, S. Floyd, C. O'Meara, 
 extra = ""
 
 [raw]
-data/All_data_intensity.txt = "Ordor intensity rankings from global participants"
-data/Universal Pleasantness.csv = "Pleasantness rankings from global participants"
+data/All_data_intensity.txt = "Odor intensity rankings from global participants"
+data/Universal_Pleasantness.csv = "Pleasantness rankings from global participants"
 data/UniversalPleasantnessMainlandLabRanking.csv = "Pleasantness rankings from Mainland lab"
 LICENSE = ""
 
