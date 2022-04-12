@@ -3,6 +3,7 @@
 doi = "10.1093/chemse/bjr094"
 title = "An Algorithm for 353 Odor Detection Thresholds in Humans"
 authors = "MH Abraham, R Sánchez-Moreno, JE Cometto-Muñiz, WS Cain"
+tags = "human;threshold;academic"
 
 [raw]
 ThresholdsAbraham2011.xls = "Data scraped from in-line tables"
