@@ -3,6 +3,7 @@
 doi = "10.1520/DS61-EB"
 title = "Atlas of Odor Character Profiles"
 authors = "A Dravnieks"
+tags = "human;odorCharacter;academic"
 extra = "Originally compiled by Dravnieks, digitization performed by Alice Roche (molecules, Bensafi lab) and Rafi Haddad (behavior, Sobel lab) to produce 'raw' material; mixtures subsequently removed in processing pipeline.  See also Dravnieks, 1982 (Science) for description of the 'applicability' and 'use' measures."
 
 [raw]
