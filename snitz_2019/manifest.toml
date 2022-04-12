@@ -3,6 +3,7 @@
 doi = "https://doi.org/10.1093/chemse/bjz014"
 title = "SmellSpace: An Odor-Based Social Network as a Platform for Collecting Olfactory Perceptual Data"
 authors = "K. Snitz, O. Perl, D. Honigstein, L. Secundo, A. Ravia, A. Yablonka, Y. Endevelt-Shapira, N. Sobel"
+tags = "human;intensity;odorCharacter;academic"
 extra = "Originally produced by Snitz et al. 2018 and organized as SmellSpace; Pyrfume developers make no claims concerning copyright"
 
 [raw]
