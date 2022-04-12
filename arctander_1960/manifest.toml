@@ -4,6 +4,7 @@ doi = "10.978.09317/10360"
 title = "Perfume and Flavor Materials of Natural Origin"
 authors = "S Arctander"
 extra = "Originally produced by Stefan Arctander and digitzed by the lab of Joel Mainland for data science; 'raw' reflects the latter;  'processed' reflects additional work for deposition in Pyrfume; doi is unregistered but reflects standard ISBN-13 (978-0931710360) conversion; see LICENSE for use restrictions"
+tags = "human;odorCharacter"
 
 [raw]
 arctander.csv = "Odor labels and descriptions for odorants as originally compiled by Stefan Arctander and cleaned by the Mainland lab"
