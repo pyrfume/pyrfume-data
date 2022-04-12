@@ -3,6 +3,7 @@
 doi = "10.1126/science.1249168"
 title = "Humans Can Discriminate More than 1 Trillion Olfactory Stimuli"
 authors = "C Bushdid, MO Magnasco, LB Vosshall, A Keller"
+tags = "human;odorCharacter;academic"
 
 [raw]
 tableS1.csv = "Supplementary Table 1"

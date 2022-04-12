@@ -1,9 +1,10 @@
 # Manifest for Keller et al, 2012 data
 [source]
 doi = "10.1186/1471-2202-13-122"
-url = "https://www.kaggle.com/jmainland/national-geographic-smell-survey/version/2"
+url = "https://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-13-122"
 title = "An olfactory demography of a diverse metropolitan population"
 authors = "A Keller, M Hempstead, IA Gomez, AN Gilbert, LB Vosshall"
+tags = "human;intensity;pleasantness;odorCharacter;threshold;academic"
 
 [raw]
 12868_2012_2787_MOESM1_ESM.xlsx = "Raw data from the supplementary materials"

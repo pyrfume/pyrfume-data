@@ -3,6 +3,7 @@
 doi = "10.1371/journal.pcbi.1003184"
 title = "Predicting Odor Perceptual Similarity from Odor Structure"
 authors = "K Snitz, A Yablonka, T Weiss, I Frumin, RM Khan, N Sobel"
+tags = "human;odorCharacter;mixtures;academic"
 
 [raw]
 pcbi.1003184.s003.pdf = "Supplementary Table 2: Similarity ratings by dataset"

@@ -3,6 +3,7 @@
 doi = "10.15454/51OVY6"
 title = "A dataset on odor intensity and odor pleasantness of 222 binary mixtures of 72 key food odorants rated by a sensory panel of 30 trained assessors"
 authors = "Ma, Yue; Tang, Ke; Xu, Yan; Thomas Danguin, Thierry"
+tags = "human;intensity;pleasantness;mixtures;academic"
 extra = "Originally described in https://doi.org/10.1016/j.dib.2021.107143; also related to 10.1093/chemse/bjaa020."
 
 [raw]
