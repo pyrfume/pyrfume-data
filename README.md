@@ -1,5 +1,5 @@
 # The Pyrfume Public Data Archive
-## Wrangled, pre-processed, and curated olfactory psychophysics data.
+## Wrangled, pre-processed, and curated olfactory psychophysics and biology data.
 
 ![pyrfume-logo](https://avatars.githubusercontent.com/u/34174393)
 
