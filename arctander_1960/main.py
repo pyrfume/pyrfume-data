@@ -38,7 +38,7 @@ needs_cids = data[data[cid_col]<=0].copy()
 len(needs_cids)
 
 cas_no_cids = needs_cids[needs_cids['CAS'].notnull()]['CAS'].str.strip()
-cas_no_cids.to_csv('cas_no_cids.txt', header=None, index=False)
+cas_no_cids.to_csv('untracked/cas_no_cids.txt', header=None, index=False)
 cas_no_cids  # Only one, aluminum sulfide solution (SID: 347706187)
 
 # +
@@ -50,21 +50,21 @@ cas_no_cids  # Only one, aluminum sulfide solution (SID: 347706187)
 
 names_no_cids = needs_cids[needs_cids['CAS'].isnull() & 
                            needs_cids['ChemicalName'].notnull()]['ChemicalName']
-names_no_cids.to_csv('names_no_cids.txt', header=None, index=False)
+names_no_cids.to_csv('untracked/names_no_cids.txt', header=None, index=False)
 len(names_no_cids)
 
 # +
 # Use PubChem Exchange to go from names_no_cids.txt to cids_from_names.txt
 # -
 
-cids_from_names = pd.read_csv('cids_from_names.txt', sep='\t', index_col=0, header=None)[1].dropna().astype(int)
+cids_from_names = pd.read_csv('untracked/cids_from_names.txt', sep='\t', index_col=0, header=None)[1].dropna().astype(int)
 needs_cids.loc[names_no_cids.index, cid_col] = names_no_cids.apply(cids_from_names.get, args=(0,)).fillna(0)
 (needs_cids[cid_col]==0).sum()
 
 smiles_no_cids = needs_cids[needs_cids['CAS'].isnull() & 
                             needs_cids['ChemicalName'].isnull() &
                             needs_cids['SMILES'].notnull()]['SMILES']
-smiles_no_cids.to_csv('smiles_no_cids.txt', header=None, index=False)
+smiles_no_cids.to_csv('untracked/smiles_no_cids.txt', header=None, index=False)
 len(smiles_no_cids)
 
 # +
@@ -85,14 +85,14 @@ molecules = pd.DataFrame(from_cids(cids)).set_index('CID').sort_index()
 
 identifiers = data[['ChemicalName', 'CAS', cid_col, 'ArctanderNum']].set_index('ArctanderNum')
 identifiers = identifiers.sort_index()
-identifiers.index.name = 'Arctander ID'
+identifiers.index.name = 'Stimulus'
 identifiers.head()
 
 molecules.to_csv('molecules.csv')
 identifiers.to_csv('identifiers.csv')
 
 sparse = data['ChastretteDetails'].fillna('').str.split()
-sparse.index.name = 'Arctander ID'
+sparse.index.name = 'Stimulus'
 sparse.colums = 'Labels'
 sparse.to_csv('behavior_1_sparse.csv')
 
