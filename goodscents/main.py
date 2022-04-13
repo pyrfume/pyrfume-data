@@ -39,11 +39,11 @@ contents = pd.read_csv('data_rw_contents.csv')
 cids_1 = opl['CID'].fillna(0).apply(lambda x: x[0] if isinstance(x, pd.Series) else x).fillna(0).astype(int)
 
 # Export CAS for CIDs not found by Contrebande
-opl[cids_1==0]['CAS Number'].to_csv('cas_out_2.csv', index=False, header=False)
+opl[cids_1==0]['CAS Number'].to_csv('untracked/cas_out_2.csv', index=False, header=False)
 
 # Now run cas_out_1.csv through the PubChem exchange service (https://pubchem.ncbi.nlm.nih.gov/idexchange/idexchange.cgi)
 # Save the output and load it:
-cas_to_cid = pd.read_csv('cas_to_cids_2.txt', sep='\t', index_col=0, header=None)[1]
+cas_to_cid = pd.read_csv('untracked/cas_to_cids_2.txt', sep='\t', index_col=0, header=None)[1]
 cas_to_cid[''] = 0
 # Map CAS numbers to CIDs
 cids_2 = opl[cids_1==0]['CAS Number'].fillna('').apply(cas_to_cid.get, args=(0,))
@@ -51,11 +51,11 @@ cids_2 = opl[cids_1==0]['CAS Number'].fillna('').apply(cas_to_cid.get, args=(0,)
 cids_2 = cids_2.apply(lambda x: x[0] if isinstance(x, pd.Series) else x).fillna(0).astype(int)
 
 # Export names for things not yet found by Contrebande or CAS
-opl[cids_1==0][cids_2==0]['Name'].to_csv('name_out_3.csv', index=False, header=False)
+opl[cids_1==0][cids_2==0]['Name'].to_csv('untracked/name_out_3.csv', index=False, header=False)
 
 # Now run name_out_2.csv through the PubChem exchange service (https://pubchem.ncbi.nlm.nih.gov/idexchange/idexchange.cgi)
 # Save the output and load it:
-name_to_cid = pd.read_csv('name_to_cids_3.txt', sep='\t', index_col=0, header=None)[1]
+name_to_cid = pd.read_csv('untracked/name_to_cids_3.txt', sep='\t', index_col=0, header=None)[1]
 name_to_cid[''] = 0
 # Map names to CIDs
 cids_3 = opl[cids_1==0][cids_2==0]['Name'].fillna('').apply(name_to_cid.get, args=(0,))
