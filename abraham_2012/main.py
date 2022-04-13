@@ -22,6 +22,8 @@ from pyrfume.odorants import get_cids, from_cids
 # Abraham et al, 2012 (Chemical Senses; 2011 online publication date)
 df = pd.read_excel('ThresholdsAbraham2011.xls')
 
+df['SMILES'] = df['SMILES'].replace({'C(CCC)(=O)O.C#CC': 'CCCC(=O)OCCC'})
+
 # Get CIDs for SMILES given in the original data file
 smiles = df['SMILES'].dropna()
 smiles_cids = get_cids(smiles, kind='SMILES')
@@ -39,7 +41,8 @@ subs = {'lsobutylaldehyde': 'isobutyraldehyde',
         '2-n-Buthoxyethanol': '2-butoxyethanol',
         '1-8 Cineole': 'eucalyptol',
         'n-Propy n-butyrate': 'Propyl butyrate',
-        'D-3-carene': 'delta-3-carene'}
+        'D-3-carene': 'delta-3-carene',
+        'sec-Pentanol': '2-pentanol'}
 df['Substance'] = df['Substance'].replace(subs)
 
 # Replace typos and odd spellings with correct molecule names (parts of names)
@@ -72,6 +75,7 @@ behavior = df.groupby('CID').mean()
 behavior['Duplicates'] = counts - 1
 
 # Save this to the behavior file
+behavior.index.name = 'Stimulus'
 behavior.to_csv('behavior.csv')
 
 # +
@@ -80,3 +84,9 @@ molecules = pd.DataFrame(from_cids(df.index)).set_index('CID')
 
 # Save this to the molecules file
 molecules.to_csv('molecules.csv')
+# -
+
+# All identifiers are CIDs
+identifiers = pd.DataFrame(molecules.index, index=molecules.index.tolist())
+identifiers.index.name = 'Stimulus'
+identifiers.to_csv('identifiers.csv')
