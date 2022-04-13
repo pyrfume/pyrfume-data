@@ -7,9 +7,9 @@ tags = "human;academic"
 extra = "Copyright 2021 Emily Mayhew, Rick Gerkin, Brian Lee, Joel Mainland"
 
 [raw]
-tables/S1.csv = "Molecules used for training and testing, and model probabilities"
-tables/S2.csv = "Behavioral results"
-tables/S3.csv = "Model probabilities for a random subset of GDB-17"
+"tables/S1.csv" = "Molecules used for training and testing, and model probabilities"
+"tables/S2.csv" = "Behavioral results"
+"tables/S3.csv" = "Model probabilities for a random subset of GDB-17"
 LICENSE = ""
 
 [processed]

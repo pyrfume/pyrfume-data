@@ -7,9 +7,9 @@ tags = "human;pleasantness;academic"
 extra = ""
 
 [raw]
-data/All_data_intensity.txt = "Odor intensity rankings from global participants"
-data/Universal_Pleasantness.csv = "Pleasantness rankings from global participants"
-data/UniversalPleasantnessMainlandLabRanking.csv = "Pleasantness rankings from Mainland lab"
+"data/All_data_intensity.txt" = "Odor intensity rankings from global participants"
+"data/Universal_Pleasantness.csv" = "Pleasantness rankings from global participants"
+"data/UniversalPleasantnessMainlandLabRanking.csv" = "Pleasantness rankings from Mainland lab"
 LICENSE = ""
 
 [processed]
