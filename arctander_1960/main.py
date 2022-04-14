@@ -91,7 +91,7 @@ identifiers.head()
 molecules.to_csv('molecules.csv')
 identifiers.to_csv('identifiers.csv')
 
-sparse = data['ChastretteDetails'].fillna('').str.split()
+sparse = data.set_index('ArctanderNum')['ChastretteDetails'].fillna('').str.split()
 sparse.index.name = 'Stimulus'
 sparse.colums = 'Labels'
 sparse.to_csv('behavior_1_sparse.csv')
@@ -104,5 +104,6 @@ dense = dense.astype(int).sort_index(axis=1)
 dense.to_csv('behavior_1.csv')
 dense.head()
 
-desc = data[['Description']]
+desc = data.set_index('ArctanderNum')[['Description']]
+desc.index.name = 'Stimulus'
 desc.to_csv('behavior_2.csv')
