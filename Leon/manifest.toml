@@ -10,4 +10,6 @@ authors = “BA Johnson, Zhe X, SS Ali, M Leon”
 [processed]
 "main.py" = "Processing workflow"
 "molecules.csv" = "Information about odorant molecules used"
-"behavior.csv" = “Lookup table matching entries of molecules to csv files of glomerular maps”
+"identifiers.csv" = “Table of stimuli (odorants), corresponding CIDs, and experimental conditions (conc., duration, etc)”
+"imaging.csv" = "Table of stimuli (odorants), and paths to disk for fetching corresponding .csv files (i.e. the glomerular images)"
+"csvs" = folder of .csv files of the glomerular maps (pointed to by 'imaging.csv')

@@ -1,25 +1,21 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
+# In[1]:
 
 
 import pandas as pd
 from pathlib import Path
-from PIL import Image
 from IPython.display import display
-import matplotlib.pyplot as plt
 import numpy as np
-import seaborn as sns
 import os
-import shutil
 from collections import OrderedDict
 from pyrfume import odorants
 
 
-# We'll work out of the 'patterns_csv' directory, which has glomerular maps + CAS#s bundled together in individual csv files. First flatten the directory:
+# ## Grab the data from the glomerular archive, and put into a DF
 
-# In[7]:
+# In[2]:
 
 
 saved_path = os.getcwd()
@@ -48,17 +44,13 @@ def flatten(directory):
 
         if dirpath != directory:
             os.rmdir(dirpath)
-            
-flatten(root+ccc) 
 
 
-# Walk through the flattened directory, pulling out image data and the corresponding CAS# from the csv files:
-
-# In[8]:
+# In[3]:
 
 
 Names = [] # simple file/molecule names (nomenclature idiosyncratic to Leon)
-CAS_nums = [] 
+CAS_nums = [] # CAS numbers (given for each file)
 Conditions = [] # metadata on experimental conditions (duration, concentration, etc)
 Data = [] # list of dfs with the actual data
 
@@ -86,53 +78,9 @@ for file in path.glob('*.csv'):
     Data.append(data)
 
 
-# Clean up the molecule lists, and write csvs of glomerular maps to a new tmp directory. 
-# For duplicate maps, just name them as X_replicate_1, X_replicate_2, etc.  
+# Fix a couple pathological cases, and deal separately w/ 1) monomolecular odorants w/ a CAS vs. 2) complex odorants w/ no CAS (i.e. 'coffee', 'apple')
 
-# In[15]:
-
-
-# first, remove list indices where the CAS# is = 0 (these probably correspond to mixtures, or things like 'coffee', etc)
-zeros_idx_list = sorted([ i for i in range(len(CAS_nums)) if CAS_nums[i] == '0' ], reverse=True)
-
-for idx in zeros_idx_list:
-    Names.pop(idx)
-    CAS_nums.pop(idx)
-    Conditions.pop(idx)
-    Data.pop(idx)
-
-# cycle through the CAS numbers & identify unique numbers:
-
-lastCAS = CAS_nums[0]
-filenames = []
-
-j=0
-
-saved_path = os.getcwd()
-root = '/Users/jcastro/Dropbox/CnG/' # set as needed
-ccc = 'Leon/Glomerular archive/patterns_csv' # dir of glomerular maps
-
-# make the new directory: 
-
-tmp_path = root + ccc + '_tmp/'
-os.mkdir(tmp_path)
-
-for i in range(len(CAS_nums)):
-    thisCAS = CAS_nums[i]
-    if i>0 and thisCAS == lastCAS: # is the molecule a replicate?
-        j = j+1
-        name = Names[i] + "_replicate_" + str(j) # ...if so, append a numbered suffix    
-    else:
-        name = Names[i]
-        lastCAS = thisCAS
-        j=0
-    filenames.append(name)
-    Data[i].to_csv(tmp_path + name) # write the glomerular map as a csv (just the image, no metadata)
-
-
-# For whatever reason, one CAS# (for Methyl 3-aminobenzoate) is just formatted really strangely: 
-
-# In[69]:
+# In[4]:
 
 
 # fix a bad CAS#:
@@ -140,58 +88,153 @@ idx = CAS_nums.index('10/9/4518')
 CAS_nums[idx] = '4518-10-9'
 
 
-# Fetch CIDs from CAS#s, perform standardization for Pyrfume: 
+# In[5]:
 
-# In[70]:
+
+d = {'Stimulus' : Names, 'CAS numbers': CAS_nums, 'Conditions': Conditions, 'Data': Data}
+df = pd.DataFrame(data=d)
+df = df.sort_values(by=['CAS numbers', 'Stimulus'])
+CAS_numbers = df['CAS numbers'].to_numpy()
+
+# pull out the problem CIDs (cases like 'strawberry', where there will be no CID)
+noCID = df[CAS_numbers == '0']
+df = df[CAS_numbers != '0']
+
+
+# Create unique file names for all glomerular images. In cases where there is only one presentation of a given stimulus, we call that file odorantX_0. In cases where there are multiple presentations, we start numbering w/ '1', for example: odorantY_1, odorantY_2, odorantY_3, etc... 
+
+# In[6]:
+
+
+# create a unique file string for each molecule, grouped by CAS:
+grouped = df.groupby((df['CAS numbers'].shift() != df['CAS numbers']).cumsum())
+
+replicates = []
+
+for _,b in grouped:
+    x = b['Stimulus'].to_numpy()
+    if len(x) == 1:
+        replicates.append('csvs/'+ str(x[0]) + '_0.csv')
+    else:
+        for i in range(len(x)):
+            replicates.append('csvs/' + (str(x[i]) + '_' + str(i+1)) + '.csv')
+
+# make the filenames a column in the df, so they follow the data/conditions:            
+df['File'] = replicates
+
+
+# In[7]:
+
+
+root = '/Users/jcastro/Dropbox/CnG/' # set as needed
+local = 'Leon/Glomerular archive/NewTest/'
+path = root + local
+print(type(path))
+
+
+# Generating filenames as above, but for the data where there is no CID:
+
+# In[8]:
+
+
+# same naming convention as w/ the CID-indexed data above
+filepaths = ['csvs/' + s + '_0.csv' for s in noCID['Stimulus']]
+noCID['File'] = filepaths
+
+# there are only a small number of cases of duplicates, so we'll just hand-fix these
+noCID['File'][13] = 'csvs/banana_1.csv'
+noCID['File'][79] = 'csvs/banana_2.csv'
+noCID['File'][293] = 'csvs/banana_3.csv'
+
+noCID['File'][201] = 'csvs/fujiapple_1.csv'
+noCID['File'][213] = 'csvs/fujiapple_2.csv'
+
+
+# In[9]:
+
+
+noCID.head(10)
+
+
+# ## Write csv files (glomerular maps) to disk:
+
+# In[10]:
+
+
+# write the CAS-indexed data to csv:
+for ind in df.index:
+    thisdf = df['Data'][ind]
+    filepath = root + local + df['File'][ind]
+    thisdf.to_csv(filepath,index=False,header=False)
+
+# write the orphans (no CAS#: 'banana', 'wheatbran', etc) to csv:
+for ind in noCID.index:
+    thisdf = noCID['Data'][ind]
+    filepath = root + local + noCID['File'][ind]
+    thisdf.to_csv(filepath,index=False,header=False)
+
+
+# ## Generate standardized dictionary of molecules
+# 
+
+# In[11]:
 
 
 molecules = OrderedDict()
-molecules = odorants.get_cids(CAS_nums)
+molecules = odorants.get_cids(df['CAS numbers'])
 
 
-# In[71]:
+# ## Standardize per pyrfume specifications: 
+# 
+# Identifier and imaging datasets
+
+# In[12]:
 
 
-unique_mols = list(molecules.keys())
-behavior = []
+# Make a column of CIDs for the dataframe:
+CIDs = [molecules[x] for x in df['CAS numbers']]
+df['CIDs'] = CIDs
 
-for cas in unique_mols:
-    mol_indices = [i for i in range(len(CAS_nums)) if CAS_nums[i] == str(cas) ] # get all molecules w/ the same CAS#
-    behavior.append([filenames[idx] for idx in mol_indices]) # put maps of identical molecules on the same row
+# dummy cid values for the non-monomolecular odorants
+dummy_cids = [-1] * 3 + [-1 * x for x in range(2,7)] + [-7] * 2 + [-1 * x for x in range(8,25)]
+noCID['CIDs'] = dummy_cids
+
+# generate the 'identifiers' and 'imaging' datasets
+mergedData = pd.concat([noCID, df]).sort_values(by='CIDs')
+identifiers = mergedData[['Stimulus', 'CIDs', 'Conditions']]
+imaging = mergedData[['Stimulus', 'File']]
+
+# use the names from Leon as the indices
+identifiers.set_index('Stimulus', inplace=True)
+imaging.set_index('Stimulus', inplace=True)
 
 
-# In[82]:
+# Molecules dataset
 
+# In[13]:
+
+
+# standardized molecules library
+# Case 1: molecules w/ CIDs:
 
 mols = odorants.from_cids(list(molecules.values()))
 molecules_df = pd.DataFrame(mols)
 molecules_df.set_index('CID', inplace = True)
 
+# Case 2: molecules w/o CIDs:
+CID_orphans = pd.DataFrame({'CID': dummy_cids,'MolecularWeight':[np.nan]*len(dummy_cids), 'IsomericSMILES':[np.nan]*len(dummy_cids), 'IUPACName':[np.nan]*len(dummy_cids), 'name':noCID['Stimulus']})
+CID_orphans.set_index('CID', inplace=True)
 
-# Write the 'molecule' and 'behavior' files for pyrfume
-
-# In[124]:
-
-
-# Molecules
-molecules_df.to_csv('molecules.csv')
+# Merged molecule library
+all_molecules = pd.concat([molecules_df, CID_orphans]).sort_values(by='CID')
 
 
-# In[139]:
+# ## Write pyrfume files to disk:
+
+# In[14]:
 
 
-import csv
-
-# Behavior
-csv_file = open('behavior.csv', 'w')
-writer = csv.writer(csv_file)
-j = -1
-
-for b in behavior:
-    j = j+1
-    writer.writerow([list(molecules.values())[j], [b[i] for i in range(len(b))]])
-
-
-
-
+all_molecules.to_csv('molecules.csv')
+imaging.to_csv('imaging.csv')
+identifiers.to_csv('identifiers.csv')
 
