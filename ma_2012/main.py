@@ -28,8 +28,10 @@ molecules = pd.DataFrame(info_dict).set_index('CID').sort_index()
 molecules.head()
 
 # Dataframe for dorsal response -> behavior_1.csv
+d_resp = {'None': 0, '*': 1, '**': 2, '***': 3}
 behav1 = df1[['CAS Number', 'Dorsal Response']]
 behav1['CID'] = behav1['CAS Number'].map(cids)
+behav1['Dorsal Response'] = behav1['Dorsal Response'].map(d_resp)
 behav1 = behav1.set_index(['CID']).sort_index()
 behav1.head()
 

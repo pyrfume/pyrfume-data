@@ -13,7 +13,7 @@ LICENSE = ""
 [processed]
 main.py = "Processing workflow"
 molecules.csv = "Information about odorant molecules used"
-behavior_1.csv = "Odorant dorsal response data."
+behavior_1.csv = "Odorant dorsal response data. Original indicators None, *, **, *** were mapped to 0, 1, 2, 3, respectively."
 behavior_2.csv = "DeltaF/F data for each imaging experiment."
 artifact_mask.csv = "Same shape as behavior_2.csc; 0 indicates data that is subject to 'motion artifact' and was not included in published analysis."
 odor_conc.csv = "Concentration of odorants used in each experiment, expressed as percentage of saturated vapor. Index maps to integers in odor abbrevations in behavior_2.csv column headings."
