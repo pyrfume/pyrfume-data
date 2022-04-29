@@ -2566,7 +2566,7 @@ Ser. No.,Primary Odor,Sub Odor,CAS Number,Chemical Name
 2564,Woody/ Resinous,Earthy,5435-64-3,"3,5,5-Trimethylhexanal"
 2565,Woody/ Resinous,Smokey,5616-51-3,"2-Methyl-1,3-dithiolane"
 2566,Woody/ Resinous,Musty,5910-89-4,"2,3-Dimethylpyrazine"
-2567,Woody/ Resinous,Herbal, 5948-04-9 ,(+)-Dihydrocarvone
+2567,Woody/ Resinous,Herbal,5948-04-9,(+)-Dihydrocarvone
 2568,Woody/ Resinous,Earthy,5989-33-3,Linalyl oxide
 2569,Woody/ Resinous,Aromatic,138-86-3,Limonene
 2570,Woody/ Resinous,Herbal,138-86-3,Limonene
@@ -13719,7 +13719,7 @@ Ser. No.,Primary Odor,Sub Odor,CAS Number,Chemical Name
 13717,Aromatic,Herbal,4826-62-4,Dodecenal
 13718,Aromatic,Herbal,4984-01--4,"3,7-Dimethyl-1-octene"
 13719,Aromatic,Herbal,5405-58-3,"Hexane, 1,1'-[ethylidenebis(oxy)]bis-"
-13720,Aromatic,Herbal, 5948-04-9 ,(+)-Dihydrocarvone
+13720,Aromatic,Herbal,5948-04-9,(+)-Dihydrocarvone
 13721,Aromatic,Herbal,138-86-3,Limonene
 13722,Aromatic,Herbal,6259-76-3,Hexyl salicylate
 13723,Aromatic,Herbal,6378-65-0,Hexyl hexanoate
@@ -15286,7 +15286,7 @@ Ser. No.,Primary Odor,Sub Odor,CAS Number,Chemical Name
 15284,Fragrant,Sweet,5471-51-2,4-(4-Hydroxyphenyl)-2-butanone
 15285,Fragrant,Floral,5694-72-4,Phenylacetaldehyde glyceryl acetal
 15286,Fragrant,Rose,5694-72-4,Phenylacetaldehyde glyceryl acetal
-15287,Fragrant,Herbal, 5948-04-9 ,(+)-Dihydrocarvone
+15287,Fragrant,Herbal,5948-04-9,(+)-Dihydrocarvone
 15288,Fragrant,Floral,5989-33-3,Linalyl oxide
 15289,Fragrant,Sweet,5989-33-3,Linalyl oxide
 15290,Fragrant,Aromatic,138-86-3,Limonene
@@ -25695,7 +25695,7 @@ Ser. No.,Primary Odor,Sub Odor,CAS Number,Chemical Name
 25693,Herbaceous,Herbal,4826-62-4,Dodecenal
 25694,Herbaceous,Herbal,4984-01--4,"3,7-Dimethyl-1-octene"
 25695,Herbaceous,Herbal,5405-58-3,"Hexane, 1,1'-[ethylidenebis(oxy)]bis-"
-25696,Herbaceous,Herbal, 5948-04-9 ,(+)-Dihydrocarvone
+25696,Herbaceous,Herbal,5948-04-9,(+)-Dihydrocarvone
 25697,Herbaceous,Herbal,138-86-3,Limonene
 25698,Herbaceous,Herbal,6259-76-3,Hexyl salicylate
 25699,Herbaceous,Herbal,6378-65-0,Hexyl hexanoate
@@ -31356,8 +31356,8 @@ Ser. No.,Primary Odor,Sub Odor,CAS Number,Chemical Name
 31354,Minty,Sweet,4940-11--8,Ethyl maltol
 31355,Minty,Sweet,5405-58-3,"Hexane, 1,1'-[ethylidenebis(oxy)]bis-"
 31356,Minty,Sweet,5471-51-2,4-(4-Hydroxyphenyl)-2-butanone
-31357,Minty,Menthol, 5948-04-9 ,(+)-Dihydrocarvone
-31358,Minty,Spearmint, 5948-04-9 ,(+)-Dihydrocarvone
+31357,Minty,Menthol,5948-04-9,(+)-Dihydrocarvone
+31358,Minty,Spearmint,5948-04-9,(+)-Dihydrocarvone
 31359,Minty,Sweet,5989-33-3,Linalyl oxide
 31360,Minty,Aromatic,138-86-3,Limonene
 31361,Minty,Camphor,138-86-3,Limonene
@@ -40204,7 +40204,7 @@ Ser. No.,Primary Odor,Sub Odor,CAS Number,Chemical Name
 40202,Popcorn,Almond,5910-89-4,"2,3-Dimethylpyrazine"
 40203,Popcorn,Musty,5910-89-4,"2,3-Dimethylpyrazine"
 40204,Popcorn,Nutty,5910-89-4,"2,3-Dimethylpyrazine"
-40205,Popcorn,Warm, 5948-04-9 ,(+)-Dihydrocarvone
+40205,Popcorn,Warm,5948-04-9,(+)-Dihydrocarvone
 40206,Popcorn,Earthy,5989-33-3,Linalyl oxide
 40207,Popcorn,Woody,5989-33-3,Linalyl oxide
 40208,Popcorn,Resin,138-86-3,Limonene
@@ -47186,8 +47186,8 @@ Ser. No.,Primary Odor,Sub Odor,CAS Number,Chemical Name
 47184,Sweet,Jammy,5471-51-2,4-(4-Hydroxyphenyl)-2-butanone
 47185,Sweet,Sweet,5471-51-2,4-(4-Hydroxyphenyl)-2-butanone
 47186,Sweet,Caramel,5910-89-4,"2,3-Dimethylpyrazine"
-47187,Sweet,Minty, 5948-04-9 ,(+)-Dihydrocarvone
-47188,Sweet,Warm, 5948-04-9 ,(+)-Dihydrocarvone
+47187,Sweet,Minty,5948-04-9,(+)-Dihydrocarvone
+47188,Sweet,Warm,5948-04-9,(+)-Dihydrocarvone
 47189,Sweet,Sweet,5989-33-3,Linalyl oxide
 47190,Sweet,Lemon,138-86-3,Limonene
 47191,Sweet,Sweet,6032-29-7,2-Pentanol
@@ -49965,7 +49965,7 @@ Ser. No.,Primary Odor,Sub Odor,CAS Number,Chemical Name
 49963,Terpenes/ Pine/ Lemon,Grassy,5435-64-3,"3,5,5-Trimethylhexanal"
 49964,Terpenes/ Pine/ Lemon,Grassy,5454-28-4,Butyl heptanoate
 49965,Terpenes/ Pine/ Lemon,Sweet,5471-51-2,4-(4-Hydroxyphenyl)-2-butanone
-49966,Terpenes/ Pine/ Lemon,Minty, 5948-04-9 ,(+)-Dihydrocarvone
+49966,Terpenes/ Pine/ Lemon,Minty,5948-04-9,(+)-Dihydrocarvone
 49967,Terpenes/ Pine/ Lemon,Sweet,5989-33-3,Linalyl oxide
 49968,Terpenes/ Pine/ Lemon,Lemon,138-86-3,Limonene
 49969,Terpenes/ Pine/ Lemon,Terpenic,138-86-3,Limonene
@@ -52100,7 +52100,7 @@ Ser. No.,Primary Odor,Sub Odor,CAS Number,Chemical Name
 52098,Vegetation,Seedy,5471-51-2,4-(4-Hydroxyphenyl)-2-butanone
 52099,Vegetation,Hyacinth,5694-72-4,Phenylacetaldehyde glyceryl acetal
 52100,Vegetation,Leafy,5694-72-4,Phenylacetaldehyde glyceryl acetal
-52101,Vegetation,Herbal, 5948-04-9 ,(+)-Dihydrocarvone
+52101,Vegetation,Herbal,5948-04-9,(+)-Dihydrocarvone
 52102,Vegetation,Herbal,138-86-3,Limonene
 52103,Vegetation,Herbal,6259-76-3,Hexyl salicylate
 52104,Vegetation,Herbal,6378-65-0,Hexyl hexanoate
