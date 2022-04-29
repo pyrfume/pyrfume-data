@@ -1,0 +1,18 @@
+# Manifest for OlfactionBase dataset
+[source]
+doi = "https://doi.org/10.1093/nar/gkab763"
+title = "OlfactionBase: a repository to explore odors, odorants, olfactory receptors and odorant–receptor interactions."
+authors = "A.Sharma, B. K. Saha, R. Kumar, P. K. Varadwaj"
+extra = "Originally compiled by Sharma et al. 2021 and organized as OlfactionBase for public use; Pyrfume developers make no claims concerning copyright"
+
+[raw]
+raw/*.xlsx = "Odor data as initially downloaded from OlfactionBase, each file corresponds to one of 106 primary odors."
+ordors.csv = "Full dataset of odor descriptors, compliled from all files in raw/."
+odorants.csv = "Description of all odorants in OlfactionBase, scraped from the website."
+odorless.csv = "Description of all odorless chemicals in OlfactionBase, scraped from the website."
+LICENSE = "2022 Copyright OlfactionBase. All Rights Reserved."
+
+[processed]
+main.py = "Processing workflow"
+molecules.csv = "Information about odorant molecules used"
+behavior.csv = "Odor descriptors for each molecule (odorants and odorless chemicals)"
