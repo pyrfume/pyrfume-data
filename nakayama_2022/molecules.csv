@@ -1,0 +1,21 @@
+CID,MolecularWeight,IsomericSMILES,IUPACName,name
+240,106.12,C1=CC=C(C=C1)C=O,benzaldehyde,benzaldehyde
+264,88.11,CCCC(=O)O,butanoic acid,butyric acid
+1032,74.08,CCC(=O)O,propanoic acid,propionic acid
+6590,88.11,CC(C)C(=O)O,2-methylpropanoic acid,isobutyric acid
+7755,116.16,CCC(C)CC(=O)O,3-methylpentanoic acid,3-methylvaleric acid
+7802,114.19,CCCCC(=O)CC,heptan-3-one,3-heptanone
+7991,102.13,CCCCC(=O)O,pentanoic acid,valeric acid
+8034,114.19,CC(C)CCC(=O)C,5-methylhexan-2-one,5-methyl-2-hexanone
+8051,114.19,CCCCCC(=O)C,heptan-2-one,2-heptanone
+8314,102.13,CCC(C)C(=O)O,2-methylbutanoic acid,2-methylbutanoic acid
+8892,116.16,CCCCCC(=O)O,hexanoic acid,hexanoic acid
+10430,102.13,CC(C)CC(=O)O,3-methylbutanoic acid,isovaleric acid
+11684,116.16,CCC(C)(C)C(=O)O,"2,2-dimethylbutanoic acid","2,2-dimethylbutyric acid"
+12587,116.16,CC(C)CCC(=O)O,4-methylpentanoic acid,4-methylpentanoic acid
+14057,116.16,CC(C)(C)CC(=O)O,"3,3-dimethylbutanoic acid","3,3-dimethylbutyric acid"
+18840,114.14,C1CCC(C1)C(=O)O,cyclopentanecarboxylic acid,cyclopentanecarboxylic acid
+82227,136.23,CC1=CC[C@@H]2C[C@H]1C2(C)C,"(1R,5R)-2,6,6-trimethylbicyclo[3.1.1]hept-2-ene",(+)-alpha-pinene
+637511,132.16,C1=CC=C(C=C1)/C=C/C=O,(E)-3-phenylprop-2-enal,cinnamaldehyde
+17750155,204.27,C1CN(CC1C(=O)N)CC2=CC=CC=C2,1-benzylpyrrolidine-3-carboxamide,115687-29-1
+51358282,171.20,C1=CC2=C(C=C1N)NC=C2CC#N,2-(6-amino-1H-indol-3-yl)acetonitrile,2-(6-amino-1h-indol-3-yl)acetonitrile
