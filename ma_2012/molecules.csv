@@ -145,7 +145,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 62592,186.29,CCCCCCCOC(=O)CCC,heptyl butanoate,heptyl butyrate
 62725,141.24,CC(C)CC1=NC=CS1,"2-(2-methylpropyl)-1,3-thiazole",2-isobutylthiazole
 64805,192.21,CC(CC1=CC2=C(C=C1)OCO2)C=O,"3-(1,3-benzodioxol-5-yl)-2-methylpropanal",1205-17-0
-64832,190.28,CC(C)(C)C1=CC=C(C=C1)CCC=O,3-(4-tert-butylphenyl)propanal,bourgeonal
+64832,190.28,CC(C)(C)C1=CC=C(C=C1)CCC=O,3-(4-tert-butylphenyl)propanal,3-(4-tert-butylphenyl)propanal
 65046,118.16,C(#N)S.C(=N)(N)N,guanidine;thiocyanic acid,guanidine thiocyanate
 65340,189.64,C1=CC(=C(C=C1CCN)O)O.Cl,"4-(2-aminoethyl)benzene-1,2-diol;hydrochloride",dopamine hydrochloride
 67652,196.67,C1=CC=C2C(=C1)C(=CN2)CCN.Cl,2-(1H-indol-3-yl)ethanamine;hydrochloride,tryptamine hydrochloride
