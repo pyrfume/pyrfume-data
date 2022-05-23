@@ -3,7 +3,7 @@
 doi = " 10.1073/pnas.1117491109"
 title = "Distributed representation of chemical features and tunotopic organization of glomeruli in the mouse olfactory bulb"
 authors = "L. Ma, Q. Qiu, S. Gradwohl, A. Scott, E. Q. Yu, R. Alexander, W. Wiegraebe, C. R. Yu"
-extra = ""
+extra = "5 in-lab odor abbreviatons (ALBE, HXA, FO, HXM, HPL) in the deltaF/F data are not listed in the published table of odorants used, so there is no way to identify these 5 odorants and they have been dropped from the processed output files."
 
 [raw]
 sd01.xlsx = "Supplementary data file 1. Contains odor names, their functional group, and their ability to elicit response from the dorsal olfactory bulb. Odors used to map spatial representation of chemical features were listed with their odor ID and chemical structures."
