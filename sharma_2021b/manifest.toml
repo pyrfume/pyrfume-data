@@ -7,7 +7,7 @@ extra = "Originally compiled by Sharma et al. 2021 and organized as OlfactionBas
 
 [raw]
 raw/*.xlsx = "Odor data as initially downloaded from OlfactionBase, each file corresponds to one of 106 primary odors."
-ordors.csv = "Full dataset of odor descriptors, compliled from all files in raw/."
+odors.csv = "Full dataset of odor descriptors, compliled from all files in raw/."
 odorants.csv = "Description of all odorants in OlfactionBase, scraped from the website."
 odorless.csv = "Description of all odorless chemicals in OlfactionBase, scraped from the website."
 LICENSE = "2022 Copyright OlfactionBase. All Rights Reserved."
