@@ -10,7 +10,6 @@ odors.csv = "Full dataset of odor descriptors, compliled after downloading .xlsx
 odorants.csv = "Description of all odorants in OlfactionBase, scraped from the OlfactionBase website. Serial numbers are set by OlfactionBase."
 odorless.csv = "Description of all odorless chemicals in OlfactionBase, scraped from the OlfactionBase website. Serial numbers are set by OlfactionBase."
 OR-odorant_pairs.csv = "Details for 875 olfactory receptor-odorant interaction pairs for Humans and Mus musculus."
-soups.pkl = "Pickled html of 'Details' webpages parsed by BeautifulSoup for each odorant and odorless molecule. Prevents having to repeat the lengthy scrape more than once."
 LICENSE = "2022 Copyright OlfactionBase. All Rights Reserved."
 
 [processed]
