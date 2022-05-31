@@ -169,7 +169,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 2482,193.24,CCCCOC(=O)C1=CC=C(C=C1)N,butyl 4-aminobenzoate,butyl 4-aminobenzoate
 2513,138.00,C[As](=O)(C)O,dimethylarsinic acid,cacodylic acid
 2519,194.19,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,"1,3,7-trimethylpurine-2,6-dione",caffeine
-2529,476.5,CC(C)(CO)C(C(=O)NCCC(=O)[O-])O.CC(C)(CO)C(C(=O)NCCC(=O)[O-])O.[Ca+2],"calcium;3-[(2,4-dihydroxy-3,3-dimethylbutanoyl)amino]propanoate",calcium dl-pantothenate
+2529,476.5,CC(C)(CO)C(C(=O)NCCC(=O)[O-])O.CC(C)(CO)C(C(=O)NCCC(=O)[O-])O.[Ca+2],"calcium;3-[(2,4-dihydroxy-3,3-dimethylbutanoyl)amino]propanoate",63409-48-3
 2537,152.23,CC1(C2CCC1(C(=O)C2)C)C,"1,7,7-trimethylbicyclo[2.2.1]heptan-2-one",camphor
 2551,147.20,C[N+](C)(C)CCOC(=O)N,2-carbamoyloxyethyl(trimethyl)azanium,carbamylcholine
 2566,221.25,CC1(CC2=C(O1)C(=CC=C2)OC(=O)NC)C,"(2,2-dimethyl-3H-1-benzofuran-7-yl) N-methylcarbamate",carbofuran
@@ -1371,7 +1371,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 17898,124.14,CC1=NC=CN=C1OC,2-methoxy-3-methylpyrazine,2-methoxy-3-methylpyrazine
 18064,126.20,CSS(=O)(=O)C,methylsulfonylsulfanylmethane,s-methyl methanethiosulfonate
 18352,167.12,[C@@H]([C@H](C(=O)O)O)(C(=O)O)O.N,"azane;(2R,3R)-2,3-dihydroxybutanedioic acid",ammonium bitartrate
-18458,114.14,CCC=C(C)C(=O)O,2-methylpent-2-enoic acid,2-methylpent-2-enoic acid
+18458,114.14,CCC=C(C)C(=O)O,2-methylpent-2-enoic acid,3142-72-1
 18467,110.11,COC1=NC=CN=C1,2-methoxypyrazine,2-methoxypyrazine
 18522,100.12,CC1C(=O)CCO1,2-methyloxolan-3-one,2-methyltetrahydrofuran-3-one
 18554,96.13,CCC1=CC=CO1,2-ethylfuran,2-ethylfuran
@@ -1447,7 +1447,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 21596,186.29,CCCCCCC(=O)OCCCC,butyl heptanoate,butyl heptanoate
 21606,186.29,CCCCCCCC(=O)OC(C)C,propan-2-yl octanoate,isopropyl octanoate
 21625,134.20,CCOC(=O)CCS,ethyl 3-sulfanylpropanoate,ethyl 3-mercaptopropionate
-21630,290.4,CCCCC(CC)COC(=O)C=CC1=CC=C(C=C1)OC,2-ethylhexyl 3-(4-methoxyphenyl)prop-2-enoate,octyl methoxycinnamate
+21630,290.4,CCCCC(CC)COC(=O)C=CC1=CC=C(C=C1)OC,2-ethylhexyl 3-(4-methoxyphenyl)prop-2-enoate,5466-77-3
 21648,164.20,CC(=O)CCC1=CC=C(C=C1)O,4-(4-hydroxyphenyl)butan-2-one,4-(4-hydroxyphenyl)-2-butanone
 21828,120.2,CC1SCCS1,"2-methyl-1,3-dithiolane","2-methyl-1,3-dithiolane"
 21895,194.23,C1C(OC(O1)CC2=CC=CC=C2)CO,"(2-benzyl-1,3-dioxolan-4-yl)methanol",phenylacetaldehyde glyceryl acetal
@@ -1553,7 +1553,6 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 24572,347,O[As](=O)([O-])[O-].[Pb+2],hydrogen arsorate;lead(2+),schultenite
 24580,151.00,[O-]S(=O)(=O)[O-].[Mn+2],manganese(2+);sulfate,manganese sulfate
 24583,142.24,CCCCCCC(C)C=O,2-methyloctanal,2-methyloctanal
-24585,154.25,CC1CCC(C(C1)O)C(=C)C,5-methyl-2-prop-1-en-2-ylcyclohexan-1-ol,isopulegol
 24585,154.25,CC1CCC(C(C1)O)C(=C)C,5-methyl-2-prop-1-en-2-ylcyclohexan-1-ol,isopulegol
 24586,154.76,[O-]S(=O)(=O)[O-].[Ni+2],nickel(2+);sulfate,nickel sulfate
 24587,375.20,[O-][Mn](=O)(=O)=O.[O-][Mn](=O)(=O)=O.[Ba+2],barium(2+);dipermanganate,barium permanganate
@@ -4521,7 +4520,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6914062,156.22,CC/C=C\CCCC(=O)OC,methyl (Z)-oct-5-enoate,methyl (z)-oct-5-enoate
 6917698,465.9,CO[C@H]1CN(CC[C@H]1NC(=O)C2=CC(=C(C=C2OC)N)Cl)CCCOC3=CC=C(C=C3)F,"4-amino-5-chloro-N-[(3S,4R)-1-[3-(4-fluorophenoxy)propyl]-3-methoxypiperidin-4-yl]-2-methoxybenzamide",cisapride
 6918391,204.35,CC(=C)[C@@H]1CC[C@@]([C@@H](C1)C(=C)C)(C)C=C,"(1S,2S,4R)-1-ethenyl-1-methyl-2,4-bis(prop-1-en-2-yl)cyclohexane",beta-elemene
-6923516,204.22,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)[O-])[NH3+],(2S)-2-azaniumyl-3-(1H-indol-3-yl)propanoate,3rzi
+6923516,204.22,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)[O-])[NH3+],(2S)-2-azaniumyl-3-(1H-indol-3-yl)propanoate,(2s)-2-azaniumyl-3-(1h-indol-3-yl)propanoate
 6931725,160.28,CCC[C@H]1CCO[C@H](S1)C,"(2R,4S)-2-methyl-4-propyl-1,3-oxathiane","(2r,4s)-2-methyl-4-propyl-1,3-oxathiane"
 6931726,160.28,CCC[C@@H]1CCO[C@H](S1)C,"(2R,4R)-2-methyl-4-propyl-1,3-oxathiane","trans-2-methyl-4-propyl-1,3-oxathiane"
 6950274,196.29,CC(=O)O[C@H]1C[C@H]2CC[C@@]1(C2(C)C)C,"[(1R,2S,4R)-1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl] acetate",20347-65-3
@@ -4671,7 +4670,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 11859396,335.4,C1C[NH+]2CC3=CCO[C@H]4CC(=O)N5[C@H]6[C@H]4[C@H]3C[C@H]2[C@@]61C7=CC=CC=C75,"(4aR,5aS,8aS,13aS,15aS,15bR)-2,4a,5,5a,6,7,8,13a,15,15a,15b,16-dodecahydro4,6-methanoindolo[3,2,1-ij]oxepino[2,3,4-de]pyrrolo[2,3-h]quinolin-6-ium-14-one",strychnine(1+)
 11870244,152.23,CC1([C@H]2CC[C@@]3([C@@H]1C2)CO3)C,"(1R,2R,5S)-6,6-dimethylspiro[bicyclo[3.1.1]heptane-2,2'-oxirane]",32162-29-1
 11949689,422.5,COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O.OS(=O)(=O)O,"(R)-[(2S,4S,5R)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxyquinolin-4-yl)methanol;sulfuric acid",quinine sulfate
-11954225,368.10,[H+].C(C(C(=O)[O-])[S-])C(=O)[O-].[Na+].[Au+],sodium;gold(1+);hydron;2-sulfidobutanedioate,sodium;gold(1+);hydron;2-sulfidobutanedioate
+11954225,368.10,[H+].C(C(C(=O)[O-])[S-])C(=O)[O-].[Na+].[Au+],sodium;gold(1+);hydron;2-sulfidobutanedioate,12244-57-4
 11959971,160.17,C1C2C1C(=O)OC3=CC=CC=C23,"1a,7b-dihydro-1H-cyclopropa[c]chromen-2-one",schembl14135291
 11962784,166.26,C/C(=C\C=O)/CCC1CC1(C)C,"(E)-5-(2,2-dimethylcyclopropyl)-3-methylpent-2-enal",schembl18338905
 11969488,182.26,CC/C=C/CCC1CCCC(=O)O1,6-[(E)-hex-3-enyl]oxan-2-one,jasmolactone
@@ -4901,7 +4900,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 23670896,420.4,CCCOC1=NN(C(=O)N1C)/C(=N/S(=O)(=O)C2=CC=CC=C2C(=O)OC)/[O-].[Na+],"sodium;(1Z)-N-(2-methoxycarbonylphenyl)sulfonyl-4-methyl-5-oxo-3-propoxy-1,2,4-triazole-1-carboximidate",procarbazone sodium
 23671663,128.17,CC(C(=O)[O-])O.[K+],potassium;2-hydroxypropanoate,potassium lactate
 23672064,119.977,OP(=O)(O)[O-].[Na+],sodium;dihydrogen phosphate,monosodium phosphate
-23672308,169.11,C(CC(=O)O)[C@@H](C(=O)[O-])N.[Na+],sodium;(2S)-2-amino-5-hydroxy-5-oxopentanoate,sodium l-glutamate
+23672308,169.11,C(CC(=O)O)[C@@H](C(=O)[O-])N.[Na+],sodium;(2S)-2-amino-5-hydroxy-5-oxopentanoate,142-47-2
 23673461,167.00,[O-]Br(=O)=O.[K+],potassium;bromate,potassium bromate
 23673663,142.11,C(C(=O)C(=O)[O-])S.[Na+],sodium;2-oxo-3-sulfanylpropanoate,sodium mercaptopyruvate
 23675763,379.8,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)[O-].[Na+],sodium;2-[1-(4-chlorobenzoyl)-5-methoxy-2-methylindol-3-yl]acetate,indomethacin sodium
@@ -5062,7 +5061,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 73045098,222.37,CC1CC(=O)CC2C1(CC(CC2)C(C)C)C,"4,4a-dimethyl-6-propan-2-yl-1,3,4,5,6,7,8,8a-octahydronaphthalen-2-one","4,4a-dimethyl-6-propan-2-yl-1,3,4,5,6,7,8,8a-octahydronaphthalen-2-one"
 73415808,667.87,[C@@H]([C@H](C(=O)[O-])[O-])(C(=O)[O-])[O-].[C@@H]([C@H](C(=O)[O-])[O-])(C(=O)[O-])[O-].O.O.O.[K+].[K+].[Sb+3].[Sb+3],"dipotassium;antimony(3+);(2R,3R)-2,3-dioxidobutanedioate;trihydrate",tartox
 73456809,185.33,CCC1C(=NC(S1)C(C)CC)C,"2-butan-2-yl-5-ethyl-4-methyl-2,5-dihydro-1,3-thiazole","5-ethyl-2,5-dihydro-4-methyl-2-(1-methylpropyl)-thiazole"
-73557423,150.74,C(=O)O.C(=O)O.[Ni],formic acid;nickel,15843-02-4
+73557423,150.74,C(=O)O.C(=O)O.[Ni],formic acid;nickel,"formic acid, nickel salt"
 73995022,2062.0,CC(C)CC(C(=NC(CCC(=N)O)C(=NC(CC(=O)O)C(=NC(CCCCN)C(=O)O)O)O)O)N=C(C(CCC(=O)O)N=C(C(CC(=O)O)N=C(C(CCC(=O)O)N=C(C(C(C)O)N=C(C(CCC(=N)O)N=C(C(CCC(=N)O)N=C(C(CCC(=N)O)N=C(C(CCC(=O)O)N=C(C(CCC(=O)O)N=C(C(COP(=O)(O)O)N=C(C(CCC(=N)O)N=C(C(CC1=CC=CC=C1)N)O)O)O)O)O)O)O)O)O)O)O)O,"6-amino-2-[[2-[[2-[[2-[[2-[[2-[[2-[[2-[[2-[[2-[[2-[[2-[[2-[[2-[[2-[(2-amino-1-hydroxy-3-phenylpropylidene)amino]-1,5-dihydroxy-5-iminopentylidene]amino]-1-hydroxy-3-phosphonooxypropylidene]amino]-4-carboxy-1-hydroxybutylidene]amino]-4-carboxy-1-hydroxybutylidene]amino]-1,5-dihydroxy-5-iminopentylidene]amino]-1,5-dihydroxy-5-iminopentylidene]amino]-1,5-dihydroxy-5-iminopentylidene]amino]-1,3-dihydroxybutylidene]amino]-4-carboxy-1-hydroxybutylidene]amino]-3-carboxy-1-hydroxypropylidene]amino]-4-carboxy-1-hydroxybutylidene]amino]-1-hydroxy-4-methylpentylidene]amino]-1,5-dihydroxy-5-iminopentylidene]amino]-3-carboxy-1-hydroxypropylidene]amino]hexanoic acid",casein
 76319594,204.35,CC1=CC[C@@H]2C3[C@H]1C2(CCC3C(C)C)C,"(2R,6R)-1,3-dimethyl-8-propan-2-yltricyclo[4.4.0.02,7]dec-3-ene",(-)-alpha-copaene
 86064872,152.23,CC1=CCC2CC1(C2(C)C)O,"2,6,6-trimethylbicyclo[3.1.1]hept-2-en-1-ol",pinenol
