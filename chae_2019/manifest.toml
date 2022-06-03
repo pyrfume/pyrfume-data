@@ -18,35 +18,20 @@ authors = "H Chae, DR Kepple, WG Bast, VN Murthy, AA Koulakov, DF Albeanu"
 
 
 ./mosaic_representations/MT_cell/tufted_cells
-	./th_field_of_view_1.mat = "cellular data, for the 55 odorant panel; @ HIGH concentration
+	./th_field_of_view_1.mat = "cellular data, for the 55 odorant panel; @ HIGH concentration"
 
 
 [processed]
 
 ./main.py = "Processing workflow"
 
-./pyrfumeData/Glomerular Data
+./pyrfumeData/behavior_glom.csv = "dF/F responses for all glomerular data, in long format (all subjects & conditions)
 
-	left_animal_#N_glom.csv = "glomerular data from individual subjects (N = subject number), from left bulb"
-	right_animal_#N_glom.csv = "glomerular data from individual subjects (N = subject number), from right bulb"
-	molecules_glom_57.csv = "molecules files used for all glomerular imaging experiments in this directory" 
-	
+./pyrfumeData/behavior_mitral33.csv = "dF/F responses for all mitral cells in the 33 odorant panel experiments; long format
+"
 
-./pyrfumeData/Mitral Data (33 odorant panel)
+./pyrfumeData/behavior_mitral55.csv = "dF/F responses for all mitral cells in the 55 odorant panel experiments; long format"
 
-	mc_field_of_view_N_33.csv = "mitral cell data from distinct FOVS (N = FOV#)"
-	molecules_mitral_33.csv = "molecules files used for all mitral cell imaging experiments in this directory"
+./pyrfumeData/behavior_tufted.csv = "dF/F responses for all tufted cells (55 odorant panel); long format
 
-./pyrfumeData/Mitral Data (55 odorant panel)
-
-	mh_field_of_view_N_55.csv = "mitral cell data from distinct FOVS (N = FOV#); HIGH concentration of odorant"
-	ml_field_of_view_N_55.csv = "mitral cell data from distinct FOVS (N = FOV#); LOW concentration of odorant"
-	molecules_mitral_55.csv =  "molecules files used for all mitral cell imaging experiments in this directory"
-
-./pyrfumeData/Tufted Data (55 odorant panel)
-
-	th_field_of_view_N_55.csv = "tufted cell data from distinct FOVS (N = FOV#); @ HIGH concentration
-	tl_field_of_view_N_55.csv = "tufted cell data from distinct FOVS (N = FOV#); @ LOW concentration
-	molecules_tufted_55.csv = "molecules files used for all tufted cell imaging experiments in this directory
-
-
+./pyrfumeData/molecules.csv = "merged list of molecules used across all experiments (glom, mitral33, mitral55, tufted)"
