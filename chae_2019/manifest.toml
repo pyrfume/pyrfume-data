@@ -25,13 +25,13 @@ authors = "H Chae, DR Kepple, WG Bast, VN Murthy, AA Koulakov, DF Albeanu"
 
 ./main.py = "Processing workflow"
 
-./pyrfumeData/behavior_glom.csv = "dF/F responses for all glomerular data, in long format (all subjects & conditions)
+./pyrfumeData/behavior_1.csv = "dF/F responses for all glomerular data, in long format (all subjects & conditions)
 
-./pyrfumeData/behavior_mitral33.csv = "dF/F responses for all mitral cells in the 33 odorant panel experiments; long format
+./pyrfumeData/behavior_2.csv = "dF/F responses for all mitral cells in the 33 odorant panel experiments; long format
 "
 
-./pyrfumeData/behavior_mitral55.csv = "dF/F responses for all mitral cells in the 55 odorant panel experiments; long format"
+./pyrfumeData/behavior_3.csv = "dF/F responses for all mitral cells in the 55 odorant panel experiments; long format"
 
-./pyrfumeData/behavior_tufted.csv = "dF/F responses for all tufted cells (55 odorant panel); long format
+./pyrfumeData/behavior_4.csv = "dF/F responses for all tufted cells (55 odorant panel); long format
 
 ./pyrfumeData/molecules.csv = "merged list of molecules used across all experiments (glom, mitral33, mitral55, tufted)"

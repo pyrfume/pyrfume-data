@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
 
 import os
 import scipy.io as sio
@@ -33,13 +31,11 @@ from collections import OrderedDict
 
 # First grab the CIDs for the glomerular data (55 odorants)
 
-# In[ ]:
-
 
 saved_path = os.getcwd()
 root = '/Users/jcastro/Dropbox/CnG/Chae et al 2019/' # set as needed
-glom_data_path = 'mosaic_representations/glomerular_data/glomerular_responses/glomerular_responses__main'
-mol_names_path = root + 'mosaic_representations/supplementary table 1 odors with cas and cid.xlsx'
+glom_data_path = 'raw/glomerular_data/glomerular_responses/glomerular_responses__main'
+mol_names_path = root + 'raw/supplementary table 1 odors with cas and cid.xlsx'
 
 os.chdir(root + glom_data_path)
 
@@ -55,8 +51,6 @@ os.chdir(saved_path)
 
 
 # Grab all the dF/F data for the glomerular experiments, and assemble into long format
-
-# In[ ]:
 
 
 # walk through the directories and grab the glomerular response data
@@ -92,7 +86,6 @@ df_cat_glom.shape
 
 # Quick and dirty function to extract data by animal and hemibulb (the orig. format)
 
-# In[ ]:
 
 
 def extractGlomData(df,LorR,animal_num):
@@ -113,12 +106,11 @@ df_out.head()
 # The 3 datasets are all sitting in the same directory, so we'll grab each of them in the same loop and 
 # save them as dicts. 
 
-# In[ ]:
 
 
 saved_path = os.getcwd()
 root = '/Users/jcastro/Dropbox/CnG/Chae et al 2019/' # set as needed
-mitral = 'mosaic_representations/MT_cell/'
+mitral = 'raw/MT_cell/'
 
 #mitral_cells/'
 os.chdir(root + mitral)
@@ -155,14 +147,11 @@ os.chdir(saved_path)
 
 # Generate the list of Mitral55 odorants:
 
-# In[ ]:
 
 
 mitral55_mol_list
 molecules_55 = odorants.get_cids(list(mitral55_mol_list['odor name']))
 
-
-# In[ ]:
 
 
 # Fix the pathological cases where pyrfume didn't find a CID: 
@@ -180,14 +169,10 @@ mitral55_cids = list(molecules_55.values())
 
 # Generate the list of Mitral33 odorants: 
 
-# In[ ]:
-
 
 mitral33_mol_list
 molecules_33 = odorants.get_cids(list(mitral33_mol_list['odor name']))
 
-
-# In[ ]:
 
 
 # Fix the pathological cases where pyrfume didn't find a CID: 
@@ -202,8 +187,6 @@ mitral33_cids = list(molecules_33.values())
 # ### Tidy the 'mitral 55', 'mitral 33', and 'tufted' data: 
 
 # Mitral 55 data
-
-# In[ ]:
 
 
 keys = mitral_55.keys()
@@ -235,7 +218,6 @@ df_cat_mitral55.sort_values(by=['CIDs', 'FOV', 'cell'], inplace=True)
 
 # Mitral 33 data
 
-# In[ ]:
 
 
 keys = mitral_33.keys()
@@ -265,7 +247,7 @@ df_cat_mitral33.sort_values(by=['CIDs', 'FOV', 'cell'], inplace=True)
 
 # Tufted data
 
-# In[ ]:
+
 
 
 #Tufted data: cellular deltaF/F rsponses, organized into 55 (odorants) x N (cells) matrices. 
@@ -300,7 +282,7 @@ df_cat_tufted.sort_values(by=['CIDs', 'FOV', 'High or Low Conc.', 'cell'], inpla
 
 # ### Merging Molecule lists
 
-# In[ ]:
+
 
 
 # generate merged molecule lists:
@@ -310,14 +292,14 @@ mitral33_cids = list(molecules_33.values())
 all_mols = list(set(glom_cids + mitral55_cids + mitral33_cids))
 
 
-# In[ ]:
+
 
 
 # fetch IUPAC, SMILES, etc. info
 mols = odorants.from_cids(all_mols)
 
 
-# In[ ]:
+
 
 
 mols_df = pd.DataFrame(mols) # Still need to fix 'coffee'
@@ -328,7 +310,7 @@ mols_df.head(6)
 # doesn't actually have a CID. So we need to adjust the row w/ that
 # CID entry (row # 36): 
 
-# In[ ]:
+
 
 
 mols_df.iloc[36] = [-1, '', '', '', 'coffee']
@@ -338,7 +320,7 @@ mols_df.sort_values(by='CID', inplace=True)
 
 # While we're attending to this, let's also fix the CID entries from the glomerular data that corresponde to coffee, and have the incorrect dummy value of 123456. The correct CID should be -1:
 
-# In[ ]:
+
 
 
 coffee_idx = (df_cat_glom['CIDs'] == 123456)
@@ -348,13 +330,12 @@ df_cat_glom.sort_values(by=['CIDs', 'animal', 'glom'], inplace=True)
 
 # ### Write behavior and molecule files to disk:
 
-# In[ ]:
 
 
-df_cat_mitral55.to_csv('behavior_mitral55.csv', index=False)
-df_cat_mitral33.to_csv('behavior_mitral33.csv', index=False)
-df_cat_tufted.to_csv('behavior_tufted.csv', index=False)
-df_cat_glom.to_csv('behavior_glom.csv', index=False)
+df_cat_mitral55.to_csv('behavior_3.csv', index=False)
+df_cat_mitral33.to_csv('behavior_2.csv', index=False)
+df_cat_tufted.to_csv('behavior_4.csv', index=False)
+df_cat_glom.to_csv('behavior_1.csv', index=False)
 
 mols_df.to_csv('molecules.csv',index=False)
 
