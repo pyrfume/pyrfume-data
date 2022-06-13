@@ -1,735 +1,718 @@
-CID,Odors,Descriptors
-107,['balsamic'],balsamic
-176,['sour'],sour
-177,"['pungent', 'ether']",pungent;ether
-179,"['butter', 'cream']",butter;cream
-240,"['almond', 'burnt sugar']",almond;burnt sugar
-243,['urine'],urine
-244,"['sweet', 'flower']",sweet;flower
-261,"['pungent', 'green']",pungent;green
-262,"['fruit', 'onion']",fruit;onion
-263,"['medicine', 'fruit']",medicine;fruit
-264,"['rancid', 'cheese', 'sweat']",rancid;cheese;sweat
-323,"['green', 'sweet']",green;sweet
-325,"['wood', 'herb']",wood;herb
-326,"['acid', 'sharp']",acid;sharp
-332,"['clove', 'curry']",clove;curry
-335,['phenol'],phenol
-342,"['fecal', 'plastic']",fecal;plastic
-356,['alkane'],alkane
-379,"['sweat', 'cheese']",sweat;cheese
-454,"['fat', 'soap', 'lemon', 'green']",fat;soap;lemon;green
-460,"['smoke', 'sweet', 'medicine']",smoke;sweet;medicine
-527,"['solvent', 'pungent']",solvent;pungent
-650,['butter'],butter
-679,['garlic'],garlic
-702,['sweet'],sweet
-798,"['mothball', 'burnt']",mothball;burnt
-878,"['sulfur', 'gasoline', 'garlic']",sulfur;gasoline;garlic
-931,['tar'],tar
-957,"['chemical', 'metal', 'burnt']",chemical;metal;burnt
-984,['cardboard'],cardboard
-996,['phenol'],phenol
-998,"['hawthorne', 'honey', 'sweet']",hawthorne;honey;sweet
-999,"['honey', 'flower']",honey;flower
-1031,"['alcohol', 'pungent']",alcohol;pungent
-1032,"['pungent', 'rancid', 'soy']",pungent;rancid;soy
-1049,['rancid'],rancid
-1068,"['cabbage', 'sulfur', 'gasoline']",cabbage;sulfur;gasoline
-1127,['cabbage'],cabbage
-1136,['sulfur'],sulfur
-1140,['paint'],paint
-1146,['fish'],fish
-1183,['vanilla'],vanilla
-2214,['vanilla'],vanilla
-2345,"['balsamic', 'oil', 'herb']",balsamic;oil;herb
-2537,['camphor'],camphor
-2682,"['wax', 'flower']",wax;flower
-2758,"['mint', 'sweet']",mint;sweet
-2879,"['medicine', 'phenol', 'smoke']",medicine;phenol;smoke
-2969,"['rancid', 'fat']",rancid;fat
-3314,"['clove', 'honey']",clove;honey
-3893,['metal'],metal
-4133,['peppermint'],peppermint
-4276,"['spice', 'warm', 'balsamic']",spice;warm;balsamic
-5144,"['spice', 'sweet', 'warm']",spice;sweet;warm
-5971,"['sulfur', 'pungent', 'garlic']",sulfur;pungent;garlic
-6054,"['honey', 'spice', 'rose', 'lilac']",honey;spice;rose;lilac
-6184,"['grass', 'tallow', 'fat']",grass;tallow;fat
-6213,"['sulfur', 'burnt']",sulfur;burnt
-6276,['balsamic'],balsamic
-6549,"['flower', 'lavender']",flower;lavender
-6560,"['wine', 'solvent', 'bitter']",wine;solvent;bitter
-6561,"['pungent', 'malt', 'green']",pungent;malt;green
-6568,['wine'],wine
-6569,['ether'],ether
-6590,"['rancid', 'butter', 'cheese']",rancid;butter;cheese
-6616,['camphor'],camphor
-6631,"['pine', 'citrus']",pine;citrus
-6654,"['pine', 'turpentine']",pine;turpentine
-6736,"['mothball', 'fecal']",mothball;fecal
-6920,['sulfur'],sulfur
-6986,['mint'],mint
-6987,"['mint', 'fresh']",mint;fresh
-6987,"['sweet', 'fruit']",sweet;fruit
-7041,"['medicine', 'phenol', 'smoke']",medicine;phenol;smoke
-7127,"['clove', 'spice']",clove;spice
-7150,"['prune', 'lettuce', 'herb', 'sweet']",prune;lettuce;herb;sweet
-7165,"['camomile', 'flower', 'celery', 'fruit']",camomile;flower;celery;fruit
-7194,"['flower', 'honey']",flower;honey
-7222,"['gasoline', 'rubber']",gasoline;rubber
-7237,['geranium'],geranium
-7247,['plastic'],plastic
-7269,"['rancid', 'sweet']",rancid;sweet
-7284,"['cocoa', 'almond']",cocoa;almond
-7288,['ether'],ether
-7302,"['caramel', 'sweet']",caramel;sweet
-7335,"['green', 'spearmint']",green;spearmint
-7342,"['sweet', 'rubber']",sweet;rubber
-7344,['fruit'],fruit
-7361,['burnt'],burnt
-7362,"['bread', 'almond', 'sweet']",bread;almond;sweet
-7363,"['coffee', 'roast']",coffee;roast
-7364,['sulfur'],sulfur
-7410,"['must', 'flower', 'almond']",must;flower;almond
-7438,"['fresh', 'spearmint', 'caraway']",fresh;spearmint;caraway
-7439,"['mint', 'basil', 'fennel']",mint;basil;fennel
-7460,"['turpentine', 'mint', 'spice']",turpentine;mint;spice
-7461,"['gasoline', 'turpentine']",gasoline;turpentine
-7462,['lemon'],lemon
-7463,"['solvent', 'gasoline', 'citrus']",solvent;gasoline;citrus
-7501,"['balsamic', 'gasoline']",balsamic;gasoline
-7505,['rancid'],rancid
-7523,['grass'],grass
-7590,"['fruit', 'sweet']",fruit;sweet
-7650,['plum'],plum
-7654,"['rose', 'honey', 'tobacco']",rose;honey;tobacco
-7704,['coconut'],coconut
-7710,"['coconut', 'peach']",coconut;peach
-7714,['apricot'],apricot
-7720,"['rose', 'green']",rose;green
-7738,['flower'],flower
-7742,"['nut', 'fat', 'fruit']",nut;fat;fruit
-7749,['fruit'],fruit
-7761,['apple'],apple
-7762,['apple'],apple
-7765,"['fruit', 'cream']",fruit;cream
-7770,"['pineapple', 'solvent']",pineapple;solvent
-7794,['fat'],fat
-7797,['fruit'],fruit
-7799,"['fruit', 'fat']",fruit;fat
-7800,['leaf'],leaf
-7803,['pineapple'],pineapple
-7824,"['fruit', 'fresh', 'sweet']",fruit;fresh;sweet
-7895,"['ether', 'fruit']",ether;fruit
-7929,['plastic'],plastic
-7938,"['roasted nut', 'cocoa', 'roast beef']",roasted nut;cocoa;roast beef
-7945,['fruit'],fruit
-7975,['sweat'],sweat
-7976,['popcorn'],popcorn
-7991,['sweat'],sweat
-8003,['alkane'],alkane
-8025,['pungent'],pungent
-8030,['garlic'],garlic
-8038,"['fruit', 'apple', 'banana']",fruit;apple;banana
-8048,['grape'],grape
-8050,['wine'],wine
-8051,['soap'],soap
-8058,['alkane'],alkane
-8063,"['almond', 'malt', 'pungent']",almond;malt;pungent
-8091,['orange'],orange
-8093,"['soap', 'gasoline']",soap;gasoline
-8103,"['resin', 'flower', 'green']",resin;flower;green
-8106,['sulfur'],sulfur
-8109,['fruit'],fruit
-8129,"['chemical', 'green']",chemical;green
-8130,"['fat', 'citrus', 'rancid']",fat;citrus;rancid
-8139,"['fat', 'coconut']",fat;coconut
-8141,['alkane'],alkane
-8158,"['green', 'fat']",green;fat
-8163,"['orange', 'fresh', 'green']",orange;fresh;green
-8167,"['orange', 'oil']",orange;oil
-8174,['fat'],fat
-8175,"['soap', 'orange peel', 'tallow']",soap;orange peel;tallow
-8180,['oil'],oil
-8182,['alkane'],alkane
-8184,['mandarin'],mandarin
-8186,"['oil', 'pungent', 'sweet']",oil;pungent;sweet
-8193,"['fat', 'wax']",fat;wax
-8194,"['lily', 'fat', 'citrus']",lily;fat;citrus
-8201,['fat'],fat
-8207,['must'],must
-8209,['coconut'],coconut
-8221,['oil'],oil
-8222,['alkane'],alkane
-8257,['herb'],herb
-8294,"['sweet', 'fruit']",sweet;fruit
-8314,"['cheese', 'sweat']",cheese;sweat
-8365,"['wintergreen', 'mint']",wintergreen;mint
-8369,['caramel'],caramel
-8500,['bitter almond'],bitter almond
-8635,"['honey', 'flower']",honey;flower
-8698,['balsamic'],balsamic
-8723,"['wine', 'onion']",wine;onion
-8748,['must'],must
-8785,"['fresh', 'boiled vegetable']",fresh;boiled vegetable
-8815,"['licorice', 'anise']",licorice;anise
-8835,"['fruit', 'sweet', 'rose']",fruit;sweet;rose
-8842,['rose'],rose
-8857,['pineapple'],pineapple
-8858,"['sweet', 'chemical']",sweet;chemical
-8892,['sweat'],sweat
-8900,['alkane'],alkane
-8907,['fat'],fat
-8908,"['fruit', 'herb']",fruit;herb
-8914,"['fat', 'green']",fat;green
-8918,"['sweet', 'fruit']",sweet;fruit
-9017,"['rose', 'dust']",rose;dust
-9862,"['pepper', 'mushroom', 'rubber']",pepper;mushroom;rubber
-9895,['mint'],mint
-10106,['spice'],spice
-10231,"['wood', 'spice']",wood;spice
-10248,"['spice', 'flower']",spice;flower
-10282,['herb'],herb
-10408,['fat'],fat
-10430,"['sweat', 'acid', 'rancid']",sweat;acid;rancid
-10448,"['sweet', 'potato']",sweet;potato
-10583,"['herb', 'wax', 'fresh']",herb;wax;fresh
-10748,"['balsamic', 'sweet']",balsamic;sweet
-10869,['metal'],metal
-10882,"['yeast', 'fruit']",yeast;fruit
-10890,['banana'],banana
-10934,"['rubber', 'mold']",rubber;mold
-10976,['mushroom'],mushroom
-11006,['alkane'],alkane
-11039,['flower'],flower
-11086,"['foxy', 'sweet']",foxy;sweet
-11126,['sulfur'],sulfur
-11142,"['mint', 'terpentine']",mint;turpentine
-11160,['apple'],apple
-11168,['sulfur'],sulfur
-11173,['herb'],herb
-11230,"['turpentine', 'nutmeg', 'must']",turpentine;nutmeg;must
-11251,['camphor'],camphor
-11265,['mint'],mint
-11387,['grass'],grass
-11428,['fruit'],fruit
-11463,"['pine', 'plastic']",pine;plastic
-11468,['must'],must
-11509,"['ether', 'grape']",ether;grape
-11517,['fruit'],fruit
-11520,['herb'],herb
-11527,"['moss', 'nut', 'mushroom']",moss;nut;mushroom
-11543,['pungent'],pungent
-11552,['malt'],malt
-11583,['ether'],ether
-11613,"['sulfur', 'pungent', 'green']",sulfur;pungent;green
-11635,['alkane'],alkane
-11747,"['cream', 'butter']",cream;butter
-12020,"['butter', 'pungent']",butter;pungent
-12038,"['flower', 'fruit', 'sweet', 'vanilla']",flower;fruit;sweet;vanilla
-12072,"['mint', 'spice']",mint;spice
-12097,"['almond', 'caramel', 'burnt sugar']",almond;caramel;burnt sugar
-12101,['must'],must
-12180,"['ether', 'fruit', 'sweet']",ether;fruit;sweet
-12209,['fruit'],fruit
-12230,"['sulfur', 'garlic']",sulfur;garlic
-12232,"['onion', 'cabbage', 'putrid']",onion;cabbage;putrid
-12293,['fruit'],fruit
-12294,['fruit'],fruit
-12327,"['cognac', 'coconut']",cognac;coconut
-12366,['wax'],wax
-12367,['cucumber'],cucumber
-12388,['alkane'],alkane
-12389,['alkane'],alkane
-12391,['alkane'],alkane
-12398,['alkane'],alkane
-12401,['alkane'],alkane
-12403,['alkane'],alkane
-12405,['alkane'],alkane
-12507,['sweet'],sweet
-12533,['oil'],oil
-12534,['alkane'],alkane
-12748,['roasted meat'],roasted meat
-12756,"['coumarin', 'sweet']",coumarin;sweet
-12777,['peach'],peach
-12810,['coconut'],coconut
-12813,"['peach', 'fat']",peach;fat
-12844,"['fruit', 'sweet']",fruit;sweet
-13187,"['hot milk', 'soap', 'green']",hot milk;soap;green
-13357,['apple'],apple
-13594,['pesticide'],pesticide
-13654,"['sweet', 'fruit']",sweet;fruit
-14079,"['nut', 'walnut', 'bread']",nut;walnut;bread
-14228,"['herb', 'green', 'oil']",herb;green;oil
-14257,['alkane'],alkane
-14286,['popcorn'],popcorn
-14505,['balsamic'],balsamic
-14529,"['citrus', 'must']",citrus;must
-14896,"['pine', 'resin', 'turpentine']",pine;resin;turpentine
-15289,"['green', 'vinyl']",green;vinyl
-15380,"['garlic', 'sulfur']",garlic;sulfur
-15394,"['fish', 'pungent']",fish;pungent
-15395,"['cooked vegetable', 'metal']",cooked vegetable;metal
-15406,['camphor'],camphor
-15600,['alkane'],alkane
-15606,['coconut'],coconut
-16237,['flower'],flower
-16441,['spice'],spice
-16666,['peppermint'],peppermint
-16724,['caraway'],caraway
-16800,['fat'],fat
-16821,"['sweet', 'fruit', 'flower']",sweet;fruit;flower
-16832,['fresh'],fresh
-16997,['spice'],spice
-17100,"['oil', 'anise', 'mint']",oil;anise;mint
-17525,['apple peel'],apple peel
-17697,['fresh'],fresh
-17739,['phenol'],phenol
-17868,"['wood', 'green', 'herb']",wood;green;herb
-18635,['cooked potato'],cooked potato
-18686,['fruit'],fruit
-18818,"['pepper', 'turpentine', 'wood']",pepper;turpentine;wood
-18827,['mushroom'],mushroom
-19244,['menthol'],menthol
-19309,['caramel'],caramel
-19310,"['sulfur', 'fish', 'cabbage']",sulfur;fish;cabbage
-19602,"['green bean', 'butter']",green bean;butter
-19844,"['caramel', 'butterscotch', 'vanilla']",caramel;butterscotch;vanilla
-20083,"['mushroom', 'fat']",mushroom;fat
-20748,"['fruit', 'ester']",fruit;ester
-20861,['sweet'],sweet
-20928,['green'],green
-20995,"['sweet', 'fruit']",sweet;fruit
-21108,['baked'],baked
-21648,['raspberry'],raspberry
-21828,['sulfur'],sulfur
-22201,"['nut', 'peanut butter', 'cocoa', 'meat']",nut;peanut butter;cocoa;meat
-22227,"['warm', 'herb']",warm;herb
-22311,"['lemon', 'orange']",lemon;orange
-22386,['green'],green
-22873,"['apple peel', 'peach']",apple peel;peach
-23686,"['roast', 'nut', 'fruit']",roast;nut;fruit
-24020,['apple'],apple
-24197,"['brown sugar', 'sweet']",brown sugar;sweet
-24838,['strawberry'],strawberry
-25311,"['flower', 'sweet', 'must']",flower;sweet;must
-25915,"['fruit', 'sweet']",fruit;sweet
-25916,"['potato', 'roast']",potato;roast
-26049,"['lemon', 'resin']",lemon;resin
-26331,"['peanut butter', 'wood']",peanut butter;wood
-26332,['sweat'],sweat
-26334,['potato'],potato
-26396,['flower'],flower
-26447,"['fresh', 'green']",fresh;green
-26808,"['roast', 'potato', 'must']",roast;potato;must
-27208,"['sweet', 'herb']",sweet;herb
-27457,['roast'],roast
-27460,"['burnt', 'popcorn']",burnt;popcorn
-28237,['herb'],herb
-28905,"['potato', 'meat', 'roast']",potato;meat;roast
-28906,['baked'],baked
-29096,"['tart lime', 'citrus', 'cologne']",tart lime;citrus;cologne
-29251,['fruit'],fruit
-29746,"['beet', 'earth']",beet;earth
-30248,"['mint', 'camphor', 'medicine']",mint;camphor;medicine
-30914,['roast'],roast
-31234,"['cinnamon', 'anise', 'fruit']",cinnamon;anise;fruit
-31242,"['phenol', 'spice']",phenol;spice
-31244,"['mint', 'sweet']",mint;sweet
-31249,"['wine', 'fruit']",wine;fruit
-31252,"['cocoa', 'roasted nut', 'roast beef', 'medicine']",cocoa;roasted nut;roast beef;medicine
-31253,"['balsamic', 'must', 'spice']",balsamic;must;spice
-31260,"['whiskey', 'malt', 'burnt']",whiskey;malt;burnt
-31265,"['apple peel', 'fruit']",apple peel;fruit
-31268,['alkaline'],alkaline
-31272,['pear'],pear
-31276,['banana'],banana
-31283,['ether'],ether
-31284,['orris'],orris
-31289,"['fat', 'citrus', 'green']",fat;citrus;green
-31291,"['flower', 'wax']",flower;wax
-32065,"['roast', 'nut']",roast;nut
-32594,"['earth', 'spice', 'green pepper']",earth;spice;green pepper
-33166,"['pea', 'earth']",pea;earth
-33637,"['warm', 'flower', 'walnut']",warm;flower;walnut
-33931,['caramel'],caramel
-33936,['gasoline'],gasoline
-34134,['cucumber'],cucumber
-34286,['meat'],meat
-34541,"['flower', 'wax']",flower;wax
-35408,['whiskey'],whiskey
-38679,['onion'],onion
-39914,['peach'],peach
-41285,['spice'],spice
-41569,['meat'],meat
-47649,"['cooked meat', 'thiamin']",cooked meat;thiamin
-60968,"['herb', 'earth', 'green']",herb;earth;green
-60985,"['fruit', 'rose']",fruit;rose
-61015,['oil'],oil
-61016,"['fruit', 'green', 'melon']",fruit;green;melon
-61040,"['citrus', 'coriander']",citrus;coriander
-61041,"['herb', 'sweet']",herb;sweet
-61125,"['earth', 'moss']",earth;moss
-61184,"['pungent', 'fruit']",pungent;fruit
-61199,['spice'],spice
-61204,['peach'],peach
-61260,"['roast', 'popcorn']",roast;popcorn
-61275,"['oil', 'flower']",oil;flower
-61293,['fresh'],fresh
-61325,"['caramel', 'sweet', 'mildew']",caramel;sweet;mildew
-61334,['caramel'],caramel
-61346,"['mushroom', 'metal']",mushroom;metal
-61416,"['warm', 'honey', 'herb', 'rose']",warm;honey;herb;rose
-61653,['earth'],earth
-61660,['roast'],roast
-61663,['sulfur'],sulfur
-61664,"['cabbage', 'onion', 'must']",cabbage;onion;must
-61700,['sweat'],sweat
-61812,"['fruit', 'cocoa']",fruit;cocoa
-61922,['fruit'],fruit
-62131,['smoke'],smoke
-62237,"['sulfur', 'onion', 'meat']",sulfur;onion;meat
-62321,"['pear', 'sweet']",pear;sweet
-62385,"['citrus', 'pine']",citrus;pine
-62453,['almond shell'],almond shell
-62465,"['spice', 'clove']",spice;clove
-62484,"['herb', 'truffle']",herb;truffle
-62510,"['roast', 'smoke']",roast;smoke
-62566,['herb'],herb
-62572,['marshmallow'],marshmallow
-62725,"['tomato leaf', 'green']",tomato leaf;green
-62835,"['cotton candy', 'spice', 'maple']",cotton candy;spice;maple
-64685,['camphor'],camphor
-68148,"['medicine', 'phenol']",medicine;phenol
-68316,['wood'],wood
-68346,"['green', 'herb']",green;herb
-70264,"['herb', 'spice']",herb;spice
-75664,['medicine'],medicine
-77775,['cabbage'],cabbage
-78126,['rubber'],rubber
-78160,['cabbage'],cabbage
-78215,['hummus'],hummus
-79828,"['cabbage', 'sulfur']",cabbage;sulfur
-80208,"['flower', 'spice']",flower;spice
-80408,['sulfur'],sulfur
-82202,['cooked meat'],cooked meat
-84825,['mint'],mint
-85522,"['cooked potato', 'roasted nut']",cooked potato;roasted nut
-85568,['herb'],herb
-86748,"['wood', 'citrus', 'camphor']",wood;citrus;camphor
-86753,"['fruit', 'herb']",fruit;herb
-87436,"['mustard', 'horseradish']",mustard;horseradish
-88290,['box tree'],box tree
-89316,['wood'],wood
-89539,['caramel'],caramel
-91224,"['green', 'wood']",green;wood
-91457,"['wood', 'green']",wood;green
-91496,['fruit'],fruit
-92138,"['green', 'wood']",green;wood
-92139,['herb'],herb
-92231,"['herb', 'fruit']",herb;fruit
-92313,['wood'],wood
-92776,"['spice', 'fresh', 'sharp']",spice;fresh;sharp
-93019,['spice'],spice
-93081,"['citrus', 'fruit']",citrus;fruit
-93111,"['cotton candy', 'sweet']",cotton candy;sweet
-93320,"['broccoli', 'cabbage']",broccoli;cabbage
-95289,"['spice', 'pepper']",spice;pepper
-95330,"['earth', 'must']",earth;must
-97897,"['herb', 'wood']",herb;wood
-97987,['fruit'],fruit
-98346,['sweat'],sweat
-100197,['herb'],herb
-101680,['camphor'],camphor
-102611,"['flower', 'wood']",flower;wood
-106217,"['smoke', 'fat']",smoke;fat
-107059,['apple'],apple
-108765,['roasted meat'],roasted meat
-111037,['wax'],wax
-111274,"['fresh', 'mint']",fresh;mint
-112045,"['citrus', 'lavender']",citrus;lavender
-117336,"['pine', 'balsamic']",pine;balsamic
-117477,['fruit'],fruit
-119831,['fruit'],fruit
-121677,['licorice'],licorice
-126537,['dill'],dill
-146586,"['amine', 'smoke']",amine;smoke
-162293,['earth'],earth
-169110,"['roast', 'popcorn']",roast;popcorn
-176983,['turpentine'],turpentine
-181106,"['pungent', 'mushroom']",pungent;mushroom
-206037,['cabbage'],cabbage
-226486,"['sweet', 'flower']",sweet;flower
-227829,"['wood', 'balsamic']",wood;balsamic
-237332,['cardboard'],cardboard
-240119,"['sweet', 'apple', 'citrus']",sweet;apple;citrus
-246728,"['herb', 'butter', 'resin']",herb;butter;resin
-281853,['spice'],spice
-305551,"['roast', 'smoke']",roast;smoke
-330573,['caraway'],caraway
-357772,['caramel'],caramel
-439368,['cotton candy'],cotton candy
-439570,['mint'],mint
-439711,['camphor'],camphor
-440917,"['citrus', 'mint']",citrus;mint
-441005,"['thyme', 'medicine', 'wood']",thyme;medicine;wood
-442343,['herb'],herb
-442359,"['herb', 'wax']",herb;wax
-443160,['dill'],dill
-443165,"['wood', 'spice']",wood;spice
-443181,"['herb', 'warm']",herb;warm
-444539,['honey'],honey
-445070,['muguet'],muguet
-445639,['fat'],fat
-447466,['flower'],flower
-449290,['green'],green
-494311,"['mint', 'leaf']",mint;leaf
-518472,['green'],green
-518810,['box tree'],box tree
-519564,['fruit'],fruit
-519709,['sulfur'],sulfur
-519764,['wood'],wood
-519764,"['sweet', 'fruit', 'herb']",sweet;fruit;herb
-520098,"['carrot', 'earth']",carrot;earth
-520108,"['roast', 'nut', 'sulfur']",roast;nut;sulfur
-520194,['caramel'],caramel
-520300,['caramel'],caramel
-520420,['metal'],metal
-520682,['meat broth'],meat broth
-521185,['earth'],earth
-521348,['sulfur'],sulfur
-521790,"['truffle', 'earth', 'nut']",truffle;earth;nut
-521873,"['sulfur', 'roast']",sulfur;roast
-522834,"['nut', 'roast']",nut;roast
-523035,"['mint', 'lemon']",mint;lemon
-525032,['alkane'],alkane
-525462,['thiamin'],thiamin
-526177,['meat'],meat
-526195,"['cat', 'black currant']",cat;black currant
-526487,"['cat', 'roast']",cat;roast
-526559,['medicine'],medicine
-526624,['roasted meat'],roasted meat
-526657,['herb'],herb
-526661,['garlic'],garlic
-526762,"['fat', 'spice']",fat;spice
-527142,"['oil', 'herb']",oil;herb
-527144,"['fruit', 'herb']",fruit;herb
-527305,['metal'],metal
-529251,['roast'],roast
-529481,"['straw', 'fruit']",straw;fruit
-529635,['roasted meat'],roasted meat
-529907,['fat'],fat
-546235,['apple'],apple
-564367,['turpentine'],turpentine
-564367,['turpentine'],turpentine
-586728,['earth'],earth
-636730,['turpentine'],turpentine
-637511,"['cinnamon', 'paint']",cinnamon;paint
-637520,['strawberry'],strawberry
-637520,['strawberry'],strawberry
-637542,['balsamic'],balsamic
-637564,['green'],green
-637566,"['rose', 'geranium']",rose;geranium
-637758,"['flower', 'honey']",flower;honey
-637758,"['honey', 'cinnamon']",honey;cinnamon
-638011,"['lemon', 'mint']",lemon;mint
-638011,['lemon'],lemon
-638014,"['seaweed', 'violet', 'flower', 'raspberry']",seaweed;violet;flower;raspberry
-638500,"['oil', 'wax']",oil;wax
-643312,['sweet'],sweet
-643731,"['cucumber', 'wax', 'green']",cucumber;wax;green
-643779,['lemon'],lemon
-643820,['sweet'],sweet
-643941,"['leaf', 'green']",leaf;green
-853433,['flower'],flower
-853433,['flower'],flower
-1201528,['spice'],spice
-1268142,['grapefruit'],grapefruit
-1549025,['fruit'],fruit
-1549026,['rose'],rose
-1549778,"['magnolia', 'green']",magnolia;green
-1549992,"['spice', 'flower']",spice;flower
-1711945,"['flower', 'ether']",flower;ether
-1712087,"['sweet', 'rose']",sweet;rose
-1714996,['peach'],peach
-1738122,['jasmine'],jasmine
-1742210,"['herb', 'sweet', 'spice']",herb;sweet;spice
-2723602,['malt'],malt
-2724159,['fat'],fat
-3018619,"['cooked meat', 'tallow', 'fat', 'meat broth', 'sweat']",cooked meat;tallow;fat;meat broth;sweat
-3066538,['caramel'],caramel
-3084311,['herb'],herb
-3084331,"['herb', 'weak spice']",herb;spice
-4564493,['caramel'],caramel
-5280435,['flower'],flower
-5281162,['pear'],pear
-5281167,['grass'],grass
-5281168,"['green', 'leaf']",green;leaf
-5281168,"['fat', 'rancid']",fat;rancid
-5281168,"['apple', 'green']",apple;green
-5281515,"['wood', 'spice']",wood;spice
-5281516,"['wood', 'sweet']",wood;sweet
-5281517,"['wood', 'citrus', 'sweet']",wood;citrus;sweet
-5281519,"['wood', 'earth', 'spice']",wood;earth;spice
-5281520,['wood'],wood
-5281522,['wood'],wood
-5281535,['sweet'],sweet
-5281553,['herb'],herb
-5281553,"['sweet', 'herb']",sweet;herb
-5281929,['jasmine'],jasmine
-5282108,"['wood', 'violet']",wood;violet
-5282707,"['must', 'fat']",must;fat
-5283316,['green'],green
-5283316,"['soap', 'fat', 'almond']",soap;fat;almond
-5283321,"['nut', 'fat']",nut;fat
-5283324,['green'],green
-5283324,"['green', 'nut', 'fat']",green;nut;fat
-5283329,"['green', 'seaweed', 'cucumber']",green;seaweed;cucumber
-5283335,"['cucumber', 'fat', 'green']",cucumber;fat;green
-5283335,['paper'],paper
-5283339,['watermelon'],watermelon
-5283339,"['fat', 'wax', 'green']",fat;wax;green
-5283345,['tallow'],tallow
-5283345,['orange'],orange
-5283348,['cucumber'],cucumber
-5283349,"['fried', 'wax', 'fat']",fried;wax;fat
-5283356,"['soap', 'fat', 'green']",soap;fat;green
-5283356,['sweet'],sweet
-5283361,"['green', 'fat', 'sweet']",green;fat;sweet
-5284503,"['moss', 'fresh']",moss;fresh
-5284507,"['wood', 'flower', 'wax']",wood;flower;wax
-5287883,"['caraway', 'solvent']",caraway;solvent
-5315892,['oil'],oil
-5317319,"['citrus', 'green']",citrus;green
-5317570,"['wood', 'spice']",wood;spice
-5317844,"['wood', 'balsamic']",wood;balsamic
-5318042,"['green', 'leaf', 'walnut']",green;leaf;walnut
-5318557,"['spice', 'flower']",spice;flower
-5318599,"['soap', 'plastic']",soap;plastic
-5320128,['wax'],wax
-5320249,"['fruit', 'wet cloth']",fruit;wet cloth
-5320250,"['citrus', 'herb', 'flower']",citrus;herb;flower
-5321950,"['green', 'fruit']",green;fruit
-5324489,"['leaf', 'green', 'wine', 'fruit']",leaf;green;wine;fruit
-5352428,"['peach', 'sweet']",peach;sweet
-5352438,"['wine', 'green']",wine;green
-5352481,"['fruit', 'sweet', 'wood']",fruit;sweet;wood
-5352543,"['fruit', 'prune']",fruit;prune
-5352808,"['fat', 'soap']",fat;soap
-5352845,['oil'],oil
-5352876,"['fruit', 'fat', 'mushroom']",fruit;fat;mushroom
-5354833,"['orris', 'fat', 'cucumber']",orris;fat;cucumber
-5354834,['tallow'],tallow
-5355856,"['fruit', 'rose', 'apple']",fruit;rose;apple
-5362588,"['hazelnut', 'nut']",hazelnut;nut
-5362620,"['green', 'must']",green;must
-5362814,"['biscuit', 'cream']",biscuit;cream
-5362830,"['fruit', 'rose', 'apple']",fruit;rose;apple
-5362833,['cucumber'],cucumber
-5362876,['rose'],rose
-5363229,"['nut', 'crushed bug']",nut;crushed bug
-5363388,"['green', 'banana']",green;banana
-5363876,['wood'],wood
-5364399,"['must', 'oil', 'fruit', 'pungent']",must;oil;fruit;pungent
-5364752,"['strawberry', 'fruit', 'tomato']",strawberry;fruit;tomato
-5364919,"['green', 'plastic', 'rubber']",green;plastic;rubber
-5364920,['mushroom'],mushroom
-5365069,"['herb', 'sweet']",herb;sweet
-5365850,"['rose', 'fruit']",rose;fruit
-5365910,"['flower', 'green', 'fruit']",flower;green;fruit
-5366074,"['apple. rose', 'honey']","apple, rose;honey"
-5366264,['hyacinth'],hyacinth
-5367475,"['green', 'plastic']",green;plastic
-5370052,['spice'],spice
-5374527,['apple'],apple
-5464156,['herb'],herb
-5853952,['soap'],soap
-6321405,"['must', 'camphor']",must;camphor
-6326181,"['wood', 'balsamic']",wood;balsamic
-6427080,"['green leaf', 'walnut']",green leaf;walnut
-6427087,"['fried', 'fat']",fried;fat
-6427135,['grapefruit'],grapefruit
-6427787,"['citrus', 'green']",citrus;green
-6427970,['jasmine'],jasmine
-6428570,"['earth', 'herb']",earth;herb
-6428573,['flower'],flower
-6428793,"['flower', 'green']",flower;green
-6428926,"['green', 'earth', 'citrus']",green;earth;citrus
-6428928,['green'],green
-6428959,['fat'],fat
-6429077,"['herb', 'spice']",herb;spice
-6429107,['apple'],apple
-6429261,['seaweed'],seaweed
-6429262,['nut'],nut
-6429268,['earth'],earth
-6429282,"['geranium', 'pungent']",geranium;pungent
-6429298,['metal'],metal
-6429302,"['wood', 'warm', 'tea']",wood;warm;tea
-6429308,"['flower', 'lemon']",flower;lemon
-6429343,"['geranium', 'metal']",geranium;metal
-6430754,"['sweet', 'wood', 'flower']",sweet;wood;flower
-6431042,['cucumber'],cucumber
-6431144,['earth'],earth
-6431207,['oil'],oil
-6431475,['flower'],flower
-6432005,"['wax', 'sweet']",wax;sweet
-6432154,"['green', 'flower']",green;flower
-6432308,"['herb', 'wood', 'spice']",herb;wood;spice
-6432852,"['tallow', 'green']",tallow;green
-6536347,['rose'],rose
-6857487,"['fresh', 'citrus']",fresh;citrus
-6993580,"['earth', 'must']",earth;must
-7093102,['flower'],flower
-7157263,['onion'],onion
-7567181,['terpentine'],turpentine
-8029780,"['fresh', 'citrus']",fresh;citrus
-9855795,"['green', 'oil']",green;oil
-10104370,['balsamic'],balsamic
-10398656,"['herb', 'wood']",herb;wood
-10655819,['wood'],wood
-10820954,"['coconut', 'spice']",coconut;spice
-10899740,['wood'],wood
-11062802,"['earth', 'must']",earth;must
-11084123,"['coconut', 'flower']",coconut;flower
-11084123,"['flower', 'lactone']",flower;lactone
-11094871,['coconut'],coconut
-11095734,['wood'],wood
-11746218,"['moss', 'earth', 'spice']",moss;earth;spice
-11770062,"['spice', 'herb', 'green tea']",spice;herb;green tea
-11788274,['fried'],fried
-11996452,"['green', 'sweet']",green;sweet
-12125547,"['mint', 'dill']",mint;dill
-12302134,['spice'],spice
-12302243,['wood'],wood
-12303902,"['wood', 'spice']",wood;spice
-12304196,"['sweet', 'wood']",sweet;wood
-12306047,['wood'],wood
-12309452,"['green', 'wood', 'oil']",green;wood;oil
-12858461,['flower'],flower
-13213649,['metal'],metal
-13270883,['cotton candy'],cotton candy
-13993189,['herb'],herb
-15273629,['fish'],fish
-15517020,"['earth', 'must']",earth;must
-15560252,"['wood', 'spice']",wood;spice
-15825667,"['metal', 'green']",metal;green
-16213731,"['wood', 'balsamic']",wood;balsamic
-19802217,['black currant'],black currant
-20055523,['balsamic'],balsamic
-20837773,['green'],green
-20837878,"['wood', 'spice']",wood;spice
-20981956,['metal'],metal
-21606187,['mint'],mint
-22559443,['herb'],herb
-23377482,['roast'],roast
-23617864,"['fruit', 'turpentine']",fruit;turpentine
-23623868,"['green', 'earth', 'camphor']",green;earth;camphor
-44630408,['fish'],fish
-57357909,"['spice', 'fruit']",spice;fruit
-71430727,['turpentine'],turpentine
-85981774,"['metal', 'mushroom']",metal;mushroom
-86064872,"['must', 'dust']",must;dust
-121493613,['orange peel'],orange peel
-129830062,"['flower', 'oil']",flower;oil
-154735146,"['flower', 'green']",flower;green
+CID,Descriptors
+107,balsamic
+176,sour
+177,ether;pungent
+179,cream;butter
+240,burnt sugar;almond
+243,urine
+244,flower;sweet
+261,green;pungent
+262,onion;fruit
+263,medicine;fruit
+264,cheese;rancid;sweat
+323,green;sweet
+325,wood;herb
+326,acid;sharp
+332,clove;curry
+335,phenol
+342,plastic;fecal
+356,alkane
+379,cheese;sweat
+454,fat;soap;lemon;green
+460,medicine;smoke;sweet
+527,solvent;pungent
+650,butter
+679,garlic
+702,sweet
+798,mothball;burnt
+878,sulfur;gasoline;garlic
+931,tar
+957,metal;chemical;burnt
+984,cardboard
+996,phenol
+998,honey;hawthorne;sweet
+999,honey;flower
+1031,alcohol;pungent
+1032,soy;rancid;pungent
+1049,rancid
+1068,sulfur;gasoline;cabbage
+1127,cabbage
+1136,sulfur
+1140,paint
+1146,fish
+1183,vanilla
+2214,vanilla
+2345,herb;balsamic;oil
+2537,camphor
+2682,wax;flower
+2758,mint;sweet
+2879,medicine;smoke;phenol
+2969,fat;rancid
+3314,honey;clove
+3893,metal
+4133,peppermint
+4276,spice;warm;balsamic
+5144,spice;warm;sweet
+5971,garlic;sulfur;pungent
+6054,honey;rose;spice;lilac
+6184,fat;grass;tallow
+6213,sulfur;burnt
+6276,balsamic
+6549,lavender;flower
+6560,wine;bitter;solvent
+6561,malt;green;pungent
+6568,wine
+6569,ether
+6590,cheese;rancid;butter
+6616,camphor
+6631,citrus;pine
+6654,pine;turpentine
+6736,mothball;fecal
+6920,sulfur
+6986,mint
+6987,mint;fresh;fruit;sweet
+7041,medicine;smoke;phenol
+7127,spice;clove
+7150,herb;lettuce;sweet;prune
+7165,celery;fruit;flower;camomile
+7194,honey;flower
+7222,rubber;gasoline
+7237,geranium
+7247,plastic
+7269,rancid;sweet
+7284,almond;cocoa
+7288,ether
+7302,sweet;caramel
+7335,green;spearmint
+7342,rubber;sweet
+7344,fruit
+7361,burnt
+7362,bread;almond;sweet
+7363,coffee;roast
+7364,sulfur
+7410,must;almond;flower
+7438,fresh;spearmint;caraway
+7439,mint;basil;fennel
+7460,spice;mint;turpentine
+7461,turpentine;gasoline
+7462,lemon
+7463,citrus;gasoline;solvent
+7501,gasoline;balsamic
+7505,rancid
+7523,grass
+7590,fruit;sweet
+7650,plum
+7654,honey;tobacco;rose
+7704,coconut
+7710,coconut;peach
+7714,apricot
+7720,green;rose
+7738,flower
+7742,fat;nut;fruit
+7749,fruit
+7761,apple
+7762,apple
+7765,cream;fruit
+7770,pineapple;solvent
+7794,fat
+7797,fruit
+7799,fat;fruit
+7800,leaf
+7803,pineapple
+7824,fresh;fruit;sweet
+7895,ether;fruit
+7929,plastic
+7938,roast beef;roasted nut;cocoa
+7945,fruit
+7975,sweat
+7976,popcorn
+7991,sweat
+8003,alkane
+8025,pungent
+8030,garlic
+8038,fruit;apple;banana
+8048,grape
+8050,wine
+8051,soap
+8058,alkane
+8063,malt;almond;pungent
+8091,orange
+8093,soap;gasoline
+8103,green;flower;resin
+8106,sulfur
+8109,fruit
+8129,green;chemical
+8130,citrus;fat;rancid
+8139,fat;coconut
+8141,alkane
+8158,fat;green
+8163,fresh;orange;green
+8167,orange;oil
+8174,fat
+8175,orange peel;soap;tallow
+8180,oil
+8182,alkane
+8184,mandarin
+8186,pungent;sweet;oil
+8193,wax;fat
+8194,fat;lily;citrus
+8201,fat
+8207,must
+8209,coconut
+8221,oil
+8222,alkane
+8257,herb
+8294,fruit;sweet
+8314,cheese;sweat
+8365,wintergreen;mint
+8369,caramel
+8500,bitter almond
+8635,honey;flower
+8698,balsamic
+8723,wine;onion
+8748,must
+8785,fresh;boiled vegetable
+8815,licorice;anise
+8835,fruit;rose;sweet
+8842,rose
+8857,pineapple
+8858,chemical;sweet
+8892,sweat
+8900,alkane
+8907,fat
+8908,fruit;herb
+8914,fat;green
+8918,fruit;sweet
+9017,dust;rose
+9862,rubber;pepper;mushroom
+9895,mint
+10106,spice
+10231,spice;wood
+10248,spice;flower
+10282,herb
+10408,fat
+10430,acid;sweat;rancid
+10448,potato;sweet
+10583,wax;fresh;herb
+10748,balsamic;sweet
+10869,metal
+10882,fruit;yeast
+10890,banana
+10934,rubber;mold
+10976,mushroom
+11006,alkane
+11039,flower
+11086,foxy;sweet
+11126,sulfur
+11142,mint;turpentine
+11160,apple
+11168,sulfur
+11173,herb
+11230,must;nutmeg;turpentine
+11251,camphor
+11265,mint
+11387,grass
+11428,fruit
+11463,pine;plastic
+11468,must
+11509,ether;grape
+11517,fruit
+11520,herb
+11527,nut;mushroom;moss
+11543,pungent
+11552,malt
+11583,ether
+11613,green;sulfur;pungent
+11635,alkane
+11747,cream;butter
+12020,butter;pungent
+12038,vanilla;fruit;flower;sweet
+12072,spice;mint
+12097,burnt sugar;almond;caramel
+12101,must
+12180,ether;fruit;sweet
+12209,fruit
+12230,sulfur;garlic
+12232,onion;cabbage;putrid
+12293,fruit
+12294,fruit
+12327,coconut;cognac
+12366,wax
+12367,cucumber
+12388,alkane
+12389,alkane
+12391,alkane
+12398,alkane
+12401,alkane
+12403,alkane
+12405,alkane
+12507,sweet
+12533,oil
+12534,alkane
+12748,roasted meat
+12756,coumarin;sweet
+12777,peach
+12810,coconut
+12813,fat;peach
+12844,fruit;sweet
+13187,soap;hot milk;green
+13357,apple
+13594,pesticide
+13654,fruit;sweet
+14079,bread;nut;walnut
+14228,green;oil;herb
+14257,alkane
+14286,popcorn
+14505,balsamic
+14529,citrus;must
+14896,pine;turpentine;resin
+15289,vinyl;green
+15380,sulfur;garlic
+15394,pungent;fish
+15395,metal;cooked vegetable
+15406,camphor
+15600,alkane
+15606,coconut
+16237,flower
+16441,spice
+16666,peppermint
+16724,caraway
+16800,fat
+16821,fruit;flower;sweet
+16832,fresh
+16997,spice
+17100,mint;anise;oil
+17525,apple peel
+17697,fresh
+17739,phenol
+17868,green;wood;herb
+18635,cooked potato
+18686,fruit
+18818,turpentine;pepper;wood
+18827,mushroom
+19244,menthol
+19309,caramel
+19310,sulfur;cabbage;fish
+19602,green bean;butter
+19844,vanilla;butterscotch;caramel
+20083,fat;mushroom
+20748,ester;fruit
+20861,sweet
+20928,green
+20995,fruit;sweet
+21108,baked
+21648,raspberry
+21828,sulfur
+22201,peanut butter;nut;cocoa;meat
+22227,warm;herb
+22311,orange;lemon
+22386,green
+22873,peach;apple peel
+23686,nut;roast;fruit
+24020,apple
+24197,brown sugar;sweet
+24838,strawberry
+25311,must;flower;sweet
+25915,fruit;sweet
+25916,potato;roast
+26049,lemon;resin
+26331,peanut butter;wood
+26332,sweat
+26334,potato
+26396,flower
+26447,fresh;green
+26808,potato;must;roast
+27208,herb;sweet
+27457,roast
+27460,popcorn;burnt
+28237,herb
+28905,potato;roast;meat
+28906,baked
+29096,citrus;tart lime;cologne
+29251,fruit
+29746,earth;beet
+30248,medicine;mint;camphor
+30914,roast
+31234,cinnamon;fruit;anise
+31242,spice;phenol
+31244,mint;sweet
+31249,wine;fruit
+31252,roast beef;medicine;cocoa;roasted nut
+31253,spice;must;balsamic
+31260,malt;whiskey;burnt
+31265,fruit;apple peel
+31268,alkaline
+31272,pear
+31276,banana
+31283,ether
+31284,orris
+31289,citrus;fat;green
+31291,wax;flower
+32065,nut;roast
+32594,spice;earth;green pepper
+33166,pea;earth
+33637,walnut;warm;flower
+33931,caramel
+33936,gasoline
+34134,cucumber
+34286,meat
+34541,wax;flower
+35408,whiskey
+38679,onion
+39914,peach
+41285,spice
+41569,meat
+47649,cooked meat;thiamin
+60968,green;earth;herb
+60985,fruit;rose
+61015,oil
+61016,green;fruit;melon
+61040,citrus;coriander
+61041,sweet;herb
+61125,earth;moss
+61184,fruit;pungent
+61199,spice
+61204,peach
+61260,roast;popcorn
+61275,flower;oil
+61293,fresh
+61325,sweet;mildew;caramel
+61334,caramel
+61346,metal;mushroom
+61416,honey;warm;rose;herb
+61653,earth
+61660,roast
+61663,sulfur
+61664,must;onion;cabbage
+61700,sweat
+61812,fruit;cocoa
+61922,fruit
+62131,smoke
+62237,onion;sulfur;meat
+62321,sweet;pear
+62385,citrus;pine
+62453,almond shell
+62465,spice;clove
+62484,truffle;herb
+62510,smoke;roast
+62566,herb
+62572,marshmallow
+62725,green;tomato leaf
+62835,spice;maple;cotton candy
+64685,camphor
+68148,medicine;phenol
+68316,wood
+68346,green;herb
+70264,spice;herb
+75664,medicine
+77775,cabbage
+78126,rubber
+78160,cabbage
+78215,hummus
+79828,sulfur;cabbage
+80208,spice;flower
+80408,sulfur
+82202,cooked meat
+84825,mint
+85522,cooked potato;roasted nut
+85568,herb
+86748,citrus;camphor;wood
+86753,fruit;herb
+87436,mustard;horseradish
+88290,box tree
+89316,wood
+89539,caramel
+91224,green;wood
+91457,green;wood
+91496,fruit
+92138,green;wood
+92139,herb
+92231,fruit;herb
+92313,wood
+92776,spice;fresh;sharp
+93019,spice
+93081,citrus;fruit
+93111,cotton candy;sweet
+93320,cabbage;broccoli
+95289,spice;pepper
+95330,must;earth
+97897,wood;herb
+97987,fruit
+98346,sweat
+100197,herb
+101680,camphor
+102611,wood;flower
+106217,fat;smoke
+107059,apple
+108765,roasted meat
+111037,wax
+111274,mint;fresh
+112045,citrus;lavender
+117336,pine;balsamic
+117477,fruit
+119831,fruit
+121677,licorice
+126537,dill
+146586,smoke;amine
+162293,earth
+169110,roast;popcorn
+176983,turpentine
+181106,mushroom;pungent
+206037,cabbage
+226486,flower;sweet
+227829,balsamic;wood
+237332,cardboard
+240119,citrus;apple;sweet
+246728,resin;butter;herb
+281853,spice
+305551,smoke;roast
+330573,caraway
+357772,caramel
+439368,cotton candy
+439570,mint
+439711,camphor
+440917,citrus;mint
+441005,medicine;thyme;wood
+442343,herb
+442359,wax;herb
+443160,dill
+443165,spice;wood
+443181,warm;herb
+444539,honey
+445070,muguet
+445639,fat
+447466,flower
+449290,green
+494311,mint;leaf
+518472,green
+518810,box tree
+519564,fruit
+519709,sulfur
+519764,herb;fruit;wood;sweet
+520098,earth;carrot
+520108,nut;sulfur;roast
+520194,caramel
+520300,caramel
+520420,metal
+520682,meat broth
+521185,earth
+521348,sulfur
+521790,truffle;nut;earth
+521873,sulfur;roast
+522834,nut;roast
+523035,mint;lemon
+525032,alkane
+525462,thiamin
+526177,meat
+526195,cat;black currant
+526487,cat;roast
+526559,medicine
+526624,roasted meat
+526657,herb
+526661,garlic
+526762,spice;fat
+527142,herb;oil
+527144,fruit;herb
+527305,metal
+529251,roast
+529481,fruit;straw
+529635,roasted meat
+529907,fat
+546235,apple
+564367,turpentine
+586728,earth
+636730,turpentine
+637511,cinnamon;paint
+637520,strawberry
+637542,balsamic
+637564,green
+637566,geranium;rose
+637758,honey;cinnamon;flower
+638011,mint;lemon
+638014,raspberry;violet;flower;seaweed
+638500,wax;oil
+643312,sweet
+643731,cucumber;green;wax
+643779,lemon
+643820,sweet
+643941,green;leaf
+853433,flower
+1201528,spice
+1268142,grapefruit
+1549025,fruit
+1549026,rose
+1549778,green;magnolia
+1549992,spice;flower
+1711945,ether;flower
+1712087,rose;sweet
+1714996,peach
+1738122,jasmine
+1742210,spice;sweet;herb
+2723602,malt
+2724159,fat
+3018619,cooked meat;tallow;meat broth;sweat;fat
+3066538,caramel
+3084311,herb
+3084331,spice;herb
+4564493,caramel
+5280435,flower
+5281162,pear
+5281167,grass
+5281168,leaf;apple;fat;green;rancid
+5281515,spice;wood
+5281516,wood;sweet
+5281517,citrus;wood;sweet
+5281519,spice;earth;wood
+5281520,wood
+5281522,wood
+5281535,sweet
+5281553,sweet;herb
+5281929,jasmine
+5282108,violet;wood
+5282707,fat;must
+5283316,fat;green;almond;soap
+5283321,fat;nut
+5283324,fat;nut;green
+5283329,cucumber;green;seaweed
+5283335,cucumber;fat;green;paper
+5283339,wax;fat;green;watermelon
+5283345,tallow;orange
+5283348,cucumber
+5283349,fried;fat;wax
+5283356,fat;soap;sweet;green
+5283361,fat;green;sweet
+5284503,fresh;moss
+5284507,wax;flower;wood
+5287883,caraway;solvent
+5315892,oil
+5317319,citrus;green
+5317570,spice;wood
+5317844,balsamic;wood
+5318042,green;walnut;leaf
+5318557,spice;flower
+5318599,soap;plastic
+5320128,wax
+5320249,fruit;wet cloth
+5320250,citrus;flower;herb
+5321950,green;fruit
+5324489,wine;green;fruit;leaf
+5352428,peach;sweet
+5352438,wine;green
+5352481,fruit;wood;sweet
+5352543,fruit;prune
+5352808,fat;soap
+5352845,oil
+5352876,fat;fruit;mushroom
+5354833,cucumber;fat;orris
+5354834,tallow
+5355856,fruit;apple;rose
+5362588,nut;hazelnut
+5362620,must;green
+5362814,biscuit;cream
+5362830,fruit;apple;rose
+5362833,cucumber
+5362876,rose
+5363229,nut;crushed bug
+5363388,green;banana
+5363876,wood
+5364399,must;fruit;pungent;oil
+5364752,tomato;fruit;strawberry
+5364919,green;plastic;rubber
+5364920,mushroom
+5365069,sweet;herb
+5365850,fruit;rose
+5365910,green;fruit;flower
+5366074,"honey;apple, rose"
+5366264,hyacinth
+5367475,green;plastic
+5370052,spice
+5374527,apple
+5464156,herb
+5853952,soap
+6321405,must;camphor
+6326181,balsamic;wood
+6427080,green leaf;walnut
+6427087,fried;fat
+6427135,grapefruit
+6427787,citrus;green
+6427970,jasmine
+6428570,earth;herb
+6428573,flower
+6428793,green;flower
+6428926,earth;green;citrus
+6428928,green
+6428959,fat
+6429077,spice;herb
+6429107,apple
+6429261,seaweed
+6429262,nut
+6429268,earth
+6429282,geranium;pungent
+6429298,metal
+6429302,warm;tea;wood
+6429308,lemon;flower
+6429343,geranium;metal
+6430754,flower;wood;sweet
+6431042,cucumber
+6431144,earth
+6431207,oil
+6431475,flower
+6432005,wax;sweet
+6432154,green;flower
+6432308,spice;wood;herb
+6432852,tallow;green
+6536347,rose
+6857487,citrus;fresh
+6993580,must;earth
+7093102,flower
+7157263,onion
+7567181,turpentine
+8029780,citrus;fresh
+9855795,green;oil
+10104370,balsamic
+10398656,wood;herb
+10655819,wood
+10820954,spice;coconut
+10899740,wood
+11062802,must;earth
+11084123,coconut;flower;lactone
+11094871,coconut
+11095734,wood
+11746218,spice;earth;moss
+11770062,spice;green tea;herb
+11788274,fried
+11996452,green;sweet
+12125547,dill;mint
+12302134,spice
+12302243,wood
+12303902,spice;wood
+12304196,wood;sweet
+12306047,wood
+12309452,green;wood;oil
+12858461,flower
+13213649,metal
+13270883,cotton candy
+13993189,herb
+15273629,fish
+15517020,must;earth
+15560252,spice;wood
+15825667,green;metal
+16213731,balsamic;wood
+19802217,black currant
+20055523,balsamic
+20837773,green
+20837878,spice;wood
+20981956,metal
+21606187,mint
+22559443,herb
+23377482,roast
+23617864,turpentine;fruit
+23623868,earth;green;camphor
+44630408,fish
+57357909,spice;fruit
+71430727,turpentine
+85981774,metal;mushroom
+86064872,must;dust
+121493613,orange peel
+129830062,flower;oil
+154735146,green;flower
