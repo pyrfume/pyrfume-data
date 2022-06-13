@@ -72,7 +72,7 @@ molecules.head()
 
 # Create the `behavior` dataframe containing the label data; all applicable labels are contained in the `Labels` column
 behavior_sparse = df[['IsomericSMILES', 'odor_data', 'odor_labels_filtered', 'CID']].set_index('CID').sort_index()
-behavior_sparse.columns = [['IsomericSMILES', 'Raw Labels', 'Labels']]
+behavior_sparse.columns = ['IsomericSMILES', 'Raw Labels', 'Labels']
 
 # + tags=[]
 # Create a dense version of the above; each label will have its own binary-valued column
@@ -81,7 +81,7 @@ behavior = behavior_sparse.copy()
 all_labels = set(chain.from_iterable(behavior['Labels'].squeeze().map(eval)))
 for label in tqdm(all_labels):
     behavior[label] = behavior['Labels'].squeeze().apply(lambda x: label in eval(x)).astype(int)
-behavior = behavior.drop(['Raw Labels', 'Labels'], axis=1, level=0).sort_index(axis=1)
+behavior = behavior.drop(['Raw Labels', 'Labels'], axis=1).sort_index(axis=1)
 # -
 
 # Write files to disk

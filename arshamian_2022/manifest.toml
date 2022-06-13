@@ -1,0 +1,21 @@
+# Manifest for Arshamian et al 2022
+[source]
+doi = "10.1101/2021.03.01.433367"
+title = "The perception of odor pleasantness is shared across cultures."
+authors = "A. Arshamian, R.C. Gerkin, N. Kruspe, E. Wnuk, S. Floyd, C. O'Meara, G. Garrido Rodriguez, J. Lundstrom, J.D. Mainland, A. Majid"
+tags = "human;pleasantness;academic"
+extra = ""
+
+[raw]
+"data/All_data_intensity.txt" = "Odor intensity rankings from global participants"
+"data/Universal_Pleasantness.csv" = "Pleasantness rankings from global participants"
+"data/UniversalPleasantnessMainlandLabRanking.csv" = "Pleasantness rankings from Mainland lab"
+LICENSE = ""
+
+[processed]
+main.py = "Processing workflow"
+molecules.csv = "Information about odorant molecules used"
+subjects.csv = "Mapping of Participant/Group to ParticipantID's"
+behavior_1.csv = "Universal pleasantness data, odor names replaced with CID's."
+behavior_2.csv = "All intensity data. Rank 1 is most intenst odor (by CID), Rank 10 is the least intense/weakest."
+behavior_3.csv = "Mainland lab ranking with raters converted to anonymized ParticipantID's."

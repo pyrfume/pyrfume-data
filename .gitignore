@@ -1,3 +1,13 @@
+*temp.*
+*untitled*
+my_data/
+old/
+hack.ipynb
+scratch.ipynb
+*untracked*
+*.npz
+more/
+
 # Pipeline notebooks
 # These should be under version control as .py files via jupytext
 */main.ipynb
@@ -133,8 +143,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-<<<<<<< Updated upstream
-=======
 sharma_2012b_rev1/soups.pkl
->>>>>>> Stashed changes
-flavornet/data.pkl

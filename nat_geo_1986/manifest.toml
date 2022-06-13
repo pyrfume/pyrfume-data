@@ -4,6 +4,7 @@ doi = ""
 url = "https://www.kaggle.com/jmainland/national-geographic-smell-survey/version/2"
 title = "National Geographic Smell Survey"
 authors = "AN Gilbert, CJ Wysocki"
+tags = "human;odorCharacter"
 extra = "Originally conducted for National Geographic magazine in 1986 by Avery Gilbert and Charles Wysocki, as reported initially in 'Gilbert, A.N. and Wysocki, C.J. National Geographic Smell Survey: The Results. National Geographic, 1987, 172, 514‑525.' and re-constituted for deposition as a Kaggle dataset by Joel Mainland (see URL)"
 
 [raw]
