@@ -133,4 +133,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< Updated upstream
+=======
+sharma_2012b_rev1/soups.pkl
+>>>>>>> Stashed changes
 flavornet/data.pkl
