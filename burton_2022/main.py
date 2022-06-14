@@ -31,10 +31,10 @@ raw3 = loadmat('raw/ID_glom_04_2022.mat')
 #  Metadata: Reference data containing parameters used to generate maps and output values to response matrices.
 
 ref_im, resp_mat, maps = {}, {}, {}
-for key in raw.keys():
+for key in raw1.keys():
     if 'ORdata' in key:
         ob = key.split('_')[1]
-        tmp = raw[key][0][0]
+        tmp = raw1[key][0][0]
         ref_im[ob] = np.flip(tmp['RefImage'].T)
         resp_mat[ob] = tmp['RespMatrix']
         maps[ob] = [np.flip(m.T) for m in tmp['Maps'].squeeze()]
@@ -47,7 +47,7 @@ for ob in maps.keys():
         
 # Odor lists are identical, only need to grab once. First 185 are the odorants; last 2 are 'empty' (control) and the 
 # solvent (triglyceride)
-odor_list = [x[0] for x in raw['ORdata1_111L'][0][0]['OdorList'].squeeze()]
+odor_list = [x[0] for x in raw1['ORdata1_111L'][0][0]['OdorList'].squeeze()]
 odorant_names = [' '.join(x.split(' ')[1:]) for x in odor_list]
 
 # raw2 contents:
@@ -164,26 +164,77 @@ for name in man_add:
 info_dict = pyrfume.from_cids(list(cids.values()))
 
 # Create dataframe for molecules.csv
-molecules = pd.DataFrame(info_dict).set_index('CID')
-molecules.loc[-1] = [None, None, None, 'empty'] # add the control
-molecules.sort_index(inplace=True)
+molecules = pd.DataFrame(info_dict).set_index('CID').sort_index()
 molecules.head()
+
+# Data for stimuli.csv
+stimuli = pd.DataFrame(all_concs, copy=True)
+stimuli.columns=['111', '112', '113', '114']
+stimuli['CID'] = stimuli.index
+stimuli['CID'] = stimuli['CID'].map({v: k for v, k in enumerate(odorant_names[:-2])}).map(cids)
+
+# Convert to long form
+stimuli = stimuli.melt(id_vars='CID', var_name='Mouse', value_name='Conc. (mols/L)')
+
+# Create stimulus ID for each unique CID_concentration combo and index on this
+stimuli['Stimulus'] = stimuli['CID'].astype(str) + '_' + stimuli['Conc. (mols/L)'].apply(lambda x: format(x, '.2e'))
+
+# add the blank (CID = -1) and solvent (triglyceride; CID = 5460048)
+stimuli.loc[-1] = [-1, '111', None, '-1_0']
+stimuli.loc[-2] = [-1, '112', None, '-1_0']
+stimuli.loc[-3] = [-1, '113', None, '-1_0']
+stimuli.loc[-4] = [-1, '114', None, '-1_0']
+stimuli.loc[-5] = [5460048, '111', None, '5460048_0']
+stimuli.loc[-6] = [5460048, '112', None, '5460048_0']
+stimuli.loc[-7] = [5460048, '113', None, '5460048_0']
+stimuli.loc[-8] = [5460048, '114', None, '5460048_0']
+
+# Create dict to convert CID to Stimulus in behavior files
+cid_to_stim = stimuli.set_index(['CID', 'Mouse']).drop('Conc. (mols/L)', axis=1).T.to_dict(orient='list')
+cid_to_stim = {k: v[0] for k, v in cid_to_stim.items()}
+
+stimuli.drop(['Mouse'], axis=1, inplace=True)
+stimuli = stimuli.set_index(['Stimulus']).sort_index()
+stimuli.drop_duplicates(inplace=True)
+stimuli.head()
+
+# Data for subjects.csv
+subj_dict = {}
+for exp in resp_mat.keys():
+    subj_dict[exp] = {'Mouse ID': exp[:-1], 'Hemisphere': exp[-1]}
+    
+subjects = pd.DataFrame.from_dict(subj_dict, orient='index').sort_index()
+subjects.index.names = ['Subject']
+subjects.head()
+
+# Data for rois.csv
+rois = pd.concat(ROIPos, axis=0).reset_index()
+rois.rename(columns={'level_0': 'Subject', 'Row': 'ROI#'}, inplace=True)
+rois['ROI#'] = rois['ROI#'].str.split(' ').str[1].astype(int)
+rois = rois.set_index(['Subject', 'ROI#']).sort_index()
+rois.head()
 
 # Create dataframe from response matrices -> behavior_1.csv
 resp_mat_dict = {}
 for key, mat in resp_mat.items():
     tmp = pd.DataFrame(mat)
     tmp.columns = [cids[odorant_names[i]] for i in tmp.columns]
-    tmp['Experiment'] = key
+    tmp['Subject'] = key
     tmp.reset_index(inplace=True)
     tmp['index'] = tmp['index'] + 1
-    tmp = tmp.melt(id_vars=['index', 'Experiment'], var_name='CID', value_name='DeltaF', ignore_index=False)
+    tmp = tmp.melt(id_vars=['index', 'Subject'], var_name='CID', value_name='DeltaF', ignore_index=False)
     tmp.rename(columns={'index': "ROI#"}, inplace=True)
     resp_mat_dict[key] = tmp
 
 # Reshape into single long form dataframe
 behav1 = pd.concat(resp_mat_dict, axis=0)
-behav1 = behav1.set_index(['CID', 'Experiment', 'ROI#']).sort_index()
+behav1.reset_index(drop=True, inplace=True)
+
+# Add stimulus for indexing
+behav1['Tmp'] = list(zip(behav1['CID'], behav1['Subject'].str[:-1]))
+behav1['Stimulus'] = behav1['Tmp'].map(cid_to_stim)
+behav1 = behav1.set_index(['Stimulus', 'Subject', 'ROI#']).sort_index()
+behav1.drop(['CID', 'Tmp'], axis=1, inplace=True)
 behav1.head()
 
 # Data for diagnostic odorants and functionally-identifiable glomeruli. Split into two dataframes, one for 
@@ -212,31 +263,6 @@ behav3.drop(['odorname', 'glomid', 'mediolateral', 'rostrocaudal', 'MLmean', 'RC
 behav3 = behav3.set_index(['CID']).sort_index()
 behav3.head()
 
-# Data for subjects.csv
-subj_dict = {}
-for exp in resp_mat.keys():
-    subj_dict[exp] = {'Mouse ID': exp[:-1], 'Hemisphere': exp[-1]}
-    
-subjects = pd.DataFrame.from_dict(subj_dict, orient='index').sort_index()
-subjects.index.names = ['Experiment']
-subjects.head()
-
-# Data for stimuli.csv
-stimuli = pd.DataFrame(all_concs, copy=True)
-stimuli.columns=['111', '112', '113', '114']
-stimuli['CID'] = stimuli.index
-stimuli['CID'] = stimuli['CID'].map({v: k for v, k in enumerate(odorant_names[:-2])}).map(cids)
-stimuli = stimuli.melt(id_vars='CID', var_name='Mouse ID', value_name='Conc. (mols/L)')
-stimuli = stimuli.set_index(['CID', 'Mouse ID']).sort_index()
-stimuli.head()
-
-# Data for rois.csv
-rois = pd.concat(ROIPos, axis=0).reset_index()
-rois.rename(columns={'level_0': 'Experiment', 'Row': 'ROI#'}, inplace=True)
-rois['ROI#'] = rois['ROI#'].str.split(' ').str[1].astype(int)
-rois = rois.set_index(['Experiment', 'ROI#']).sort_index()
-rois.head()
-
 # Write images (reference and response maps) to .csv files.
 # Becase of total disk space, these will not be on Github, but instead accessible by Dropbox.
 im_dir = 'images'
@@ -247,19 +273,22 @@ mice = list(set([x[:-1] for x in ref_im.keys()]))
 for m in mice:
     for i, odor in enumerate(odorant_names):
         file_name = im_dir + '/' + m + '_' + odor.replace(' ', '_') + '.csv'
-        pd.DataFrame(maps[m + 'L'][i]).to_csv(file_name, header=None, index=None, float_format="%.8f")
+#         pd.DataFrame(maps[m + 'L'][i]).to_csv(file_name, header=None, index=None, float_format="%.8f")
 
 # Dataframe for images.csv, contains file names for maps saved as .csv, indexed by CID
 im_data_dict = {}
-for exp in resp_mat.keys():
+for subj in resp_mat.keys():
     for odor in odorant_names:
-        file_name = im_dir + '/' + exp[:-1] + '_' + odor.replace(' ', '_') + '.csv'
-        im_data_dict[(cids[odor], exp)] = file_name
+        file_name = im_dir + '/' + subj[:-1] + '_' + odor.replace(' ', '_') + '.csv'
+        im_data_dict[(cids[odor], subj)] = [subj, file_name]
     
-images = pd.DataFrame.from_dict(im_data_dict, orient='index', columns=['ImagePath'])
+images = pd.DataFrame.from_dict(im_data_dict, orient='index', columns=['Subject', 'ImagePath'])
 images.index = pd.MultiIndex.from_tuples(images.index)
-images.index.names = ['CID', 'Experiment']
-images.sort_index(inplace=True)
+images.reset_index(inplace=True)
+images['Tmp'] = list(zip(images['level_0'], images['Subject'].str[:-1]))
+images['Stimulus'] = images['Tmp'].map(cid_to_stim)
+images.drop(['level_0', 'level_1', 'Tmp'], axis=1, inplace=True)
+images = images.set_index(['Stimulus', 'Subject']).sort_index()
 images.head()
 
 # write to disk

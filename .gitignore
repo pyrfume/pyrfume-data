@@ -134,3 +134,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 flavornet/data.pkl
+burton_2022/raw/odormappingdata_fullinfo_06_2021.mat

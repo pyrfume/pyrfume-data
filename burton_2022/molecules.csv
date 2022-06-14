@@ -1,5 +1,4 @@
 CID,MolecularWeight,IsomericSMILES,IUPACName,name
--1,,,,empty
 240,106.12,C1=CC=C(C=C1)C=O,benzaldehyde,benzaldehyde
 261,72.11,CCCC=O,butanal,butyraldehyde
 264,88.11,CCCC(=O)O,butanoic acid,butyric acid
@@ -128,6 +127,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 33135,138.17,CCC1=NC=CN=C1OC,2-ethyl-3-methoxypyrazine,2-ethyl-3-methoxypyrazine
 33166,152.19,CC(C)C1=NC=CN=C1OC,2-methoxy-3-propan-2-ylpyrazine,2-isopropyl-3-methoxypyrazine
 36822,134.18,C1CCC2=NC=CN=C2C1,"5,6,7,8-tetrahydroquinoxaline","5,6,7,8-tetrahydroquinoxaline"
+60968,238.37,CC(C)CC(=O)OC1CC2CCC1(C2(C)C)C,"(1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl) 3-methylbutanoate",76-50-6
 61653,127.21,CC1=C(SC(=N1)C)C,"2,4,5-trimethyl-1,3-thiazole","2,4,5-trimethylthiazole"
 61670,144.17,CC1=C2C(=CC=C1)N=CC=N2,5-methylquinoxaline,5-methylquinoxaline
 61808,141.24,CC1=CSC(=N1)C(C)C,"4-methyl-2-propan-2-yl-1,3-thiazole",2-isopropyl-4-methylthiazole
@@ -183,6 +183,5 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 10857465,236.39,C[C@]12CCCC([C@@H]1CC[C@@]3([C@@H]2CCO3)C)(C)C,"(3aR,5aS,9aS,9bR)-3a,6,6,9a-tetramethyl-2,4,5,5a,7,8,9,9b-octahydro-1H-benzo[e][1]benzofuran",(-)-ambroxide
 13479201,238.41,CCCCCCC/C=C(\CCCCCC)/C=O,(E)-2-hexyldec-2-enal,unii-v7nk8bcx89
 15559490,182.30,C[C@@H]1CCC[C@]2([C@]1(CCCC2)O)C,"(4R,4aR,8aS)-4,8a-dimethyl-1,2,3,4,5,6,7,8-octahydronaphthalen-4a-ol",(+)-geosmin
-58165301,129.23,CCC1N=C(CS1)C,"2-ethyl-4-methyl-2,5-dihydro-1,3-thiazole",2-ethyl-4-methyl-3-thiazoline
+58165301,129.23,CCC1N=C(CS1)C,"2-ethyl-4-methyl-2,5-dihydro-1,3-thiazole","2-ethyl-4-methyl-2,5-dihydrothiazole"
 71311442,456.6,CC(C)C1=CN=CC(=N1)OC.CC(C)C1=CN=C(C=N1)OC.CC(C)C1=NC=CN=C1OC,2-methoxy-3-propan-2-ylpyrazine;2-methoxy-5-propan-2-ylpyrazine;2-methoxy-6-propan-2-ylpyrazine,"2-methoxy-3(5 or 6)-isopropylpyrazine, >=98%"
-76957121,238.37,CC(C)CC(=O)O[C@@H]1C[C@H]2CC[C@@]1(C2(C)C)C,"[(1R,2R,4R)-1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl] 3-methylbutanoate",isobornyl isovalerate
