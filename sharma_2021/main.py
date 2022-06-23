@@ -14,7 +14,6 @@ df = tabula.read_pdf('ci0c01288_si_001-1.pdf',
                      lattice=True, 
                      pandas_options={"header": 1})[0].drop('Source Database', axis=1).set_index('Sr. No')
 
-
 # Replace IUPAC name with common name if IUPAC name is missing or contains molecular weight or other non-name entries
 df['IUPAC Name'].fillna(df['Common Name'], inplace=True)
 df.loc[df['IUPAC Name'].str.contains('g/mol'), 'IUPAC Name'] = df['Common Name']
@@ -238,7 +237,7 @@ standardize_dict = {
     'raw potato': 'potato'}
 
 # functions for filtering of percepts and splitting into decriptors and modifiers 
-def to_descriptors(percepts, spell_replace, standardize_dict):
+def to_descriptors(percepts, spell_replace, standardize_dict, to_drop):
     tmp = []
     for term in list(set(percepts)): # This will also remove duplicate terms
         # Replace spelling
@@ -247,8 +246,8 @@ def to_descriptors(percepts, spell_replace, standardize_dict):
         # Replace for other standardizations
         if term in standardize_dict:
             term = standardize_dict[term]
-        # Only keep if not a modifier
-        if term not in modifiers:
+        # Only keep if not a modifier or in the to_drop list
+        if term not in modifiers and term not in to_drop:
             tmp.append(term)
     return ';'.join(x for x in tmp)
 
@@ -259,22 +258,13 @@ def to_modifiers(percepts, modifiers):
             tmp.append(term)
     return ';'.join(x for x in tmp)      
 
-
-# In[260]:
-
-
 # Convert smell percepts into decriptors + modifiers for behavior.csv
 behavior = df[['CID', 'Smell Percepts']].copy().set_index('CID').sort_index()
-behavior['Decriptors'] = behavior['Smell Percepts'].apply(lambda x: to_descriptors(x, spell_replace, standardize_dict))
+behavior['Decriptors'] = behavior['Smell Percepts'].apply(lambda x: to_descriptors(x, spell_replace, standardize_dict, to_drop))
 behavior['Modifiers'] = behavior['Smell Percepts'].apply(lambda x: to_modifiers(x, modifiers))
 behavior.drop('Smell Percepts', axis=1, inplace=True)
 behavior.head()
 
-
-# In[261]:
-
-
 # Write to disk
 molecules.to_csv('molecules.csv')
 behavior.to_csv('behavior.csv')
-
