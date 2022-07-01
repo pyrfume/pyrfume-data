@@ -1,4 +1,4 @@
-# Manifest for OlfactionBase dataset
+# Manifest for OlfactionBase dataset (Sharma et al, 2021, b).
 [source]
 doi = "https://doi.org/10.1093/nar/gkab763"
 title = "OlfactionBase: a repository to explore odors, odorants, olfactory receptors and odorant–receptor interactions."
