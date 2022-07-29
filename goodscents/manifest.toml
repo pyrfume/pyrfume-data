@@ -3,6 +3,7 @@
 doi = ""
 title = "Goodscents Odor Dataset"
 authors = "Contrebande Labs via The Goodscents Company"
+tags = "human;odorCharacter"
 extra = "Originally produced by the Goodscents Company and organized by Contrebande Labs for data science; see LICENSE for use restrictions; Pyrfume developers make no claims concerning copyright"
 
 [raw]

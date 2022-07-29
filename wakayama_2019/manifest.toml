@@ -3,6 +3,7 @@
 doi = "10.1021/acs.iecr.9b01225"
 title = "Method for Predicting Odor Intensity of Perfumery Raw Materials Using Dose–Response Curve Database"
 authors = "H Wakayama, M Sakasai, K Yoshikawa, M Inoue"
+tags = "human;intensity"
 
 [raw]
 wakayama-intensity.txt = "Data scraped from supplemental pdf"

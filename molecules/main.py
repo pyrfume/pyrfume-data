@@ -25,6 +25,7 @@ for archive in archives:
         molecules = pyrfume.load_data(f'{archive}/molecules.csv')
         archive_cids[archive] = molecules.index
 cids = sorted(chain(*archive_cids.values()))
+cids = list(set(cids))
 
 usage = pd.DataFrame(index=cids)
 for archive in archives:
