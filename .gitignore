@@ -146,3 +146,4 @@ dmypy.json
 sharma_2012b_rev1/soups.pkl
 flavornet/data.pkl
 burton_2022/raw/odormappingdata_fullinfo_06_2021.mat
+*.DS_Store*
