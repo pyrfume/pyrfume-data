@@ -3,6 +3,7 @@
 doi = "10.5281/zenodo.4085098"
 title = "Leffingwell Odor Dataset"
 authors = "B Sanchez-Lengeling, JN Wei; BK Lee, RC Gerkin, A Aspuru-Guzik, AB Wiltschko"
+tags = "human;odorCharacter"
 extra = "Originally produced by John Leffingwell and cleaned by Sanchez-Lengeling et al for data science; 'raw' the latter and 'processed' additional work for deposition in Pyrfume; see LICENSE for use restrictions; embeddings not provided in this release"
 
 [raw]

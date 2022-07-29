@@ -1,5 +1,4 @@
-,IsomericSMILES,Raw Labels,Labels
-CID,,,
+CID,IsomericSMILES,Raw Labels,Labels
 0,CC(C)CC(C)(O)C1CCCS1,"Catty, green, lemon, thyme, sulfury, tropical","['green', 'tropical', 'catty', 'lemon', 'sulfurous']"
 0,CCCCC=COC(=O)c1ccco1,"Green, sweet, tropical fruit, faintly caramellic","['caramellic', 'green', 'fruity', 'tropical', 'sweet']"
 0,CCCCC=COC(=O)C(C)CCC,"Green, fruity, apple-like","['green', 'fruity', 'apple', 'tropical']"

@@ -2,7 +2,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 1119,64.07,O=S=O,sulfur dioxide,sulfur dioxide
 313,36.46,Cl,chlorane,hydrochloric acid
 8003,72.15,CCCCC,pentane,pentane
-6556,72.15,CCC(C)C,2-methylbutane,isopentane
+6556,72.15,CCC(C)C,2-methylbutane,2-methylbutane
 8058,86.18,CCCCCC,hexane,hexane
 7892,86.18,CCCC(C)C,2-methylpentane,2-methylpentane
 7282,86.18,CCC(C)CC,3-methylpentane,3-methylpentane
@@ -45,7 +45,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 527,58.08,CCC=O,propanal,propionaldehyde
 261,72.11,CCCC=O,butanal,butyraldehyde
 6561,72.11,CC(C)C=O,2-methylpropanal,isobutyraldehyde
-8063,86.13,CCCCC=O,pentanal,pentanal
+8063,86.13,CCCCC=O,pentanal,valeraldehyde
 11552,86.13,CC(C)CC=O,3-methylbutanal,3-methylbutanal
 6184,100.16,CCCCCC=O,hexanal,hexanal
 8130,114.19,CCCCCCC=O,heptanal,heptanal
@@ -125,7 +125,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6560,74.12,CC(C)CO,2-methylpropan-1-ol,2-methyl-1-propanol
 6568,74.12,CCC(C)O,butan-2-ol,2-butanol
 6276,88.15,CCCCCO,pentan-1-ol,1-pentanol
-11428,88.15,CCC(CC)O,pentan-3-ol,3-pentanol
+22386,88.15,CCCC(C)O,pentan-2-ol,2-pentanol
 31260,88.15,CC(C)CCO,3-methylbutan-1-ol,isoamyl alcohol
 6405,88.15,CCC(C)(C)O,2-methylbutan-2-ol,2-methyl-2-butanol
 8103,102.17,CCCCCCO,hexan-1-ol,1-hexanol
@@ -164,7 +164,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 8029,68.07,C1=COC=C1,furan,furan
 1049,79.10,C1=CC=NC=C1,pyridine,pyridine
 798,117.15,C1=CC=C2C(=C1)C=CN2,1H-indole,indole
-6736,131.17,CC1=CNC2=CC=CC=C12,3-methyl-1H-indole,3-methyl-1h-indole
+6736,131.17,CC1=CNC2=CC=CC=C12,3-methyl-1H-indole,3-methylindole
 6654,136.23,CC1=CCC2CC1C2(C)C,"2,6,6-trimethylbicyclo[3.1.1]hept-2-ene",alpha-pinene
 14896,136.23,CC1(C2CCC(=C)C1C2)C,"6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptane",beta-pinene
 22311,136.23,CC1=CCC(CC1)C(=C)C,1-methyl-4-prop-1-en-2-ylcyclohexene,limonene
@@ -219,7 +219,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 14115,176.30,CCCCCCCC1=CC=CC=C1,heptylbenzene,heptylbenzene
 16607,190.32,CCCCCCCCC1=CC=CC=C1,octylbenzene,octylbenzene
 261,72.11,CCCC=O,butanal,butyraldehyde
-8063,86.13,CCCCC=O,pentanal,pentanal
+8063,86.13,CCCCC=O,pentanal,valeraldehyde
 6184,100.16,CCCCCC=O,hexanal,hexanal
 8130,114.19,CCCCCCC=O,heptanal,heptanal
 454,128.21,CCCCCCCC=O,octanal,octanal
@@ -249,11 +249,11 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 1254,156.26,CC1CCC(C(C1)O)C(C)C,5-methyl-2-propan-2-ylcyclohexan-1-ol,menthol
 8125,112.21,CCCCCCC=C,oct-1-ene,1-octene
 12370,110.20,CCCCCCC#C,oct-1-yne,1-octyne
-6325,28.05,C=C,ethene,ethene
+6325,28.05,C=C,ethene,ethylene
 8252,42.08,CC=C,prop-1-ene,propylene
 7845,54.09,C=CC=C,"buta-1,3-diene","1,3-butadiene"
 6492,132.20,C1C=CC2C1C3CC2C=C3,"tricyclo[5.2.1.02,6]deca-3,8-diene",dicyclopentadiene
-27756,120.19,CC=C1CC2CC1C=C2,5-ethylidenebicyclo[2.2.1]hept-2-ene,5-ethylidene-2-norbornene
+27756,120.19,CC=C1CC2CC1C=C2,5-ethylidenebicyclo[2.2.1]hept-2-ene,16219-75-3
 11,98.96,C(CCl)Cl,"1,2-dichloroethane","1,2-dichloroethane"
 6564,112.98,CC(CCl)Cl,"1,2-dichloropropane","1,2-dichloropropane"
 6389,137.36,C(F)(Cl)(Cl)Cl,trichloro(fluoro)methane,trichlorofluoromethane
