@@ -55,9 +55,9 @@ if not os.path.isfile('compounds.csv'):
         compounds += get_compounds(soup)
     
     df = pd.DataFrame(compounds, columns=['FooDB ID', 'Name', 'CAS'])
-    df.to_csv('compounds.csv') # Save after 1st scrape to avoid having to repeat
+    df.set_index('FooDB ID').to_csv('compounds.csv') # Save after 1st scrape to avoid having to repeat
 else:
-    df = pd.read_csv('compounds.csv', index_col=0)
+    df = pd.read_csv('compounds.csv', index_col=None)
     
 df.head()
 
@@ -69,6 +69,7 @@ if not os.path.isfile('properties.csv'):
         if not np.mod(i, 100): # Write to disk every 100 compounds in case of crash
             pd.DataFrame.from_dict(prop_dict1, orient='index').to_csv('properties.csv')
     properties = pd.DataFrame.from_dict(prop_dict1, orient='index')
+    properties.index.name = 'FooDB ID'
     properties.to_csv('properties.csv') # Save after 1st scrape to avoid having to repeat
 else:
     properties = pd.read_csv('properties.csv', index_col=0)
@@ -86,6 +87,7 @@ if properties.shape[0] != len(df['FooDB ID']):
             if not np.mod(i, 100): # Write to disk every 100 compounds in case of crash
                 pd.DataFrame.from_dict(prop_dict2, orient='index').to_csv('properties2.csv')
         temp = pd.DataFrame.from_dict(prop_dict2, orient='index')
+        temp.index.name = 'FooDB ID'
         temp.to_csv('properties2.csv') # Save after 1st scrape to avoid having to repeat
     else:
         temp = pd.read_csv('properties2.csv', index_col=0)
@@ -95,6 +97,10 @@ if properties.shape[0] != len(df['FooDB ID']):
     os.remove('properties2.csv')
 else:
     print('Scraping complete.')
+
+
+# In[16]:
+
 
 # 71 compounds did not have 'Predicted Properites' listed in the database; will drop
 properties = properties[properties.Scrape == 'ok']
@@ -157,11 +163,12 @@ physics['CID'] = physics.index.map(id_to_cid)
 physics['CID'].fillna(0, inplace=True)
 physics.loc[physics.CID == 0, 'CID'] = physics.loc[physics.CID == 0, 'InChI Key'].map(cids3)
 
-# Remove any remaining missing CIDs then drop any duplicates
+# Remove any remaining missing CIDs, drop non-propties columns, then drop any duplicates
 physics = physics[~(physics.CID == 0)]
 physics = physics.set_index('CID').sort_index()
 physics.index = physics.index.astype(int)
 physics = physics[~physics.index.duplicated()]
+physics.drop(['IUPAC name', 'InChI Identifier', 'InChI Key'], axis=1, inplace=True)
 physics.head()
 
 # Create dataframe for molecules.csv
