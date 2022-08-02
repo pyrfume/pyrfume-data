@@ -1,0 +1,15 @@
+# Manifest for FlavorDb odor descriptors dataset
+[source]
+doi = "https://doi.org/10.1093/nar/gkx957"
+title = "FlavorDB: a database of flavor molecules"
+authors = "N. Garg, A. Sethupathy, R. Tuwani, R. NK, S. Dokania, A. Iyer, A. Gupta, S. Agrawal, N. Singh, S. Shukla, K. Kathuria, R. Badhwar, R. Kanji, A. Jain, A. Kaur, R. Nagpal, G. Bagler"
+extra = "FlavorDB is available at http://cosylab.iiitd.edu.in/flavordb"
+
+[raw]
+X.csv = ""
+LICENSE = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License"
+
+[processed]
+main.py = "Processing workflow"
+molecules.csv = "Information about odorant molecules used"
+behavior.csv = "Odor labels for each molecule"
