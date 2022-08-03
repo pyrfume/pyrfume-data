@@ -6,10 +6,11 @@ authors = "N. Garg, A. Sethupathy, R. Tuwani, R. NK, S. Dokania, A. Iyer, A. Gup
 extra = "FlavorDB is available at http://cosylab.iiitd.edu.in/flavordb"
 
 [raw]
-X.csv = ""
+cids.csv = "Scraped CIDs for molecules in the database; used for scraping percepts for each molecule"
+details.csv = "Scraped percepts for each molecule"
 LICENSE = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License"
 
 [processed]
 main.py = "Processing workflow"
 molecules.csv = "Information about odorant molecules used"
-behavior.csv = "Odor labels for each molecule"
+behavior.csv = "Odor and flavor percepts and modifiers (semi-colon separated) for each molecule"
