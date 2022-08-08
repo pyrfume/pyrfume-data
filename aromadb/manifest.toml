@@ -2,15 +2,16 @@
 [source]
 doi = "http://bioinfo.cimap.res.in/aromadb/"
 title = "AromaDb Odor Dataset"
-authors = "Y. Kumar, O. Prakash, H. Tripathi, S. Tandon, M. M. Gupta, L. Rahman, R. K. Lal, M. Semwal, M. P. Darokar, F. Khan"
+authors = "Y Kumar, O Prakash, H Tripathi, S Tandon, MM Gupta, L Rahman, RK Lal, M Semwal, MP Darokar, F Khan"
+tags = "human;odorCharacter"
 extra = "Originally produced by Kumar et al. 2018 and organized as AromaDb for public use; ; Pyrfume developers make no claims concerning copyright"
 
 [raw]
-AromaDb_raw.csv = "Data as initially scraped from AromaDb"
+"AromaDb_raw.csv" = "Data as initially scraped from AromaDb"
 LICENSE = "Licensing information and use restrictions according to the terms of CSIR-Central Institute of Medicinal & Aromatic Plants"
 
 [processed]
-Scrape_AromaDb.ipynb = "Scrape raw data from AromaDb"
-main.py = "Processing workflow"
-molecules.csv = "Information about odorant molecules used"
-behavior.csv = "Odor labels for each molecule (all labels comma separated in single column)"
+"Scrape_AromaDb.ipynb" = "Scrape raw data from AromaDb"
+"main.py" = "Processing workflow"
+"molecules.csv" = "Information about odorant molecules used"
+"behavior.csv" = "Odor labels for each molecule (all labels comma separated in single column)"

@@ -7,11 +7,12 @@ tags = "human;odorCharacter;academic"
 extra = "Originally compiled by Dravnieks, digitization performed by Alice Roche (molecules, Bensafi lab) and Rafi Haddad (behavior, Sobel lab) to produce 'raw' material; mixtures subsequently removed in processing pipeline.  See also Dravnieks, 1982 (Science) for description of the 'applicability' and 'use' measures."
 
 [raw]
-Dravnieks_molecules.csv = "Information about stimuli in Dravnieks, 1985 as digitized by Bensafi lab"
-DravnieksGrid.xlsx = "Information about behavioral data in Dravnieks, 1985 as diitized by Sobel lab"
+"Dravnieks_molecules.xlsx" = "Information about stimuli in Dravnieks, 1985 as digitized by Bensafi lab"
+"DravnieksGrid.xlsx" = "Information about behavioral data in Dravnieks, 1985 as diitized by Sobel lab"
 
 [processed]
-main.ipynb = "Processing workflow"
-molecules.csv = "Molecules used"
-behavior_1.csv = "Applicability of descriptors (average across panelists)"
-behavior_2.csv = "Use of descriptors (average across panelists)"
+"main.py" = "Processing workflow"
+"molecules.csv" = "Molecules used"
+"identifiers.csv" = "Stimuls mapped to CID and experimental conditions"
+"behavior_1.csv" = "Applicability of descriptors (average across panelists)"
+"behavior_2.csv" = "Use of descriptors (average across panelists)"
