@@ -15,9 +15,9 @@ extra = "All raw files available at https://github.com/TeamAlbeanu/mosaic_repres
 "./mosaic_representations/MT_cell/tufted_cells/th_field_of_view_1.mat" = "cellular data, for the 55 odorant panel; @ HIGH concentration"
 
 [processed]
-"pyrfumeData/main.py" = "Processing workflow"
-"pyrfumeData/behavior_1.csv" = "dF/F responses for all glomerular data, in long format (all subjects & conditions)"
-"pyrfumeData/behavior_2.csv" = "dF/F responses for all mitral cells in the 33 odorant panel experiments; long format"
-"pyrfumeData/behavior_3.csv" = "dF/F responses for all mitral cells in the 55 odorant panel experiments; long format"
-"pyrfumeData/behavior_4.csv" = "dF/F responses for all tufted cells (55 odorant panel); long format"
-"pyrfumeData/molecules.csv" = "Merged list of molecules used across all experiments (glom, mitral33, mitral55, tufted)"
+"main.py" = "Processing workflow"
+"behavior_1.csv" = "dF/F responses for all glomerular data, in long format (all subjects & conditions)"
+"behavior_2.csv" = "dF/F responses for all mitral cells in the 33 odorant panel experiments; long format"
+"behavior_3.csv" = "dF/F responses for all mitral cells in the 55 odorant panel experiments; long format"
+"behavior_4.csv" = "dF/F responses for all tufted cells (55 odorant panel); long format"
+"molecules.csv" = "Merged list of molecules used across all experiments (glom, mitral33, mitral55, tufted)"
