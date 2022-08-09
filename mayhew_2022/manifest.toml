@@ -2,18 +2,17 @@
 [source]
 doi = "10.1073/pnas.2116576119"
 title = "Drawing the Borders of Olfactory Space"
-authors = "E.J. Mayhew, C. J. Arayata, R. C. Gerkin, B. K. Lee, M. Magill, L. L. Snyder, K. A. Little, C. W. Yu, J. D. Mainland"
+authors = "EJ Mayhew, CJ Arayata, RC Gerkin, BK Lee, M Magill, LL Snyder, KA Little, CW Yu, JD Mainland"
 tags = "human;academic"
 extra = "Copyright 2021 Emily Mayhew, Rick Gerkin, Brian Lee, Joel Mainland"
 
 [raw]
-"tables/S1.csv" = "Molecules used for training and testing, and model probabilities"
-"tables/S2.csv" = "Behavioral results"
-"tables/S3.csv" = "Model probabilities for a random subset of GDB-17"
-LICENSE = ""
+"S1.csv" = "Molecules used for training and testing, and model probabilities"
+"S2.csv" = "Behavioral results"
+"S3.csv" = "Model probabilities for a random subset of GDB-17"
 
 [processed]
-main.py = "Processing workflow"
-molecules.csv = "Information about odorant molecules used"
-behavior_1.csv = "Data from S1.csv minus Dragon desriptors, indexed on CID"
-behavior_2.csv = "Data from s3.csv; indexed on SMILES"
+"main.py" = "Processing workflow"
+"molecules.csv" = "Information about odorant molecules used"
+"behavior_1.csv" = "Data from S1.csv minus Dragon desriptors, indexed on CID"
+"behavior_2.csv" = "Data from s3.csv; indexed on SMILES"

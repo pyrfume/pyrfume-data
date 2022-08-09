@@ -7,10 +7,10 @@ tags = "human;intensity;pleasantness;mixtures;academic"
 extra = "Originally described in https://doi.org/10.1016/j.dib.2021.107143; also related to 10.1093/chemse/bjaa020."
 
 [raw]
-data_in_brief_V2.xlsx = "This dataset gathered data collected on a set of 222 binary mixtures, based on a set of 72 odorants chiefly found in food, rated by 30 selected and trained assessors for odor intensity and pleasantness."
+"data_in_brief_V2.xlsx" = "This dataset gathered data collected on a set of 222 binary mixtures, based on a set of 72 odorants chiefly found in food, rated by 30 selected and trained assessors for odor intensity and pleasantness."
 
 [processed]
-main.ipynb = "Processing workflow"
-molecules.csv = "Molecules used"
-mixtures.csv = "Concentrations, solvents, and purities of components"
-behavior.csv = "Intensity and pleasantness of components and mixtures"
+"main.py" = "Processing workflow"
+"molecules.csv" = "Molecules used"
+"mixtures.csv" = "Concentrations, solvents, and purities of components"
+"behavior.csv" = "Intensity and pleasantness of components and mixtures"

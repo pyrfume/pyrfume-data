@@ -2,17 +2,17 @@
 [source]
 doi = "10.1073/pnas.1117491109"
 title = "Distributed representation of chemical features and tunotopic organization of glomeruli in the mouse olfactory bulb"
-authors = "L. Ma, Q. Qiu, S. Gradwohl, A. Scott, E. Q. Yu, R. Alexander, W. Wiegraebe, C. R. Yu"
+authors = "L Ma, Q Qiu, S Gradwohl, A Scott, EQ Yu, R Alexander, W Wiegraebe, CR Yu"
+tags = "rodent;receptorResponse;academic"
 extra = "5 in-lab odor abbreviatons (ALBE, HXA, FO, HXM, HPL) in the deltaF/F data are not listed in the published table of odorants used, so there is no way to identify these 5 odorants and they have been dropped from the processed output files."
 
 [raw]
-sd01.xlsx = "Supplementary data file 1. Contains odor names, their functional group, and their ability to elicit response from the dorsal olfactory bulb. Odors used to map spatial representation of chemical features were listed with their odor ID and chemical structures."
-sd02.xls = "Supplementary data file 2. Numerical data for all imaging experiments used in the published manuscript."
-LICENSE = ""
+"sd01.xlsx" = "Supplementary data file 1. Contains odor names, their functional group, and their ability to elicit response from the dorsal olfactory bulb. Odors used to map spatial representation of chemical features were listed with their odor ID and chemical structures."
+"sd02.xls" = "Supplementary data file 2. Numerical data for all imaging experiments used in the published manuscript."
 
 [processed]
-main.py = "Processing workflow"
-molecules.csv = "Information about odorant molecules used"
-behavior_1.csv = "Odorant dorsal response data. Original indicators None, *, **, *** were mapped to 0, 1, 2, 3, respectively."
-behavior_2.csv = "X and Y coordinates of glomeruli, DeltaF/F, and 'artifact' indexed on CID, Experiment, Glom #, and odor concentration (% of satuated vapor). The boolean 'artifact' indicates whether motion artifact is present in the data point (1 is artifact present, 0 otherwise). Artifact free data can be selected from full data set using df[~df['Artifact']]."
-identifiers.csv = "Indexed on CID; maps CIDs to in-lab odor abbreviations."
+"main.py" = "Processing workflow"
+"molecules.csv" = "Information about odorant molecules used"
+"behavior_1.csv" = "Odorant dorsal response data. Original indicators None, *, **, *** were mapped to 0, 1, 2, 3, respectively."
+"behavior_2.csv" = "X and Y coordinates of glomeruli, DeltaF/F, and 'artifact' indexed on CID, Experiment, Glom #, and odor concentration (% of satuated vapor). The boolean 'artifact' indicates whether motion artifact is present in the data point (1 is artifact present, 0 otherwise). Artifact free data can be selected from full data set using df[~df['Artifact']]."
+"identifiers.csv" = "Indexed on CID; maps CIDs to in-lab odor abbreviations."

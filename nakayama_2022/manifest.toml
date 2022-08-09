@@ -1,4 +1,4 @@
-# Manifest for Dravnieks, 1985 data
+# Manifest for Nakayama, 2022 data
 [source]
 doi = "10.1520/DS61-EB"
 title = "A behavioral paradigm for measuring perceptual distances in mice"
@@ -6,12 +6,12 @@ authors = "H Nakayama, RC Gerkin, D Rinberg"
 tags = "rodent;odorCharacter;academic"
 
 [raw]
-data_odorset1.pkl = "Behavioral data for experiment 1. Concentration refers to low (0) or high (1), as indicated in the paper."
-data_odorset2.pkl = "Same as above, but for experiment 2."
-data_odorset3.pkl = "Same as above, but for experiment 3."
+"data_odorset1.pkl" = "Behavioral data for experiment 1. Concentration refers to low (0) or high (1), as indicated in the paper."
+"data_odorset2.pkl" = "Same as above, but for experiment 2."
+"data_odorset3.pkl" = "Same as above, but for experiment 3."
 
 [processed]
-main.py = "Processing workflow"
-molecules.csv = "Molecules used"
-identifiers.csv = "CIDs and concentrations for each stimulius (single odorants and binary mixtures)"
-behavior.csv = "Go-NoGo response for each stimulus, mouse, and inter-stimulus interval"
+"main.py" = "Processing workflow"
+"molecules.csv" = "Molecules used"
+"identifiers.csv" = "CIDs and concentrations for each stimulius (single odorants and binary mixtures)"
+"behavior.csv" = "Go-NoGo response for each stimulus, mouse, and inter-stimulus interval"

@@ -6,9 +6,9 @@ authors = "H Wakayama, M Sakasai, K Yoshikawa, M Inoue"
 tags = "human;intensity"
 
 [raw]
-wakayama-intensity.txt = "Data scraped from supplemental pdf"
+"wakayama-intensity.txt" = "Data scraped from supplemental pdf"
 
 [processed]
-main.py = "Processing workflow"
-molecules.csv = "Molecules used"
-behavior.csv = "Supratheshold intensity curve parameters"
+"main.py" = "Processing workflow"
+"molecules.csv" = "Molecules used"
+"behavior.csv" = "Supratheshold intensity curve parameters"
