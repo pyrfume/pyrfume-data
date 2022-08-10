@@ -11,8 +11,10 @@ extra = "Originally compiled by Dravnieks, digitization performed by Alice Roche
 "DravnieksGrid.xlsx" = "Information about behavioral data in Dravnieks, 1985 as diitized by Sobel lab"
 
 [processed]
-"main.py" = "Processing workflow"
 "molecules.csv" = "Molecules used"
-"identifiers.csv" = "Stimuls mapped to CID and experimental conditions"
+"stimuli.csv" = "Stimuls mapped to CID and experimental conditions"
 "behavior_1.csv" = "Applicability of descriptors (average across panelists)"
 "behavior_2.csv" = "Use of descriptors (average across panelists)"
+
+[code]
+"main.py" = "Processing workflow"
