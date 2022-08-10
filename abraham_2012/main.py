@@ -64,9 +64,11 @@ behavior = df.groupby('CID').mean()
 behavior['Duplicates'] = counts - 1
 
 behavior.sort_index(inplace=True)
+behavior.index.name = 'Stimulus'
 behavior.head()
 
 # Save this to the behavior file
+# behavior.index.name = 'Stimulus'
 behavior.to_csv('behavior.csv')
 
 # Get molecular data from PubChem (for consistency)
@@ -82,3 +84,8 @@ assert behavior.index.equals(molecules.index)
 
 # Save this to the molecules file
 molecules.to_csv('molecules.csv')
+
+# All stimuli are CIDs
+stimuli = pd.DataFrame(molecules.index, index=molecules.index.tolist())
+stimuli.index.name = 'Stimulus'
+stimuli.to_csv('stimuli.csv')
