@@ -203,26 +203,29 @@ subj_dict = {}
 for exp in resp_mat.keys():
     subj_dict[exp] = {'Mouse ID': exp[:-1], 'Hemisphere': exp[-1]}
     
-subjects = pd.DataFrame.from_dict(subj_dict, orient='index').sort_index()
-subjects.index.names = ['Subject']
-subjects.head()
+# Add in ROI coordinates
+subjects = pd.concat(ROIPos, axis=0).reset_index()
+subjects.rename(columns={'level_0': 'Experiment', 'Row': 'ROI#'}, inplace=True)
+subjects['ROI#'] = subjects['ROI#'].str.split(' ').str[1].astype(int)
 
-# Data for rois.csv
-rois = pd.concat(ROIPos, axis=0).reset_index()
-rois.rename(columns={'level_0': 'Subject', 'Row': 'ROI#'}, inplace=True)
-rois['ROI#'] = rois['ROI#'].str.split(' ').str[1].astype(int)
-rois = rois.set_index(['Subject', 'ROI#']).sort_index()
-rois.head()
+subjects['Temp'] = subjects.Experiment.map(subj_dict)
+subjects['Mouse ID'] = subjects.Temp.apply(lambda d: d['Mouse ID'])
+subjects['Hemisphere'] = subjects.Temp.apply(lambda d: d['Hemisphere'])
+subjects['Subject'] = subjects['Experiment'] + '_' + subjects['ROI#'].astype(str).str.zfill(3)
+
+subjects = subjects.set_index('Subject').sort_index()
+subjects = subjects[['Experiment', 'Mouse ID', 'Hemisphere', 'ROI#', 'Xpos', 'Ypos']]
+subjects.head()
 
 # Create dataframe from response matrices -> behavior_1.csv
 resp_mat_dict = {}
 for key, mat in resp_mat.items():
     tmp = pd.DataFrame(mat)
     tmp.columns = [cids[odorant_names[i]] for i in tmp.columns]
-    tmp['Subject'] = key
+    tmp['Experiment'] = key
     tmp.reset_index(inplace=True)
     tmp['index'] = tmp['index'] + 1
-    tmp = tmp.melt(id_vars=['index', 'Subject'], var_name='CID', value_name='DeltaF', ignore_index=False)
+    tmp = tmp.melt(id_vars=['index', 'Experiment'], var_name='CID', value_name='DeltaF', ignore_index=False)
     tmp.rename(columns={'index': "ROI#"}, inplace=True)
     resp_mat_dict[key] = tmp
 
@@ -230,11 +233,12 @@ for key, mat in resp_mat.items():
 behav1 = pd.concat(resp_mat_dict, axis=0)
 behav1.reset_index(drop=True, inplace=True)
 
-# Add stimulus for indexing
-behav1['Tmp'] = list(zip(behav1['CID'], behav1['Subject'].str[:-1]))
+# Add stimulus and subject for indexing
+behav1['Tmp'] = list(zip(behav1['CID'], behav1['Experiment'].str[:-1]))
 behav1['Stimulus'] = behav1['Tmp'].map(cid_to_stim)
-behav1 = behav1.set_index(['Stimulus', 'Subject', 'ROI#']).sort_index()
-behav1.drop(['CID', 'Tmp'], axis=1, inplace=True)
+behav1['Subject'] = behav1['Experiment'] + '_' + behav1['ROI#'].astype(str).str.zfill(3)
+behav1 = behav1.set_index(['Stimulus', 'Subject']).sort_index()
+behav1.drop(['CID', 'Tmp', 'ROI#', 'Experiment'], axis=1, inplace=True)
 behav1.head()
 
 # Data for diagnostic odorants and functionally-identifiable glomeruli. Split into two dataframes, one for 
@@ -282,13 +286,13 @@ for subj in resp_mat.keys():
         file_name = im_dir + '/' + subj[:-1] + '_' + odor.replace(' ', '_') + '.csv'
         im_data_dict[(cids[odor], subj)] = [subj, file_name]
     
-images = pd.DataFrame.from_dict(im_data_dict, orient='index', columns=['Subject', 'ImagePath'])
+images = pd.DataFrame.from_dict(im_data_dict, orient='index', columns=['Experiment', 'ImagePath'])
 images.index = pd.MultiIndex.from_tuples(images.index)
 images.reset_index(inplace=True)
-images['Tmp'] = list(zip(images['level_0'], images['Subject'].str[:-1]))
+images['Tmp'] = list(zip(images['level_0'], images['Experiment'].str[:-1]))
 images['Stimulus'] = images['Tmp'].map(cid_to_stim)
 images.drop(['level_0', 'level_1', 'Tmp'], axis=1, inplace=True)
-images = images.set_index(['Stimulus', 'Subject']).sort_index()
+images = images.set_index(['Stimulus', 'Experiment']).sort_index()
 images.head()
 
 # write to disk
@@ -299,4 +303,3 @@ behav2.to_csv('behavior_2.csv')
 behav3.to_csv('behavior_3.csv')
 subjects.to_csv('subjects.csv')
 stimuli.to_csv('stimuli.csv')
-rois.to_csv('rois.csv')
