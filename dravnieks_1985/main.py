@@ -43,7 +43,11 @@ behavior_2.to_csv('behavior_2.csv')
 
 behavior_2.head()
 
-molecules = pd.DataFrame(from_cids(raw['CID'].dropna().tolist())).set_index('CID')
+molecules = pd.DataFrame(from_cids(raw['CID'].dropna().tolist())).set_index('CID').sort_index()
+
+molecules = molecules[~molecules.index.duplicated()]
+molecules.head()
+
 molecules.to_csv('molecules.csv')
 
 stimuli = raw[['CAS', 'CID', 'Conc']].copy()
