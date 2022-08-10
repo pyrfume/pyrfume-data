@@ -11,7 +11,10 @@ extra = "Originally produced by Kumar et al. 2018 and organized as AromaDb for p
 LICENSE = "Licensing information and use restrictions according to the terms of CSIR-Central Institute of Medicinal & Aromatic Plants"
 
 [processed]
-"Scrape_AromaDb.ipynb" = "Scrape raw data from AromaDb"
-"main.py" = "Processing workflow"
 "molecules.csv" = "Information about odorant molecules used"
 "behavior.csv" = "Odor labels for each molecule (all labels comma separated in single column)"
+"stimuli.csv" = "Maps stimulus to CID"
+
+[code]
+"Scrape_AromaDb.ipynb" = "Scrape raw data from AromaDb"
+"main.py" = "Processing workflow"

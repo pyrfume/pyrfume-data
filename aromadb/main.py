@@ -11,8 +11,8 @@ import pyrfume
 # after scraping I manually added the "Refined Descriptors" column to handle basic non-uniformity
 # of raw descriptors, change English spellings to American, and correct some spelling errors
 
-# read raw data from initial scrape, drop entries with no odor descriptors
-dfRaw = pd.read_csv('AromaDb_raw.csv', index_col=0, keep_default_na=False, na_values=['']).dropna(subset=['Refined Descriptors'])
+# read raw data from initial scrape, drop entries with no odor descriptors, drop duplicate rows
+dfRaw = pd.read_csv('AromaDb_raw.csv', index_col=0, keep_default_na=False, na_values=[''])     .dropna(subset=['Refined Descriptors']).drop_duplicates(subset='CID')
 
 # Get standard information from PubChem for the CIDs
 cids = dfRaw['CID'].tolist()
@@ -20,6 +20,7 @@ info_dict = pyrfume.from_cids(cids)
 
 # create dataframe for molecules
 molecules = pd.DataFrame(info_dict).set_index('CID').sort_index()
+molecules = molecules.loc[~molecules.index.duplicated()] # Remove duplicate rows
 molecules.head()
 
 # spellcheck for descriptors; edit 'Refined Descriptor' column of AromaDb_raw.csv as needed
@@ -35,13 +36,13 @@ for tmp in spell.unknown(odors):
     for w in tmp.split(' '):
         if w not in spell: print(w, '->', spell.correction(w), '?')
 
-
 # use .value_counts() to assist in standardizing similar descriptors
 df_temp = pd.DataFrame(odors)
 pd.set_option("display.max_rows", None)
 df_temp.value_counts().sort_values().sort_index()
 
 # merge similar descriptors and separate modifies; use results from .value_counts() above
+
 # modifier list
 mods = ['faint', 'heavy', 'mild', 'slightly', 'slight', 'weak', 'penetrating']
 
@@ -99,6 +100,7 @@ def separate_modifiers(odors, mod_list):
 
 # create dataframe for behavior
 behavior = dfRaw.copy().drop(['Molecule Name'], axis=1).set_index('CID').sort_index()
+behavior.index.name = 'Stimulus'
 
 # final stage of filtering for descriptors
 behavior['Filtered Descriptors'] = behavior.apply(lambda row: final_filter(row['Refined Descriptors'], repl, mods), axis=1)
@@ -108,6 +110,14 @@ behavior['Modifiers'] = behavior.apply(lambda row: separate_modifiers(row['Refin
 
 behavior.drop(['Refined Descriptors'], axis=1).head()
 
+behavior[behavior.index.duplicated(keep=False)].shape
+
+# Create dataframe for stimulus.csv; All stimuli are CID
+stimuli = pd.DataFrame(molecules.index, index=molecules.index.tolist())
+stimuli.index.name = 'Stimulus'
+stimuli.head()
+
 # write to disk
 molecules.to_csv('molecules.csv')
 behavior.drop(['Refined Descriptors'], axis=1).to_csv('behavior.csv')
+stimuli.to_csv('stimuli.csv')
