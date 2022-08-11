@@ -37,7 +37,7 @@ pages =  [t.text for t in table.find_all('a') if 'html' in t.text]
 
 # Scrape to get data for all odorants
 # Pickle after 1st full scrape to avoid having to repeat
-if not os.path.isfile('data.pkl'):
+if not os.path.isfile('scraped_data.pkl'):
     data_dict = {}
     for page in pages:
         cas = page.split('.')[0]
@@ -47,11 +47,11 @@ if not os.path.isfile('data.pkl'):
         except:
             data_dict[cas] = {'CAS': None, 'MW': None, 'Odors': None, 'Names': 'No data returned'}
     
-    with open('data.pkl', 'wb') as file:
+    with open('scraped_data.pkl', 'wb') as file:
         pickle.dump(data_dict, file)
 
 else:    
-    with open('data.pkl', "rb") as file:
+    with open('scraped_data.pkl', "rb") as file:
         data_dict = pickle.load(file)
 
 # As sanity check, I compared the CAS# from the list of pages to what was actually on the page and all match

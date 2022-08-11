@@ -7,7 +7,7 @@ tags = "human;odorCharacter"
 extra = "Flavornet by Terry Acree & Heinrich Arn, http://www.flavornet.org, © Datu Inc., 2004"
 
 [raw]
-"data.pkl" = "Results of web scrape, in pickle form"
+"scraped_data.pkl" = "Results of web scrape, in pickle form"
 
 [processed]
 "molecules.csv" = "Information about odorant molecules used"
