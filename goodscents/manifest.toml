@@ -14,9 +14,11 @@ LICENSE = "Licensing information and use restrictions according to the terms of 
 
 [processed]
 "README.md" = "Additional information about this archive"
-"main.py" = "Processing workflow"
 "opl.csv" = "Molecular structure data"
 "molecules.csv" = "Information about odorant molecules used"
 "identifiers.csv" = "Mappings between PubChem IDs and GoodScents IDs"
 "behavior.csv" = "Odor labels for each molecule (one column per label)"
 "behavior_sparse.csv" = "Odor labels for each molecule (single column)"
+
+[code]
+"main.py" = "Processing workflow"
