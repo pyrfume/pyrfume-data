@@ -1,17 +1,5 @@
-# ---
-# jupyter:
-#   jupytext:
-#     formats: ipynb,py
-#     text_representation:
-#       extension: .py
-#       format_name: light
-#       format_version: '1.5'
-#       jupytext_version: 1.10.3
-#   kernelspec:
-#     display_name: Python 3
-#     language: python
-#     name: python3
-# ---
+#!/usr/bin/env python
+# coding: utf-8
 
 import pandas as pd
 import pyrfume
@@ -26,15 +14,28 @@ behavior = keller.format_bmc_data(raw,
                                   only_dream_subjects=False,  # Whether to only keep DREAM subjects
                                   only_dream_descriptors=False,  # Whether to only keep DREAM descriptors
                                   only_dream_molecules=False)  # Whether to only keep DREAM molecules))
+
 behavior.head()
 
 cids = behavior.index.unique(level='CID')
 molecules = pd.DataFrame(from_cids(cids))
+molecules = molecules.set_index('CID').sort_index()
 
-molecules.set_index('CID').to_csv('molecules.csv')
+molecules = molecules[~molecules.index.duplicated()] # Remove duplicates if any
+molecules.head()
 
 behavior.index = behavior.index.reorder_levels([1, 0, 2, 3]) # Put CID first
-
 behavior = behavior.sort_index(level=0) # Sort by CID ascending
+behavior.index.rename('Stimulus', level='CID', inplace=True)
+behavior.head()
 
+# Create dataframe for stimuli.csv; all stimului are CIDs
+stimuli = pd.DataFrame(molecules.index, index=molecules.index)
+stimuli.index.name = 'Stimulus'
+stimuli.head()
+
+# Write to file
 behavior.to_csv('behavior.csv')
+molecules.to_csv('molecules.csv')
+stimuli.to_csv('stimuli.csv')
+
