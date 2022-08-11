@@ -12,6 +12,9 @@ extra = "FlavorDB is available at http://cosylab.iiitd.edu.in/flavordb"
 LICENSE = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License"
 
 [processed]
-"main.py" = "Processing workflow"
 "molecules.csv" = "Information about odorant molecules used"
+"stimuli.csv" = "Maps stimulus to CID"
 "behavior.csv" = "Odor and flavor percepts and modifiers (semi-colon separated) for each molecule"
+
+[code]
+"main.py" = "Processing workflow"
