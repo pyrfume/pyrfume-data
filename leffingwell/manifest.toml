@@ -12,7 +12,10 @@ extra = "Originally produced by John Leffingwell and cleaned by Sanchez-Lengelin
 LICENSE = "Licensing information and use restrictions according to the terms of John Leffingwell and Google"
 
 [processed]
-"main.py" = "Processing workflow"
 "molecules.csv" = "Information about odorant molecules used"
 "behavior.csv" = "Odor labels for each molecule (one column per label)"
 "behavior_sparse.csv" = "Odor labels for each molecule (single column)"
+"stimuli.csv" = "Maps stimulus to CID, negative numbers assigned to compounds without CIDs"
+
+[code]
+"main.py" = "Processing workflow"
