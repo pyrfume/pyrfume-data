@@ -155,7 +155,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 75605,139.58,CN(C)CC(=O)O.Cl,2-(dimethylamino)acetic acid;hydrochloride,"n,n-dimethylglycine hydrochloride"
 77743,105.20,CSCCCN,3-methylsulfanylpropan-1-amine,3-(methylthio)propylamine
 78867,132.16,C1=CC2=C(C=CN2)C=C1N,1H-indol-5-amine,5-aminoindole
-80865,174.19,CCOC(=O)CC1(OCCO1)C,"ethyl 2-(2-methyl-1,3-dioxolan-2-yl)acetate",6413-10-1
+80865,174.19,CCOC(=O)CC1(OCCO1)C,"ethyl 2-(2-methyl-1,3-dioxolan-2-yl)acetate","ethyl 2-(2-methyl-1,3-dioxolan-2-yl)acetate"
 85755,168.28,CC1=CCC(CC1)C(C)(C)OC,4-(2-methoxypropan-2-yl)-1-methylcyclohexene,14576-08-0
 90776,166.26,CC(CCC=C(C)C)C(=C)C=O,"3,7-dimethyl-2-methylideneoct-6-enal",22418-66-2
 90978,220.35,CC1(CCC(=O)C2C13CCC(C3)C2(C)C)C,"2,2,8,8-tetramethyl-octahydro-1H-2,4a-methanonapthalen-10-one",isolongifolone
