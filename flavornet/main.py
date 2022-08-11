@@ -104,6 +104,7 @@ mol_dict = pyrfume.from_cids(all_cids)
 
 # Create dataframe for molecules.csv
 molecules = pd.DataFrame(mol_dict).set_index('CID').sort_index()
+molecules = molecules[~molecules.index.duplicated()] # Remove duplicate rows
 molecules.head()
 
 # Check odor descriptors for spelling
@@ -117,7 +118,7 @@ for tmp in spell.unknown(odors):
         if w not in spell: print(w, '->', spell.correction(w), '?')
 
 spell_repl = {'terpentine': 'turpentine'}
-for w1, w2 in spell_replace.items():
+for w1, w2 in spell_repl.items():
     idx = np.where(np.array(odors) == w1)[0]
     for i in idx:
         odors[i] = w2
@@ -156,8 +157,16 @@ behavior = behavior.groupby(level=0).agg(sum)
 # Apply filtering function to odor descriptors
 behavior['Descriptors'] = behavior.apply(lambda row: filter_odors(row['Odors'], spell_repl, repl), axis=1)
 behavior.drop('Odors', axis=1, inplace=True)
+behavior.index.name = 'Stimulus'
 behavior.head()
+
+# Create dataframe for stimuli.csv; all simuli are CIDs
+stimuli = pd.DataFrame(molecules.index, index=molecules.index)
+stimuli.index.name = 'Stimulus'
+stimuli.head()
 
 # Write to disk
 molecules.to_csv('molecules.csv')
 behavior.to_csv('behavior.csv')
+stimuli.to_csv('stimuli.csv')
+

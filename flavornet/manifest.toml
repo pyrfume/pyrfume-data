@@ -7,8 +7,12 @@ tags = "human;odorCharacter"
 extra = "Flavornet by Terry Acree & Heinrich Arn, http://www.flavornet.org, © Datu Inc., 2004"
 
 [raw]
+"data.pkl" = "Results of web scrape, in pickle form"
 
 [processed]
-"main.py" = "Processing workflow. Data is scraped here directly from the Flavornet website to created the output files below"
 "molecules.csv" = "Information about odorant molecules used"
 "behavior.csv" = "Odor labels for each molecule (all labels semicolon separated in single column)"
+"stimuli.csv" = "Maps stimulus to CID"
+
+[code]
+"main.py" = "Processing workflow. Data is scraped here directly from the Flavornet website to created the output files below"
