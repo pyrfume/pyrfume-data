@@ -1,4 +1,39 @@
 CID,MolecularWeight,IsomericSMILES,IUPACName,name
+-35,188.33600000000018,CC(C)CC(C)(O)C1CCCS1,,Isopropylmethyltetrahydrothiophenyl-ethanol
+-34,300.39499999999947,CCCCCCCCC(=O)C(=O)OC(=C(C)C)C(O)CO,,Isopropylideneglyceryl oxodecanoate
+-33,224.3440000000002,CCCCC=COC(=O)C=CCCCCC,,Hexenyl octenoate
+-32,222.35000000000016,CCCC(CCOC)[SH]=C(O)OCC,,Ethyl S-(1-methoxyhexan-3-yl)carbonothioate
+-31,188.33600000000015,CCCCCCCCC(S)C=O,,Mercaptodecanal
+-30,148.27100000000013,CCCC(S)COCC,,Ethoxymethylbutanethiol
+-29,212.28900000000016,CC1=C(OC(=O)CO)CC(C(C)C)CC1,,Hydroxyacetoxymenthene
+-28,340.50399999999934,CCCCCCCC=CC(=O)OC(CCCCCCCC)C(=O)O,,Decenoyloxydecanoic acid
+-27,182.26300000000015,CCC=CC(=O)OC=CCCCC,,Hexenyl pentenoate
+-26,228.37600000000023,CCCC=CC(OCCCC)OCCCC,,Hexenal dibutyl acetal
+-25,164.2040000000001,CC(C)C=C(C=O)c1ccco1,,Isopropylfurylpropenal
+-24,212.3140000000001,CCCC(=O)CCSCc1ccco1,,Furfurylthiomethylpentanone
+-23,228.37600000000023,CCCCC(C)C(C)(C)OC(=O)CC(C)C,,Trimethylhexyl isovalerate
+-22,198.30600000000018,CCC(=O)OC1(C)CCCCC1(C)C,,Trimethylcyclohexyl propionate
+-21,196.29000000000016,CC(=O)OCC1C=CC(C(C)C)CC1,,Tetrahydrocuminyl acetate
+-20,226.3600000000002,CCCCCCCC=COC(=O)CC(C)C,,Nonenyl isovalerate
+-19,170.25200000000015,CC=CCOC(=O)C(C)CCC,,Methylallyl methylvalerate
+-18,258.3580000000001,CCCCCCCCCCC(OC=O)C(=O)OC,,Methyl formyloxydodecanoate
+-17,244.3310000000002,CCCCCCCCC(OC(C)=O)C(=O)OC,,Methyl acetoxydecanoate
+-16,240.38700000000023,CCCCC=COC(=O)CCCCCCCC,,Hexenyl nonanoate
+-15,198.30600000000018,CCCCC=COC(=O)C(C)CCC,,Hexenyl methylvalerate
+-14,194.2300000000001,CCCCC=COC(=O)c1ccco1,,Hexenyl furoate
+-13,220.26800000000011,CCOC(=O)C1(c2ccccc2)OC1CC,,Ethyl ethylphenylglycidate
+-12,214.34900000000022,CCCCCCCCC=CC(OC)OC,,Undecenal dimethyl acetal
+-11,166.26400000000015,CC(=C(C=O)CC1CC1)C(C)C,,Dimethylcyclopropylmethylpentenal
+-10,174.2650000000001,CC(=S)OC1(C)OCCC1C,,Dimethyltetrahydrofuryl thioacetate
+-9,262.39300000000003,CCCCCCCCCC(=O)Oc1ccccc1C,,Tolyl decanoate
+-8,188.3110000000002,CCCOC(CC)OC(C)CCC,,Propanal methylbutyl propyl acetal
+-7,186.32000000000014,CC=CC1(C)CCOSC1(C)C,,Methylpropenyldimethyloxathiane
+-6,216.3270000000001,CCC(=O)C(C)SSc1ccco1,,Methylfuryldithiobutanone
+-5,194.36500000000015,CCCSC(O)(CS)CCC,,Mercaptomethylpropylthiobutanol
+-4,132.25300000000001,SCC1CC=CS1,,Mercaptomethyldihydrothiophene
+-3,148.2270000000001,CCCC(CS)OC=O,,Mercaptomethylbutyl formate
+-2,188.3110000000002,CCCCCC(OCC)OCCC,,Hexanal ethyl propyl acetal
+-1,246.3940000000002,CCCCCCCCC=CC=CC=CC=CC=O,,Heptadecatetraenal
 4,75.11,CC(CN)O,1-aminopropan-2-ol,1-aminopropan-2-ol
 58,102.09,CCC(=O)C(=O)O,2-oxobutanoic acid,2-oxobutanoic acid
 98,120.13,C(C(=O)C(=O)O)S,2-oxo-3-sulfanylpropanoic acid,3-mercaptopyruvic acid
@@ -3285,7 +3320,6 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 53230316,222.26,CC1=CC(=C(O1)C)SC(=O)C2=COC=C2,"S-(2,5-dimethylfuran-3-yl) furan-3-carbothioate",65505-16-0
 53401860,226.35,CCCCCCCCCC=CC(=O)OCC,ethyl dodec-2-enoate,ethyl dodec-2-enoate
 53421444,216.36,CCCCC(OCC(C)C)OCC(C)C,"1,1-bis(2-methylpropoxy)pentane","1,1-bis(2-methylpropoxy)pentane"
-53422435,174.28,CCC(OCC)OCCC(C)C,1-(1-ethoxypropoxy)-3-methylbutane,1-(1-ethoxypropoxy)-3-methylbutane
 53422435,174.28,CCC(OCC)OCCC(C)C,1-(1-ethoxypropoxy)-3-methylbutane,1-(1-ethoxypropoxy)-3-methylbutane
 53422437,188.31,CCCCCOC(CCC)OCC,1-(1-ethoxybutoxy)pentane,1-(1-ethoxybutoxy)pentane
 53422438,160.25,CCCOC(C(C)C)OCC,1-ethoxy-2-methyl-1-propoxypropane,1-ethoxy-2-methyl-1-propoxypropane

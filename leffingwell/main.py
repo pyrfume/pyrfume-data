@@ -72,17 +72,19 @@ df['MolecularWeight'] = df['MolecularWeight'].astype(float)
 stimuli = df[list(info) + ['CID', 'cas']].set_index('CID').copy().sort_index()
 stimuli.reset_index(inplace=True)
 stimuli.index = stimuli.CID
+stimuli.index.name = 'Stimulus'
+stimuli = stimuli[~stimuli.index.duplicated()] # Drop one duplicated row
 stimuli.head()
 
-molecules = stimuli[stimuli.CID > 0].copy()
+molecules = stimuli.drop('cas', axis=1).copy()
 molecules = molecules.set_index('CID').sort_index()
-molecules.drop('cas', axis=1, inplace=True)
 molecules.head()
 
 # Create the `behavior` dataframe containing the label data; all applicable labels are contained in the `Labels` column
 behavior_sparse = df[['IsomericSMILES', 'odor_data', 'odor_labels_filtered', 'CID']].set_index('CID').sort_index()
 behavior_sparse.columns = ['IsomericSMILES', 'Raw Labels', 'Labels']
 behavior_sparse.index.name = 'Stimulus'
+behavior_sparse = behavior_sparse[~behavior_sparse.index.duplicated()] # Drop one duplicated row
 behavior_sparse.head()
 
 # Create a dense version of the above; each label will have its own binary-valued column

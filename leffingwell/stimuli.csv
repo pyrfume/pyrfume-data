@@ -1,4 +1,4 @@
-CID,CID,MolecularWeight,IsomericSMILES,IUPACName,name,cas
+Stimulus,CID,MolecularWeight,IsomericSMILES,IUPACName,name,cas
 -35,-35,188.33600000000018,CC(C)CC(C)(O)C1CCCS1,,Isopropylmethyltetrahydrothiophenyl-ethanol,1612888-42-2
 -34,-34,300.39499999999947,CCCCCCCCC(=O)C(=O)OC(=C(C)C)C(O)CO,,Isopropylideneglyceryl oxodecanoate,
 -33,-33,224.3440000000002,CCCCC=COC(=O)C=CCCCCC,,Hexenyl octenoate,108058-86-2
@@ -3320,7 +3320,6 @@ CID,CID,MolecularWeight,IsomericSMILES,IUPACName,name,cas
 53230316,53230316,222.26,CC1=CC(=C(O1)C)SC(=O)C2=COC=C2,"S-(2,5-dimethylfuran-3-yl) furan-3-carbothioate",65505-16-0,65505-16-0
 53401860,53401860,226.35,CCCCCCCCCC=CC(=O)OCC,ethyl dodec-2-enoate,ethyl dodec-2-enoate,28290-90-6
 53421444,53421444,216.36,CCCCC(OCC(C)C)OCC(C)C,"1,1-bis(2-methylpropoxy)pentane","1,1-bis(2-methylpropoxy)pentane",13262-27-6
-53422435,53422435,174.28,CCC(OCC)OCCC(C)C,1-(1-ethoxypropoxy)-3-methylbutane,1-(1-ethoxypropoxy)-3-methylbutane,238757-30-7
 53422435,53422435,174.28,CCC(OCC)OCCC(C)C,1-(1-ethoxypropoxy)-3-methylbutane,1-(1-ethoxypropoxy)-3-methylbutane,238757-30-7
 53422437,53422437,188.31,CCCCCOC(CCC)OCC,1-(1-ethoxybutoxy)pentane,1-(1-ethoxybutoxy)pentane,3658-92-2
 53422438,53422438,160.25,CCCOC(C(C)C)OCC,1-ethoxy-2-methyl-1-propoxypropane,1-ethoxy-2-methyl-1-propoxypropane,238757-42-1
