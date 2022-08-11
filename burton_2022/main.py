@@ -297,9 +297,10 @@ images.head()
 
 # write to disk
 molecules.to_csv('molecules.csv')
-images.to_csv('imaging.csv')
+images.to_csv('behavior_4.csv')
 behav1.to_csv('behavior_1.csv')
 behav2.to_csv('behavior_2.csv')
 behav3.to_csv('behavior_3.csv')
 subjects.to_csv('subjects.csv')
 stimuli.to_csv('stimuli.csv')
+
