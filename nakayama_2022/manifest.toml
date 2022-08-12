@@ -11,7 +11,9 @@ tags = "rodent;odorCharacter;academic"
 "data_odorset3.pkl" = "Same as above, but for experiment 3."
 
 [processed]
-"main.py" = "Processing workflow"
 "molecules.csv" = "Molecules used"
-"identifiers.csv" = "CIDs and concentrations for each stimulius (single odorants and binary mixtures)"
+"stimuli.csv" = "CIDs and concentrations for each stimulius (single odorants and binary mixtures)"
 "behavior.csv" = "Go-NoGo response for each stimulus, mouse, and inter-stimulus interval"
+
+[code]
+"main.py" = "Processing workflow"
