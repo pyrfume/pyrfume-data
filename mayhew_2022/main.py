@@ -5,21 +5,28 @@ import pandas as pd
 import numpy as np
 import pyrfume
 
-# load S1.csv data from tables/
-s1 = pd.read_csv('tables\\S1.csv')
+# load S1.csv data
+s1 = pd.read_csv('S1.csv')
 
 # only keep columns though "vapor.pressure.best.available"
 idx = s1.columns.get_loc('vapor.pressure.best.available')
 s1.drop(s1.iloc[:, idx+1:], inplace=True, axis=1)
 s1.head()
 
-# load S3.csv data from tables/ and reindex to SMILES
-s3 = pd.read_csv('tables\\S3.csv').set_index('SMILES')
+# load S2.csv data
+s2 = pd.read_csv('S2.csv').set_index('SMILES').sort_index()
+s2.index.name = 'Stimulus'
+s2.head()
+
+# load S3.csv data
+s3 = pd.read_csv('S3.csv').set_index('SMILES')
+s3.drop('HAC', axis=1, inplace=True)
+s3.index.name = 'Stimulus'
 s3.head()
 
 # get cids from SMILES
 smiles = s1['SMILES'].tolist()
-cids = pyrfume.get_cids(smiles)
+cids = pyrfume.get_cids(smiles, kind='smiles')
 
 info_dict = pyrfume.from_cids(list(cids.values()))
 
@@ -35,24 +42,30 @@ man_add = [{'CID': -1,
             'IUPACName': None,
             'name': 'diastereomer of glycyron'}]
 
+for d in man_add:
+    cids[d['IsomericSMILES']] = d['CID']
+    
 info_dict += man_add
 
 # create dataframe for molecules.csv
 molecules = pd.DataFrame(info_dict).set_index('CID').sort_index()
 molecules.head()
 
-# function to replace SMILES with CID in s1 and s3 dataframes
-def smile_to_cid(smile, cids):
-    return cids[smile]
-
 # reindex s1 dataframe for behavior_1.csv
-s1['CID'] = s1.apply(lambda row: smile_to_cid(row['SMILES'], cids), axis=1)
-s1.set_index('CID', inplace=True)
+s1.set_index('SMILES', inplace=True)
+s1.index.name = 'Stimulus'
 s1.sort_index(inplace=True)
 s1.head()
 
+# Dataframe for stimuli.csv; use SMILES as stimulus ID
+stimuli = pd.DataFrame.from_dict(cids, orient='index', columns=['CID']).sort_index()
+stimuli.index.name = 'Stimulus'
+stimuli.head()
+
 # write to disk
 molecules.to_csv('molecules.csv')
-s1.drop(['SMILES'], axis=1).to_csv('behavior_1.csv')
-s3.to_csv('behavior_2.csv')
+stimuli.to_csv('stimuli.csv')
+s1.to_csv('behavior_1.csv')
+s2.to_csv('behavior_2.csv')
+s3.to_csv('physics.csv')
 

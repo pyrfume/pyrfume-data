@@ -9,10 +9,14 @@ extra = "Copyright 2021 Emily Mayhew, Rick Gerkin, Brian Lee, Joel Mainland"
 [raw]
 "S1.csv" = "Molecules used for training and testing, and model probabilities"
 "S2.csv" = "Behavioral results"
-"S3.csv" = "Model probabilities for a random subset of GDB-17"
+"S3.csv" = "Transport propertie for a random subset of GDB-17"
 
 [processed]
-"main.py" = "Processing workflow"
 "molecules.csv" = "Information about odorant molecules used"
-"behavior_1.csv" = "Data from S1.csv minus Dragon desriptors, indexed on CID"
-"behavior_2.csv" = "Data from s3.csv; indexed on SMILES"
+"behavior_1.csv" = "Data from S1.csv minus Dragon desriptors"
+"behavior_2.csv" = "Data from S2.csv"
+"physcis.csv" = "Data from s3.csv; transprot features for GDB-17 molecules"
+"stimuli.csv" = "Maps SMILES (stimulus) to CID"
+
+[code]
+"main.py" = "Processing workflow"
