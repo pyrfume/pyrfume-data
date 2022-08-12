@@ -23,7 +23,7 @@ odorants.loc[missing.index, 'CID'] = missing.CID
 odorants = odorants.set_index('CID').sort_index()
 odorants.head()
 
-molecules = pd.DataFrame(from_cids(odorants['CID'])).set_index('CID').sort_index()
+molecules = pd.DataFrame(from_cids(odorants.reset_index()['CID'])).set_index('CID').sort_index()
 
 molecules.head()
 
