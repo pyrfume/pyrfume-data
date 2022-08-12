@@ -1,7 +1,6 @@
 Stimulus,CID,CASNo,OdorName
 1024,16724,2244-16-8,(+)-carvone
 1025,439570,6485-40-1,(-)-carvone
-1064,8130,111-71-7,heptaldehyde
 1067,8094,111-14-8,heptanoic acid
 1069,1032,79-09-4,propionic acid
 1078,12348,628-63-7,n-amyl acetate
@@ -19,7 +18,6 @@ Stimulus,CID,CASNo,OdorName
 1155,2266,123-99-9,nonanedioic acid
 1164,957,111-87-5,1-octanol
 1171,31289,124-19-6,nonanal
-1172,8467,121-32-4,ethyl vanillin
 1174,7410,98-86-2,acetophenone
 1190,62378,1128-08-1,dihydrojasmone
 1191,15717,1797-74-6,allyl phenylacetate
@@ -31,8 +29,8 @@ Stimulus,CID,CASNo,OdorName
 1262,26955,14901-07-6,beta-Ionone 
 1274,8144,111-88-6,1-octanethiol
 1278,181287,60633-24-1,TMT
-1281,1254,2216-51-5,(-)-menthol
-1282,1254,15356-60-2,(+)-menthol
+1281,16666,2216-51-5,(-)-menthol
+1282,165675,15356-60-2,(+)-menthol
 1283,263,71-36-3,1-butanol
 1284,6569,78-93-3,2-butanone
 1285,19801,3913-71-1,2-decenal
@@ -59,7 +57,6 @@ Stimulus,CID,CASNo,OdorName
 1306,7583,101-84-8,diphenyl ether
 1307,8467,121-32-4,ethyl vanillin
 1308,61014,105-95-3,ethylene brassylate
-1309,3314,97-53-0,eugenol
 1310,7136,93-28-7,eugenol acetate
 1311,7127,93-15-2,eugenol methyl ether
 1312,14525,7787-20-4,fenchone
@@ -81,7 +78,6 @@ Stimulus,CID,CASNo,OdorName
 1328,6549,78-70-6,linalool
 1329,878,74-93-1,methanethiol
 1330,4133,119-36-8,methyl salicylate
-1331,31289,124-19-6,nonyl aldehyde
 1332,-10,8008-45-5,nutmeg
 1333,8164,112-14-1,octyl acetate
 1334,454,124-13-0,octyl aldehyde
@@ -102,7 +98,6 @@ Stimulus,CID,CASNo,OdorName
 1367,14228,1117-55-1,hexyl octanoate
 1372,22227,5524-05-0 ,(+)-dihydrocarvone
 1375,7150,93-58-3,methyl benzoate
-1376,12306915,5989-27-5,r-limonene
 1377,8461,121-14-2,"2,4-DNT"
 1378,228987,80-54-6,lilial
 1379,91604,31906-04-4,lyral

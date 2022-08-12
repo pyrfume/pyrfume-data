@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# # Processing pipeline for Mainland et al, 2015
+
 import pandas as pd
 import pyrfume
 from pyrfume import get_cids
@@ -20,7 +22,14 @@ missing = odorants[odorants.CID == 0].CID.to_frame()
 missing.CID = range(-1, -(missing.shape[0] + 1), -1)
 
 odorants.loc[missing.index, 'CID'] = missing.CID
+
+# Need to correct CIDs for (+)- and (-)-menthol
+odorants.loc[odorants.OdorName == '(+)-menthol', 'CID'] = 165675
+odorants.loc[odorants.OdorName == '(-)-menthol', 'CID'] = 16666
+
+# Then can drop duplicates
 odorants = odorants.set_index('CID').sort_index()
+odorants = odorants[~odorants.index.duplicated()]
 odorants.head()
 
 molecules = pd.DataFrame(from_cids(odorants.reset_index()['CID'])).set_index('CID').sort_index()
@@ -51,7 +60,7 @@ data = data.rename(columns={'Odor': 'Stimulus', 'OR': 'Subject'})
 data = data.set_index(['Stimulus', 'Subject']).sort_index()
 
 data.head()
-|
+
 # Write to disk
 molecules.to_csv('molecules.csv')
 stimuli.to_csv('stimuli.csv')
