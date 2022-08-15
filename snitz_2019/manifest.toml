@@ -16,9 +16,12 @@ LICENSE = "This is an Open Access article distributed under the terms of the Cre
 "odorants.csv" = "Cleaned version of odorants_raw.csv with CID and CAS number lists added for mixtures"
 
 [processed]
-"main.py" = "Processing workflow"
-"complete_odorants_csv.ipynb" = "Jupyter notebook to clean odorants_raw.csv and add CAS and CID lists for mixtures"
 "molecules.csv" = "Information about odorant molecules used"
 "behavior_1.csv" = "Descriptor ratings from each SmellSpace participant for each odorant (each descriptor in separate column)"
 "behavior_2.csv" = "Descriptor ratings from each control group participant for each odorant (each descriptor in separate column)"
 "subjects.csv" = "Maps partipant UID to age/gender where available"
+"stimuli.csv" = "Maps stimulus (denoted by in-lab odor abbreviation) to CID"
+
+[code]
+"main.py" = "Processing workflow"
+"complete_odorants_csv.ipynb" = "Jupyter notebook to clean odorants_raw.csv and add CAS and CID lists for mixtures"
