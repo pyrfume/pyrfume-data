@@ -1,4 +1,4 @@
-Stimulus,MolecularWeight,IsomericSMILES,IUPACName,name
+CID,MolecularWeight,IsomericSMILES,IUPACName,name
 4,75.11,CC(CN)O,1-aminopropan-2-ol,1-aminopropan-2-ol
 49,116.11,CC(C)C(=O)C(=O)O,3-methyl-2-oxobutanoic acid,3-methyl-2-oxobutanoic acid
 58,102.09,CCC(=O)C(=O)O,2-oxobutanoic acid,2-oxobutanoic acid
