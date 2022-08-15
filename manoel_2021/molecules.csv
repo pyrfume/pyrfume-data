@@ -1,4 +1,4 @@
-Stimulus,MolecularWeight,IsomericSMILES,IUPACName,name
+CID,MolecularWeight,IsomericSMILES,IUPACName,name
 240,106.12,C1=CC=C(C=C1)C=O,benzaldehyde,benzaldehyde
 273,102.18,C(CCN)CCN,"pentane-1,5-diamine","pentane-1,5-diamine"
 379,144.21,CCCCCCCC(=O)O,octanoic acid,octanoic acid
