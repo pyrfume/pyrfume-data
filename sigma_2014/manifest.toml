@@ -13,8 +13,10 @@ extra = "Produced by the Sigma-Aldrich company"
 "sigma_ff_catolog.txt" = "Extracted from sigma_ff_catalog.pdf using pdf2text from PDFminer"
 
 [processed]
-"main.py" = "Processing workflow from raw to processed data"
 "molecules.csv" = "Identifiable molecules listed in the data"
-"identifiers.csv" = "Identifiers (e.g. CAS) for odorants without PubChem IDs"
+"stimuli.csv" = "Maps stimulus to identifier (e.g. CAS) for odorants without PubChem IDs"
 "behavior.csv" = "Applicable descriptors a binary"
 "behavior_sparse.csv" = "Applicable descriptors as lists"
+
+[code]
+"main.py" = "Processing workflow from raw to processed data"

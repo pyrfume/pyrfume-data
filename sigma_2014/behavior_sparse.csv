@@ -1,81 +1,80 @@
-CID,descriptors
--71,"['orange', 'sweet']"
--70,"['fruity', 'wine-like']"
--69,"['coumarin', 'sweet', 'rich', 'warm']"
--68,['balsam']
--67,"['meaty', 'alliaceous (onion, garlic)']"
--66,['tobacco']
--65,"['musty', 'floral', 'wine-like']"
--64,"['berry', 'green', 'woody', 'minty', 'vanilla']"
--63,"['berry', 'lemon', 'sweet', 'vegetable']"
--62,['almond']
--61,"['cinnamon', 'fruity', 'sweet', 'vanilla', 'herbaceous', 'woody']"
--60,['berry']
--59,"['honey', 'floral', 'rose']"
--58,['herbaceous']
--57,"['chocolate', 'grape', 'woody', 'wine-like']"
--56,"['floral', 'vanilla']"
--55,['herbaceous']
+Stimulus,descriptors
+-69,['spicy']
+-68,['cinnamon']
+-67,"['nutty', 'ethereal', 'sweet']"
+-66,"['fruity', 'sweet']"
+-65,"['meaty', 'sulfurous', 'vegetable']"
+-64,"['minty', 'camphoraceous']"
+-63,['violet']
+-62,"['cherry', 'strawberry']"
+-61,"['clove', 'woody', 'spicy']"
+-60,['camphoraceous']
+-59,"['musty', 'medicinal']"
+-58,"['apple', 'herbaceous', 'woody', 'nutty']"
+-57,"['sweet', 'fruity']"
+-56,['ethereal']
+-55,['spicy']
 -54,['herbaceous']
--53,"['whiskey', 'wine-like']"
--52,"['cherry', 'strawberry']"
--51,['camphoraceous']
--50,"['nutty', 'ethereal', 'sweet']"
--49,"['apple', 'apricot', 'blossom', 'chocolate']"
--48,"['meaty', 'sulfurous', 'vegetable']"
--47,['spicy']
--46,"['sweet', 'warm', 'rich']"
--45,['ethereal']
--44,"['apple', 'apricot', 'berry', 'rose', 'sweet']"
--43,"['herbaceous', 'sweet']"
--42,"['fruity', 'sweet']"
--41,"['apple', 'lavender', 'lime', 'herbaceous']"
--40,"['cheese', 'horseradish', 'earthy', 'alliaceous (onion, garlic)', 'spicy']"
--39,"['cinnamon', 'citrus', 'herbaceous', 'sweet']"
--38,"['floral', 'woody']"
--37,['coconut']
--36,"['cinnamon', 'clove', 'spicy']"
--35,"['minty', 'herbaceous']"
--34,['floral']
--33,"['sweet', 'fruity']"
--32,"['apple', 'herbaceous', 'woody', 'nutty']"
--31,"['berry', 'fruity', 'green']"
--30,"['musty', 'medicinal']"
--29,"['clove', 'woody', 'spicy']"
--28,['spicy']
--27,['violet']
--26,"['minty', 'camphoraceous']"
--25,"['fruity', 'sweet']"
--24,"['apple', 'berry', 'cranberry', 'honey', 'citrus']"
--23,"['sweet', 'honey']"
--22,"['lemon', 'herbaceous', 'citrus', 'woody']"
--21,['rose']
--20,"['berry', 'honey', 'lime', 'vanilla', 'minty']"
--19,"['almond', 'caramel', 'musty', 'vegetable']"
+-53,"['cinnamon', 'fruity', 'sweet', 'vanilla', 'herbaceous', 'woody']"
+-52,['tobacco']
+-51,"['fruity', 'wine-like']"
+-50,['lemon']
+-49,"['caraway', 'warm', 'spicy']"
+-48,"['cinnamon', 'citrus', 'herbaceous', 'sweet']"
+-47,"['coumarin', 'sweet', 'rich', 'warm']"
+-46,"['meaty', 'alliaceous (onion, garlic)']"
+-45,"['minty', 'herbaceous']"
+-44,['herbaceous']
+-43,"['berry', 'green', 'woody', 'minty', 'vanilla']"
+-42,"['berry', 'lemon', 'sweet', 'vegetable']"
+-41,['herbaceous']
+-40,"['chocolate', 'grape', 'woody', 'wine-like']"
+-39,"['floral', 'vanilla']"
+-38,"['berry', 'fruity', 'green']"
+-37,"['honey', 'floral', 'rose']"
+-36,['berry']
+-35,"['spicy', 'woody']"
+-34,"['berry', 'herbaceous', 'pineapple', 'pepper', 'spicy', 'woody', 'wine-like']"
+-33,['pepper']
+-32,['lime']
+-31,['wine-like']
+-30,"['alcohol', 'butter', 'cheese', 'ethereal']"
+-29,"['sweet', 'honey']"
+-28,"['lemon', 'herbaceous', 'citrus', 'woody']"
+-27,"['sulfurous', 'alliaceous (onion, garlic)']"
+-26,"['minty', 'camphoraceous', 'tobacco']"
+-25,['rose']
+-24,"['rich', 'honey']"
+-23,"['lemon', 'citrus']"
+-22,['woody']
+-21,"['sweet', 'spicy']"
+-20,"['apricot', 'peach']"
+-19,"['berry', 'grape', 'orange', 'fruity', 'citrus']"
 -18,['woody']
--17,['pepper']
--16,['cinnamon']
--15,"['berry', 'grape', 'orange', 'fruity', 'citrus']"
--14,"['alcohol', 'butter', 'cheese', 'ethereal']"
--13,['lime']
--12,['wine-like']
--11,"['lavender', 'spicy']"
--10,"['berry', 'herbaceous', 'pineapple', 'pepper', 'spicy', 'woody', 'wine-like']"
--9,"['lemon', 'citrus']"
--8,['woody']
--7,"['sweet', 'spicy']"
--6,"['sulfurous', 'alliaceous (onion, garlic)']"
--5,['lemon']
--4,"['spicy', 'woody']"
--3,"['caraway', 'warm', 'spicy']"
--2,"['rich', 'honey']"
--1,"['minty', 'camphoraceous', 'tobacco']"
+-17,"['orange', 'sweet']"
+-16,"['apple', 'apricot', 'blossom', 'chocolate']"
+-15,['balsam']
+-14,"['cinnamon', 'clove', 'spicy']"
+-13,"['musty', 'floral', 'wine-like']"
+-12,"['floral', 'woody']"
+-11,['coconut']
+-10,"['cheese', 'horseradish', 'earthy', 'alliaceous (onion, garlic)', 'spicy']"
+-9,"['sweet', 'warm', 'rich']"
+-8,"['apple', 'berry', 'cranberry', 'honey', 'citrus']"
+-7,['floral']
+-6,"['berry', 'honey', 'lime', 'vanilla', 'minty']"
+-5,"['fruity', 'sweet']"
+-4,"['apple', 'lavender', 'lime', 'herbaceous']"
+-3,"['herbaceous', 'sweet']"
+-2,"['apple', 'apricot', 'berry', 'rose', 'sweet']"
+-1,"['lavender', 'spicy']"
 58,"['caramel', 'creamy']"
 107,"['rose', 'sweet']"
 126,"['lily', 'sweet']"
 135,['caramel']
 176,"['apple', 'ethereal']"
 177,['ethereal']
+240,['almond']
 240,"['almond', 'cherry', 'sweet']"
 243,['balsam']
 244,"['berry', 'cherry', 'grapefruit', 'citrus', 'walnut']"
@@ -208,7 +207,6 @@ CID,descriptors
 7509,['meaty']
 7531,"['apple', 'banana', 'strawberry']"
 7559,"['honey', 'jasmine', 'sweet']"
-7584,"['alcohol', 'jasmine']"
 7590,"['anise', 'apple', 'apricot', 'cherry', 'chocolate', 'grapefruit', 'honey', 'melon', 'waxy', 'pineapple']"
 7593,"['plastic', 'seedy']"
 7601,"['apricot', 'hyacinth', 'floral', 'fruity', 'rose']"
@@ -303,7 +301,6 @@ CID,descriptors
 8347,['sweet']
 8365,"['floral', 'fruity', 'minty', 'sweet']"
 8369,"['caramel', 'jam']"
-8400,"['apricot', 'peach']"
 8438,"['almond', 'anise', 'balsam', 'berry', 'cherry']"
 8452,"['fatty', 'citrus', 'meaty']"
 8456,"['apple', 'banana', 'berry', 'peach', 'pear']"
@@ -502,10 +499,8 @@ CID,descriptors
 27892,"['butter', 'musty', 'strawberry', 'fishy', 'animal', 'vegetable', 'waxy', 'earthy']"
 28905,"['hazelnut', 'vegetable', 'meaty']"
 29096,"['butter', 'meaty', 'alliaceous (onion, garlic)']"
-29421,['pineapple']
 30215,"['beef', 'chocolate']"
 30248,"['medicinal', 'minty', 'vanilla']"
-31209,"['jasmine', 'lily', 'sweet']"
 31211,"['clove', 'creamy', 'spicy', 'sweet', 'animal']"
 31219,"['apple', 'banana', 'berry', 'jam', 'jasmine']"
 31225,"['rose', 'sweet']"
@@ -619,7 +614,6 @@ CID,descriptors
 62003,['meaty']
 62013,['fruity']
 62024,"['banana', 'green']"
-62087,"['sulfurous', 'meaty', 'alliaceous (onion, garlic)']"
 62089,"['cheese', 'musty', 'mossy', 'green', 'plastic']"
 62105,"['alliaceous (onion, garlic)', 'meaty']"
 62128,['sulfurous']
@@ -729,6 +723,7 @@ CID,descriptors
 443158,"['floral', 'woody']"
 443162,['lilac']
 443314,"['floral', 'sweet', 'animal']"
+443315,"['apple', 'lavender', 'green']"
 444041,['jasmine']
 444539,"['cinnamon', 'honey', 'spicy', 'floral', 'sweet']"
 444972,['sour']
@@ -789,6 +784,7 @@ CID,descriptors
 641294,"['cinnamon', 'creamy', 'fruity', 'spicy', 'floral']"
 641298,"['spicy', 'floral', 'sweet']"
 641423,"['balsam', 'peach']"
+641834,"['sulfurous', 'meaty', 'alliaceous (onion, garlic)']"
 643460,"['almond', 'apple', 'herbaceous', 'green']"
 643731,"['green', 'waxy', 'violet', 'vegetable']"
 643820,['citrus']
@@ -806,6 +802,7 @@ CID,descriptors
 1550884,"['jasmine', 'lily', 'sweet']"
 1550890,"['almond', 'balsam', 'berry', 'carnation']"
 1551246,"['rose', 'sweet']"
+1712058,"['jasmine', 'lily', 'sweet']"
 1742210,"['cinnamon', 'sweet', 'woody', 'spicy']"
 2724059,"['earthy', 'ethereal', 'fruity']"
 2724159,"['cherry', 'oily', 'green']"
@@ -818,7 +815,6 @@ CID,descriptors
 3734338,"['almond', 'sweet']"
 4120025,"['caramel', 'grape', 'maple', 'mushroom']"
 5084146,"['caramel', 'cherry', 'creamy', 'woody']"
-5102882,"['minty', 'green', 'camphoraceous']"
 5271566,"['banana', 'citrus']"
 5273464,"['balsam', 'fruity']"
 5273467,['chocolate']
@@ -831,7 +827,6 @@ CID,descriptors
 5281167,['green']
 5281168,"['almond', 'apple', 'green', 'plum', 'sweet']"
 5281515,"['woody', 'spicy']"
-5281955,"['apple', 'lavender', 'green']"
 5282108,"['berry', 'cherry', 'woody', 'raspberry', 'violet']"
 5282109,"['green', 'fruity', 'rose', 'sweet']"
 5282110,"['floral', 'balsamic']"
@@ -897,6 +892,7 @@ CID,descriptors
 5365794,"['oily', 'citrus', 'green']"
 5365976,"['floral', 'spicy', 'fruity', 'meaty', 'woody']"
 5365991,"['berry', 'lilac', 'orange', 'floral', 'plum']"
+5366038,['pineapple']
 5366044,"['honey', 'rose']"
 5366244,"['balsam', 'floral']"
 5367681,"['apple', 'green']"
@@ -911,6 +907,7 @@ CID,descriptors
 5371102,"['balsam', 'green']"
 5463682,"['fruity', 'wine-like']"
 5463904,"['fatty', 'waxy']"
+6076971,"['alcohol', 'jasmine']"
 6114390,"['apple', 'cinnamon', 'honey', 'spicy', 'sweet']"
 6429039,"['ethereal', 'sage', 'sweet']"
 6435882,['melon']
@@ -935,8 +932,11 @@ CID,descriptors
 16220110,"['vegetable', 'green']"
 23308252,"['fruity', 'minty', 'green']"
 23673663,"['earthy', 'medicinal']"
+23693089,"['minty', 'green', 'camphoraceous']"
 24758199,"['cinnamon', 'herbaceous', 'spicy', 'sweet']"
 24847856,['spicy']
 44134940,"['lemon', 'musty', 'oily', 'fruity', 'rose', 'sweet']"
-54247981,['floral']
 54675810,"['vanilla', 'woody']"
+55251157,"['almond', 'caramel', 'musty', 'vegetable']"
+91001317,"['whiskey', 'wine-like']"
+92043553,['floral']

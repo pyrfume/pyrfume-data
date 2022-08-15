@@ -1,17 +1,5 @@
-# ---
-# jupyter:
-#   jupytext:
-#     formats: ipynb,py
-#     text_representation:
-#       extension: .py
-#       format_name: light
-#       format_version: '1.5'
-#       jupytext_version: 1.10.3
-#   kernelspec:
-#     display_name: Python 3
-#     language: python
-#     name: python3
-# ---
+#!/usr/bin/env python
+# coding: utf-8
 
 import numpy as np
 import pandas as pd
@@ -19,10 +7,8 @@ import platform
 import pyrfume
 from pyrfume.odorants import from_cids, get_cids
 
-
-# +
 def get_data():
-    with open("sigma_ff_catalog.txt", "r") as f:
+    with open("sigma_ff_catalog.txt", "r", encoding='utf-8') as f:
         text = f.read()
         lines = text.split("\n")
 
@@ -61,10 +47,8 @@ def get_data():
 descriptors, data = get_data()
 data = pd.Series(data)
 
-# + jupyter={"outputs_hidden": true} tags=[]
 cas = data.index.tolist()
 cids = get_cids(cas)
-# -
 
 data = data.to_frame('descriptors')
 data.index.name = 'CAS'
@@ -72,6 +56,7 @@ data['CID'] = data.index.map(cids.get).astype(int)
 data = data.reset_index().set_index('CID')
 
 molecules = pd.DataFrame(from_cids(data.index)).set_index('CID').sort_index()
+molecules = molecules[~molecules.index.duplicated()]
 molecules.to_csv('molecules.csv')
 molecules.head()
 
@@ -80,17 +65,22 @@ ids = data[['CAS']].sort_index()
 n_missing = (ids.index == 0).sum()
 ids.index = np.arange(-1, -n_missing-1, -1).tolist() + ids.index[n_missing:].tolist()
 ids = ids.sort_index()
-ids.to_csv('identifiers.csv')
+ids.index.name = 'Stimulus'
+ids.to_csv('stimuli.csv')
 ids.head()
 
 behavior = data.copy()
 ids_reverse = ids.reset_index().set_index('CAS')
-behavior.index = behavior['CAS'].apply(ids_reverse['index'].get)
+behavior.index = behavior['CAS'].apply(ids_reverse['Stimulus'].get)
 behavior.index.name = 'CID'
 behavior = behavior.drop('CAS', axis=1).sort_index()
+behavior.index.name = 'Stimulus'
 behavior.to_csv('behavior_sparse.csv')
+behavior.head()
 
 for descriptor in descriptors:
     behavior[descriptor] = behavior['descriptors'].apply(lambda x: descriptor in x)
 behavior.drop('descriptors', axis=1).T.sort_index().T.astype(int)
 behavior.to_csv('behavior.csv')
+behavior.head()
+
