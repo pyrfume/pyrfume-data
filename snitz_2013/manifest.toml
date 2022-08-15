@@ -15,6 +15,9 @@ tags = "human;odorCharacter;mixtures;academic"
 "experiment2_cids.csv" = "Parsed CIDs for experiment 2 from raw data"
 
 [processed]
-"main.py" = "Processing workflow from parsed to processed data"
 "molecules.csv" = "Information about odorant molecules used"
 "behavior.csv" = "Similarity ratings for single molecules and mixtures"
+"stimuli.csv" = "Maps stimulus to CID"
+
+[code]
+"main.py" = "Processing workflow from parsed to processed data"

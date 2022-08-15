@@ -1,17 +1,5 @@
-# ---
-# jupyter:
-#   jupytext:
-#     formats: ipynb,py
-#     text_representation:
-#       extension: .py
-#       format_name: light
-#       format_version: '1.5'
-#       jupytext_version: 1.10.3
-#   kernelspec:
-#     display_name: Python 3
-#     language: python
-#     name: python3
-# ---
+#!/usr/bin/env python
+# coding: utf-8
 
 import pandas as pd
 from pyrfume.odorants import from_cids
@@ -37,7 +25,7 @@ df3 = pd.read_csv('experiment3_comparisons.csv',
 df3.head()
 
 df = pd.concat([df1, df2, df3])
-df.to_csv('behavior-main.csv')
+df.head()
 
 cids1 = df1_cids['Mixture Cids'].apply(str.split, args=(',')).sum()
 cids2 = df2_cids['Mixture Cids'].apply(str.split, args=(',')).sum()
@@ -48,4 +36,16 @@ cids = list(set(map(int, cids)))
 
 molecules_info = from_cids(cids)
 
-pd.DataFrame(molecules_info).set_index('CID').to_csv('molecules-info.csv')
+molecules = pd.DataFrame(molecules_info).set_index('CID').sort_index()
+molecules.head()
+
+# Create dataframe for stimuli.csv; all simuli are CIDs
+stimuli = pd.DataFrame(molecules.index.copy(), index=molecules.index.copy())
+stimuli.index.name = 'Stimulus'
+stimuli.head()
+
+# Write to disk
+molecules.to_csv('molecules.csv')
+df.to_csv('behavior.csv')
+stimuli.to_csv('stimuli.csv')
+
