@@ -1,4 +1,4 @@
-Stimulus,MolecularWeight,IsomericSMILES,IUPACName,name
+CID,MolecularWeight,IsomericSMILES,IUPACName,name
 107,150.17,C1=CC=C(C=C1)CCC(=O)O,3-phenylpropanoic acid,hydrocinnamic acid
 176,60.05,CC(=O)O,acetic acid,acetic acid
 177,44.05,CC=O,acetaldehyde,acetaldehyde
