@@ -8,6 +8,9 @@ tags = "rodent;academic"
 [raw]
 
 [processed]
-"main.py" = "Processing workflow"
 "molecules.csv" = "Molecules used"
 "behavior.csv" = "Odorants used in this study arranged in order of the log of the calculated air/mucus partition coefficient"
+"stimuli.csv" = "Maps stimulus to CID"
+
+[code]
+"main.py" = "Processing workflow"
