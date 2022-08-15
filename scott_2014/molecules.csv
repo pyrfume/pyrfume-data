@@ -1,4 +1,4 @@
-Stimulus,MolecularWeight,IsomericSMILES,IUPACName,name
+CID,MolecularWeight,IsomericSMILES,IUPACName,name
 240,106.12,C1=CC=C(C=C1)C=O,benzaldehyde,benzaldehyde
 261,72.11,CCCC=O,butanal,butyraldehyde
 263,74.12,CCCCO,butan-1-ol,1-butanol

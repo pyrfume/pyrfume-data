@@ -45,7 +45,7 @@ behavior.index.name = 'Stimulus'
 behavior.drop('Odorant', axis=1, inplace=True)
 behavior.head()
 
-stimuli = pd.DataFrame(molecules.index, index=molecules.index)
+stimuli = pd.DataFrame(molecules.index.copy(), index=molecules.index.copy())
 stimuli.index.name = 'Stimulus'
 stimuli.head()
 
