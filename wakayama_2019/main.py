@@ -1,24 +1,12 @@
-# ---
-# jupyter:
-#   jupytext:
-#     formats: ipynb,py
-#     text_representation:
-#       extension: .py
-#       format_name: light
-#       format_version: '1.5'
-#       jupytext_version: 1.10.3
-#   kernelspec:
-#     display_name: Python 3
-#     language: python
-#     name: python3
-# ---
+#!/usr/bin/env python
+# coding: utf-8
 
 import pandas as pd
 from pyrfume.odorants import get_cids, from_cids
 
 df = pd.read_csv('wakayama-intensity.txt', sep='\t')
 
-cas_cids = get_cids(df['CAS'], kind='name')
+cas_cids = get_cids(df['CAS'])
 
 manual_cids = {'80449-58-7': 225700,
                '124899-75-8': 106729,
@@ -32,10 +20,23 @@ assert all(df['CID']>0)
 df = df.set_index('CID').sort_index()
 df.head()
 
-molecules = pd.DataFrame(from_cids(df.index)).set_index('CID')
+molecules = pd.DataFrame(from_cids(df.index)).set_index('CID').sort_index()
 
-molecules[['CAS', 'Original Name']] = df[['CAS', 'Name']]
+molecules = molecules[~molecules.index.duplicated()] # Remove duplicates
+molecules.head()
+
+stimuli = df[['CAS', 'Name']].copy()
+stimuli['CID'] = stimuli.index
+stimuli.index.name = 'Stimulus'
+stimuli.rename(columns={'Name': 'Original Name'}, inplace=True)
+stimuli.head()
+
+behavior = df[['I_max', 'C', 'D']].copy()
+behavior.index.name = 'Stimulus'
+behavior.head()
+
+# Write to disk
 molecules.to_csv('molecules.csv')
-
-behavior = df[['I_max', 'C', 'D']]
 behavior.to_csv('behavior.csv')
+stimuli.to_csv('stimuli.csv')
+
