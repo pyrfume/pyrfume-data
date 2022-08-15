@@ -30,7 +30,7 @@ behavior.index.rename('Stimulus', level='CID', inplace=True)
 behavior.head()
 
 # Create dataframe for stimuli.csv; all stimului are CIDs
-stimuli = pd.DataFrame(molecules.index, index=molecules.index)
+stimuli = pd.DataFrame(molecules.index.copy(), index=molecules.index.copy())
 stimuli.index.name = 'Stimulus'
 stimuli.head()
 
