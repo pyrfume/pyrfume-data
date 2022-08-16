@@ -1,0 +1,77 @@
+Stimulus,SAS Label,English Text,Target
+CSQ010,Had problem with smell past 12 months?,"The next questions are about {your/SP's} sense of smell. During the past 12 months, {have you/has he/has she} had a problem with {your/his/her} ability to smell, such as not being able to smell things or things not smelling the way they are supposed to?",Both males and females 40 YEARS - 150 YEARS
+CSQ020,Had change ability to smell since age 25,"How would {you/SP} rate {your/his/her} ability to smell now as compared to when {you were/he was/she was} 25 years old? Is it better, worse or is there no change?",Both males and females 40 YEARS - 150 YEARS
+CSQ030,"Smells bother you, but not others",Do some smells bother {you/SP} although they do not bother other people?,Both males and females 40 YEARS - 150 YEARS
+CSQ040,Had phantom odor?,"{Do you/Does SP} sometimes smell an unpleasant, bad or burning odor when nothing is there?",Both males and females 40 YEARS - 150 YEARS
+CSQ060,When noticed change in ability to smell,"How long ago {did you/did SP} first notice a problem with, or a change in, {your/his/her} ability to smell?",Both males and females 40 YEARS - 150 YEARS
+CSQ070,Frequency of problem w/ ability to smell,Is the problem with {your/SP's} ability to smell always there or does it come and go?,Both males and females 40 YEARS - 150 YEARS
+CSQ080,Had problem with taste past 12 months?,"The next questions are about {your/SP's} sense of taste. During the past 12 months, {have you/has he/has she} had a problem with {your/his/her} ability to taste sweet, sour, salty or bitter foods and drinks?",Both males and females 40 YEARS - 150 YEARS
+CSQ090A,Ability to Taste Salt,"I am going to read you a list of tastes in everyday foods. How {is your/is SP's} ability to taste each one of these now compared to when {you were/he was/she was} 25 years old? Would you say it is better, worse, or is there no change?  salt in foods like potato chips or pretzels.",Both males and females 40 YEARS - 150 YEARS
+CSQ090B,Ability to Taste Sourness,"I am going to read you a list of tastes in everyday foods. How {is your/is SP's} ability to taste each one of these now compared to when {you were/he was/she was} 25 years old? Would you say it is better, worse, or is there no change?  sourness in foods like lemons or vinegar.",Both males and females 40 YEARS - 150 YEARS
+CSQ090C,Ability to Taste Sweetness,"I am going to read you a list of tastes in everyday foods. How {is your/is SP's} ability to taste each one of these now compared to when {you were/he was/she was} 25 years old? Would you say it is better, worse, or is there no change?  sweetness in foods like peaches or ice cream.",Both males and females 40 YEARS - 150 YEARS
+CSQ090D,Ability to Taste Bitterness,"I am going to read you a list of tastes in everyday foods. How {is your/is SP's} ability to taste each one of these now compared to when {you were/he was/she was} 25 years old? Would you say it is better, worse, or is there no change?  bitterness in drinks like unsweetened black coffee.",Both males and females 40 YEARS - 150 YEARS
+CSQ100,Change in ability to taste food flavors?,"Is {your/SP's} ability to taste food flavors such as chocolate, vanilla or strawberry as good as when {you were/he was/she was} 25 years old?",Both males and females 40 YEARS - 150 YEARS
+CSQ110,Persistent taste in mouth past 12 months,During the past 12 months {have you/has SP} had a taste or other sensation in {your/his/her} mouth that does not go away?,Both males and females 40 YEARS - 150 YEARS
+CSQ120A,"Taste in mouth, Sweet",Please describe the taste or other sensation in {your/SP's} mouth that does not go away. Would {you/he/she} say it is...,Both males and females 40 YEARS - 150 YEARS
+CSQ120B,"Taste in mouth, Sour",Please describe the taste or other sensation in {your/SP's} mouth that does not go away. Would {you/he/she} say it is...,Both males and females 40 YEARS - 150 YEARS
+CSQ120C,"Taste in mouth, Salty",Please describe the taste or other sensation in {your/SP's} mouth that does not go away. Would {you/he/she} say it is...,Both males and females 40 YEARS - 150 YEARS
+CSQ120D,"Taste in mouth, Bitter",Please describe the taste or other sensation in {your/SP's} mouth that does not go away. Would {you/he/she} say it is...,Both males and females 40 YEARS - 150 YEARS
+CSQ120E,"Taste in mouth, Metallic",Please describe the taste or other sensation in {your/SP's} mouth that does not go away. Would {you/he/she} say it is...,Both males and females 40 YEARS - 150 YEARS
+CSQ120F,"Taste in mouth, Burning or Tingling",Please describe the taste or other sensation in {your/SP's} mouth that does not go away. Would {you/he/she} say it is...,Both males and females 40 YEARS - 150 YEARS
+CSQ120G,"Taste in mouth, Bad or Foul",Please describe the taste or other sensation in {your/SP's} mouth that does not go away. Would {you/he/she} say it is...,Both males and females 40 YEARS - 150 YEARS
+CSQ120H,"Taste in mouth, Something else",Please describe the taste or other sensation in {your/SP's} mouth that does not go away. Would {you/he/she} say it is...,Both males and females 40 YEARS - 150 YEARS
+CSQ140,When noticed change in ability to taste,"How long ago {did you/did SP} first notice a problem with, or a change in, {your/his/her} ability to taste?",Both males and females 40 YEARS - 150 YEARS
+CSQ160,Discussed T/S problem with Dr.?,"{Have you/Has SP} ever discussed any problem with, or change in {your/his/her} ability to taste or smell with a health care provider?",Both males and females 40 YEARS - 150 YEARS
+CSQ170,When T/S problem last discussed with Dr.,When was the last time {you/SP} /discussed any problem with {your/his/her} ability to taste or smell with a health care provider?,Both males and females 40 YEARS - 150 YEARS
+CSQ180,Treatment for T/S problem last 12 months,"The next question refers to treatments {you/SP} may have tried to improve {your/his/her} ability to taste or smell. Please make sure to include any treatments that {your/his/her} health care provider recommended. Also include any other treatments {you/he/she} may have read about and tried.  During the past 12 months, {have you/has SP} tried any treatments to improve {your/his/her} ability to taste or smell?",Both males and females 40 YEARS - 150 YEARS
+CSQ190,T/S problem interferes with daily life?,"During the past 12 months, {have you/has SP} experienced a problem with {your/his/her} general health, work or {your/his/her} enjoyment of life because of a problem with {your/his/her) ability to taste or smell?",Both males and females 40 YEARS - 150 YEARS
+CSQ200,Persistent cold/flu last 12 months?,"During the past 12 months, {have you/has SP} had any of the following ...a head cold or flu for longer than a month?",Both males and females 40 YEARS - 150 YEARS
+CSQ202,Had persistent dry mouth in past 12 mth,"During the past 12 months, {have you/has SP} had any of the following ... persistent dry mouth (not enough saliva)?",Both males and females 40 YEARS - 150 YEARS
+CSQ204,Frequent nasal congestion in past 12 mth,"During the past 12 months, {have you/has SP} had any of the following ...frequent nasal congestion from allergies?",Both males and females 40 YEARS - 150 YEARS
+CSQ210,Ever had Wisdom Teeth Removed,{Have you/Has SP} ever had any of the following?  wisdom teeth removed.,Both males and females 40 YEARS - 150 YEARS
+CSQ220,Ever had Tonsils Removed,{Have you/Has SP} ever had any of the following?  tonsils removed.,Both males and females 40 YEARS - 150 YEARS
+CSQ240,Head Injury/Loss of consciousness,{Have you/Has SP} ever had any of the following?  a loss of consciousness because of a head injury.,Both males and females 40 YEARS - 150 YEARS
+CSQ250,Broke Nose/Serious Injury to Face/Skull,{Have you/Has SP} ever had any of the following?  a broken nose or other serious injury to face or skull.,Both males and females 40 YEARS - 150 YEARS
+CSQ260,Ever had two or more sinus infections,{Have you/Has SP} ever had any of the following?  two or more sinus infections.,Both males and females 40 YEARS - 150 YEARS
+AUQ136,Ever had 3 or more ear infections?,{Have you/Has SP} ever had 3 or more ear infections? Please include ear infections {you/he/she} may have had when {you were/he was/she was} a child.,Both males and females 40 YEARS - 150 YEARS
+AUQ138,Ever had a tube placed in your ear?,{Have you/Has SP} ever had a tube placed in {your/his/her} ear to drain the fluid from {your/his/her} ear?,Both males and females 40 YEARS - 150 YEARS
+CSXEXSTS,Overall Taste & Smell Exam Status,Overall Status for the MEC Taste & Smell Examination,Both males and females 40 YEARS - 150 YEARS
+CSXEXCMT,Taste & Smell Exam Status Comment Code,Comment Code for the MEC Taste & Smell Examination,Both males and females 40 YEARS - 150 YEARS
+CSQ245,Ever had quinine allergy?,Have you ever had a skin rash or allergy caused by quinine?,Both males and females 40 YEARS - 150 YEARS
+CSQ241,Currently pregnant or breast feeding?,Are you currently pregnant or breast feeding a baby?,Females only 40 YEARS - 59 YEARS
+CSQ260A,Sneeze Frequently?,Do you now have any of the following problems with your nose?  Sneeze Frequently?,Both males and females 40 YEARS - 150 YEARS
+CSQ260D,Have Discolored Nasal Mucus?,"Do you now have any of the following problems with your nose? Green, Yellow  or Brown Mucus Discharge?",Both males and females 40 YEARS - 150 YEARS
+CSQ260G,Have Nasal Blockage?,Do you now have any of the following problems with your nose? Completely blocked up nose,Both males and females 40 YEARS - 150 YEARS
+CSQ260I,Have Sinus Pain?,Do you now have any of the following problems with your nose? Sinus Pain?,Both males and females 40 YEARS - 150 YEARS
+CSQ260N,Runny Nose?,Do you now have any of the following problems with your nose? A Runny Nose?,Both males and females 40 YEARS - 150 YEARS
+CSQ260M,None of the above?,Do you now have any of the following problems with your nose? None of the above?,Both males and females 40 YEARS - 150 YEARS
+CSQ270,Type of Nasal Blockage,"Was {your/SPs} nose blocked up on both sides, or on just one side?",Both males and females 40 YEARS - 150 YEARS
+CSQ450,Low intermediate light (85 candelas/m2),First practice light 85 candelas/ m2 (low intermediate light),Both males and females 40 YEARS - 150 YEARS
+CSQ460,High intermediate light(439 candelas/m2),Second practice light 493 candelas/ m2 (high intermediate light),Both males and females 40 YEARS - 150 YEARS
+CSQ470,Medium test light (193 candelas/m2),First test light 193 candelas/ m2 (medium light level),Both males and females 40 YEARS - 150 YEARS
+CSQ480,Low test light (4.3 candelas/m2),Second test light 4.3 candelas/ m2 (low light level),Both males and females 40 YEARS - 150 YEARS
+CSQ490,High test light (1000 candelas/m2),Third  test light 1000 candelas/ m2 (high light level),Both males and females 40 YEARS - 150 YEARS
+CSXQUIPG,Tongue Tip Test: 1 mM Quinine gLMS,gLMS rating for bitter when 1 mM quinine solution is painted on the tongue tip.,Both males and females 40 YEARS - 150 YEARS
+CSXQUIPT,Tongue Tip 1mM Quinine: What Was Taste?,Name of substance examinee tasted when 1mM quinine was painted on the tongue tip.,Both males and females 40 YEARS - 150 YEARS
+CSXNAPG,Tongue Tip Test: 1M NaCl gLMS,gLMS rating when 1M NaCl solution is painted on the tongue tip.,Both males and females 40 YEARS - 150 YEARS
+CSXNAPT,Tongue Tip 1M NaCl: What Was Taste?,Name of substance examinee tasted when 1M NaCl was painted on the tongue tip.,Both males and females 40 YEARS - 150 YEARS
+CSXQUISG,Whole Mouth Test: 1 mM Quinine gLMS,gLMS rating for bitter when 1 mM quinine solution is sampled with the whole mouth.,Both males and females 40 YEARS - 150 YEARS
+CSXQUIST,Whole Mouth 1 mM Quinine: What Was Taste,Name of substance examinee tasted when bitter taste 1 (1 mM quinine) was sampled in the whole mouth.,Both males and females 40 YEARS - 150 YEARS
+CSXSLTSG,Whole Mouth Test: 1 M NaCl gLMS,gLMS rating for salty taste when 1M NaCl is sampled with the whole mouth.,Both males and females 40 YEARS - 150 YEARS
+CSXSLTST,Whole Mouth 1 M NaCl: What Was Taste?,Name of substance examinee tasted when 1 M NaCl was sampled in the whole mouth.,Both males and females 40 YEARS - 150 YEARS
+CSXNASG,Whole Mouth Test: .32 M NaCl gLMS,gLMS rating when  .32 M NaCl is sampled with the whole mouth.,Both males and females 40 YEARS - 150 YEARS
+CSXNAST,Whole Mouth .32 NaCl: What Was Taste?,Name of substance examinee tasted when .32 M NaCl was sampled in the whole mouth.,Both males and females 40 YEARS - 150 YEARS
+CSXTSEQ,Whole Mouth Taste Test Sequence,Sequence in which whole mouth taste tests were administered.,Both males and females 40 YEARS - 150 YEARS
+CSXCHOOD,Smell Test: Chocolate Scent,"Forced Choice Odor Selection, Chocolate Scent",Both males and females 40 YEARS - 150 YEARS
+CSXSBOD,Smell Test: Strawberry Scent,"Forced Choice Odor Selection, Strawberry Scent",Both males and females 40 YEARS - 150 YEARS
+CSXSMKOD,Smell Test: Smoke Scent,"Forced Choice Odor Selection, Smoke Scent",Both males and females 40 YEARS - 150 YEARS
+CSXLEAOD,Smell Test: Leather Scent,"Forced Choice Odor Selection, Leather Scent",Both males and females 40 YEARS - 150 YEARS
+CSXSOAOD,Smell Test: Soap Scent,"Forced Choice Odor Selection, Soap Scent",Both males and females 40 YEARS - 150 YEARS
+CSXGRAOD,Smell Test: Grape Scent,"Forced Choice Odor Selection, Grape Scent",Both males and females 40 YEARS - 150 YEARS
+CSXONOD,Smell Test: Onion Scent,"Forced Choice Odor Selection, Onion Scent",Both males and females 40 YEARS - 150 YEARS
+CSXNGSOD,Smell Test: Natural Gas Scent,"Forced Choice Odor Selection, Natural Gas Scent",Both males and females 40 YEARS - 150 YEARS
+CSXSLTRT,Whole Mouth Repeat: 1M NaCl gLMS,gLMS rating for salty taste when replicate 1M NaCl is sampled with the whole mouth.,Both males and females 40 YEARS - 150 YEARS
+CSXSLTRG,Repeat 1M NaCl: What Was Taste?,Name of substance examinee tasted when replicate 1M NaCl was sampled with the whole mouth.,Both males and females 40 YEARS - 150 YEARS
+CSXNART,Whole Mouth Repeat: 0.32M NaCl gLMS,gLMS rating for salty taste when replicate .32 M NaCl is sampled with the whole mouth.,Both males and females 40 YEARS - 150 YEARS
+CSXNARG,Repeat .32M NaCl: What Was Taste?,Name of substance examinee tasted when replicate .32 M NaCl was sampled with the whole mouth.,Both males and females 40 YEARS - 150 YEARS
+CSAEFFRT,Participant's Understanding of Test,MEC Technician's overall rating for participant's understanding of and cooperation with exam procedures.,Both males and females 40 YEARS - 150 YEARS
