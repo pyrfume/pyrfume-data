@@ -11,7 +11,7 @@ tags = "human;odorCharacter;academic"
 
 [processed]
 "molecules.csv" = "Molecules used"
-"mixtures.csv" = "Mixtures used"
+"stimuli.csv" = "Maps stimulus (Test UID) to composition of mixtures used"
 "behavior.csv" = "Triangle test results"
 
 [code]

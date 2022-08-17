@@ -6,13 +6,13 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name,Odorant name,C.A.S.,% odorant,
 240,106.12,C1=CC=C(C=C1)C=O,benzaldehyde,benzaldehyde,benzaldehyde,100-52-7,0.25,mineral oil
 261,72.11,CCCC=O,butanal,butyraldehyde,butanal,123-72-8,0.002,water
 264,88.11,CCCC(=O)O,butanoic acid,butyric acid,butanoic acid,107-92-6,1.0,water
-326,148.2,CC(C)C1=CC=C(C=C1)C=O,4-propan-2-ylbenzaldehyde,4-isopropylbenzaldehyde,cuminic aldehyde,122-03-2,1.0,mineral oil
+326,148.20,CC(C)C1=CC=C(C=C1)C=O,4-propan-2-ylbenzaldehyde,4-isopropylbenzaldehyde,cuminic aldehyde,122-03-2,1.0,mineral oil
 454,128.21,CCCCCCCC=O,octanal,octanal,octanal,124-13-0,0.25,mineral oil
 460,124.14,COC1=CC=CC=C1O,2-methoxyphenol,guaiacol,guaiacol,90-05-1,0.2,mineral oil
 612,90.08,CC(C(=O)O)O,2-hydroxypropanoic acid,lactic acid,2-hydroxypropanoic acid,50-21-5,100.0,None
 798,117.15,C1=CC=C2C(=C1)C=CN2,1H-indole,indole,indole,120-72-9,0.5,"1,2-propanediol"
 999,136.15,C1=CC=C(C=C1)CC(=O)O,2-phenylacetic acid,phenylacetic acid,phenyl acetic acid,103-82-2,5.0,mineral oil
-1031,60.1,CCCO,propan-1-ol,1-propanol,propan-1-ol,71-23-8,15.0,water
+1031,60.10,CCCO,propan-1-ol,1-propanol,propan-1-ol,71-23-8,15.0,water
 1060,88.06,CC(=O)C(=O)O,2-oxopropanoic acid,pyruvic acid,2-oxopropanoic acid,127-17-3,0.8,water
 1068,62.14,CSC,methylsulfanylmethane,dimethyl sulfide,methylsulfanylmethane,75-18-3,0.004,water
 1127,88.17,C1CCSC1,thiolane,tetrahydrothiophene,thiolane,110-01-0,0.0005,"1,2-propanediol"
@@ -21,8 +21,8 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name,Odorant name,C.A.S.,% odorant,
 2758,154.25,CC1(C2CCC(O1)(CC2)C)C,"1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane",eucalyptol,eucalyptol,470-82-6,2.0,mineral oil
 2879,108.14,CC1=CC=C(C=C1)O,4-methylphenol,p-cresol,p-cresol,106-44-5,0.1,"1,2-propanediol"
 2969,172.26,CCCCCCCCCC(=O)O,decanoic acid,decanoic acid,decanoic acid,334-48-5,100.0,"1,2-propanediol"
-3314,164.2,COC1=C(C=CC(=C1)CC=C)O,2-methoxy-4-prop-2-enylphenol,eugenol,eugenol,97-53-0,0.3,mineral oil
-3776,60.1,CC(C)O,propan-2-ol,isopropanol,propan-2-ol,67-63-0,100.0,None
+3314,164.20,COC1=C(C=CC(=C1)CC=C)O,2-methoxy-4-prop-2-enylphenol,eugenol,eugenol,97-53-0,0.3,mineral oil
+3776,60.10,CC(C)O,propan-2-ol,isopropanol,propan-2-ol,67-63-0,100.0,None
 4133,152.15,COC(=O)C1=CC=CC=C1O,methyl 2-hydroxybenzoate,methyl salicylate,methyl salicylate,119-36-8,0.25,mineral oil
 5634,184.27,C=CCCCCCCCCC(=O)O,undec-10-enoic acid,undecylenic acid,undecylenic acid,112-38-9,50.0,"1,2-propanediol"
 6054,122.16,C1=CC=C(C=C1)CCO,2-phenylethanol,2-phenylethanol,phenyl ethanol,60-12-8,50.0,mineral oil
@@ -33,7 +33,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name,Odorant name,C.A.S.,% odorant,
 6561,72.11,CC(C)C=O,2-methylpropanal,isobutyraldehyde,2-methylpropanal,78-84-2,0.025,"1,2-propanediol"
 6590,88.11,CC(C)C(=O)O,2-methylpropanoic acid,isobutyric acid,2-methylpropanoic acid,79-31-2,1.25,"1,2-propanediol"
 6654,136.23,CC1=CCC2CC1C2(C)C,"2,6,6-trimethylbicyclo[3.1.1]hept-2-ene",alpha-pinene,alpha-pinene,80-56-8,15.0,mineral oil
-6736,131.17,CC1=CNC2=CC=CC=C12,3-methyl-1H-indole,3-methyl-1h-indole,skatole,83-34-1,0.005,"1,2-propanediol"
+6736,131.17,CC1=CNC2=CC=CC=C12,3-methyl-1H-indole,3-methylindole,skatole,83-34-1,0.005,"1,2-propanediol"
 6982,184.66,CC1=CC(=C(C=C1Cl)C(C)C)O,4-chloro-5-methyl-2-propan-2-ylphenol,chlorothymol,chlorothymol,89-68-9,100.0,"1,2-propanediol"
 6989,150.22,CC1=CC(=C(C=C1)C(C)C)O,5-methyl-2-propan-2-ylphenol,thymol,thymol,89-83-8,1.0,"1,2-propanediol"
 7059,143.18,CC1=CC2=C(C=C1)N=CC=C2,6-methylquinoline,6-methylquinoline,para-methyl quinoline,91-62-3,0.25,"1,2-propanediol"
@@ -46,11 +46,11 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name,Odorant name,C.A.S.,% odorant,
 7463,134.22,CC1=CC=C(C=C1)C(C)C,1-methyl-4-propan-2-ylbenzene,p-cymene,1-Isopropyl-4-methylbenzene,99-87-6,0.5,"1,2-propanediol"
 7519,108.14,COC1=CC=CC=C1,anisole,anisole,anisole,100-66-3,0.2,"1,2-propanediol"
 7583,170.21,C1=CC=C(C=C1)OC2=CC=CC=C2,phenoxybenzene,diphenyl ether,diphenyl oxide,101-84-8,1.0,mineral oil
-7600,206.28,CC(C)CCOC(=O)CC1=CC=CC=C1,3-methylbutyl 2-phenylacetate,isoamyl phenylacetate,iso-pentyl phenyl acetate,102-19-2,0.5,mineral oil
+7600,206.28,CC(C)CCOC(=O)CC1=CC=CC=C1,3-methylbutyl 2-phenylacetate,102-19-2,iso-pentyl phenyl acetate,102-19-2,0.5,mineral oil
 7632,164.24,CC(C)(CCC1=CC=CC=C1)O,2-methyl-4-phenylbutan-2-ol,2-methyl-4-phenyl-2-butanol,muguet carbinol,103-05-9,100.0,"1,2-propanediol"
-7654,164.2,CC(=O)OCCC1=CC=CC=C1,2-phenylethyl acetate,phenethyl acetate,2-phenylethyl acetate,103-45-7,100.0,None
+7654,164.20,CC(=O)OCCC1=CC=CC=C1,2-phenylethyl acetate,phenethyl acetate,2-phenylethyl acetate,103-45-7,100.0,None
 7685,178.23,CC1=CC=C(C=C1)OC(=O)C(C)C,(4-methylphenyl) 2-methylpropanoate,p-tolyl isobutyrate,p-cresyl-iso-butyrate,103-93-5,10.0,mineral oil
-7710,156.22,CCCCCC1CCC(=O)O1,5-pentyloxolan-2-one,gamma-nonalactone,gamma-nonalactone,104-61-0,0.5,mineral oil
+7710,156.22,CCCCCC1CCC(=O)O1,5-pentyloxolan-2-one,104-61-0,gamma-nonalactone,104-61-0,0.5,mineral oil
 7714,184.27,CCCCCCCC1CCC(=O)O1,5-heptyloxolan-2-one,gamma-undecalactone,gamma-undecalactone,104-67-6,10.0,mineral oil
 7731,122.16,CC1=CC=C(C=C1)OC,1-methoxy-4-methylbenzene,4-methylanisole,4-methyl anisole,104-93-8,0.15,mineral oil
 7749,102.13,CCC(=O)OCC,ethyl propanoate,ethyl propionate,ethyl propionate,105-37-3,0.25,mineral oil
@@ -83,15 +83,15 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name,Odorant name,C.A.S.,% odorant,
 10821,102.13,C#CC1=CC=CC=C1,ethynylbenzene,ethynylbenzene,phenyl acetylene,536-74-3,0.3,mineral oil
 10882,130.18,CCCCC(=O)OCC,ethyl pentanoate,ethyl pentanoate,ethyl pentanoate,539-82-2,0.025,"1,2-propanediol"
 10890,158.24,CCCCCOC(=O)CCC,pentyl butanoate,pentyl butyrate,amyl butyrate,540-18-1,1.0,"1,2-propanediol"
-10976,116.2,CCCCCC(C)O,heptan-2-ol,2-heptanol,heptan-2-ol,543-49-7,5.0,"1,2-propanediol"
-11002,146.3,CCCCSCCCC,1-butylsulfanylbutane,dibutyl sulfide,butyl sulfide,544-40-1,0.15,mineral oil
+10976,116.20,CCCCCC(C)O,heptan-2-ol,2-heptanol,heptan-2-ol,543-49-7,5.0,"1,2-propanediol"
+11002,146.30,CCCCSCCCC,1-butylsulfanylbutane,dibutyl sulfide,butyl sulfide,544-40-1,0.15,mineral oil
 11124,88.11,CCC(=O)OC,methyl propanoate,methyl propionate,methyl propanoate,554-12-1,2.5,"1,2-propanediol"
 11509,100.16,CCCC(=O)CC,hexan-3-one,3-hexanone,hexan-3-one,589-38-8,0.5,"1,2-propanediol"
 11552,86.13,CC(C)CC=O,3-methylbutanal,3-methylbutanal,iso-valeraldehyde,590-86-3,0.0003,mineral oil
 12020,86.13,CCC(C=C)O,pent-1-en-3-ol,1-penten-3-ol,pent-1-en-3-ol,616-25-1,0.3,"1,2-propanediol"
 12178,102.17,CCCC(CC)O,hexan-3-ol,3-hexanol,3-hexanol,623-37-0,0.4,mineral oil
 12180,102.13,CCCC(=O)OC,methyl butanoate,methyl butyrate,methyl butanoate,623-42-7,0.15,"1,2-propanediol"
-12232,94.2,CSSC,(methyldisulfanyl)methane,dimethyl disulfide,(methyldisulfanyl) methane,624-92-0,0.025,"1,2-propanediol"
+12232,94.20,CSSC,(methyldisulfanyl)methane,dimethyl disulfide,(methyldisulfanyl) methane,624-92-0,0.025,"1,2-propanediol"
 12348,130.18,CCCCCOC(=O)C,pentyl acetate,amyl acetate,pentyl acetate,628-63-7,0.75,"1,2-propanediol"
 12367,144.25,CCCCCCCC(C)O,nonan-2-ol,2-nonanol,nonan-2-ol,628-99-9,1.0,"1,2-propanediol"
 12741,156.26,CCCCCCCCC(=O)C,decan-2-one,2-decanone,decan-2-one,693-54-9,100.0,None
@@ -114,7 +114,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name,Odorant name,C.A.S.,% odorant,
 61138,100.12,C=CCCC(=O)O,pent-4-enoic acid,4-pentenoic acid,4-pentenoic acid,591-80-0,0.3,mineral oil
 62336,180.24,CC(C1=CC=CC=C1)C(OC)OC,"1,1-dimethoxypropan-2-ylbenzene",2-phenylpropionaldehyde dimethyl acetal,2-phenyl propionaldehyde dimethyl acetal,90-87-9,15.0,mineral oil
 62433,172.26,CCCCCOC(=O)CCCC,pentyl pentanoate,pentyl valerate,pentyl valerate,2173-56-0,50.0,mineral oil
-62444,118.2,CCCC(=O)SC,S-methyl butanethioate,s-methyl thiobutyrate,S-(methyl thio) butyrate,2432-51-1,0.03,mineral oil
+62444,118.20,CCCC(=O)SC,S-methyl butanethioate,methyl thiobutyrate,S-(methyl thio) butyrate,2432-51-1,0.03,mineral oil
 62465,152.19,CCC1=CC(=C(C=C1)O)OC,4-ethyl-2-methoxyphenol,4-ethyl-2-methoxyphenol,4-ethyl guaiacol,2785-89-9,0.1,"1,2-propanediol"
 91497,258.4,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,"4,6,6,7,8,8-hexamethyl-1,3,4,7-tetrahydrocyclopenta[g]isochromene",galaxolide,musk galaxolide,1222-05-5,5.0,"1,2-propanediol"
 440917,136.23,CC1=CC[C@@H](CC1)C(=C)C,(4R)-1-methyl-4-prop-1-en-2-ylcyclohexene,d-limonene,limonene,5989-27-5,5.0,mineral oil
@@ -126,5 +126,4 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name,Odorant name,C.A.S.,% odorant,
 5281168,98.14,CCC/C=C/C=O,(E)-hex-2-enal,trans-2-hexenal,trans-2-hexenal,6728-26-3,0.1,mineral oil
 5281515,204.35,C/C/1=C\CCC(=C)[C@H]2CC([C@@H]2CC1)(C)C,"(1R,4E,9S)-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undec-4-ene",beta-caryophyllene,caryophyllene,87-44-5,15.0,"1,2-propanediol"
 5283349,152.23,CCCCC/C=C/C=C/C=O,"(2E,4E)-deca-2,4-dienal","(2e,4e)-deca-2,4-dienal","2,4-trans-trans-decadienal",25152-84-5,0.5,mineral oil
-5373603,174.2,CC/C=C\1/C2=CC=CC=C2C(=O)O1,(3Z)-3-propylidene-2-benzofuran-1-one,3-propylidenephthalide,celeriax,17369-59-4,0.2,"1,2-propanediol"
-5373603,174.2,CC/C=C\1/C2=CC=CC=C2C(=O)O1,(3Z)-3-propylidene-2-benzofuran-1-one,3-propylidenephthalide,celeriax,17369-59-4,0.2,"1,2-propanediol"
+5373603,174.20,CC/C=C\1/C2=CC=CC=C2C(=O)O1,(3Z)-3-propylidene-2-benzofuran-1-one,3-propylidenephthalide,celeriax,17369-59-4,0.2,"1,2-propanediol"
