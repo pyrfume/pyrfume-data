@@ -11,13 +11,12 @@ tags = "human;intensity;pleasantness;odorCharacter;threshold;academic"
 
 [processed]
 "molecules.csv" = "Information about odorant molecules used"
-"mixtures.csv" = "Molecular composition and concentration of the odorants used"
+"stimuli.csv" = "Maps stimulus to the molecular composition and concentration of the odorants used"
 "behavior_1.csv" = "Detection thresholds for 3 odorants"
 "behavior_2.csv" = "Descriptors for 3 odorants"
 "behavior_3.csv" = "Intensity for 134 odorants"
 "behavior_4.csv" = "Pleasantness for 134 odorants"
 "subjects.csv" = "Subject metadata"
-"substances.csv" = "Stimuli that do not have CID's"
 
 [code]
 "main.py" = "Processing workflow"

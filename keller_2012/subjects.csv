@@ -1,4 +1,4 @@
-subject,BMI,age (years),gender,race,hispanic,marital status,education,income,picky eater,enthusiastic eater,weight,cigarettes,perfume usage (per week)
+Subject,BMI,age (years),gender,race,hispanic,marital status,education,income,picky eater,enthusiastic eater,weight,cigarettes,perfume usage (per week)
 33,40.32009849184365,43.86027397260274,Male,Caucasian,No,Single,Graduate School,Do Not Wish To Specify,No,Yes,Overweight,I do not smoke,I do not use perfume cologne and/or toliet water
 36,23.333014140253436,25.123287671232877,Male,Other,No,Single,Some College,"$50,000 to $74,999",No,No,Underweight,Very rarely (e.g. 1 per week),8-13 times
 37,25.11817656518682,34.66575342465753,Male,Caucasian,No,Married,College Graduate,"$50,000 to $74,999",No,Yes,Just Right,Less than 5,I do not use perfume cologne and/or toliet water
