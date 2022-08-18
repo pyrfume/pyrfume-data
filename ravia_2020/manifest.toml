@@ -11,10 +11,11 @@ tags = "human;odorCharacter;mixtures;academic"
 "tableS3.csv" = "Supplementary Table 2"
 
 [processed]
-"main.rmd" = "Processing workflow"
-"main.py" = "Additional processing for generation of molecules information"
 "molecules.csv" = "Information about odorant molecules used"
-"mixtures.csv" = "Mixtures used"
-"intensity.csv" = "Intensity of mixtures used"
-"behavior1.csv" = "Similarity rating test results"
-"behavior2.csv" = "Discrimination test results"
+"stimuli.csv" = "Maps stimulus ID to molecules/mixtures and experimental conditions used"
+"behavior_1.csv" = "Intensity of mixtures used"
+"behavior_2.csv" = "Similarity rating test results"
+"behavior_3.csv" = "Discrimination test results"
+
+[code]
+"main.py" = "Processing workflow"
