@@ -14,6 +14,7 @@ extra = "All raw files available at https://github.com/TeamAlbeanu/mosaic_repres
 "raw/MT_cell/mitral_cells/55_odors/ml_field_of_view_*.mat" = "cellular data, for the 55 odorant panel; @ LOW concentration"	
 "raw/MT_cell/tufted_cells/th_field_of_view_*.mat" = "cellular data, for the 55 odorant panel; @ HIGH concentration"
 "raw/MT_cell/tufted_cells/tl_field_of_view_*.mat" = "cellular data, for the 55 odorant panel; @ LOW concentration"
+"raw/supplementary_table_1_odors_with_cas_and_cid.xlsx" = "Odorant list for each experiment"
 
 [processed]
 "molecules.csv" = "Merged list of molecules used across all experiments (glom, mitral33, mitral55, tufted)"

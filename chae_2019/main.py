@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Description of Chae 2019 ata: 
+# Description of Chae 2019 data: 
 #
 # 1. Glomerular data: glomerular deltaF/F responses organized into 57 (odorants) x N (glomeruli) matrices. Data are from 5
 # animals, for both left and right hemibulbs (i.e. 10 x 57 x N). N (the # of glomeruli) is variable for each (hemibulb, animal)
@@ -38,7 +38,7 @@ mt_cell_file = os.path.join(mitral_data_path, 'MT_cells.xlsx')
 mol_list_33 = pd.read_excel(mt_cell_file, sheet_name='odor list_33 odors', header=0)['odor name'].to_list()
 mol_list_55 = pd.read_excel(mt_cell_file, sheet_name='odor list_55 odors', header=0)['odor name'].to_list() 
 
-molecules_55_name_to_cid = odorants.get_cids(mol_list_55, kind='name')
+molecules_55_name_to_cid = pyrfume.get_cids(mol_list_55, kind='name')
 
 # Fix the pathological cases where pyrfume didn't find a CID: 
 molecules_55_name_to_cid['ethyl 3-mercapto propionate'] = 87475436  
@@ -52,7 +52,7 @@ molecules_55_name_to_cid['coffee'] = -1
 
 cids_55 = list(molecules_55_name_to_cid.values())
 
-molecules_33_name_to_cid = odorants.get_cids(mol_list_33, kind='name')
+molecules_33_name_to_cid = pyrfume.get_cids(mol_list_33, kind='name')
 
 # Fix the pathological cases where pyrfume didn't find a CID: 
 molecules_33_name_to_cid['ethyl 3-mercapto propionate'] = 87475436 
