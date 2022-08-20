@@ -7,17 +7,20 @@ tags = "rodent;receptorResponse;academic"
 extra = "All raw files available at https://github.com/TeamAlbeanu/mosaic_representations"
 
 [raw]
-"./mosaic_representations/glomerular_data/glomerular_responses__main/animal_#N/left_hemibulb/left_hemibulb_ROI_responses.mat" = "glomerular data, left bulb"
-"./mosaic_representations/glomerular_data/glomerular_responses__main/animal_#N/right_hemibulb/right_hemibulb_ROI_responses.mat" = "glomerular data, right bulb"
-"./mosaic_representations/MT_cell/mitral_cells/33_odors/mc_field_of_view_N.mat" = "cellular data, for the 33 odorant panel"
-"./mosaic_representations/MT_cell/mitral_cells/55_odors/mh_field_of_view_N.mat" = "cellular data, for the 55 odorant panel; @ HIGH concentration"
-"./mosaic_representations/MT_cell/mitral_cells/55_odors/ml_field_of_view_N.mat" = "cellular data, for the 55 odorant panel; @ LOW concentration"	
-"./mosaic_representations/MT_cell/tufted_cells/th_field_of_view_1.mat" = "cellular data, for the 55 odorant panel; @ HIGH concentration"
+"raw/glomerular_data/glomerular_responses__main/animal_#N/left_hemibulb/left_hemibulb_ROI_responses.mat" = "glomerular data, left bulb"
+"raw/glomerular_data/glomerular_responses__main/animal_#N/right_hemibulb/right_hemibulb_ROI_responses.mat" = "glomerular data, right bulb"
+"raw/MT_cell/mitral_cells/33_odors/mc_field_of_view_N.mat" = "cellular data, for the 33 odorant panel"
+"raw/MT_cell/mitral_cells/55_odors/mh_field_of_view_N.mat" = "cellular data, for the 55 odorant panel; @ HIGH concentration"
+"raw/MT_cell/mitral_cells/55_odors/ml_field_of_view_N.mat" = "cellular data, for the 55 odorant panel; @ LOW concentration"	
+"raw/MT_cell/tufted_cells/th_field_of_view_1.mat" = "cellular data, for the 55 odorant panel; @ HIGH concentration"
 
 [processed]
-"main.py" = "Processing workflow"
+"molecules.csv" = "Merged list of molecules used across all experiments (glom, mitral33, mitral55, tufted)"
+"stimuli.csv" = ""
 "behavior_1.csv" = "dF/F responses for all glomerular data, in long format (all subjects & conditions)"
 "behavior_2.csv" = "dF/F responses for all mitral cells in the 33 odorant panel experiments; long format"
 "behavior_3.csv" = "dF/F responses for all mitral cells in the 55 odorant panel experiments; long format"
 "behavior_4.csv" = "dF/F responses for all tufted cells (55 odorant panel); long format"
-"molecules.csv" = "Merged list of molecules used across all experiments (glom, mitral33, mitral55, tufted)"
+
+[code]
+"main.py" = "Processing workflow"
