@@ -49,5 +49,5 @@ physics.head()
 
 # Write to disk
 molecules.to_csv('molecules.csv')
-physics.to_csv('stimuli.csv')
+physics.to_csv('physics.csv')
 
