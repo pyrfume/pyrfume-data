@@ -24,7 +24,8 @@ molecules.head()
 # Create dataframe for stimuli.csv
 stimuli = odorants.dropna(thresh=3, axis=0).drop('Literature', axis=1).copy().reset_index()
 
-stimuli['Presenting set'] = stimuli['Presenting set'].fillna(method='ffill').str.strip()
+stimuli = stimuli.apply(lambda x: x.str.strip())
+stimuli['Presenting set'] = stimuli['Presenting set'].fillna(method='ffill')
 stimuli['Name'] = stimuli['Odorant name (abbreviation)'].str.split("(").str[0].str.strip()
 stimuli['Abbreviation'] = stimuli['Odorant name (abbreviation)'].str.split("(").str[1].str.replace(')', '', regex=True)
 stimuli['CID'] = stimuli.Name.map(cids)
@@ -35,11 +36,7 @@ stimuli = stimuli.groupby(by=['Odorant Set', 'Abbreviation', 'Name', 'CID', 'Dil
 
 stimuli['Stimulus'] = stimuli[['Odorant Set', 'Abbreviation']].agg('_'.join, axis=1)
 stimuli = stimuli.set_index('Stimulus').sort_index()
-
-stimuli.head()
-
-stimuli = stimuli.groupby(by=['Odorant Set', 'Abbreviation', 'Name', 'CID', 'Dilution factor (human)',
-                   'Dilution factor (rat)', 'Odor descriptors'], as_index=False).agg(', '.join)
+stimuli['Odor descriptors'] = stimuli['Odor descriptors'].str.lower().str.split(', ').apply(';'.join)
 
 stimuli.head()
 
@@ -54,17 +51,22 @@ stimuli.head()
 #   material
 #   LLGMNb = Using glomerular activity patterns evoked by butyl butyrate diluted to 1/190 of saturated vapor over the neat 
 #   material
+# For Set C:
+#   LLGMNa = The only network used
 
 data_dict = {}
 for sheet in ['A', 'B', 'C']:
     data_dict[sheet] = pd.read_excel('Table2.xlsx', sheet_name='Set ' + sheet, skipfooter=2, index_col=0)
+    if sheet == 'C':
+        data_dict[sheet].rename(columns={'LLGMN': 'LLGMNa'}, inplace=True)
 
 df = pd.concat(data_dict, axis=0).reset_index()
 df.rename(columns={'level_0': 'Set', 'level_1': 'Abbr'}, inplace=True)
 df.Abbr = df.Abbr.str.split("(").str[1].str.replace(')', '', regex=True)
 
-df['Stimulus'] = df[['Set', 'Abbr']].agg('_'.join, axis=1)
+df['Stimulus'] = df[['Set', 'Abbr']].agg('_'.join, axis=1).str.strip()
 df = df.drop(['Set', 'Abbr'], axis=1).set_index('Stimulus').sort_index()
+df = df.apply(lambda x: x.str.strip())
 df.head()
 
 # Write to disk

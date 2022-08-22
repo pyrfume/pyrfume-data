@@ -1,35 +1,35 @@
-Stimulus,Perceptual similarity,LLGMNa,LLGMNb,LLGMN
-A_1P ,0 ,0 ,0 ,
-A_2H ,0 ,0 ,1 ,
-A_AA ,1 ,1 ,1 ,
-A_AB ,1 ,1 ,1 ,
-A_BB ,1 ,0 ,1 ,
-A_EB ,0 ,0 ,0 ,
-A_EC ,1 ,1 ,1 ,
-A_G ,0 ,1 ,0 ,
-A_IA ,1 ,1 ,1 ,
-A_IB ,1 ,1 ,1 ,
-A_IPP ,0 ,0 ,0 ,
-A_NA ,0 ,0 ,0 ,
-A_PP ,0 ,1 ,0 ,
-A_oA ,0 ,0 ,0 ,
-B_1P ,0 ,0 ,0 ,
-B_2H ,0 ,1 ,0 ,
-B_AA ,1 ,1 ,1 ,
-B_AB ,1 ,1 ,1 ,
-B_EB ,1 ,0 ,0 ,
-B_EC ,1 ,1 ,1 ,
-B_G ,0 ,0 ,0 ,
-B_IA ,1 ,1 ,1 ,
-B_IB ,1 ,1 ,1 ,
-B_IPP ,0 ,1 ,0 ,
-B_IP ,1 ,0 ,1 ,
-B_NA ,0 ,0 ,1 ,
-B_PP ,0 ,1 ,1 ,
-B_oA ,0 ,0 ,0 ,
-C_CI ,1 ,,,0 
-C_CJ ,0 ,,,1 
-C_GA ,1 ,,,0 
-C_MA ,0 ,,,0 
-C_MP ,0 ,,,0 
-C_N ,0 ,,,1 
+Stimulus,Perceptual similarity,LLGMNa,LLGMNb
+A_1P,0,0,0
+A_2H,0,0,1
+A_AA,1,1,1
+A_AB,1,1,1
+A_BB,1,0,1
+A_EB,0,0,0
+A_EC,1,1,1
+A_G,0,1,0
+A_IA,1,1,1
+A_IB,1,1,1
+A_IPP,0,0,0
+A_NA,0,0,0
+A_PP,0,1,0
+A_oA,0,0,0
+B_1P,0,0,0
+B_2H,0,1,0
+B_AA,1,1,1
+B_AB,1,1,1
+B_EB,1,0,0
+B_EC,1,1,1
+B_G,0,0,0
+B_IA,1,1,1
+B_IB,1,1,1
+B_IP,1,0,1
+B_IPP,0,1,0
+B_NA,0,0,1
+B_PP,0,1,1
+B_oA,0,0,0
+C_CI,1,0,
+C_CJ,0,1,
+C_GA,1,0,
+C_MA,0,0,
+C_MP,0,0,
+C_N,0,1,

@@ -1,38 +1,38 @@
-,Odorant Set,Abbreviation,Name,CID,Dilution factor (human),Dilution factor (rat),Odor descriptors,Presenting set
-0,A,1P ,1-Pentanol,6276,1/120 ,1/110 ,"Fusel, sweet ",Fixed group
-1,A,2H ,2-Heptanone,8051,1/80 ,1/29 ,"Fruity, spicy, cinnamon, banana ",Fixed group
-2,A,AA ,Amyl acetate,12348,1/50 ,1/72 ,"Banana, pear, sweet, fruity ",Group 3
-3,A,AB ,Amyl butyrate,10890,1/20 ,1/10 ,Banana ,"Group 1, Group 4"
-4,A,BB ,Butyl butyrate,7983,1/10 ,1/10 ,Banana ,Group 1
-5,A,EB ,Ethyl butyrate,7762,1/50 ,1/225 ,"Banana, pineapple, berry, cognac ",Group 2
-6,A,EC ,Ethyl caproate,31265,1/50 ,1/21 ,"Wine, apple, banana, brandy ",Group 4
-7,A,G ,Geraniol,637566,1/20 ,1/8 ,"Sweet, rose, woody, floral ",Fixed group
-8,A,IA ,Isoamyl acetate,31276,1/40 ,1/91 ,"Fruity, banana, sweet, solvent ",Group 2
-9,A,IB ,Isoamyl butyrate,7795,1/10 ,1/14 ,"Fruity, apricot, pineapple, banana ",Group 1
-10,A,IPP ,Isopropyl propionate,12508,1/40 ,1/395 ,"Fruity, sweet, pineapple, banana ",Group 3
-11,A,IP ,Isoamyl propionate,7772,1/20 ,1/87 ,Banana ,Standard
-12,A,NA ,Neryl acetate,1549025,1/5 ,1/8 ,"Orange blossom, rose, sweet, fruity ",Group 3
-13,A,PP ,Propyl propionate,7803,1/40 ,1/224 ,"Fruity, floral, apple, pineapple ",Group 2
-14,A,oA ,o-Anisaldehyde,8658,1/30 ,a ,"Phenolic, sweet, balsam, floral ",Group 4
-15,B,1P ,1-Pentanol,6276,1/120 ,1/110 ,"Fusel, sweet ",Fixed group
-16,B,2H ,2-Heptanone,8051,1/80 ,1/29 ,"Fruity, spicy, cinnamon, banana ",Fixed group
-17,B,AA ,Amyl acetate,12348,1/50 ,1/72 ,"Banana, pear, sweet, fruity ",Group 3
-18,B,AB ,Amyl butyrate,10890,1/20 ,1/10 ,Banana ,"Group 1, Group 4"
-19,B,BB ,Butyl butyrate,7983,1/10 ,1/10 ,Banana ,Standard
-20,B,EB ,Ethyl butyrate,7762,1/50 ,1/225 ,"Banana, pineapple, berry, cognac ",Group 2
-21,B,EC ,Ethyl caproate,31265,1/50 ,1/21 ,"Wine, apple, banana, brandy ",Group 4
-22,B,G ,Geraniol,637566,1/20 ,1/8 ,"Sweet, rose, woody, floral ",Fixed group
-23,B,IA ,Isoamyl acetate,31276,1/40 ,1/91 ,"Fruity, banana, sweet, solvent ",Group 2
-24,B,IB ,Isoamyl butyrate,7795,1/10 ,1/14 ,"Fruity, apricot, pineapple, banana ",Group 1
-25,B,IPP ,Isopropyl propionate,12508,1/40 ,1/395 ,"Fruity, sweet, pineapple, banana ",Group 3
-26,B,IP ,Isoamyl propionate,7772,1/20 ,1/10 ,Banana ,Group 1
-27,B,NA ,Neryl acetate,1549025,1/5 ,1/8 ,"Orange blossom, rose, sweet, fruity ",Group 3
-28,B,PP ,Propyl propionate,7803,1/40 ,1/224 ,"Fruity, floral, apple, pineapple ",Group 2
-29,B,oA ,o-Anisaldehyde,8658,1/30 ,a ,"Phenolic, sweet, balsam, floral ",Group 4
-30,C,CI ,Citronellol,8842,1/20 ,1/36 ,"Rose, floral, petal, waxy ",Fixed group
-31,C,CJ ,Cis-Jasmone,1549018,1/10 ,1/8 ,"Floral, woody, jasmine, citrus ",Fixed group
-32,C,GA ,Geranyl acetate,1549026,1/10 ,1/8 ,"Rose, lavender, sweet, floral ",Fixed group
-33,C,L ,Linalool,6549,1/30 ,1/45 ,"Orange, sweet, bergamot, lavender ",Standard
-34,C,MA ,Methyl anthranilate,8635,1/10 ,1/8 ,"Orange blossom, jasmine, musty, fruity ","Fixed group, Group 1"
-35,C,MP ,Methyl phenylacetate,7559,1/10 ,1/9.9 ,"Sweet, honey, jasmine, fruity ",Group 1
-36,C,N ,Nerol,643820,1/10 ,1/8 ,"Sweet, rose, neroli, citrus ",Group 1
+Stimulus,Odorant Set,Abbreviation,Name,CID,Dilution factor (human),Dilution factor (rat),Odor descriptors,Presenting set
+A_1P,A,1P,1-Pentanol,6276,1/120,1/110,fusel;sweet,Fixed group
+A_2H,A,2H,2-Heptanone,8051,1/80,1/29,fruity;spicy;cinnamon;banana,Fixed group
+A_AA,A,AA,Amyl acetate,12348,1/50,1/72,banana;pear;sweet;fruity,Group 3
+A_AB,A,AB,Amyl butyrate,10890,1/20,1/10,banana,"Group 1, Group 4"
+A_BB,A,BB,Butyl butyrate,7983,1/10,1/10,banana,Group 1
+A_EB,A,EB,Ethyl butyrate,7762,1/50,1/225,banana;pineapple;berry;cognac,Group 2
+A_EC,A,EC,Ethyl caproate,31265,1/50,1/21,wine;apple;banana;brandy,Group 4
+A_G,A,G,Geraniol,637566,1/20,1/8,sweet;rose;woody;floral,Fixed group
+A_IA,A,IA,Isoamyl acetate,31276,1/40,1/91,fruity;banana;sweet;solvent,Group 2
+A_IB,A,IB,Isoamyl butyrate,7795,1/10,1/14,fruity;apricot;pineapple;banana,Group 1
+A_IP,A,IP,Isoamyl propionate,7772,1/20,1/87,banana,Standard
+A_IPP,A,IPP,Isopropyl propionate,12508,1/40,1/395,fruity;sweet;pineapple;banana,Group 3
+A_NA,A,NA,Neryl acetate,1549025,1/5,1/8,orange blossom;rose;sweet;fruity,Group 3
+A_PP,A,PP,Propyl propionate,7803,1/40,1/224,fruity;floral;apple;pineapple,Group 2
+A_oA,A,oA,o-Anisaldehyde,8658,1/30,a,phenolic;sweet;balsam;floral,Group 4
+B_1P,B,1P,1-Pentanol,6276,1/120,1/110,fusel;sweet,Fixed group
+B_2H,B,2H,2-Heptanone,8051,1/80,1/29,fruity;spicy;cinnamon;banana,Fixed group
+B_AA,B,AA,Amyl acetate,12348,1/50,1/72,banana;pear;sweet;fruity,Group 3
+B_AB,B,AB,Amyl butyrate,10890,1/20,1/10,banana,"Group 1, Group 4"
+B_BB,B,BB,Butyl butyrate,7983,1/10,1/10,banana,Standard
+B_EB,B,EB,Ethyl butyrate,7762,1/50,1/225,banana;pineapple;berry;cognac,Group 2
+B_EC,B,EC,Ethyl caproate,31265,1/50,1/21,wine;apple;banana;brandy,Group 4
+B_G,B,G,Geraniol,637566,1/20,1/8,sweet;rose;woody;floral,Fixed group
+B_IA,B,IA,Isoamyl acetate,31276,1/40,1/91,fruity;banana;sweet;solvent,Group 2
+B_IB,B,IB,Isoamyl butyrate,7795,1/10,1/14,fruity;apricot;pineapple;banana,Group 1
+B_IP,B,IP,Isoamyl propionate,7772,1/20,1/10,banana,Group 1
+B_IPP,B,IPP,Isopropyl propionate,12508,1/40,1/395,fruity;sweet;pineapple;banana,Group 3
+B_NA,B,NA,Neryl acetate,1549025,1/5,1/8,orange blossom;rose;sweet;fruity,Group 3
+B_PP,B,PP,Propyl propionate,7803,1/40,1/224,fruity;floral;apple;pineapple,Group 2
+B_oA,B,oA,o-Anisaldehyde,8658,1/30,a,phenolic;sweet;balsam;floral,Group 4
+C_CI,C,CI,Citronellol,8842,1/20,1/36,rose;floral;petal;waxy,Fixed group
+C_CJ,C,CJ,Cis-Jasmone,1549018,1/10,1/8,floral;woody;jasmine;citrus,Fixed group
+C_GA,C,GA,Geranyl acetate,1549026,1/10,1/8,rose;lavender;sweet;floral,Fixed group
+C_L,C,L,Linalool,6549,1/30,1/45,orange;sweet;bergamot;lavender,Standard
+C_MA,C,MA,Methyl anthranilate,8635,1/10,1/8,orange blossom;jasmine;musty;fruity,"Fixed group, Group 1"
+C_MP,C,MP,Methyl phenylacetate,7559,1/10,1/9.9,sweet;honey;jasmine;fruity,Group 1
+C_N,C,N,Nerol,643820,1/10,1/8,sweet;rose;neroli;citrus,Group 1
