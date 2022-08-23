@@ -1,0 +1,16 @@
+# Manifest for Prestwick Phytochemical Library
+[source]
+title = "Prestwick Phytochemical Library"
+authors = "Prestwick Chemical"
+url = "https://www.prestwickchemical.com/screening-libraries/prestwick-phytochemical-library/"
+tags = ""
+
+[raw]
+"PrestwickChemLib.smi" = "List of SMILES for molecules in Prestwick library"
+LICENSE = ""
+
+[processed]
+"molecules.csv" = "Information about molecules used"
+
+[code]
+"main.py" = "Processing workflow"
