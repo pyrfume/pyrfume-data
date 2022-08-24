@@ -1,0 +1,15 @@
+# Manifest for FoodComEx database molecule list
+[source]
+title = "FoodComEx"
+authors = "C Manach, C Weinert, D Wishart"
+url = "https://foodcomex.org/"
+tags = ""
+
+[raw]
+"compounds.csv" = "Scraped list of compounds including name and CAS"
+
+[processed]
+"molecules.csv" = "Information about molecules used"
+
+[code]
+"main.py" = "Processing workflow"
