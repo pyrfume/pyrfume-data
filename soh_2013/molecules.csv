@@ -1,0 +1,23 @@
+CID,MolecularWeight,IsomericSMILES,IUPACName,name
+6276,88.15,CCCCCO,pentan-1-ol,1-pentanol
+6549,154.25,CC(=CCCC(C)(C=C)O)C,"3,7-dimethylocta-1,6-dien-3-ol",linalool
+7559,150.17,COC(=O)CC1=CC=CC=C1,methyl 2-phenylacetate,methyl phenylacetate
+7762,116.16,CCCC(=O)OCC,ethyl butanoate,ethyl butyrate
+7772,144.21,CCC(=O)OCCC(C)C,3-methylbutyl propanoate,isoamyl propionate
+7795,158.24,CCCC(=O)OCCC(C)C,3-methylbutyl butanoate,isoamyl butyrate
+7803,116.16,CCCOC(=O)CC,propyl propanoate,propyl propionate
+7983,144.21,CCCCOC(=O)CCC,butyl butanoate,butyl butyrate
+8051,114.19,CCCCCC(=O)C,heptan-2-one,2-heptanone
+8635,151.16,COC(=O)C1=CC=CC=C1N,methyl 2-aminobenzoate,methyl anthranilate
+8658,136.15,COC1=CC=CC=C1C=O,2-methoxybenzaldehyde,2-methoxybenzaldehyde
+8842,156.26,CC(CCC=C(C)C)CCO,"3,7-dimethyloct-6-en-1-ol",citronellol
+10890,158.24,CCCCCOC(=O)CCC,pentyl butanoate,pentyl butyrate
+12348,130.18,CCCCCOC(=O)C,pentyl acetate,amyl acetate
+12508,116.16,CCC(=O)OC(C)C,propan-2-yl propanoate,isopropyl propionate
+31265,144.21,CCCCCC(=O)OCC,ethyl hexanoate,ethyl caproate
+31276,130.18,CC(C)CCOC(=O)C,3-methylbutyl acetate,isoamyl acetate
+637566,154.25,CC(=CCC/C(=C/CO)/C)C,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",geraniol
+643820,154.25,CC(=CCC/C(=C\CO)/C)C,"(2Z)-3,7-dimethylocta-2,6-dien-1-ol",nerol
+1549018,164.24,CC/C=C\CC1=C(CCC1=O)C,3-methyl-2-[(Z)-pent-2-enyl]cyclopent-2-en-1-one,cis-jasmone
+1549025,196.29,CC(=CCC/C(=C\COC(=O)C)/C)C,"[(2Z)-3,7-dimethylocta-2,6-dienyl] acetate",neryl acetate
+1549026,196.29,CC(=CCC/C(=C/COC(=O)C)/C)C,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",geranyl acetate

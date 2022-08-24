@@ -1,0 +1,17 @@
+# Manifest for FreeSolv (Mobley, 2013) database of experimental and calculated hydration free energies for small neutral molecules in water
+[source]
+doi = "10.1007/s10822-014-9747-x "
+title = "FreeSolv: a database of experimental and calculated hydration free energies, with input files"
+authors = "DL Mobley, JP Guthrie"
+url = "https://escholarship.org/uc/item/6sd403pz"
+tags = "human;odorCharacter"
+
+[raw]
+"database.txt" = "Experimental and calculated hydration free energies version 0.51"
+
+[processed]
+"molecules.csv" = "Information about odorant molecules used"
+"physics.csv" = "Experimental and calculated hydration free energies and uncertainties"
+
+[code]
+"main.py" = "Processing workflow"

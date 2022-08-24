@@ -1,0 +1,15 @@
+# Manifest for GRAS (Generally regarded as safe) database molecule list
+[source]
+title = "DIRECT FOOD SUBSTANCES AFFIRMED AS GENERALLY RECOGNIZED AS SAFE"
+authors = "Food and Drug Administration"
+url = "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=184&showFR=1"
+tags = ""
+
+[raw]
+"GRAS.smi" = "List of SMILES and CAS from GRAS"
+
+[processed]
+"molecules.csv" = "Information about molecules used"
+
+[code]
+"main.py" = "Processing workflow"

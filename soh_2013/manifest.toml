@@ -1,0 +1,18 @@
+# Manifest for Soh 2013 dataset
+[source]
+doi = "https://doi.org/10.1093/chemse/bjt057"
+title = "A Comparison Between the Human Sense of Smell and Neural Activity in the Olfactory Bulb of Rats"
+authors = "Z Soh, M Saito, Y Kurita, N Takiguchi, H Ohtake, T Tsuji"
+tags = "rodent"
+
+[raw]
+"Table1.xlsx" = "Sets of odorant used in the sensory testing; copy/pasted from manuscript website"
+"Table2.xlsx" = "Perceptual similarity results; each odorant set in it's own worksheet; copy/pasted from manuscript website; see main.py for explanation of LLGMN_a vs LLGMN_b"
+
+[processed]
+"molecules.csv" = "Information about odorant molecules used"
+"stimuli.cav" = "Maps stimulus ID to odorant, dillution, and odorant set"
+"behavior.csv" = "Perceptual similary results"
+
+[code]
+"main.py" = "Processing workflow"
