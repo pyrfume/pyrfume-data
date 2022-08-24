@@ -1,0 +1,49 @@
+Stimulus,No. Comp. in Mixture,Version,ID task,Descriptors
+white,1,1,4-AFC,Coconut;Bitter almond;Butter
+white,1,1,5-AFC,Coconut;Fruity;Creamy
+white,1,2,4-AFC,Naphthalene;Narcissus;Jasmine
+white,1,2,5-AFC,Flowery;naphthalene;medicinal
+white,1,3,4-AFC,Banana;Pear Nectar;Cherry Candy
+white,1,3,5-AFC,Banana;Green Apple;Cherry candy
+white,1,4,4-AFC,Rose water;Blancmange;Sweet almond
+white,1,4,5-AFC,Rose water;Pine needles;Green Root
+white,10,1,4-AFC,Cat urine;Feces;Oregano
+white,10,1,5-AFC,Oregano;Urine/Feces;Rotten eggs
+white,10,2,4-AFC,Talc Cream;Baby smell;Urine
+white,10,2,5-AFC,Fruity;Flowery;Butter
+white,10,3,4-AFC,Oregano;Vinegar;butter
+white,10,3,5-AFC,peppermint;Oregano;Feces
+white,10,4,4-AFC,Naphthalene;Jasmine;Rose water
+white,10,4,5-AFC,Naphthalene;Feces/Cat urine;Vinegar
+white,20,1,4-AFC,Jasmine;Lily of the Valleys;Water vapor
+white,20,1,5-AFC,Nutty;Vanilla baking;Butter
+white,20,2,4-AFC,Patchouli- Vanilla;Coconut;Butter
+white,20,2,5-AFC,Nutty;Seasoned- Sweet;Butter
+white,20,3,4-AFC,Cat feces;Jasmine;Animalistic
+white,20,3,5-AFC,Ink;Cat urine;Cinnamon
+white,20,4,4-AFC,Patchouli-Vanilla;Cinnamon;Urine/Feces
+white,20,4,5-AFC,Cinnamon;Apple;Feces
+white,30,1,4-AFC,Jasmine;Red fruit;Vinegar
+white,30,1,5-AFC,Air freshener;Green Apple;Cinnamon
+white,30,2,4-AFC,Beurre noisette;Cinnamon stick;Vanilla
+white,30,2,5-AFC,Vanilla baking;Coffee;Nutty
+white,30,3,4-AFC,Bengay;Thyme;Vanilla Butter
+white,30,3,5-AFC,Oregano;Cinnamon;Butter
+white,30,4,4-AFC,Cherry Candy;Feces;Urine
+white,30,4,5-AFC,Cherry Candy;Nutty;Vanilla baking
+white,4,1,4-AFC,Oregano;Pizza;Cat urine
+white,4,1,5-AFC,Weedy;Seasoned;Peppermint
+white,4,2,4-AFC,Feces;Cat urine;Wild cat/Street cat
+white,4,2,5-AFC,Diluted Tomato paste;Fruity;Sour
+white,4,3,4-AFC,Banana;Cat urine;Feces
+white,4,3,5-AFC,Cider;Cherry Candy;Banana
+white,4,4,4-AFC,Oregano Pizza;Butter;Vinegar
+white,4,4,5-AFC,Thyme;Oregano;Pizza Sauce
+white,40,1,4-AFC,Thyme;Vanilla-Cinnamon;Coconut
+white,40,1,5-AFC,Oregano;Cinnamon;Cherry Candy
+white,40,2,4-AFC,Cherry Candy;Vanilla Butter;Cinnamon
+white,40,2,5-AFC,Red fruit;Vanilla baking;Cinnamon Tea
+white,40,3,4-AFC,Vanilla Butter;Animalistic;Urine
+white,40,3,5-AFC,Vanilla baking;Cinnamon Tea;Butter
+white,40,4,4-AFC,Cherry Candy;Vanilla Butter;Cinnamon
+white,40,4,5-AFC,Cinnamon;Nutty;Butter

@@ -1,0 +1,22 @@
+# Manifest for Weiss et al 2012
+[source]
+doi = "10.1073/pnas.1208110109"
+title = "Perceptual convergence of multi-component mixtures in olfaction implies an olfactory white"
+authors = "T Weiss, K Snitz, A Yablonka, RM Khan, D Gafsou, E Schneidman, N Sobel"
+tags = "human;odorCharacter;academic"
+
+[raw]
+"sapp.pdf" = "Supplemental information for published manuscript; tables include data on odorants used and odor character data"
+
+[parsed]
+"Odorants.csv" = "Details for odorants used; parsed from Supp Tables 1A and 1B"
+"SuppTable7.csv" = "Manually parsed Table 7 to enable further processing"
+
+[processed]
+"molecules.csv" = "Information about odorant molecules used"
+"stimuli.csv" = "Maps stimulus ID to CID and experimental conditions"
+"behavior_1.csv" = "Descriptors for 'olfactory white' provided by 'expert perfumer'"
+"behavior_2.csv" = "Descriptors for 'olfactory white' provided by study participants"
+
+[code]
+"main.py" = "Processing workflow"

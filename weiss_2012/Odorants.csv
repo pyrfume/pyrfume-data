@@ -1,0 +1,145 @@
+CID,Ordinal#,Name,CAS,% v/v or g/ml,Phase,Solvent
+176,,acetic acid,64-19-7,10,liquid,water
+177,,acetaldehyde,75-07-0,5,liquid,water
+179,,acetoin,513-86-0,0.1,solid,"1,2-propanediol"
+180,,propan-2-one,67-64-1,25,liquid,water
+240,18,benzaldehyde,100-52-7,0.25,liquid,mineral oil
+261,,butanal,123-72-8,0.002,liquid,water
+264,21,butanoic acid,107-92-6,1,liquid,water
+307,31,cinnamic aldehyde,104-55-2,0.01,liquid,"1,2-propanediol"
+323,34,coumarin,91-64-5,10,solid,mineral oil
+326,40,cuminic aldehyde,122-03-2,1,liquid,mineral oil
+454,,octanal,124-13-0,0.25,liquid,mineral oil
+460,70,guaiacol,90-05-1,0.2,solid,mineral oil
+612,,2-hydroxypropanoic acid,50-21-5,100,liquid,
+650,,"butane-2,3-dione",431-03-8,0.5,liquid,"1,2-propanediol"
+798,83,Indole,120-72-9,0.5,solid,"1,2-propanediol"
+957,109,1-octanol,111-87-5,0.75,liquid,mineral oil
+999,113,phenyl acetic acid,103-82-2,5,solid,mineral oil
+1031,,propan-1-ol,71-23-8,15,liquid,water
+1060,,2-oxopropanoic acid,127-17-3,0.8,liquid,water
+1068,,methylsulfanylmethane,75-18-3,0.004,liquid,water
+1127,,thiolane,110-01-1,0.0005,liquid,"1,2-propanediol"
+1140,135,toluene,108-88-3,3,liquid,mineral oil
+1146,,trimethyl amine,75-50-3,0.025,liquid,water
+1183,143,vanillin,121-33-5,100,solid,"1,2-propanediol"
+2758,63,eucalyptol,470-82-6,2,liquid,mineral oil
+2879,36,p-cresol,106-44-5,0.1,solid,"1,2-propanediol"
+2969,,decanoic acid,334-48-5,100,solid,"1,2-propanediol"
+3314,64,eugenol,97-53-0,0.3,liquid,mineral oil
+3776,,propan-2-ol,67-63-0,100,liquid,
+4133,102,methyl salicylate,119-36-8,0.25,liquid,mineral oil
+5634,139,undecylenic acid,112-38-9,50,solid,"1,2-propanediol"
+6054,115,phenyl ethanol,60-12-8,50,liquid,mineral oil
+6184,73,hexanal,66-25-1,0.1,liquid,"1,2-propanediol"
+6501,5,strawberry aldehyde,77-83-8,1,liquid,"1,2-propanediol"
+6544,117,iso-phorone,78-59-1,3,liquid,mineral oil
+6561,,2-methylpropanal,78-84-2,0.025,liquid,"1,2-propanediol"
+6569,,butan-2-one,78-93-3,1.5,liquid,"1,2-propanediol"
+6584,,methyl acetate,79-50-9,7.5,liquid,water
+6590,,2-methylpropanoic acid,79-31-2,1.25,liquid,"1,2-propanediol"
+6654,118,alpha-pinene,80-56-8,15,liquid,mineral oil
+6736,126,skatole,83-34-1,0.005,solid,"1,2-propanediol"
+6982,30,chlorothymol,89-68-9,100,solid,"1,2-propanediol"
+6989,133,thymol,89-83-8,1,solid,"1,2-propanediol"
+7059,100,para-methyl quinoline,91-62-3,0.25,liquid,"1,2-propanediol"
+7119,95,2-methoxy naphthalene,93-04-9,10,solid,mineral oil
+7150,,methyl benzoate,93-58-3,0.5,liquid,"1,2-propanediol"
+7165,,ethyl benzoate,93-89-0,0.005,liquid,"1,2-propanediol"
+7344,,ethyl 2-hydroxypropanoate,97-64-3,20,liquid,"1,2-propanediol"
+7363,68,furfuryl mercaptan,98-02-2,0.001,liquid,"1,2-propanediol"
+7410,2,acetophenone,98-86-2,0.15,liquid,mineral oil
+7460,,"2-methyl-5-propan-2-ylcyclohexa-1,3-diene",99-83-2,0.5,liquid,mineral oil
+7463,,"1-methyl-4-propan-2-ylbenzene",99-87-6,0.5,liquid,"1,2-propanediol"
+7519,16,anisole,100-66-3,0.2,liquid,"1,2-propanediol"
+7583,58,diphenyl oxide,101-84-8,1,solid,mineral oil
+7600,12,iso-pentyl phenyl acetate,102-19-2,0.5,liquid,mineral oil
+7632,52,muguet carbinol,103-05-9,100,solid,"1,2-propanediol"
+7654,,2-phenylethyl acetate,103-45-7,100,liquid,
+7685,38,p-cresyl-iso-butyrate,103-93-5,10,liquid,mineral oil
+7710,7,gamma-nonalactone,104-61-0,0.5,liquid,mineral oil
+7714,138,gamma-undecalactone,104-67-6,10,liquid,mineral oil
+7731,39,4-methyl anisole,104-93-8,0.15,liquid,mineral oil
+7749,60,ethyl propionate,105-37-3,0.25,liquid,mineral oil
+7762,59,ethyl butyrate,105-54-4,0.01,liquid,mineral oil
+7770,119,propyl butyrate,105-66-8,1.3,liquid,mineral oil
+7793,,"(3S)-3,7-dimethyloct-6-en-1-ol",7540-51-4,1,liquid,"1,2-propanediol"
+7799,,ethyl octanoate,106-32-1,1,liquid,"1,2-propanediol"
+7848,,propane-1-thiol,107-03-9,0.0005,liquid,"1,2-propanediol"
+7888,82,hydroxy citronellal,107-75-5,50,liquid,mineral oil
+7921,142,gamma-valerolactone,108-29-2,0.2,liquid,"1,2-propanediol"
+7966,44,cyclohexanol,108-93-0,0.4,liquid,mineral oil
+7991,111,pentanoic acid,109-52-4,0.1,liquid,mineral oil
+8025,,ethyl formate,109-94-4,8.33,liquid,"1,2-propanediol"
+8030,132,thiophene,110-02-1,2.5,liquid,mineral oil
+8048,,ethyl decanoate,110-38-3,100,liquid,
+8051,,heptan-2-one,110-43-0,0.33,liquid,"1,2-propanediol"
+8091,,methyl octanoate,111-11-5,3.5,liquid,"1,2-propanediol"
+8103,75,1-hexanol,111-27-3,1,liquid,mineral oil
+8118,121,propyl sulfide,111-47-7,0.1,liquid,mineral oil
+8129,72,1-heptanol,111-70-6,0.4,liquid,mineral oil
+8130,71,heptanal,111-71-7,0.04,liquid,mineral oil
+8148,49,dibutyl amine,111-92-2,3,liquid,"1,2-propanediol"
+8186,,undecanal,112-44-7,0.2,liquid,"1,2-propanediol"
+8635,96,methyl anthranilate,134-20-3,0.35,liquid,mineral oil
+8797,37,p-cresyl acetate,140-39-6,0.03,liquid,mineral oil
+8857,,ethyl acetate,141-78-6,3,liquid,"1,2-propanediol"
+8858,,4-methylpent-3-en-2-one,141-79-7,1,liquid,"1,2-propanediol"
+8892,74,hexanoic acid,142-62-1,2,liquid,"1,2-propanediol"
+8918,107,nonyl acetate,143-13-5,25,liquid,mineral oil
+9609,50,diethyl sulfide,352-93-2,0.01,liquid,"1,2-propanediol"
+10430,141,iso-valeric acid,503-74-2,0.01,liquid,mineral oil
+10560,,butane-2-thiol,513-53-1,0.0005,liquid,"1,2-propanediol"
+10722,134,ortho-tolualdehyde,529-20-4,0.1,liquid,mineral oil
+10821,114,phenyl acetylene,536-74-3,0.3,liquid,mineral oil
+10882,,ethyl pentanoate,539-82-2,0.025,liquid,"1,2-propanediol"
+10890,10,amyl butyrate,540-18-1,1,liquid,"1,2-propanediol"
+10976,,heptan-2-ol,543-49-7,5,liquid,"1,2-propanediol"
+11002,23,butyl sulfide,544-40-1,0.15,liquid,mineral oil
+11124,,methyl propanoate,554-12-1,2.5,liquid,"1,2-propanediol"
+11509,,hexan-3-one,589-38-8,0.5,liquid,"1,2-propanediol"
+11552,140,iso-valeraldehyde,590-86-3,0.0003,liquid,mineral oil
+12020,,pent-1-en-3-ol,616-25-1,0.3,liquid,"1,2-propanediol"
+12178,76,3-hexanol,623-37-0,0.4,liquid,mineral oil
+12180,,methyl butanoate,623-42-7,0.15,liquid,"1,2-propanediol"
+12232,,(methyldisulfanyl) methane,624-92-0,0.025,liquid,"1,2-propanediol"
+12348,,pentyl acetate,628-63-7,0.75,liquid,"1,2-propanediol"
+12367,,nonan-2-ol,628-99-9,1,liquid,"1,2-propanediol"
+12741,,decan-2-one,693-54-9,100,liquid,
+14286,3,ortho-acetyl pyridine,1122-62-9,0.001,liquid,"1,2-propanediol"
+15380,,bis(methylsulfanyl)methane,1618-26-4,0.002,liquid,"1,2-propanediol"
+16666,94,l-menthol,2216-51-5,3,solid,"1,2-propanediol"
+17100,127,α-Terpineol,10482-56-1,50,solid,"1,2-propanediol"
+18827,110,1- octen 3- ol,3391-86-4,0.04,liquid,mineral oil
+19310,56,dimethyl trisulfide,3658-80-8,0.001,liquid,"1,2-propanediol"
+20859,97,"methyl acetaldehydedimethyl acetal",462-95-3,0.15,liquid,"1,2-propanediol"
+22201,53,"2,3-dimethyl pyrazine",5910-89-4,0.2,liquid,"1,2-propanediol"
+22386,,pentan-2-ol,6032-29-7,4,liquid,"1,2-propanediol"
+22873,,hexyl hexanoate,6378-65-0,26.66,liquid,"1,2-propanediol"
+24915,51,"dimethyl benzyl carbinylbutyrate",10094-34-5,20,liquid,"1,2-propanediol"
+26331,61,2-ethyl pyrazine,13925-00-3,0.4,liquid,mineral oil
+31244,,4-methoxybenzaldehyde,123-11-5,3.3,liquid,"1,2-propanediol"
+31249,,diethyl butanedioate,123-25-1,100,liquid,
+31252,54,"2,5-dimethyl pyrazine",123-32-0,0.3,liquid,mineral oil
+31265,,ethyl hexanoate,123-66-0,0.5,liquid,"1,2-propanediol"
+31272,,butyl acetate,123-86-4,1,liquid,"1,2-propanediol"
+31276,9,isoamyl acetate,123-92-2,0.1,liquid,mineral oil
+31277,131,thioglycolic acid,123-93-3,10,solid,water
+61016,93,melonal,106-72-9,1,liquid,mineral oil
+61138,112,4-pentenoic acid,591-80-0,0.3,liquid,mineral oil
+61199,1,abhexone,698-10-2,0.01,solid,water
+62336,81,"2-phenylpropionaldehydedimethyl acetal",90-87-9,15,liquid,mineral oil
+62433,13,pentyl valerate,2173-56-0,50,liquid,mineral oil
+62444,103,S-(methyl thio) butyrate,2432-51-1,0.03,liquid,mineral oil
+62465,,4-ethyl guaiacol,2785-89-9,0.1,liquid,"1,2-propanediol"
+91497,104,musk galaxolide,1222-05-5,5,liquid,"1,2-propanediol"
+93009,20,iso-bornyl acetate,5655-61-8,5,liquid,mineral oil
+101977,,(R)-(+)-beta-citronellol,1117-61-9,100,liquid,
+440917,,limonene,5989-27-5,5,liquid,mineral oil
+440967,,laevo-beta-pinene,18172-67-3,10,liquid,"1,2-propanediol"
+443158,89,linalool,126-91-0,2.5,liquid,mineral oil
+637566,,geraniol,106-24-1,50,liquid,"1,2-propanediol"
+5281168,77,trans-1-Hexanal,6728-26-3,0.1,liquid,mineral oil
+5281515,27,caryophyllene,87-44-5,15,liquid,"1,2-propanediol"
+5283349,47,"2,4-trans-trans-decadienal",25152-84-5,0.5,liquid,mineral oil
+6259976,29,celeriax,17369-59-4,0.2,liquid,"1,2-propanediol"
