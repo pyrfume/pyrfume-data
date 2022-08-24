@@ -1,0 +1,3679 @@
+,Accession Number,Name,CAS
+0,T3D0001,Arsenic,7440-38-2
+1,T3D0002,Lead,7439-92-1
+2,T3D0003,Mercury,7439-97-6
+3,T3D0004,Vinyl chloride,75-01-4
+4,T3D0006,Benzene,71-43-2
+5,T3D0007,Cadmium,7440-43-9
+6,T3D0009,Benzo[a]pyrene,50-32-8
+7,T3D0010,Benzo[b]fluoranthene,205-99-2
+8,T3D0011,Chloroform,67-66-3
+9,T3D0012,Clofenotane,50-29-3
+10,T3D0013,Aroclor 1254,11097-69-1
+11,T3D0014,Aroclor 1260,11096-82-5
+12,T3D0015,"Dibenzo[a,h]anthracene",53-70-3
+13,T3D0016,Trichloroethylene,1979-01-06
+14,T3D0017,Dieldrin,60-57-1
+15,T3D0018,Hexavalent chromium ,18540-29-9
+16,T3D0019,White Phosphorus,12185-10-3
+17,T3D0020,Chlordane,57-74-9
+18,T3D0021,"P,P'-DDE ",72-55-9
+19,T3D0022,Hexachlorobutadiene,87-68-3
+20,T3D0024,Aldrin,309-00-2
+21,T3D0025,"P,P'-DDD",72-54-8
+22,T3D0026,Benzidine,92-87-5
+23,T3D0027,Aroclor 1248,12672-29-6
+24,T3D0028,Cyanide,1957-12-05
+25,T3D0031,Toxaphene,8001-35-2
+26,T3D0032,gamma-Hexachlorocyclohexane ,58-89-9
+27,T3D0033,Tetrachloroethylene,127-18-4
+28,T3D0034,Heptachlor,76-44-8
+29,T3D0035,"1,2-Dibromoethane",106-93-4
+30,T3D0036,beta-Hexachlorocyclohexane,319-85-7
+31,T3D0037,Acrolein,107-02-8
+32,T3D0038,Disulfoton,298-04-4
+33,T3D0039,Benzo[a]anthracene,56-55-3
+34,T3D0040,"3,3'-Dichlorobenzidine",91-94-1
+35,T3D0041,Endrin,72-20-8
+36,T3D0042,Beryllium,7440-41-7
+37,T3D0043,delta-Hexachlorocyclohexane,319-86-8
+38,T3D0044,"1,2-Dibromo-3-chloropropane",96-12-8
+39,T3D0045,Pentachlorophenol,87-86-5
+40,T3D0046,Heptachlor epoxide,1024-57-3
+41,T3D0047,Carbon tetrachloride,56-23-5
+42,T3D0048,Aroclor 1221,11104-28-2
+43,T3D0049,Cobalt,7440-48-4
+44,T3D0050,"O,P'-DDT",789-02-6
+45,T3D0051,Aroclor 1016,12674-11-2
+46,T3D0052,Dibutyl phthalate,84-74-2
+47,T3D0053,Nickel,7440-02-0
+48,T3D0055,Endosulfan sulfate,1031-07-8
+49,T3D0056,Diazinon,333-41-5
+50,T3D0058,m-Xylene,108-38-3
+51,T3D0059,cis-Chlordane,5103-71-9
+52,T3D0061,Methoxychlor,72-43-5
+53,T3D0062,Benzo[k]fluoranthene,207-08-9
+54,T3D0063,Endrin ketone,53494-70-5
+55,T3D0064,trans-Chlordane,5103-74-2
+56,T3D0065,Chromium(VI) oxide,1333-82-0
+57,T3D0066,Methane,74-82-8
+58,T3D0067,beta Endosulfan,33213-65-9
+59,T3D0069,Endrin aldehyde,7421-93-4
+60,T3D0070,Benzofluoranthene,56832-73-6
+61,T3D0071,Toluene,108-88-3
+62,T3D0072,2-Oxohexane,591-78-6
+63,T3D0073,"2,3,7,8-Tetrachlorodibenzo-p-dioxin",1746-01-6
+64,T3D0074,Zinc,7440-66-6
+65,T3D0075,Dimethylarsinate,15132-04-4
+66,T3D0076,Di(2-ethylhexyl)phthalate,117-81-7
+67,T3D0077,Chromium,7440-47-3
+68,T3D0078,Naphthalene,91-20-3
+69,T3D0079,"1,1-Dichloroethene",75-35-4
+70,T3D0080,Dichloromethane,1975-09-02
+71,T3D0082,"2,4,6-Trinitrotoluene",118-96-7
+72,T3D0084,Hydrazine,302-01-2
+73,T3D0085,"1,2-Dichloroethane",107-06-2
+74,T3D0086,"2,4,6-Trichlorophenol",88-06-2
+75,T3D0087,"2,4-Dinitrophenol",51-28-5
+76,T3D0088,Bis(2-chloroethyl) ether,111-44-4
+77,T3D0089,Thiocyanate,302-04-5
+78,T3D0091,Chloride ion,22537-115-1
+79,T3D0092,Cyclotrimethylenetrinitramine,121-82-4
+80,T3D0093,Hexachlorobenzene,118-74-1
+81,T3D0094,"2,4-Dinitrotoluene",121-14-2
+82,T3D0096,Ethion,563-12-2
+83,T3D0097,"1,1,1-Trichloroethane",71-55-6
+84,T3D0099,Ethylbenzene,100-41-4
+85,T3D0100,Radium-226,13982-63-3
+86,T3D0101,Thorium,7440-29-1
+87,T3D0102,"4,6-Dinitro-o-cresol",534-52-1
+88,T3D0103,"1,3,5-Trinitrobenzene",99-35-4
+89,T3D0104,Chlorobenzene,108-90-7
+90,T3D0105,Radon,10043-92-2
+91,T3D0106,Radium-228,15262-20-1
+92,T3D0107,Thorium-230,14269-63-7
+93,T3D0108,Uranium-235,15117-96-1
+94,T3D0109,Barium,7440-39-3
+95,T3D0110,Fluoranthene,206-44-0
+96,T3D0111,Uranium-234,13966-29-5
+97,T3D0112,n-Nitrosodi-n-propylamine,621-64-7
+98,T3D0113,Thorium-228,14274-82-9
+99,T3D0114,Radon-222,14859-67-7
+100,T3D0115,alpha-Hexachlorocyclohexane,319-84-6
+101,T3D0116,"1,2,3-Trichlorobenzene",87-61-6
+102,T3D0117,Manganese,7439-96-5
+103,T3D0119,Chrysotile asbestos,12001-29-5
+104,T3D0120,Strontium-90,10098-97-2
+105,T3D0121,Plutonium-239,15117-48-3
+106,T3D0122,Polonium-210,13981-52-7
+107,T3D0123,Methylmercury,22967-92-6
+108,T3D0124,Plutonium-238,13981-16-3
+109,T3D0125,Lead-210,14255-04-0
+110,T3D0126,Plutonium,7440-07-5
+111,T3D0127,Chlorpyrifos,2921-88-2
+112,T3D0128,Copper,7440-50-8
+113,T3D0129,Americium-241,86954-36-1
+114,T3D0130,Radon-220,22481-48-7
+115,T3D0131,Amosite asbestos,12172-73-5
+116,T3D0132,Iodine-131,10043-66-0
+117,T3D0133,Hydrogen cyanide,74-90-8
+118,T3D0134,Tributyltin,688-73-3
+119,T3D0135,Guthion,86-50-0
+120,T3D0136,Neptunium-237,13994-20-2
+121,T3D0137,Chrysene,218-01-9
+122,T3D0138,Chlordecone,143-50-0
+123,T3D0139,Iodine-129,15046-84-1
+124,T3D0140,Plutonium-240,14119-33-6
+125,T3D0141,"S,S,S-Tributyl phosphorotrithioate",78-48-8
+126,T3D0142,Bromine,7726-95-6
+127,T3D0144,Dicofol,115-32-2
+128,T3D0145,Parathion,56-38-2
+129,T3D0146,"1,1,2,2-Tetrachloroethane",79-34-5
+130,T3D0147,Selenium,7782-49-2
+131,T3D0148,"Hexachlorocyclohexane, technical Grade",608-73-1
+132,T3D0151,"O,P'-DDD",53-19-0
+133,T3D0152,"4,4'-Methylenebis(2-chloroaniline)",101-14-4
+134,T3D0156,"1,3-Butadiene",106-99-0
+135,T3D0157,Ammonia,7664-41-7
+136,T3D0158,2-Methylnaphthalene,91-57-6
+137,T3D0159,"1,4-Dichlorobenzene",106-46-7
+138,T3D0160,"1,1-Dichloroethane",75-34-3
+139,T3D0161,Acenaphthene,83-32-9
+140,T3D0162,"1,2,3,4,6,7,8,9-Octachlorodibenzofuran",39001-02-0
+141,T3D0163,"1,1,2-Trichloroethane",79-00-5
+142,T3D0165,Hexachlorocyclopentadiene,77-47-4
+143,T3D0166,"1,2,3,4,6,7,8-Heptachlorodibenzofuran",38998-75-3
+144,T3D0167,"1,2-Diphenylhydrazine",122-66-7
+145,T3D0168,"2,3,4,7,8-Pentachlorodibenzofuran",57117-31-4
+146,T3D0170,p-Cresol,106-44-5
+147,T3D0172,"1,2-Dichlorobenzene",95-50-1
+148,T3D0173,"trans-1,2-Dichloroethene",156-60-5
+149,T3D0174,"Indeno(1,2,3-cd)pyrene",193-39-5
+150,T3D0176,Carbon disulfide,75-15-0
+151,T3D0177,"2,3,4,5-Tetrachlorophenol",25167-83-3
+152,T3D0178,Americium,7440-35-9
+153,T3D0179,Uranium-233,13968-55-3
+154,T3D0180,Palladium,7440-05-03
+155,T3D0182,Phenol,108-95-2
+156,T3D0183,Chloroethane,75-00-3
+157,T3D0184,Acetone,67-64-1
+158,T3D0185,p-Xylene,106-42-3
+159,T3D0187,Aluminum,7429-90-5
+160,T3D0189,Carbon monoxide,630-08-0
+161,T3D0191,Hydrogen sulfide,7783-06-04
+162,T3D0194,Bis(2-methoxyethyl) phthalate,34006-76-3
+163,T3D0195,Benzyl butyl phthalate,85-68-7
+164,T3D0196,o-Cresol,95-48-7
+165,T3D0198,Vanadium,7440-62-2
+166,T3D0199,N-Nitrosodimethylamine,62-75-9
+167,T3D0200,"1,2,4-Trichlorobenzene",120-82-1
+168,T3D0207,"2,3,7,8-Tetrachlorodibenzofuran",51207-31-9
+169,T3D0209,"2,4-Dichlorophenol",120-83-2
+170,T3D0210,"1,4-Dioxane",123-91-1
+171,T3D0211,Fluorine,7782-41-4
+172,T3D0212,Nitrite,14797-65-0
+173,T3D0213,Cesium-137,10045-97-3
+174,T3D0214,Silver,7440-22-4
+175,T3D0215,Chromic acid,7738-94-5
+176,T3D0216,Nitrate,14797-55-8
+177,T3D0217,Potassium-40,13966-00-2
+178,T3D0219,Antimony,7440-36-0
+179,T3D0221,Thorium-227,15623-47-9
+180,T3D0222,"2,4,5-Trichlorophenol",95-95-4
+181,T3D0223,Arsenate,15584-04-00
+182,T3D0224,Arsenic trioxide,1327-53-3
+183,T3D0225,Phorate,298-02-2
+184,T3D0226,Benzo[e]pyrene,192-97-2
+185,T3D0229,Dimethoate,60-51-5
+186,T3D0230,Actinium-227,14952-40-0
+187,T3D0232,4-Aminobiphenyl,92-67-1
+188,T3D0233,Pyrethrum,8003-34-7
+189,T3D0234,Arsine,7784-42-1
+190,T3D0235,(±)-Naled,300-76-5
+191,T3D0237,Ethoprop,13194-48-4
+192,T3D0240,Dichlorvos,62-73-7
+193,T3D0241,Calcium arsenate,7778-44-1
+194,T3D0242,Mercuric chloride,7487-94-7
+195,T3D0243,Sodium arsenite,7784-46-5
+196,T3D0244,Formaldehyde,50-00-0
+197,T3D0245,2-Chlorophenol,95-57-8
+198,T3D0246,Phenanthrene,85-01-8
+199,T3D0247,Hydrogen fluoride,7664-39-3
+200,T3D0248,"2,4-Dichlorophenoxyacetic acid",94-75-7
+201,T3D0249,Dibromochloromethane,124-48-1
+202,T3D0252,"N,N-Dimethylformamide",1968-12-02
+203,T3D0253,Pyrene,129-00-0
+204,T3D0255,Ethyl ether,60-29-7
+205,T3D0257,4-Nitrophenol,100-02-7
+206,T3D0259,Phosphine,7803-51-2
+207,T3D0261,"2,6-Dinitrotoluene",606-20-2
+208,T3D0264,Methyl parathion,298-00-0
+209,T3D0265,Pentaerythritol tetranitrate,1978-11-05
+210,T3D0271,Styrene,100-42-5
+211,T3D0275,Adamsite,578-94-9
+212,T3D0276,Arsenic trisulfide,1303-33-9
+213,T3D0277,Arsenic disulfide,1303-32-8
+214,T3D0278,Arsenic pentasulfide,1303-34-0
+215,T3D0279,Arsenic trichloride,7784-34-1
+216,T3D0282,Arsenous acid,13464-58-9
+217,T3D0285,Ammonium arsenate,7784-44-3
+218,T3D0286,Copper(II) arsenite,10290-12-7
+219,T3D0287,Gallium arsenide,1303-00-0
+220,T3D0288,Copper arsenate,10103-61-4
+221,T3D0289,Copper arsenate hydroxide,16102-92-4
+222,T3D0290,Potassium arsenite,10124-50-2
+223,T3D0292,Arsenic pentoxide,1303-28-2
+224,T3D0293,Magnesium arsenate,10103-50-1
+225,T3D0294,Manganese arsenate,61136-68-3
+226,T3D0296,Lead arsenate,7784-40-9
+227,T3D0297,Potassium arsenate,7784-41-0
+228,T3D0298,Sodium arsenate,7631-89-2
+229,T3D0299,Zinc arsenate,13464-44-3
+230,T3D0300,Arsanilic acid,98-50-0
+231,T3D0301,Arsenobetaine,64436-13-1
+232,T3D0302,Arsenocholine,39895-81-3
+233,T3D0303,Methylarsine,593-52-2
+234,T3D0304,Dimethylarsine,593-57-7
+235,T3D0305,Trimethylarsine,593-88-4
+236,T3D0308,"Methylarsonic acid, disodium salt",19444-53-2
+237,T3D0309,"Methylarsonic acid, monosodium salt",2163-80-6
+238,T3D0310,Benzenearsonic acid,98-05-5
+239,T3D0311,Roxarsone,121-19-7
+240,T3D0312,"4,4-Arsenobis(2-aminophenol) dihydrochloride",139-93-5
+241,T3D0313,[4-(Aminocarbonyl-amino)phenyl] arsonic acid,121-59-5
+242,T3D0314,Tryparsamide,554-72-3
+243,T3D0315,Nitarsone,98-72-6
+244,T3D0316,Sodium arsanilate,127-85-5
+245,T3D0317,Sodium dimethylarsinate,124-65-2
+246,T3D0318,Trimethylarsine oxide,4964-14-1
+247,T3D0319,Lead acetate,301-04-2
+248,T3D0320,Lead arsenite,10031-13-7
+249,T3D0321,Lead azide,13424-46-9
+250,T3D0322,Lead bromide,10031-22-8
+251,T3D0323,Lead carbonate,598-63-0
+252,T3D0324,Lead chloride,7758-95-4
+253,T3D0325,Lead chromate,7758-97-6
+254,T3D0326,Lead fluoroborate,13814-96-5
+255,T3D0327,Lead iodide,10101-63-0
+256,T3D0328,Lead molybdenum chromate,12709-98-7
+257,T3D0329,Lead nitrate,10099-74-8
+258,T3D0330,Lead oxide,1317-36-8
+259,T3D0331,Lead dioxide,1309-60-0
+260,T3D0332,Lead tetroxide,1314-41-6
+261,T3D0333,Lead phosphate,7446-27-7
+262,T3D0334,Lead styphnate,15245-44-0
+263,T3D0335,Lead sulfate,7446-14-2
+264,T3D0336,Lead sulfide,1314-87-0
+265,T3D0337,Tetramethyl lead,75-74-1
+266,T3D0338,Tetraethyl lead,78-00-2
+267,T3D0340,Mercury(II) fulminate,628-86-4
+268,T3D0341,Mercury(II) sulfide,1344-48-5
+269,T3D0342,Mercury(II) oxide,21908-53-2
+270,T3D0343,Mercury(I) chloride,10112-91-1
+271,T3D0344,Phenylmercuric acetate,62-38-4
+272,T3D0345,Mercury selenide,20601-83-6
+273,T3D0346,Mercury telluride,12068-90-5
+274,T3D0347,Mercury cadmium telluride,29870-72-2
+275,T3D0348,Mercury(II) acetate,1600-27-7
+276,T3D0349,Mercury(I) acetate,631-60-7
+277,T3D0350,Mercury(II) iodide,7774-29-0
+278,T3D0351,Mercury(I) iodide,15385-57-6
+279,T3D0352,Mercury(I) bromide,15385-58-7
+280,T3D0353,Mercury(II) bromide,7789-47-1
+281,T3D0354,Mercury(II) nitrate,10045-94-0
+282,T3D0355,Mercury(I) nitrate,10415-75-5
+283,T3D0356,Mercury(II) thiocyanate,592-85-8
+284,T3D0357,Mercury(II) sulfate,7783-35-9
+285,T3D0358,Mercury(I) sulfate,7783-36-0
+286,T3D0360,Methylmercuric chloride,125-09-3
+287,T3D0361,Dimethyl mercury,593-74-8
+288,T3D0362,Mercuric potassium iodide,7783-33-7
+289,T3D0363,Mercury(II) cyanide,592-04-1
+290,T3D0364,Cadmium acetate,543-90-8
+291,T3D0367,Cadmium arsenide,12006-15-4
+292,T3D0368,Cadmium bromate,14518-94-6
+293,T3D0369,Cadmium bromide,7789-42-6
+294,T3D0370,Cadmium carbonate,513-78-0
+295,T3D0371,Cadmium chloride,10108-64-2
+296,T3D0372,Cadmium fluoborate,14486-19-2
+297,T3D0373,Cadmium fluoride,7790-79-6
+298,T3D0374,Cadmium fluosilicate,17010-21-8
+299,T3D0375,Cadmium hydroxide,21041-95-2
+300,T3D0376,Cadmium iodide,7790-80-9
+301,T3D0377,Cadmium lactate,16039-55-7
+302,T3D0378,Cadmium nitrate,10325-94-7
+303,T3D0380,Cadmium oxide fume,1306-19-0
+304,T3D0381,Cadmium phosphate,13477-17-3
+305,T3D0382,Cadmium selenide,1306-24-7
+306,T3D0383,Cadmium succinate,141-00-4
+307,T3D0384,Cadmium sulfate,10124-36-4
+308,T3D0386,Cadmium sulphide,1306-23-6
+309,T3D0387,Cadmium telluride,1306-25-8
+310,T3D0388,Cadmium tungstate,7790-85-4
+311,T3D0389,Biphenyl,92-52-4
+312,T3D0390,2-Chlorobiphenyl,2051-60-7
+313,T3D0391,3-Chlorobiphenyl,2051-61-8
+314,T3D0392,4-Chlorobiphenyl,2051-62-9
+315,T3D0393,"2,2'-Dichlorobiphenyl",13029-08-8
+316,T3D0394,"2,3-Dichlorobiphenyl",16605-91-7
+317,T3D0395,"2,3'-Dichlorobiphenyl",25569-80-6
+318,T3D0396,"2,4-Dichlorobiphenyl",33284-50-3
+319,T3D0397,"2,4'-Dichlorobiphenyl",34883-43-7
+320,T3D0398,"2,5-Dichlorobiphenyl",34883-39-1
+321,T3D0399,"2,6-Dichlorobiphenyl",33146-45-1
+322,T3D0400,"3,3'-Dichlorobiphenyl",2050-67-1
+323,T3D0401,"3,4-Dichlorobiphenyl",2974-92-7
+324,T3D0402,"3,4'-Dichlorobiphenyl",2974-90-5
+325,T3D0403,"3,5-Dichlorobiphenyl",34883-41-5
+326,T3D0404,"4,4'-Dichlorobiphenyl",2050-68-2
+327,T3D0405,"2,2',3-Trichlorobiphenyl",38444-78-9
+328,T3D0406,"2,2',4-Trichlorobiphenyl",37680-66-3
+329,T3D0407,"2,2',5-Trichlorobiphenyl",37680-65-2
+330,T3D0408,"2,2',6-Trichlorobiphenyl",38444-73-4
+331,T3D0409,"2,3,3'-Trichlorobiphenyl",38444-84-7
+332,T3D0410,"2,3,4-Trichlorobiphenyl",55702-46-0
+333,T3D0411,"2,3,4'-Trichlorobiphenyl",38444-85-8
+334,T3D0412,"2,3,5-Trichlorobiphenyl",55720-44-0
+335,T3D0413,"2,3,6-Trichlorobiphenyl",55702-45-9
+336,T3D0414,"2,3',4-Trichlorobiphenyl",55712-37-3
+337,T3D0415,"2,3',5-Trichlorobiphenyl",38444-81-4
+338,T3D0416,"2,3',6-Trichlorobiphenyl",38444-76-7
+339,T3D0417,"2,4,4'-Trichlorobiphenyl",7012-37-5
+340,T3D0418,"2,4,5-Trichlorobiphenyl",15862-07-4
+341,T3D0419,"2,4,6-Trichlorobiphenyl",35693-92-6
+342,T3D0420,"2,4',5-Trichlorobiphenyl",16606-02-3
+343,T3D0421,"2,4',6-Trichlorobiphenyl",38444-77-8
+344,T3D0422,"2,3',4'-Trichlorobiphenyl",38444-86-9
+345,T3D0423,"2,3',5'-Trichlorobiphenyl",37680-68-5
+346,T3D0424,"3,3',4-Trichlorobiphenyl",37680-69-6
+347,T3D0426,"3,4,4'-Trichlorobiphenyl",38444-90-5
+348,T3D0427,"3,4,5-Tricholobiphenyl",53555-66-1
+349,T3D0428,"3,4',5-Trichlorobiphenyl",38444-88-1
+350,T3D0429,"2,2',3,3'-Tetrachlorobiphenyl",38444-93-8
+351,T3D0430,"2,2',3,4-Tetrachlorobiphenyl",52663-59-9
+352,T3D0431,"2,2',3,4'-Tetrachlorobiphenyl",36559-22-5
+353,T3D0432,"2,2',3,5-Tetrachlorobiphenyl",70362-46-8
+354,T3D0433,"2,2',3,5'-Tetrachlorobiphenyl",41464-39-5
+355,T3D0434,"2,2',3,6-Tetrachlorobiphenyl",70362-45-7
+356,T3D0435,"2,2',3,6'-Tetrachlorobiphenyl",41464-47-5
+357,T3D0437,"2,2',4,5-Tetrachlorobiphenyl",70362-47-9
+358,T3D0438,"2,2',4,5'-Tetrachlorobiphenyl",41464-40-8
+359,T3D0439,"2,2',4,6-Tetrachlorobiphenyl",62796-65-0
+360,T3D0440,"2,2',4,6'-Tetrachlorobiphenyl",68194-04-7
+361,T3D0441,"2,2',5,5'-Tetrachlorobiphenyl",35693-99-3
+362,T3D0442,"2,2',5,6'-Tetrachlorobiphenyl",41464-41-9
+363,T3D0443,"2,2',6,6'-Tetrachlorobiphenyl",15968-05-5
+364,T3D0444,"2,3,3',4-Tetrachlorobiphenyl",74338-24-2
+365,T3D0445,"2,3,3',4'-Tetrachlorobiphenyl",41464-43-1
+366,T3D0446,"2,3,3',5-Tetrachlorobiphenyl",70424-67-8
+367,T3D0447,"2,3,3',5'-Tetrachlorobiphenyl",41464-49-7
+368,T3D0448,"2,3,3',6-Tetrachlorobiphenyl",74472-33-6
+369,T3D0449,"2,3,4,4'-Tetrachlorobiphenyl",33025-41-1
+370,T3D0450,"2,3,4,5-Tetrachlorobiphenyl",33284-53-6
+371,T3D0451,"2,3,4,6-Tetrachlorobiphenyl",54230-22-7
+372,T3D0452,"2,3,4',5-Tetrachlorobiphenyl",74472-34-7
+373,T3D0453,"2,3,4',6-Tetrachlorobiphenyl",52663-58-8
+374,T3D0454,"2,3,5,6-Tetrachlorobiphenyl",33284-54-7
+375,T3D0455,"2,3',4,4'-Tetrachlorobiphenyl",32598-10-0
+376,T3D0456,"2,3',4,5-Tetrachlorobiphenyl",73575-53-8
+377,T3D0457,"2,3',4,5'-Tetrachlorobiphenyl",73575-52-7
+378,T3D0458,"2,3',4,6-Tetrachlorobiphenyl",60233-24-1
+379,T3D0459,"2,3',4',5-Tetrachlorobiphenyl",32598-11-1
+380,T3D0460,"2,3',4',6-Tetrachlorobiphenyl",41464-46-4
+381,T3D0461,"2,3',5,5'-Tetrachlorobiphenyl",41464-42-0
+382,T3D0462,"2,3',5',6-Tetrachlorobiphenyl",74338-23-1
+383,T3D0463,"2,4,4',5-Tetrachlorobiphenyl",32690-93-0
+384,T3D0464,"2,4,4',6-Tetrachlorobiphenyl",32598-12-2
+385,T3D0465,"2,3',4',5'-Tetrachlorobiphenyl",70362-48-0
+386,T3D0466,"3,3',4,4'-Tetrachlorobiphenyl",32598-13-3
+387,T3D0467,"3,3',4,5-Tetrachlorobiphenyl",70362-49-1
+388,T3D0468,"3,3',4,5'-Tetrachlorobiphenyl",41464-48-6
+389,T3D0470,"3,4,4',5-Tetrachlorobiphenyl",70362-50-4
+390,T3D0472,"2,2',3,3',5-Pentachlorobiphenyl",60145-20-2
+391,T3D0473,"2,2',3,3',6-Pentachlorobiphenyl",52663-60-2
+392,T3D0474,"2,2',3,4,4'-Pentachlorobiphenyl",65510-45-4
+393,T3D0475,"2,2',3,4,5-Pentachlorobiphenyl",55312-69-1
+394,T3D0476,"2,2',3,4,5'-Pentachlorobiphenyl",38380-02-8
+395,T3D0477,"2,2',3,4,6-Pentachlorobiphenyl",55215-17-3
+396,T3D0478,"2,2',3,4,6'-Pentachlorobiphenyl",73575-57-2
+397,T3D0479,"2,2',3,4',5-Pentachlorobiphenyl",68194-07-0
+398,T3D0480,"2,2',3,4',6-Pentachlorobiphenyl",68194-05-8
+399,T3D0481,"2,2',3,5,5'-Pentachlorobiphenyl",52663-61-3
+400,T3D0482,"2,2',3,5,6-Pentachlorobiphenyl",73575-56-1
+401,T3D0483,"2,2',3,5,6'-Pentachlorobiphenyl",73575-55-0
+402,T3D0484,"2,2',3,5',6-Pentachlorobiphenyl",38379-99-6
+403,T3D0485,"2,2',3,6,6'-Pentachlorobiphenyl",73575-54-9
+404,T3D0486,"2,2',3,4',5'-Pentachlorobiphenyl",41464-51-1
+405,T3D0487,"2,2',3,4',6'-Pentachlorobiphenyl",60233-25-2
+406,T3D0488,"2,2',4,4',5-Pentachlorobiphenyl",38380-01-7
+407,T3D0489,"2,2',4,4',6-Pentachlorobiphenyl",39485-83-1
+408,T3D0490,"2,2',4,5,5'-Pentachlorobiphenyl",37680-73-2
+409,T3D0491,"2,2',4,5,6'-Pentachlorobiphenyl",68194-06-9
+410,T3D0492,"2,2',4,5',6-Pentachlorobiphenyl",60145-21-3
+411,T3D0493,"2,2',4,6,6'-Pentachlorobiphenyl",56558-16-8
+412,T3D0494,"2,3,3',4,4'-Pentachlorobiphenyl",32598-14-4
+413,T3D0495,"2,3,3',4,5-Pentachlorobiphenyl",70424-69-0
+414,T3D0496,"2,3,3',4',5-Pentachlorobiphenyl",70424-68-9
+415,T3D0497,"2,3,3',4,5'-Pentachlorobiphenyl",70362-41-3
+416,T3D0498,"2,3,3',4,6-Pentachlorobiphenyl",74472-35-8
+417,T3D0499,"2,3,3',4',6-Pentachlorobiphenyl",38380-03-9
+418,T3D0500,"2,3,3',5,5'-Pentachlorobiphenyl",39635-32-0
+419,T3D0501,"2,3,3',5,6-Pentachlorobiphenyl",74472-36-9
+420,T3D0502,"2,3,3',5',6-Pentachlorobiphenyl",68194-10-5
+421,T3D0503,"2,3,4,4',5-Pentachlorobiphenyl",74472-37-0
+422,T3D0504,"2,3,4,4',6-Pentachlorobiphenyl",74472-38-1
+423,T3D0505,"2,3,4,5,6-Pentachlorobiphenyl",18259-05-7
+424,T3D0506,"2,3,4',5,6-Pentachlorobiphenyl",68194-11-6
+425,T3D0507,"2,3',4,4',5-Pentachlorobiphenyl",31508-00-6
+426,T3D0508,"2,3',4,4',6-Pentachlorobiphenyl",56558-17-9
+427,T3D0509,"2,3',4,5,5'-Pentachlorobiphenyl",68194-12-7
+428,T3D0510,"2,3',4,5',6-Pentachlorobiphenyl",56558-18-0
+429,T3D0511,"2,3,3',4',5'-Pentachlorobiphenyl",76842-07-4
+430,T3D0512,"2,3',4,4',5'-Pentachlorobiphenyl",65510-44-3
+431,T3D0513,"2,3',4',5,5'-Pentachlorobiphenyl",70424-70-3
+432,T3D0514,"2,3',4',5',6-Pentachlorobiphenyl",74472-39-2
+433,T3D0515,"3,3',4,4',5-Pentachlorobiphenyl",57465-28-8
+434,T3D0516,"3,3',4,5,5'-Pentachlorobiphenyl",39635-33-1
+435,T3D0518,"2,2',3,3',4,5-Hexachlorobiphenyl",55215-18-4
+436,T3D0519,"2,2',3,3',4,5'-Hexachlorobiphenyl",52663-66-8
+437,T3D0520,"2,2',3,3',4,6-Hexachlorobiphenyl",61798-70-7
+438,T3D0521,"2,2',3,3',4,6'-Hexachlorobiphenyl",38380-05-1
+439,T3D0522,"2,2',3,3',5,5'-Hexachlorobiphenyl",35694-04-3
+440,T3D0523,"2,2',3,3',5,6-Hexachlorobiphenyl",52704-70-8
+441,T3D0524,"2,2',3,3',5,6'-Hexachlorobiphenyl",52744-13-5
+442,T3D0525,"2,2',3,3',6,6'-Hexachlorobiphenyl",38411-22-2
+443,T3D0526,"2,2',3,4,4',5-Hexachlorobiphenyl",35694-06-5
+444,T3D0527,"2,2',3,4,4',5'-Hexachlorobiphenyl",35065-28-2
+445,T3D0528,"2,2',3,4,4',6-Hexachlorobiphenyl",56030-56-9
+446,T3D0529,"2,2',3,4,4',6'-Hexachlorobiphenyl",59291-64-4
+447,T3D0530,"2,2',3,4,5,5'-Hexachlorobiphenyl",52712-04-6
+448,T3D0531,"2,2',3,4,5,6-Hexachlorobiphenyl",41411-61-4
+449,T3D0532,"2,2',3,4,5,6'-Hexachlorobiphenyl",68194-15-0
+450,T3D0533,"2,2',3,4,5',6-Hexachlorobiphenyl",68194-14-9
+451,T3D0534,"2,2',3,4,6,6'-Hexachlorobiphenyl",74472-40-5
+452,T3D0535,"2,2',3,4',5,5'-Hexachlorobiphenyl",51908-16-8
+453,T3D0536,"2,2',3,4',5,6-Hexachlorobiphenyl",68194-13-8
+454,T3D0537,"2,2',3,4',5,6'-Hexachlorobiphenyl",74472-41-6
+455,T3D0538,"2,2',3,4',5',6-Hexachlorobiphenyl",38380-04-0
+456,T3D0539,"2,2',3,4',6,6'-Hexachlorobiphenyl",68194-08-1
+457,T3D0540,"2,2',3,5,5',6-Hexachlorobiphenyl",52663-63-5
+458,T3D0541,"2,2',3,5,6,6'-Hexachlorobiphenyl",68194-09-2
+459,T3D0542,"2,2',4,4',5,5'-Hexachlorobiphenyl",35065-27-1
+460,T3D0543,"2,2',4,4',5,6'-Hexachlorobiphenyl",60145-22-4
+461,T3D0544,"2,2',4,4',6,6'-Hexachlorobiphenyl",33979-03-2
+462,T3D0545,"2,3,3',4,4',5-Hexachlorobiphenyl",38380-08-4
+463,T3D0546,"2,3,3',4,4',5'-Hexachlorobiphenyl",69782-90-7
+464,T3D0547,"2,3,3',4,4',6-Hexachlorobiphenyl",74472-42-7
+465,T3D0548,"2,3,3',4,5,5'-Hexachlorobiphenyl",39635-35-3
+466,T3D0549,"2,3,3',4,5,6-Hexachlorobiphenyl",41411-62-5
+467,T3D0550,"2,3,3',4,5',6-Hexachlorobiphenyl",74472-43-8
+468,T3D0551,"2,3,3',4',5,5'-Hexachlorobiphenyl",39635-34-2
+469,T3D0552,"2,3,3',4',5,6-Hexachlorobiphenyl",74472-44-9
+470,T3D0553,"2,3,3',4',5',6-Hexachlorobiphenyl",74472-45-0
+471,T3D0554,"2,3,3',5,5',6-Hexachlorobiphenyl",74472-46-1
+472,T3D0555,"2,3,4,4',5,6-Hexachlorobiphenyl",41411-63-6
+473,T3D0556,"2,3',4,4',5,5'-Hexachlorobiphenyl",52663-72-6
+474,T3D0557,"2,3',4,4',5',6-Hexachlorobiphenyl",59291-65-5
+475,T3D0558,"3,3',4,4',5,5'-Hexachlorobiphenyl",32774-16-6
+476,T3D0559,"2,2',3,3',4,4',5-Heptachlorobiphenyl",35065-30-6
+477,T3D0560,"2,2',3,3',4,4',6-Heptachlorobiphenyl",52663-71-5
+478,T3D0561,"2,2',3,3',4,5,5'-Heptachlorobiphenyl",52663-74-8
+479,T3D0562,"2,2',3,3',4,5,6-Heptachlorobiphenyl",68194-16-1
+480,T3D0563,"2,2',3,3',4,5,6'-Heptachlorobiphenyl",38411-25-5
+481,T3D0564,"2,2',3,3',4,5',6-Heptachlorobiphenyl",40186-70-7
+482,T3D0565,"2,2',3,3',4,6,6'-Heptachlorobiphenyl",52663-65-7
+483,T3D0566,"2,2',3,3',4,5',6'-Heptachlorobiphenyl",52663-70-4
+484,T3D0567,"2,2',3,3',5,5',6-Heptachlorobiphenyl",52663-67-9
+485,T3D0568,"2,2',3,3',5,6,6'-Heptachlorobiphenyl",52663-64-6
+486,T3D0569,"2,2',3,4,4',5,5'-Heptachlorobiphenyl",35065-29-3
+487,T3D0570,"2,2',3,4,4',5,6-Heptachlorobiphenyl",74472-47-2
+488,T3D0571,"2,2',3,4,4',5,6'-Heptachlorobiphenyl",60145-23-5
+489,T3D0572,"2,2',3,4,4',5',6-Heptachlorobiphenyl",52663-69-1
+490,T3D0573,"2,2',3,4,4',6,6'-Heptachlorobiphenyl",74472-48-3
+491,T3D0574,"2,2',3,4,5,5',6-Heptachlorobiphenyl",52712-05-7
+492,T3D0575,"2,2',3,4,5,6,6'-Heptachlorobiphenyl",74472-49-4
+493,T3D0576,"2,2',3,4',5,5',6-Heptachlorobiphenyl",52663-68-0
+494,T3D0577,"2,2',3,4',5,6,6'-Heptachlorobiphenyl",74487-85-7
+495,T3D0578,"2,3,3',4,4',5,5'-Heptachlorobiphenyl",39635-31-9
+496,T3D0579,"2,3,3',4,4',5,6-Heptachlorobiphenyl",41411-64-7
+497,T3D0580,"2,3,3',4,4',5',6-Heptachlorobiphenyl",74472-50-7
+498,T3D0581,"2,3,3',4,5,5',6-Heptachlorobiphenyl",74472-51-8
+499,T3D0582,"2,3,3',4',5,5',6-Heptachlorobiphenyl",69782-91-8
+500,T3D0583,"2,2',3,3',4,4',5,5'-Octachlorobiphenyl",35694-08-7
+501,T3D0584,"2,2',3,3',4,4',5,6-Octachlorobiphenyl",52663-78-2
+502,T3D0585,"2,2',3,3',4,4',5,6'-Octachlorobiphenyl",42740-50-1
+503,T3D0586,"2,2',3,3',4,4',6,6'-Octachlorobiphenyl",33091-17-7
+504,T3D0587,"2,2',3,3',4,5,5',6-Octachlorobiphenyl",68194-17-2
+505,T3D0588,"2,2',3,3',4,5,5',6'-Octachlorobiphenyl",52663-75-9
+506,T3D0589,"2,2',3,3',4,5,6,6'-Octachlorobiphenyl",52663-73-7
+507,T3D0590,"2,2',3,3',4,5',6,6'-Octachlorobiphenyl",40186-71-8
+508,T3D0591,"2,2',3,3',5,5',6,6'-Octachlorobiphenyl",2136-99-4
+509,T3D0592,"2,2',3,4,4',5,5',6-Octachlorobiphenyl",52663-76-0
+510,T3D0593,"2,2',3,4,4',5,6,6'-Octachlorobiphenyl",74472-52-9
+511,T3D0594,"2,3,3',4,4',5,5',6-Octachlorobiphenyl",74472-53-0
+512,T3D0595,"2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl",40186-72-9
+513,T3D0596,"2,2',3,3',4,4',5,6,6'-Nonachlorobiphenyl",52663-79-3
+514,T3D0597,"2,2',3,3',4,5,5',6,6'-Nonachlorobiphenyl",52663-77-1
+515,T3D0598,Decachlorobiphenyl,2051-24-3
+516,T3D0616,Methiochlor,19679-38-0
+517,T3D0617,Chlorbenzylate,510-15-6
+518,T3D0618,Acenaphthylene,208-96-8
+519,T3D0619,Anthracene,120-12-7
+520,T3D0621,Benzo[ghi]perylene,191-24-2
+521,T3D0622,Benzo[j]fluoranthene,205-82-3
+522,T3D0624,Coronene,191-07-1
+523,T3D0625,Fluorene,86-73-7
+524,T3D0627,Tetracene,92-24-0
+525,T3D0628,1-Methylnaphthalene,90-12-0
+526,T3D0629,Pentacene,135-48-8
+527,T3D0630,Triphenylene,217-59-4
+528,T3D0631,Ovalene,190-26-1
+529,T3D0632,Anthanthrene,191-26-4
+530,T3D0633,Acridine,260-94-6
+531,T3D0634,Quinoline,91-22-5
+532,T3D0635,Azulene,275-51-4
+533,T3D0636,Picene,213-46-7
+534,T3D0637,Bisphenol A,1980-05-07
+535,T3D0638,Basic beryllium acetate,19049-40-2
+536,T3D0639,Beryllium acetate,543-81-7
+537,T3D0640,Beryllium bromide,7787-46-4
+538,T3D0641,Beryllium carbonate,13106-47-3
+539,T3D0642,Beryllium chloride,7787-47-5
+540,T3D0643,Beryllium copper,11133-98-5
+541,T3D0644,Beryllium fluoride,7787-49-7
+542,T3D0645,Beryllium hydride,7787-52-2
+543,T3D0646,Beryllium hydroxide,13327-32-7
+544,T3D0647,Beryllium iodide,7787-53-3
+545,T3D0648,Beryllium oxide,1304-56-9
+546,T3D0649,Beryllium telluride,12232-27-8
+547,T3D0650,Beryllium phosphate,13598-15-7
+548,T3D0651,Beryllium nitrate,13597-99-4
+549,T3D0652,Beryllium sulfate,13510-49-1
+550,T3D0653,Cobalt(II) acetate,71-48-7
+551,T3D0654,Cobalt(III) acetate,917-69-1
+552,T3D0655,Cobalt(II) carbonate,513-79-10
+553,T3D0658,Cobalt(II) bromide,7789-43-7
+554,T3D0659,Cobaltous chloride,7646-79-9
+555,T3D0660,Cobalt(II) fluoride,10026-17-2
+556,T3D0661,Cobalt(II) iodide,15238-00-3
+557,T3D0662,Cobalt(II) hydroxide,21041-93-0
+558,T3D0663,Cobalt(II) naphthenate,61789-51-3
+559,T3D0664,Cobalt(II) mesoporphyrin,21158-51-0
+560,T3D0665,Cobalt(II) nitrate,10141-05-6
+561,T3D0666,Cobalt(II) oxide,1307-96-6
+562,T3D0667,Cobalt(III) oxide,1308-04-9
+563,T3D0668,"Cobalt(II, III) oxide",1308-06-1
+564,T3D0669,Cobalt sulfate,10124-43-3
+565,T3D0670,Cobalt(III) fluoride,10026-18-3
+566,T3D0671,Cobaltocene,1277-43-6
+567,T3D0672,Adenosylcobalamin,13870-90-1
+568,T3D0673,Cyanocobalamin,68-19-9
+569,T3D0674,Dicobalt edetate,36499-65-7
+570,T3D0675,Dicobalt octacarbonyl,10210-68-1
+571,T3D0676,Hexamminecobalt(III) chloride,10534-89-1
+572,T3D0677,Hydroxocobalamin,13422-51-0
+573,T3D0678,Lithium cobalt oxide,12190-79-3
+574,T3D0679,Methylcobalamin,13422-55-4
+575,T3D0680,Salcomine,14167-18-1
+576,T3D0681,Sodium cobaltinitrite,13600-98-1
+577,T3D0682,Tris(ethylenediamine)cobalt(III) chloride,207802-43-5
+578,T3D0683,Bis(cyclooctadiene)nickel(0),1295-35-8
+579,T3D0684,Nickel acetate,373-02-4
+580,T3D0685,Nickel ammonium sulfate hexahydrate,15699-18-0
+581,T3D0686,Nickel carbonate,3333-67-3
+582,T3D0687,Nickel chloride,7718-54-9
+583,T3D0688,Nickel chromate,14721-18-7
+584,T3D0689,Nickel cyanide,557-19-7
+585,T3D0690,Nickel tetracarbonyl,13463-39-3
+586,T3D0691,Nickel bromide,13462-88-9
+587,T3D0692,Nickel fluoride,10028-18-9
+588,T3D0693,Nickel hydroxide,12054-48-7
+589,T3D0694,Nickel iodide,13462-90-3
+590,T3D0695,Nickel nitrate,13138-45-9
+591,T3D0696,Nickel oxide,1313-99-1
+592,T3D0697,Nickel sulfate,7786-81-4
+593,T3D0698,Nickel subsulfide,12035-72-2
+594,T3D0699,Nickel sulfamate,13770-89-3
+595,T3D0700,Ammonium dichromate,7789-09-5
+596,T3D0701,Barium chromate,10294-40-3
+597,T3D0702,Cesium chromate,56320-90-2
+598,T3D0703,Calcium chromate dihydrate,10060-08-9
+599,T3D0704,Iron(III) chromate,10294-52-7
+600,T3D0705,Potassium chromate,7789-00-6
+601,T3D0706,Potassium dichromate,7778-50-9
+602,T3D0707,Pyridinium chlorochromate,26299-14-9
+603,T3D0708,Pyridinium dichromate,20039-37-6
+604,T3D0709,Silver chromate,7784-01-2
+605,T3D0710,Sodium chromate,7775-11-3
+606,T3D0711,Sodium dichromate,10588-01-9
+607,T3D0712,Strontium chromate,7789-06-2
+608,T3D0713,Zinc chromate,13530-65-9
+609,T3D0714,Ammonium chromate,7788-98-9
+610,T3D0715,Lithium chromate,14307-35-8
+611,T3D0716,Zinc dichromate,14018-95-2
+612,T3D0717,Lead chromate oxide,18454-12-1
+613,T3D0718,Potassium zinc chromate hydroxide,11103-86-9
+614,T3D0719,Zinc chromate hydroxide,15930-94-6
+615,T3D0720,Zinc acetate,557-34-6
+616,T3D0721,Zinc antimonide,12039-35-9
+617,T3D0722,Zinc arsenide,12006-40-5
+618,T3D0723,Zinc bromide,7699-45-8
+619,T3D0724,Zinc chlorate,10361-95-2
+620,T3D0725,Zinc carbonate,3486-35-9
+621,T3D0726,Zinc chloride,7646-85-7
+622,T3D0727,Zinc cyanide,557-21-1
+623,T3D0728,Zinc fluoride,7783-49-5
+624,T3D0729,Zinc(II) gluconate,4468-02-04
+625,T3D0730,Zinc hydride,14018-82-7
+626,T3D0731,Zinc hydroxide,20427-58-1
+627,T3D0732,Zinc dithionite,7779-86-4
+628,T3D0733,Zinc iodide,10139-47-6
+629,T3D0734,Zinc molybdate,13767-32-3
+630,T3D0735,Zinc nitrate,7779-88-6
+631,T3D0736,Zinc oxide,1314-13-2
+632,T3D0737,Zinc peroxide,1314-22-3
+633,T3D0738,Zinc phosphate,7779-90-0
+634,T3D0739,Zinc phosphide,1314-84-7
+635,T3D0740,Zinc pyrithione,13463-41-7
+636,T3D0741,Zinc pyrophosphate,7446-26-6
+637,T3D0742,Zinc selenide,1315-09-9
+638,T3D0743,Zinc stearate,557-05-1
+639,T3D0744,Zinc sulfate,7733-02-0
+640,T3D0745,Zinc sulfide,1314-98-3
+641,T3D0746,Zinc telluride,1315-11-3
+642,T3D0747,Zinc silicofluoride,16871-71-9
+643,T3D0748,Diethylzinc,557-20-0
+644,T3D0749,Dimethylzinc,544-97-8
+645,T3D0753,Copper(I) cyanide,544-92-3
+646,T3D0754,Cyanogen,460-19-5
+647,T3D0755,Cyanogen bromide,506-68-3
+648,T3D0756,Cyanogen chloride,506-77-4
+649,T3D0758,Cyanogen iodide,506-78-5
+650,T3D0759,Calcium cyanide,592-01-8
+651,T3D0760,Ammonium thiocyanate,1762-95-4
+652,T3D0761,Potassium cyanide,151-50-8
+653,T3D0762,Potassium ferricyanide,13746-66-2
+654,T3D0763,Potassium ferrocyanide,13943-58-3
+655,T3D0764,Potassium silver cyanide,506-61-6
+656,T3D0765,Silver cyanide,506-64-9
+657,T3D0766,Sodium cyanide,143-33-9
+658,T3D0767,Sodium ferrocyanide,13601-19-9
+659,T3D0768,Sodium nitroprusside,14402-89-2
+660,T3D0769,Trimethylsilyl cyanide,7677-24-9
+661,T3D0770,Ethanol,64-17-5
+662,T3D0771,Methanol,67-56-1
+663,T3D0772,Ethylene glycol ,107-21-1
+664,T3D0776,Potassium cyanate,590-28-3
+665,T3D0777,Isocyanic acid,75-13-8
+666,T3D0778,Allyl isothiocyanate,57-06-7
+667,T3D0780,Methyl isothiocyanate,556-61-6
+668,T3D0781,Phenyl isothiocyanate,103-72-0
+669,T3D0782,"1,3-Dinitrobenzene",99-65-0
+670,T3D0784,"1,3,5-Trichlorobenzene",108-70-3
+671,T3D0786,Lead thiocyanate,592-87-0
+672,T3D0791,Uranium-238,7440-61-1
+673,T3D0792,Crocidolite Asbestos,12001-28-4
+674,T3D0793,Tremolite Asbestos,77536-68-6
+675,T3D0794,Actinolite Asbestos,77536-66-4
+676,T3D0795,Anthophyllite Asbestos,77536-67-5
+677,T3D0796,Tin,7440-31-5
+678,T3D0797,Imidacloprid,105827-78-9
+679,T3D0798,Fipronil,120068-37-3
+680,T3D0799,Nicotine,54-11-5
+681,T3D0800,Rotenone,83-79-4
+682,T3D0801,Dichlorprop,120-36-5
+683,T3D0802,"2,4-Dichlorophenoxybutyric acid",94-82-6
+684,T3D0803,"2,4,5-Trichlorophenoxyacetic acid",93-76-5
+685,T3D0804,2-Methyl-4-chlorophenoxyacetic acid,94-74-6
+686,T3D0805,4-(4-Chloro-2-methylphenoxy)butanoic acid,94-81-5
+687,T3D0806,Methylchlorophenoxypropionic acid,93-65-2
+688,T3D0807,Dicamba,1918-00-9
+689,T3D0808,Paraquat dichloride,1910-42-5
+690,T3D0810,Alachlor,15972-60-8
+691,T3D0811,Acetochlor,34256-82-1
+692,T3D0812,Glufosinate,51276-47-2
+693,T3D0813,Amygdalin,29883-15-6
+694,T3D0815,Angelicin,523-50-2
+695,T3D0816,Isobergapten,482-48-4
+696,T3D0819,Sphondin,483-66-9
+697,T3D0821,Heratomin,61265-06-3
+698,T3D0822,Pimpinellin,131-12-4
+699,T3D0825,Psoralen,66-97-7
+700,T3D0831,Isoimperatorin,482-45-1
+701,T3D0834,Bergamottin,7380-40-7
+702,T3D0836,Methoxsalen,298-81-7
+703,T3D0838,Imperatorin,482-44-0
+704,T3D0842,"6,7-Dihydroxybergamottin",145414-76-2
+705,T3D0843,Isopimpinellin,482-27-9
+706,T3D0845,9-Hydroxy-4-methoxypsoralen,1603-47-0
+707,T3D0846,Phellopterin,2543-94-4
+708,T3D0855,Mirex,2385-85-5
+709,T3D0856,Oxalic acid,144-62-7
+710,T3D0859,Linamarin,554-35-8
+711,T3D0860,Lotaustralin,534-67-8
+712,T3D0864,o-Xylene,95-47-6
+713,T3D0868,4-Chlorophenol,106-48-9
+714,T3D0870,"2,3,5,6-Tetrachlorophenol",935-95-5
+715,T3D0871,Antimony pentasulfide,1315-04-4
+716,T3D0872,Antimony pentoxide,1314-60-9
+717,T3D0873,Antimony potassium tartrate,28300-74-5
+718,T3D0874,Antimony trichloride,10025-91-9
+719,T3D0875,Antimony trioxide,1309-64-4
+720,T3D0876,Antimony trisulfide,1345-04-6
+721,T3D0877,Stibine,7803-52-3
+722,T3D0878,Antimony pentachloride,7647-18-9
+723,T3D0890,Pendimethalin,40487-42-1
+724,T3D0893,"2,3,5-Trimethylphenyl methylcarbamate",2655-15-4
+725,T3D0894,"2,3-Dichlorobenzyl methylcarbamate",62046-37-1
+726,T3D0895,"2,4-Dimethyl-1,3-dithiolane-2-carboxaldehyde O-(methylcarbamoyl)oxime",26419-73-8
+727,T3D0896,"2-Chloro-4,5-xylyl N-hydroxy-N-methylcarbamate",14357-82-5
+728,T3D0897,2-Cyclopentylphenyl methylcarbamate,3282-00-6
+729,T3D0898,2-Hydroxyphenyl methylcarbamate,10309-97-4
+730,T3D0900,"3,4-Dichlorobenzyl methylcarbamate",2328-31-6
+731,T3D0901,"3,5-Diisopropylphenyl methylcarbamate",330-64-3
+732,T3D0902,"3,5-Dimethylphenyl methylcarbamate",2655-14-3
+733,T3D0903,3-Hydroxy-carbofuran,16655-82-6
+734,T3D0904,3-Iodo-2-propynyl butyl carbamate,55406-53-6
+735,T3D0905,3-Oxo-carbofuran,16709-30-1
+736,T3D0906,3-tert-Butylphenyl sec-butylcarbamate,97508-29-7
+737,T3D0907,"4-(Methylamino)-3,5-xylyl methylcarbamate",10389-50-1
+738,T3D0908,4-(Methylthio)-m-tolyl methylcarbamate,3566-00-5
+739,T3D0909,"4-Amino-3,5-xylyl methylcarbamate",831-76-5
+740,T3D0910,4-Chlorophenyl-N-methylcarbamate,2620-53-3
+741,T3D0911,4-Ethylthiophenyl methylcarbamate,18809-57-9
+742,T3D0912,"4-Methylformamido-3,5-xylyl methylcarbamate",10233-94-0
+743,T3D0913,"5,6,7,8-Tetrahydro-1-naphthyl methylcarbamate",1136-84-1
+744,T3D0914,"6-Chloro-3,4-xylyl methylcarbamate",8063-85-2
+745,T3D0915,6-Methyl-2-propyl-4-pyrimidinyl dimethylcarbamate,2532-49-2
+746,T3D0916,Alanycarb,83130-01-2
+747,T3D0918,Aldicarb sulfoxide,1646-87-3
+748,T3D0919,Aldicarb,116-06-3
+749,T3D0920,Aldoxycarb,1646-88-4
+750,T3D0921,Allyxycarb,6392-46-7
+751,T3D0922,Aminocarb,2032-59-9
+752,T3D0923,Asulam,3337-71-1
+753,T3D0924,"Asulam, sodium salt",2302-17-2
+754,T3D0925,Barban,101-27-9
+755,T3D0926,Bendiocarb,22781-23-3
+756,T3D0927,Benfuracarb,82560-54-1
+757,T3D0928,Benomyl,17804-35-2
+758,T3D0929,Benthiavalicarb,413615-35-7
+759,T3D0930,Benthiavalicarb-isopropyl,177406-68-7
+760,T3D0932,"Biscarbofuran N,N'-disulfide",39995-74-9
+761,T3D0934,3-(1-Methylbutyl)phenyl N-methylcarbamate,2282-34-0
+762,T3D0935,3-(1-Ethylpropyl)phenyl methylcarbamate,672-04-8
+763,T3D0936,Butacarb,2655-19-8
+764,T3D0937,Butocarboxim,34681-10-2
+765,T3D0938,Butoxycarboxim,34681-23-7
+766,T3D0939,Carbanolate,671-04-5
+767,T3D0940,Carbaril,63-25-2
+768,T3D0941,Carbasulam,1773-37-1
+769,T3D0942,Carbendazim,10605-21-7
+770,T3D0943,Carbetamide,16118-49-3
+771,T3D0944,Carbofuran,1563-66-2
+772,T3D0945,Carbosulfan,55285-14-8
+773,T3D0946,Carboxazole,55808-13-4
+774,T3D0947,Chlorbufam,1967-16-4
+775,T3D0948,Chlorprocarb,23121-99-5
+776,T3D0949,Chlorpropham,101-21-3
+777,T3D0950,Cloethocarb,51487-69-5
+778,T3D0951,Cycloate,1134-23-2
+779,T3D0952,Cypendazole,28559-00-4
+780,T3D0953,Debacarb,62732-91-6
+781,T3D0954,Decarbofuran,1563-67-3
+782,T3D0955,Desmedipham,13684-56-5
+783,T3D0956,Di-allate,2303-16-4
+784,T3D0957,Dichlormate,1966-58-1
+785,T3D0959,Diethofencarb,87130-20-9
+786,T3D0960,Dimetan,122-15-6
+787,T3D0961,Dimetilan,644-64-4
+788,T3D0962,Dioxacarb,6988-21-2
+789,T3D0963,Dipropylcarbamothioic acid S-ethyl ester,759-94-4
+790,T3D0964,Ethiofencarb,29973-13-5
+791,T3D0966,Fenasulam,78357-48-9
+792,T3D0967,Fenethacarb,30087-47-9
+793,T3D0968,Fenobucarb,3766-81-2
+794,T3D0969,Fenoxycarb,72490-01-8
+795,T3D0970,Formetanate,22259-30-9
+796,T3D0971,Formetanate hydrochloride,23422-53-9
+797,T3D0972,Formparanate,17702-57-7
+798,T3D0973,Fosamine,59682-52-9
+799,T3D0974,Furathiocarb,65907-30-4
+800,T3D0975,Hyquincarb,56716-21-3
+801,T3D0976,Isolan,119-38-0
+802,T3D0977,2-Isopropylphenyl methylcarbamate,2631-40-5
+803,T3D0978,Karbutilate,4849-32-5
+804,T3D0979,m-Cumenyl methylcarbamate,64-00-6
+805,T3D0980,Mecarbinzid,27386-64-7
+806,T3D0981,Methiocarb,2032-65-7
+807,T3D0982,Methiocarb sulfone,2179-25-1
+808,T3D0983,Methiocarb sulfoxide,2635-10-1
+809,T3D0984,Methomyl,16752-77-5
+810,T3D0985,Metolcarb,1129-41-5
+811,T3D0986,Mexacarbate,315-18-4
+812,T3D0987,Mobam,1079-33-0
+813,T3D0988,Molinate,2212-67-1
+814,T3D0989,Nitrilacarb,29672-19-3
+815,T3D0990,o-(2-Propynyloxy)phenyl methylcarbamate,3279-46-7
+816,T3D0991,Oms 22,3566-09-4
+817,T3D0992,Oxamyl,23135-22-0
+818,T3D0993,Pebulate,1114-71-2
+819,T3D0994,Phenmedipham,13684-63-4
+820,T3D0995,Pirimicarb,23103-98-2
+821,T3D0996,Potassium asulam,14089-43-1
+822,T3D0998,Promacyl,34264-24-9
+823,T3D0999,Promecarb,2631-37-0
+824,T3D1000,Propamocarb hydrochloride,25606-41-1
+825,T3D1001,Propamocarb,24579-73-5
+826,T3D1002,Propham,122-42-9
+827,T3D1003,Propoxur,114-26-1
+828,T3D1004,Proximphan,2828-42-4
+829,T3D1005,Pyrolan,87-47-8
+830,T3D1006,Sulfallate,95-06-7
+831,T3D1007,Sulfocarbathione,114654-31-8
+832,T3D1008,Swep,1918-18-9
+833,T3D1009,Tazimcarb,40085-57-2
+834,T3D1010,Terbucarb,1918-11-2
+835,T3D1011,Thiobencarb,28249-77-6
+836,T3D1012,Thiocarboxime,25171-63-5
+837,T3D1013,Thiodicarb,59669-26-0
+838,T3D1014,Thiofanox,39196-18-4
+839,T3D1015,Tillam sulfoxide,51892-60-5
+840,T3D1016,Tiocarbazil,36756-79-3
+841,T3D1017,Triallate,2303-17-5
+842,T3D1018,Trimethacarb,2686-99-9
+843,T3D1020,Vernolate,1929-77-7
+844,T3D1021,Xylylcarb,2425-10-7
+845,T3D1022,Telodrin,297-78-9
+846,T3D1023,Isodrin,465-73-6
+847,T3D1024,Allethrin,584-79-2
+848,T3D1025,Cismethrin,35764-59-1
+849,T3D1026,Phenothrin,26002-80-2
+850,T3D1027,Resmethrin,10453-86-8
+851,T3D1028,Tetramethrin,7696-12-0
+852,T3D1029,Acrinathrin,101007-06-1
+853,T3D1030,Cycloprothrin,63935-38-6
+854,T3D1031,Cyfluthrin,68359-37-5
+855,T3D1032,Cyhalothrin,68085-85-8
+856,T3D1033,Cyphenothrin,39515-40-7
+857,T3D1034,Cypermethrin,52315-07-8
+858,T3D1035,Deltamethrin,52918-63-5
+859,T3D1036,Esfenvalerate,66230-04-4
+860,T3D1037,Fenvalerate,51630-58-1
+861,T3D1039,Fluvalinate,69409-94-5
+862,T3D1041,Avermectin B1a,65195-55-3
+863,T3D1042,Avermectin B1b,65195-56-4
+864,T3D1043,Emamectin B1a,121124-29-6
+865,T3D1044,Emamectin B1b,121424-52-0
+866,T3D1045,2-[(2E)-2-(Nitromethylidene)pyrrolidin-1-yl]acetonitrile,1164504-23-7
+867,T3D1046,2-(Nitromethylene)imidazolidine,13623-98-8
+868,T3D1047,(2Z)-1-Methyl-2-(nitromethylidene)pyrrolidine,26171-05-1
+869,T3D1048,2-Nitromethylene-azepane,61018-99-3
+870,T3D1049,2-Nitromethylene-piperidine,50902-03-9
+871,T3D1050,Nitro-methylene-cyclopentane,27861-40-1
+872,T3D1051,"(2E)-3-Benzyl-2-(nitromethylidene)-1,3-thiazolidine",94776-91-7
+873,T3D1052,Nitromethylidenecyclohexane,27861-39-8
+874,T3D1053,"Thiazolidine, 2-(nitromethylene)",94662-61-0
+875,T3D1054,"(4E)-4-(Nitromethylidene)-1,2,3,5-tetrahydro-3-benzazepine",58350-08-6
+876,T3D1055,"(2E)-2-(Nitromethylidene)-1,3-thiazinane",58842-20-9
+877,T3D1056,"2-(Nitromethylidene)-1,3-thiazolidine",94662-60-9
+878,T3D1058,(2Z)-1-Ethyl-2-(nitromethylidene)pyrrolidine,26171-04-0
+879,T3D1059,(2E)-2-(Nitromethylidene)-1-prop-2-enylpyrrolidine,40990-27-0
+880,T3D1060,(2Z)-1-Benzyl-2-(nitromethylidene)pyrrolidine,57734-58-4
+881,T3D1061,2-[(2E)-2-(Nitromethylene)hydrazino]naphthalene,302544-16-7
+882,T3D1062,(2E)-1-Methyl-2-(nitromethylidene)pyrrolidine,94662-64-3
+883,T3D1064,[2-(Nitromethylene)-1-pyrrolidinyl]acetonitrile,91417-82-2
+884,T3D1065,"1-(4,5-Dihydro-1H-imidazol-2-ylmethyl)-2,3,4,5-tetrahydro-1-benzazepine",24483-78-1
+885,T3D1066,"(3Z)-2-Ethyl-3-(nitromethylidene)-3a,4,5,6,7,7a-hexahydro-1H-isoindole",56593-86-3
+886,T3D1067,3-[(2E)-2-(Nitromethylidene)hydrazinyl]benzoic acid,91978-88-0
+887,T3D1069,1-(Cyclopropylmethyl)-2-(nitromethylidene)pyrrolidine,60737-54-4
+888,T3D1076,Methyl (5Z)-3-amino-5-(nitromethylidene)dithiole-4-carboxylate,78649-93-1
+889,T3D1084,"1-[(6-Chloropyridin-3-yl)methyl]-2-(nitromethylidene)-1,3-diazinane",72126-78-4
+890,T3D1086,Amidochlor,40164-67-8
+891,T3D1087,Butachlor,23184-66-9
+892,T3D1088,(±)-Metalaxyl,57837-19-1
+893,T3D1089,Metolachlor,51218-45-2
+894,T3D1090,Propachlor,1918-16-7
+895,T3D1091,Aluminium barium titanium oxide,52869-91-7
+896,T3D1092,Barium acetate,543-80-6
+897,T3D1093,Barium azide,18810-58-7
+898,T3D1094,Barium bromate,13967-90-3
+899,T3D1095,Barium bromide,10553-31-8
+900,T3D1097,Barium cadmium stearate,1191-79-3
+901,T3D1098,Barium calcium titanium oxide,52869-93-9
+902,T3D1099,Barium carbonate,513-77-9
+903,T3D1100,Barium chlorate,13477-00-4
+904,T3D1101,Barium chloride,10361-37-2
+905,T3D1103,Barium cyanide,542-62-1
+906,T3D1104,Barium ferrate,13773-23-4
+907,T3D1105,Barium ferrite,11138-11-7
+908,T3D1107,Barium fluoride,7787-32-8
+909,T3D1108,Barium hydroxide,17194-00-2
+910,T3D1111,Barium hypochlorite,13477-10-6
+911,T3D1112,Barium iodide,13718-50-8
+912,T3D1114,Barium iron oxide,12047-11-9
+913,T3D1115,Barium nitrate,10022-31-8
+914,T3D1116,Barium oxalate,516-02-9
+915,T3D1117,Barium oxide,1304-28-5
+916,T3D1118,Barium perchlorate,13465-95-7
+917,T3D1119,Barium permanganate,7787-36-2
+918,T3D1120,Barium peroxide,1304-29-6
+919,T3D1121,Barium silicofluoride,17125-80-3
+920,T3D1122,Barium sulfate,7727-43-7
+921,T3D1123,Barium sulfide,21109-95-5
+922,T3D1124,Barium titanate,12047-27-7
+923,T3D1126,Barium zirconium oxide,12009-21-1
+924,T3D1127,Yttrium barium copper oxide,107539-20-8
+925,T3D1128,Manganese chloride,7773-01-5
+926,T3D1131,Manganese sulfate,7785-87-7
+927,T3D1134,Manganese(III) oxide,1317-35-7
+928,T3D1135,Manganese dioxide,1313-13-9
+929,T3D1136,Potassium permanganate,7722-64-7
+930,T3D1137,Mangafodipir,140678-14-4
+931,T3D1138,Methylcyclopentadienyl manganese tricarbonyl,12108-13-3
+932,T3D1139,Manganese(II) oxide,1344-43-0
+933,T3D1140,Dimanganese decacarbonyl,10170-69-1
+934,T3D1141,Manganese diselenide,12299-98-8
+935,T3D1142,Manganese heptaoxide,12057-92-0
+936,T3D1143,Manganese bromide,13446-03-2
+937,T3D1145,Manganese carbonate,598-62-9
+938,T3D1146,Manganese fluoride,7782-64-1
+939,T3D1147,Manganese phthalocyanine,14325-24-7
+940,T3D1148,Manganese sulfide,18820-29-6
+941,T3D1149,Manganese triacetate,19513-05-4
+942,T3D1150,Manganese trifluoride,7783-53-1
+943,T3D1151,Manganese(III) oxide,1317-34-6
+944,T3D1152,Potassium manganate,10294-64-1
+945,T3D1153,Ammonium permanganate,13446-10-1
+946,T3D1154,Calcium permanganate,10118-76-0
+947,T3D1155,Sodium permanganate,10101-50-5
+948,T3D1156,Zinc permanganate,23414-72-4
+949,T3D1157,D-Gluconic acid Mn(II) salt,6485-39-8
+950,T3D1158,Manganous acetate,638-38-0
+951,T3D1159,Manganese citrate,5968-88-7
+952,T3D1160,Ammonium diuranate,7783-22-4
+953,T3D1161,Sodium uranate,13721-34-1
+954,T3D1162,Triuranium octaoxide,1344-59-8
+955,T3D1163,Uranium dioxide,1344-57-6
+956,T3D1164,Uranium hexafluoride,7783-81-5
+957,T3D1165,Uranium pentachloride,13470-21-8
+958,T3D1166,Uranium peroxide,12036-71-4
+959,T3D1167,Uranium tetrachloride,10026-10-5
+960,T3D1168,Uranium pentafluoride,10049-14-6
+961,T3D1169,Uranium trioxide,1344-58-6
+962,T3D1170,Uranyl fluoride,13536-84-0
+963,T3D1172,Uranium boride,12007-36-2
+964,T3D1173,Uranium carbide,12070-09-6
+965,T3D1174,Uranium nitride,12033-83-9
+966,T3D1175,Uranium chloride,10025-93-1
+967,T3D1176,Uranocene,11079-26-8
+968,T3D1177,Uranyl acetate,541-09-3
+969,T3D1179,Uranyl chloride,7791-26-6
+970,T3D1180,Uranyl formate,16984-59-1
+971,T3D1181,Uranyl nitrate,10102-06-4
+972,T3D1182,Uranyl sulfate,1314-64-3
+973,T3D1183,Uranyl zinc acetate,10138-94-0
+974,T3D1184,Stryker's reagent,33636-93-0
+975,T3D1185,Chromated copper arsenate,37337-13-6
+976,T3D1186,Copper aspirinate,23642-01-5
+977,T3D1187,Copper benzoate,533-01-7
+978,T3D1188,Chlorophyllin,11006-34-1
+979,T3D1189,Copper chromite,12053-18-8
+980,T3D1190,Copper(I) fluoride,13478-41-6
+981,T3D1191,Copper(II) fluoride,7789-19-7
+982,T3D1193,Copper gluconate,527-09-3
+983,T3D1194,Copper(I) oxide,1317-39-1
+984,T3D1195,Copper(II) oxide,1317-38-0
+985,T3D1196,Copper silicide,12159-07-8
+986,T3D1197,Copper(I) sulfide,22205-45-4
+987,T3D1198,Copper(II) sulfide,1317-40-4
+988,T3D1199,Copper(I) acetylide,1117-94-8
+989,T3D1200,Copper(I) bromide,7787-70-4
+990,T3D1201,Copper(I) chloride,7758-89-6
+991,T3D1202,Copper(I) iodide,7681-65-4
+992,T3D1203,Copper(I) phosphide,12019-57-7
+993,T3D1204,Copper(II) acetate,142-71-2
+994,T3D1206,Copper(II) azide,14215-30-6
+995,T3D1207,Copper(II) bromide,7789-45-9
+996,T3D1208,Copper(II) carbonate,1184-64-1
+997,T3D1209,Copper(II) chloride,7447-39-4
+998,T3D1211,Copper(II) hydroxide,20427-59-2
+999,T3D1212,Copper(II) nitrate,3251-23-8
+1000,T3D1215,Copper(II) sulfate,7758-98-7
+1001,T3D1217,Copper(II) triflate,34946-82-2
+1002,T3D1219,Copper(II) acetoarsenite,12002-03-8
+1003,T3D1220,Tetramminecopper(II) sulfate,10380-29-7
+1004,T3D1221,Copper(II) hydroxide sulfate,1332-03-2
+1005,T3D1222,Copper orthophosphate,10103-48-7
+1006,T3D1223,Copper(II) phosphate,7798-23-4
+1007,T3D1224,Copper(II) pyrophosphate,10102-90-6
+1008,T3D1225,Copper chloride hydroxide,1332-65-6
+1009,T3D1226,Copper formate,544-19-4
+1010,T3D1227,Copper tartrate,27004-40-6
+1011,T3D1228,Copper lactate,814-81-3
+1012,T3D1229,Copper acetylacetonate,13395-16-9
+1013,T3D1230,Copper naphthenate,1338-02-9
+1014,T3D1231,Cupriethylenediamine,13426-91-0
+1015,T3D1232,Tin(II) chloride (SnCl2),7772-99-8
+1016,T3D1234,Tin(IV) oxide,18282-10-5
+1017,T3D1236,Tin(II) fluoroborate,13814-97-6
+1018,T3D1237,Tin(II) fluoride,7783-47-3
+1019,T3D1238,Monomethyltin trichloride,993-16-8
+1020,T3D1239,Dimethyltin dichloride,753-73-1
+1021,T3D1240,Trimethyltin chloride,1066-45-1
+1022,T3D1241,Monobutyltin trichloride,1118-46-3
+1023,T3D1242,Dibutyltin dichloride,683-18-1
+1024,T3D1243,Tributyltin chloride,1461-22-9
+1025,T3D1244,Monobutyltin hydride,2406-65-7
+1026,T3D1245,Monobutyltin,78763-54-9
+1027,T3D1246,Dibutyltin hydride,1002-53-5
+1028,T3D1248,Tetrabutyltin,1461-25-2
+1029,T3D1249,Bis(tributyltin) oxide,56-35-9
+1030,T3D1250,Triethyltin bromide,2767-54-6
+1031,T3D1251,Triphenyltin,668-34-8
+1032,T3D1252,Hydroxytriphenylstannane,76-87-9
+1033,T3D1253,Triphenyltin chloride,639-58-7
+1034,T3D1254,Mono-n-octyltin trichloride,3091-25-6
+1035,T3D1255,Di-n-octyltin dichloride,3542-36-7
+1036,T3D1256,Trioctyltin stannane,869-59-0
+1037,T3D1257,Tri-n-octyltin chloride,2587-76-0
+1038,T3D1258,Tetra-n-octylstannane,3590-84-9
+1039,T3D1259,Dibutyltin oxide,818-08-6
+1040,T3D1260,(Acetyloxy)triphenylstannane,900-95-8
+1041,T3D1261,Tetraethyltin,597-64-8
+1042,T3D1262,Tetramethyltin,594-27-4
+1043,T3D1263,Triphenyltin hydride,892-20-6
+1044,T3D1264,Niobium tin,12035-04-0
+1045,T3D1265,Stannane,2406-52-2
+1046,T3D1266,Tin selenide,1315-06-0
+1047,T3D1267,Tin telluride,12040-02-7
+1048,T3D1268,Tin(II) bromide,10031-24-0
+1049,T3D1269,Tin(II) hydroxide,12026-24-3
+1050,T3D1270,Tin(II) iodide,10294-70-9
+1051,T3D1271,Tin(II) oxide,21651-19-4
+1052,T3D1272,Tin(II) sulfate,7488-55-3
+1053,T3D1273,Tin(II) sulfide,1314-95-0
+1054,T3D1274,Tin(IV) bromide,7789-67-5
+1055,T3D1275,Tin chloride,7646-78-8
+1056,T3D1277,Tin(IV) fluoride,7783-62-2
+1057,T3D1278,Tin(IV) iodide,7790-47-8
+1058,T3D1279,Tin(IV) sulfide,1315-01-1
+1059,T3D1280,Monomethyltin tris(isooctyl mercaptoacetate),54849-38-6
+1060,T3D1281,Dimethyltin bis(isooctyl mercaptoacetate),26636-01-1
+1061,T3D1282,Dibutyltin diacetate,1067-33-0
+1062,T3D1283,Dibutyltin dilaurate,77-58-7
+1063,T3D1284,Tricyclohexyltin hydroxide,13121-70-5
+1064,T3D1285,Azocyclotin,41083-11-8
+1065,T3D1286,Hexakis(2-methyl-2-phenylpropyl)distannoxane,13356-08-6
+1066,T3D1287,Tributyltin methacrylate,2155-70-6
+1067,T3D1289,Aluminium arsenide,22831-42-1
+1068,T3D1290,Boron arsenide,12005-69-5
+1069,T3D1291,Indium arsenide,1303-11-3
+1070,T3D1292,Yttrium(III) arsenide,12255-48-0
+1071,T3D1293,Acetarsol,97-44-9
+1072,T3D1294,Arsabenzene,289-31-6
+1073,T3D1295,Arsenamide,531-72-6
+1074,T3D1296,Arsenic pentachloride,22441-45-8
+1075,T3D1297,Arsenic pentafluoride,7784-36-3
+1076,T3D1298,Arsenic tribromide,7784-33-0
+1077,T3D1299,Arsenic trifluoride,7784-35-2
+1078,T3D1300,Arsenic triiodide,7784-45-4
+1079,T3D1301,Arsenic triselenide,1303-36-2
+1080,T3D1302,Arsole,287-77-4
+1081,T3D1303,p-Azobenzenearsonate,7334-23-8
+1082,T3D1304,"1,2-Bis(dimethylarsino)benzene",13246-32-7
+1083,T3D1305,Cacodyl,471-35-2
+1084,T3D1306,Cacodyl oxide,503-80-0
+1085,T3D1307,Diphenylchlorarsine,712-48-1
+1086,T3D1308,Diphenylcyanoarsine,23525-22-6
+1087,T3D1309,Ethyldichloroarsine,598-14-1
+1088,T3D1310,Lewisite,541-25-3
+1089,T3D1311,Methyldichloroarsine,593-89-5
+1090,T3D1312,Phenyldichloroarsine,696-28-6
+1091,T3D1313,Thorin,3688-92-4
+1092,T3D1314,Triphenylarsine,603-32-7
+1093,T3D1316,Calcium arsenite,52740-16-6
+1094,T3D1317,Strontium arsenite tetrahydrate,10378-48-0
+1095,T3D1318,Ferrous arsenate,10102-50-8
+1096,T3D1319,Ferric arsenate,10102-49-5
+1097,T3D1320,Iron cacodylate,5968-84-3
+1098,T3D1321,Phenarsazine oxide,58-36-6
+1099,T3D1322,Lead chlorate,10294-47-0
+1100,T3D1323,Lead oxalate,814-93-7
+1101,T3D1324,Lead stearate,1072-35-1
+1102,T3D1325,Lead selenide,12069-00-0
+1103,T3D1326,Lead telluride,1314-91-6
+1104,T3D1327,Lead fluoride,7783-46-2
+1105,T3D1328,Lead hydroxide,19781-14-3
+1106,T3D1329,Plumbane,15875-18-0
+1107,T3D1330,Basic lead carbonate,1319-46-6
+1108,T3D1331,Lead subacetate,1335-32-6
+1109,T3D1332,Lead tetraacetate,546-67-8
+1110,T3D1333,Lead tungstate,7759-01-5
+1111,T3D1334,Lead thiosulfate,26265-65-6
+1112,T3D1335,Lead perchlorate,13637-76-8
+1113,T3D1337,Basic lead acetate,51404-69-4
+1114,T3D1338,Diethyldimethyl lead,1762-27-2
+1115,T3D1339,Methyltriethyl lead,1762-28-3
+1116,T3D1340,Ethyltrimethyl lead,1762-26-1
+1117,T3D1341,Mercuric amidochloride,10124-48-8
+1118,T3D1342,Mercury(I) fluoride,13967-25-4
+1119,T3D1343,Mercury(II) fluoride,7783-39-3
+1120,T3D1344,Mercury(I) oxide,15829-53-5
+1121,T3D1345,Mercury oxide sulfate,1312-03-4
+1122,T3D1346,Cadmium mercury sulfide,1345-09-1
+1123,T3D1347,Mercuric potassium cyanide,591-89-9
+1124,T3D1348,Mercuric benzoate,583-15-3
+1125,T3D1349,Mercuric oleate,1191-80-6
+1126,T3D1350,Methylmercuric dicyanamide,502-39-6
+1127,T3D1351,Ethylmercuric phosphate,2235-25-8
+1128,T3D1352,Methoxyethelmercuric acetate,151-38-2
+1129,T3D1353,Ethoxyethyl hydroxy mercury,26983-51-7
+1130,T3D1354,Phenylmercuric chloride,100-56-1
+1131,T3D1355,Phenylmercuric nitrate,55-68-5
+1132,T3D1356,Mercurol,12002-19-6
+1133,T3D1357,Mercaptomerin,20223-84-1
+1134,T3D1358,Diethyl mercury,627-44-1
+1135,T3D1359,Ethylmercury chloride,107-27-7
+1136,T3D1360,Meralluride,140-20-5
+1137,T3D1361,Merbromin,129-16-8
+1138,T3D1362,Mersalyl acid,486-67-9
+1139,T3D1363,Phenylmercuric borate,102-98-7
+1140,T3D1364,Thiomersal,54-64-8
+1141,T3D1367,Cadmium cyclohexane-butyrate,55700-14-6
+1142,T3D1371,Cadmium 3-ethylhexanoate,2420-98-6
+1143,T3D1372,Cadmium cyanide,542-83-6
+1144,T3D1373,Zinc cadmium sulfide,68583-45-9
+1145,T3D1374,Cadmium(I) tetrachloroaluminate,79110-87-5
+1146,T3D1375,Beryllium silicate,13598-00-0
+1147,T3D1376,Zinc beryllium silicate,39413-47-3
+1148,T3D1377,Basic beryllium carbonate,66104-24-3
+1149,T3D1383,Cobalt(III) hydroxide,1307-86-4
+1150,T3D1385,Cobalt(II) molybdenum(VI) oxide,13762-14-6
+1151,T3D1387,Cobalt sulfide,1317-42-6
+1152,T3D1388,Tetracobalt dodecacarbonyl,17786-31-1
+1153,T3D1389,Cobalt(II) carbonate hydroxide (1:1),12069-68-0
+1154,T3D1390,Cobalt(II) carbonate hydroxide (2:3),12602-23-2
+1155,T3D1392,Cobalt(II) citrate,866-81-9
+1156,T3D1393,cis-Dichlorobis(ethylenediamine)cobalt(III) chloride,14040-32-5
+1157,T3D1394,trans-Dichlorobis(ethylenediamine)cobalt(III) chloride,14040-33-6
+1158,T3D1395,Cobalt(II) cyanide,542-84-7
+1159,T3D1398,Cyclopentadienylcobalt dicarbonyl,12078-25-0
+1160,T3D1399,Potassium cobaltinitrite,13782-01-9
+1161,T3D1400,Cobalt(II) formate,544-18-3
+1162,T3D1401,Cobalt(II) succinate,3267-76-3
+1163,T3D1402,Cobalt(II) sulfamate,14017-41-5
+1164,T3D1403,Cobalt bis(2-ethylhexanoate),136-52-7
+1165,T3D1404,Bis(3-fluorosalicylaldehyde)-ethylenediimine-cobalt,62207-76-5
+1166,T3D1409,Nickel arsenate,13477-70-8
+1167,T3D1411,Nickel phosphate,14396-43-1
+1168,T3D1412,Nickel sulfide,11113-75-0
+1169,T3D1413,Dichlorobis(ethylenediamine)nickel(II),22980-82-1
+1170,T3D1414,Nickel aluminide,12003-78-0
+1171,T3D1415,Nickel formate,15843-02-4
+1172,T3D1416,Nickel bis(dibutyldithiocarbamate),13927-77-0
+1173,T3D1417,Nickel trioxide,1314-06-3
+1174,T3D1418,Nickelocene,1271-28-9
+1175,T3D1422,Nickel potassium cyanide,14220-17-8
+1176,T3D1425,Potassium tetraperoxochromate(V),12331-76-9
+1177,T3D1426,(Benzene)chromium tricarbonyl,12082-08-5
+1178,T3D1427,Bis(benzene)chromium,1271-54-1
+1179,T3D1428,Chromium(III) potassium sulfate,10141-00-1
+1180,T3D1430,Chromium carbide,12012-35-0
+1181,T3D1431,Chromium carbonyl,13007-92-6
+1182,T3D1432,Chromium(III) nitrate,13548-38-4
+1183,T3D1434,Chromium nitride,24094-93-7
+1184,T3D1435,Chromium(II) acetate,14976-80-8
+1185,T3D1436,Chromium(II) chloride,10049-05-5
+1186,T3D1437,Chromium(II) oxide,12018-00-7
+1187,T3D1438,Chromium(III) acetylacetonate,21679-31-2
+1188,T3D1439,Chromium(III) chloride,10025-73-7
+1189,T3D1441,Chromium(III) fluoride,7788-97-8
+1190,T3D1444,Chromium(III) oxide,1308-38-9
+1191,T3D1445,Chromium(III) picolinate,14639-25-9
+1192,T3D1446,Chromium(III) sulfate,10101-53-8
+1193,T3D1448,Chromium(III) sulfide,12018-22-3
+1194,T3D1449,Chromium(IV) oxide,12018-01-8
+1195,T3D1450,Chromocene,1271-24-5
+1196,T3D1451,Chromyl chloride,14977-61-8
+1197,T3D1452,Ammonium tetrathiocyanato-diamminechromate(III),13573-16-5
+1198,T3D1454,Chromium trihydroxide,1308-14-1
+1199,T3D1455,Chromium chromate,41261-95-4
+1200,T3D1457,Chromium(II) oxalate,814-90-4
+1201,T3D1458,Chromium(III) acetate,1066-30-4
+1202,T3D1459,Zinc arsenite,10326-24-6
+1203,T3D1460,Zinc diethyldithiocarbamate,14324-55-1
+1204,T3D1461,Zinc laurate,2452-01-9
+1205,T3D1462,Zinc oleate,557-07-3
+1206,T3D1463,Zinc phenolsulfate,127-82-2
+1207,T3D1464,Zinc silicate,13597-65-4
+1208,T3D1465,Zinc dimethyldithiocarbamate,137-30-4
+1209,T3D1466,Zineb,12122-67-7
+1210,T3D1467,Diisopropylzinc,625-81-0
+1211,T3D1468,Nysted reagent,41114-59-4
+1212,T3D1469,Sodium zincate,12179-14-5
+1213,T3D1470,Zinc ammonium chloride,14639-97-5
+1214,T3D1471,Zinc dithiophosphate,19210-06-1
+1215,T3D1473,Zinc trifluoromethanesulfonate,54010-75-2
+1216,T3D1474,Zinc borate,1332-07-6
+1217,T3D1475,Zinc ammonium sulfate,7783-24-6
+1218,T3D1476,Zinc formate,557-41-5
+1219,T3D1477,Zinc propionate,557-28-8
+1220,T3D1486,Aluminium chlorohydrate,1327-41-9
+1221,T3D1487,Aluminium diacetate hydroxide,142-03-0
+1222,T3D1488,Aluminum triacetate,139-12-8
+1223,T3D1490,Aluminium acetoacetate,19022-77-6
+1224,T3D1491,Aluminium antimonide,25152-52-7
+1225,T3D1492,Aluminium carbide,1299-86-1
+1226,T3D1493,Aluminium chloride,7446-70-0
+1227,T3D1495,Aluminium diboride,12041-50-8
+1228,T3D1496,Aluminium dodecaboride,12041-54-2
+1229,T3D1497,Aluminium lactate,7784-18-1
+1230,T3D1499,Potassium aluminium fluoride,14484-69-6
+1231,T3D1501,Dihydroxyaluminium,13682-92-3
+1232,T3D1502,Aluminium hydride,7784-21-6
+1233,T3D1503,Lithium aluminium hydride,16853-85-3
+1234,T3D1504,Aluminium hydroxide,21645-51-2
+1235,T3D1505,Aluminium iodide,7784-23-8
+1236,T3D1507,Aluminium(I) oxide,12004-36-3
+1237,T3D1508,Aluminium(II) oxide,457-64-8
+1238,T3D1509,Aluminium(III) oxide,1344-28-1
+1239,T3D1510,Aluminium isopropoxide,555-31-7
+1240,T3D1511,Aluminium molybdate,15123-80-5
+1241,T3D1512,Aluminium monochloride,13595-81-8
+1242,T3D1513,Aluminium monofluoride,13595-82-9
+1243,T3D1514,Aluminium monostearate,7047-84-9
+1244,T3D1515,Aluminium nitrate,13473-90-0
+1245,T3D1517,Aluminium nitride,24304-00-5
+1246,T3D1518,Aluminium oxynitride,12633-97-5
+1247,T3D1519,Aluminium phosphate,7784-30-7
+1248,T3D1520,Aluminium phosphide,20859-73-8
+1249,T3D1521,Aluminium silicate,1335-30-4
+1250,T3D1522,Aluminium sulfate,10043-01-3
+1251,T3D1524,Aluminium sulfide,1302-81-4
+1252,T3D1525,Methylaluminoxane,120144-90-3
+1253,T3D1526,Aluminum ammonium sulfate,7784-25-0
+1254,T3D1528,Diisobutylaluminium hydride,1191-15-7
+1255,T3D1529,Potassium alum,10043-67-1
+1256,T3D1531,Sodium bis(2-methoxyethoxy)aluminumhydride,22722-98-1
+1257,T3D1532,Sodium aluminium hydride,13770-96-2
+1258,T3D1533,Sodium hexafluoroaluminate,13775-53-6
+1259,T3D1534,Tebbe's reagent,67719-69-1
+1260,T3D1535,Triethylaluminium,97-93-8
+1261,T3D1536,Trimethylaluminium,75-24-1
+1262,T3D1537,Tris(8-hydroxyquinolinato)aluminium,2085-33-8
+1263,T3D1538,Lithium aluminate,12003-67-7
+1264,T3D1539,Sodium aluminate,1302-42-7
+1265,T3D1540,Strontium aluminate,12004-37-4
+1266,T3D1541,Magnesium aluminate,12068-51-8
+1267,T3D1542,Tantalum(III) aluminide,12004-76-1
+1268,T3D1543,Titanium aluminide,12003-96-2
+1269,T3D1544,Lithium tetrachloroaluminate,14024-11-4
+1270,T3D1545,Dichloroethylaluminum,563-43-9
+1271,T3D1546,Aluminum sodium sulfate,10102-71-3
+1272,T3D1547,Aluminum palmitate,555-35-1
+1273,T3D1548,Aluminum oleate,688-37-9
+1274,T3D1549,Sodium aluminum phosphate,7785-88-8
+1275,T3D1550,Triisobutylaluminum,100-99-2
+1276,T3D1551,Ethylaluminum sesquichloride,12075-68-2
+1277,T3D1552,Methyl aluminum sesquibromide,12263-85-3
+1278,T3D1553,Chlorodiethyaluminum,96-10-6
+1279,T3D1554,Aluminum ethylate,555-75-9
+1280,T3D1555,Aluminum distearate,300-92-5
+1281,T3D1556,Aluminium octadecanoate,637-12-7
+1282,T3D1557,Tri-n-ocylaluminum,1070-00-4
+1283,T3D1558,Tri-n-butylaluminum,16-70-7
+1284,T3D1559,Tri-n-hexylaluminum,1116-73-0
+1285,T3D1560,Trieicosylaluminum,1529-57-3
+1286,T3D1561,Tritetradecylaluminum,1529-58-4
+1287,T3D1562,Tris(dodecyl)aluminum,1529-59-5
+1288,T3D1563,Trihexadecylaluminum,1726-65-4
+1289,T3D1564,Tri-n-decylaluminum,1726-66-5
+1290,T3D1565,Bis(isobutyl)aluminum chloride,1779-25-5
+1291,T3D1566,Aluminum calcium sodium silicate,44-01-0
+1292,T3D1567,Diaspore,14457-84-2
+1293,T3D1568,gamma-Aluminum oxide hydroxide,1318-23-6
+1294,T3D1571,Aluminum butylate,2269-22-9
+1295,T3D1572,Allylpalladium chloride dimer,12012-95-2
+1296,T3D1573,Palladium acetylacetonate,24-61-4
+1297,T3D1574,Palladium hydride,12648-42-9
+1298,T3D1575,Palladium(II) acetate,3375-31-3
+1299,T3D1576,Palladium(II) chloride,7647-10-1
+1300,T3D1577,Palladium(II) nitrate,10102-05-3
+1301,T3D1578,Palladium(II) oxide,1314-08-5
+1302,T3D1579,Tetrakis(triphenylphosphine)palladium(0),14221-01-3
+1303,T3D1581,Ammonium hexachloro-palladate(IV),7440-05-3
+1304,T3D1582,Ammonium tetrachloro-palladate(II),19168-23-1
+1305,T3D1583,"Bis(1,5-diphenyl-1,4-pentadien-3-one) palladium(0)",32005-36-0
+1306,T3D1584,"Bis(2,4-pentanedionato) palladium(II)",14024-61-4
+1307,T3D1585,cis-Diamminedichloro-palladium(II),14323-43-4
+1308,T3D1586,trans-Diamminedichloro-palladium(II),13782-33-7
+1309,T3D1587,trans-Dichlorobis-(triphenylphosphine) palladium(II),965-03-2
+1310,T3D1588,trans-Diamminedinitro-palladium(II),28068-05-5
+1311,T3D1589,"Dichloro(1,5-cyclooctadiene) palladium(II)",12107-56-1
+1312,T3D1590,Hydrogen tetrachloro-palladate(II),16970-55-1
+1313,T3D1591,Palladium(II) iodide,90-38-7
+1314,T3D1592,Palladium(II) sulfate,566-03-5
+1315,T3D1593,Potassium hexachloro-palladate(IV),10025-98-6
+1316,T3D1594,Sodium tetrachloro-palladate(II),13820-53-6
+1317,T3D1595,Tetraammine palladium(II) chloride,13815-17-3
+1318,T3D1596,Tetraammine palladium hydrogen carbonate,134620-00-1
+1319,T3D1599,Silver acetate,563-63-3
+1320,T3D1600,Silver acetylide,7659-31-6
+1321,T3D1601,Silver azide,13863-88-2
+1322,T3D1602,Silver carbonate,534-16-7
+1323,T3D1603,Silver chlorate,7783-92-8
+1324,T3D1604,Silver chloride,7783-90-6
+1325,T3D1605,Silver fulminate,5610-59-3
+1326,T3D1606,Silver hexafluorophosphate,26042-63-7
+1327,T3D1607,Silver iodate,7783-97-3
+1328,T3D1608,Silver iodide,7783-96-2
+1329,T3D1609,Silver molybdate,13765-74-4
+1330,T3D1610,Silver nitrate,7761-88-8
+1331,T3D1611,Silver oxalate,533-51-7
+1332,T3D1612,Silver oxide,20667-12-3
+1333,T3D1613,Silver perchlorate,7783-93-9
+1334,T3D1615,Silver subfluoride,1302-01-8
+1335,T3D1616,Silver sulfate,10294-26-5
+1336,T3D1617,Silver sulfide,21548-73-2
+1337,T3D1618,Silver telluride,12002-99-2
+1338,T3D1619,Silver tetrafluoroborate,14104-20-2
+1339,T3D1620,Silver trifluoromethanesulfonate,1493-13-6
+1340,T3D1621,Silver(II) fluoride,7775-41-9
+1341,T3D1622,"Silver(I,III) oxide",1301-96-8
+1342,T3D1624,Vanadium carbide,12070-10-9
+1343,T3D1625,Vanadium carbonyl,20644-87-5
+1344,T3D1626,Vanadium nitride,24646-85-3
+1345,T3D1627,Vanadium oxytrichloride,7727-18-6
+1346,T3D1628,Vanadium tetrachloride,7632-51-1
+1347,T3D1629,Vanadium(II) chloride,10580-52-6
+1348,T3D1630,Vanadium(II) oxide,12035-98-2
+1349,T3D1631,Vanadium(III) chloride,7718-98-1
+1350,T3D1632,Vanadium(III) fluoride,10049-12-4
+1351,T3D1633,Vanadium(III) iodide,15513-94-7
+1352,T3D1634,Vanadium(III) oxide,1314-34-7
+1353,T3D1635,Vanadium(III) sulfate,13701-70-7
+1354,T3D1636,Vanadium(IV) fluoride,10049-16-8
+1355,T3D1637,Vanadyl sulfate,27774-13-6
+1356,T3D1638,Vanadium(IV) oxide,12036-21-4
+1357,T3D1639,Vanadium(V) oxide,1314-62-1
+1358,T3D1640,Vanadium(V) oxytrifluoride,13709-31-4
+1359,T3D1641,Vanadocene dichloride,12083-48-6
+1360,T3D1642,Vanadyl acetylacetonate,3153-26-2
+1361,T3D1645,Ammonium metavanadate,7803-55-6
+1362,T3D1646,Sodium metavanadate,13718-26-8
+1363,T3D1647,Sodium orthovanadate,13721-39-6
+1364,T3D1648,Palladium(II) cyanide,2035-66-7
+1365,T3D1649,Fluorescein isothiocyanate,27072-45-3
+1366,T3D1650,tert-Butyl isocyanide,7188-38-7
+1367,T3D1651,Hydrogen isocyanide,6914-07-4
+1368,T3D1652,Methyl isocyanide,593-75-9
+1369,T3D1653,Toluenesulfonylmethyl isocyanide,36635-61-7
+1370,T3D1654,Trifluoromethyl isocyanide,105879-13-8
+1371,T3D1655,Xantocillin,580-74-5
+1372,T3D1659,Phenyl isocyanate,103-71-9
+1373,T3D1660,Chlorosulfonyl isocyanate,1189-71-5
+1374,T3D1661,Hexamethylene diisocyanate,822-06-0
+1375,T3D1662,Isophorone diisocyanate,4098-71-9
+1376,T3D1663,Methyl isocyanate,624-83-9
+1377,T3D1664,Methylene diphenyl diisocyanate,101-68-8
+1378,T3D1665,Toluene diisocyanate,86-91-9
+1379,T3D1666,n-Butyl isocyanate,111-36-4
+1380,T3D1667,"2,4-Toluene diisocyanate",584-84-9
+1381,T3D1668,"2,6-Toluene diisocyanate",91-08-7
+1382,T3D1669,"3,4-Dichlorophenyl isocyanate",102-36-3
+1383,T3D1670,Methacryloyloxyethyl isocyanate,30674-80-7
+1384,T3D1672,"3,3'-Dimethoxybenzidine-4,4'-diisocyanate",91-93-0
+1385,T3D1673,Methylene bis(4-cyclohexylisocyanate),5124-30-1
+1386,T3D1674,Methyl thiocyanate,556-64-9
+1387,T3D1675,Ethyl thiocyanate,542-90-5
+1388,T3D1676,Methylene thiocyanate,6317-18-6
+1389,T3D1677,Isobornyl thiocyanoacetate,115-31-1
+1390,T3D1678,Acetone cyanohydrin,75-86-5
+1391,T3D1679,Cyanoacetamide,107-91-5
+1392,T3D1680,Ethyl cyanoacetate,105-56-6
+1393,T3D1681,"Phenylene-1,4-diisothiocyanate",4044-65-9
+1394,T3D1682,Ethylene cyanohydrin,109-78-4
+1395,T3D1683,Cyanoacetic acid,372-09-8
+1396,T3D1684,Ferric hexacyanoferrate,14038-43-8
+1397,T3D1685,Acetonitrile,75-05-8
+1398,T3D1686,Mandelonitrile,532-28-5
+1399,T3D1687,"1,1'-Azobis(cyclohexanecarbonitrile)",2094-98-6
+1400,T3D1688,Acrylonitrile,107-13-1
+1401,T3D1689,Adiponitrile,111-69-3
+1402,T3D1690,Beta-Aminopropionitrile,151-18-8
+1403,T3D1691,Benzonitrile,100-47-0
+1404,T3D1692,Benzeneacetonitrile,140-29-4
+1405,T3D1693,Bromobenzyl cyanide,5798-79-8
+1406,T3D1694,Bromoxynil,1689-84-5
+1407,T3D1695,Butyl cyanoacrylate,6606-65-1
+1408,T3D1696,Butyronitrile,109-74-0
+1409,T3D1697,Carbonyl cyanide m-chlorophenyl hydrazone,555-60-2
+1410,T3D1698,Carbonyl cyanide-p-trifluoromethoxyphenylhydrazone,370-86-5
+1411,T3D1699,Chlorfenapyr,122453-73-0
+1412,T3D1700,Chlorothalonil,1897-45-6
+1413,T3D1701,"2,6-Dichlorobenzonitrile",1194-65-6
+1414,T3D1702,Ethyl cyanoacrylate,7085-85-0
+1415,T3D1703,Glutaronitrile,544-13-8
+1416,T3D1704,Malononitrile,109-77-3
+1417,T3D1705,Methyl cyanoacrylate,137-05-3
+1418,T3D1706,Octyl cyanoacrylate,6701-17-3
+1419,T3D1707,Phthalonitrile,91-15-6
+1420,T3D1708,Propionitrile,107-12-0
+1421,T3D1709,Ranelic acid,5459-90-4
+1422,T3D1710,Succinonitrile,110-61-2
+1423,T3D1711,Tetracyanoquinodimethane,1518-16-7
+1424,T3D1712,Tetracyanoethylene,670-54-2
+1425,T3D1713,Tetramethylsuccinonitrile,3333-52-6
+1426,T3D1715,Bromic acid,7789-31-3
+1427,T3D1716,Potassium bromate,7758-01-2
+1428,T3D1717,Silver bromate,7783-89-3
+1429,T3D1718,Sodium bromate,7789-38-0
+1430,T3D1719,Strontium bromate,14519-18-7
+1431,T3D1720,Aluminium bromide,7727-15-3
+1432,T3D1721,Ammonium bromide,12124-97-9
+1433,T3D1722,Antimony tribromide,7789-61-9
+1434,T3D1723,Boron tribromide,10294-33-4
+1435,T3D1724,Bronopol,52-51-7
+1436,T3D1725,Bronidox,30007-47-7
+1437,T3D1726,Cesium bromide,7787-69-1
+1438,T3D1727,Calcium bromide,7789-41-5
+1439,T3D1729,Cerium(III) bromide,14457-87-5
+1440,T3D1730,Gallium(III) bromide,13450-88-9
+1441,T3D1731,Gold(III) bromide,10294-28-7
+1442,T3D1732,Hydrogen bromide,10035-10-6
+1443,T3D1733,Indium(I) bromide,14280-53-6
+1444,T3D1734,Indium(III) bromide,13465-09-3
+1445,T3D1735,Iron(II) bromide,7789-46-0
+1446,T3D1736,Iron(III) bromide,10031-26-2
+1447,T3D1737,Lanthanum(III) bromide,13536-79-3
+1448,T3D1738,Lithium bromide,7550-35-8
+1449,T3D1739,Magnesium bromide,7789-48-2
+1450,T3D1742,Niobium(V) bromide,13748-45-0
+1451,T3D1743,Nitrogen tribromide,15162-90-0
+1452,T3D1744,Phosphorus pentabromide,7789-69-7
+1453,T3D1745,Phosphorus tribromide,7789-60-8
+1454,T3D1746,Platinum(II) bromide,13455-12-4
+1455,T3D1747,Platinum(IV) bromide,68936-92-1
+1456,T3D1748,Potassium bromide,7758-02-3
+1457,T3D1749,Radium bromide,10031-23-9
+1458,T3D1750,Rubidium bromide,7789-39-1
+1459,T3D1751,Selenium oxybromide,7789-51-7
+1460,T3D1752,Silicon tetrabromide,7789-66-4
+1461,T3D1753,Silver bromide,7785-23-1
+1462,T3D1754,Sodium bromide,7647-15-6
+1463,T3D1756,Strontium bromide,10476-81-0
+1464,T3D1758,Tantalum(V) bromide,13451-11-1
+1465,T3D1759,Tellurium dibromide,7789-54-0
+1466,T3D1760,Tellurium tetrabromide,10031-27-3
+1467,T3D1761,Terbium(III) bromide,14456-47-4
+1468,T3D1762,Tetrabromomethane,558-13-4
+1469,T3D1763,Thallium(I) bromide,7789-40-4
+1470,T3D1764,Thionyl bromide,507-16-4
+1471,T3D1765,Titanium tetrabromide,7789-68-6
+1472,T3D1766,Tungsten(V) bromide,13470-11-6
+1473,T3D1767,Tungsten(VI) oxytetrabromide,13520-77-9
+1474,T3D1768,Vanadium(III) bromide,13470-26-3
+1475,T3D1769,Ytterbium(III) bromide,13759-89-2
+1476,T3D1770,Yttrium(III) bromide,13469-98-2
+1477,T3D1771,Zirconium(IV) bromide,1377-25-8
+1478,T3D1772,2-Bromobutane,78-76-2
+1479,T3D1773,2-Bromohexane,3377-86-4
+1480,T3D1774,Allyl bromide,106-95-6
+1481,T3D1775,"1-Bromo-3-chloro-5,5-dimethylhydantoin",16079-88-2
+1482,T3D1776,Benzyl bromide,100-39-0
+1483,T3D1777,Bromoacetic acid,79-08-3
+1484,T3D1778,Bromoacetone,598-31-2
+1485,T3D1779,Bromobenzene,108-86-1
+1486,T3D1780,Bromobimane,71418-44-5
+1487,T3D1781,1-Bromobutane,109-65-9
+1488,T3D1782,Bromodeoxyuridine,59-14-3
+1489,T3D1783,Bromodifluoroacetyl chloride,3832-48-2
+1490,T3D1784,Bromoethane,74-96-4
+1491,T3D1785,Bromoform,75-25-2
+1492,T3D1786,1-Bromohexane,111-25-1
+1493,T3D1787,Bromomethane,74-83-9
+1494,T3D1788,2-Bromopropane,75-26-3
+1495,T3D1789,N-Bromosuccinimide,128-08-5
+1496,T3D1790,5-Bromouracil,51-20-7
+1497,T3D1791,Broxyquinoline,521-74-4
+1498,T3D1792,"1,3-Dibromo-5,5-dimethylhydantoin",77-48-5
+1499,T3D1793,"1,1-Dibromoethane",557-91-5
+1500,T3D1795,Dibromomethane,74-95-3
+1501,T3D1796,"1,2-Dibromopropane",78-75-1
+1502,T3D1797,"1,3-Dibromopropane",109-64-8
+1503,T3D1798,Dibrompropamidine,496-00-4
+1504,T3D1799,Ethyl bromoacetate,105-36-2
+1505,T3D1800,Hexabromocyclododecane,25637-99-4
+1506,T3D1801,Phenacyl bromide,70-11-1
+1507,T3D1802,1-Bromopropane,106-94-5
+1508,T3D1803,Tetrabromobisphenol A,79-94-7
+1509,T3D1804,"1,1,2,2-Tetrabromoethane",79-27-6
+1510,T3D1805,Tribromoisocyanuric acid,17497-85-7
+1511,T3D1806,Vinyl bromide,593-60-2
+1512,T3D1807,o-Xylyl bromide,89-92-9
+1513,T3D1808,p-Xylyl bromide,28258-59-5
+1514,T3D1809,m-Xylyl bromide,620-13-3
+1515,T3D1810,Bromine dioxide,21255-83-4
+1516,T3D1811,Bromine(I) chloride,13863-41-7
+1517,T3D1812,Bromine pentafluoride,7789-30-2
+1518,T3D1813,Bromine trifluoride,7787-71-5
+1519,T3D1814,Bromopentacarbonylrhenium(I),14220-21-4
+1520,T3D1815,Selenic acid,7783-08-6
+1521,T3D1816,Sodium selenate,13410-01-0
+1522,T3D1817,Benzeneselenol,645-96-5
+1523,T3D1818,Diphenyl diselenide,1666-13-3
+1524,T3D1819,Selenium dioxide,7446-08-4
+1525,T3D1820,Selenium Sulfide,7446-34-6
+1526,T3D1821,Selenium disulfide,7488-56-4
+1527,T3D1822,Selenium hexafluoride,7783-79-1
+1528,T3D1823,Selenium hexasulfide,75926-26-0
+1529,T3D1824,Selenium oxydichloride,7791-23-3
+1530,T3D1825,Selenium tetrachloride,10026-03-6
+1531,T3D1826,Selenium tetrafluoride,13465-66-2
+1532,T3D1827,Selenium trioxide,13768-86-0
+1533,T3D1828,Aluminium selenide,1302-82-5
+1534,T3D1829,Antimony triselenide,1315-05-5
+1535,T3D1830,Carbon diselenide,506-80-9
+1536,T3D1831,Gallium(II) selenide,12024-11-2
+1537,T3D1832,Gallium(III) selenide,12024-24-7
+1538,T3D1833,Germanium selenide,12065-10-0
+1539,T3D1834,Hydrogen selenide,7783-07-5
+1540,T3D1835,Indium(III) selenide,12056-07-4
+1541,T3D1836,Silver(I) selenide,1302-09-6
+1542,T3D1837,Selenous acid,7783-00-8
+1543,T3D1838,Silver selenite,7784-05-6
+1544,T3D1839,Sodium selenite,10102-18-8
+1545,T3D1840,Thallium selenide,12039-52-0
+1546,T3D1841,Selenium dimethyldithiocarbamate,144-34-3
+1547,T3D1842,m-Cresol,108-39-4
+1548,T3D1843,Bifenthrin,82657-04-3
+1549,T3D1844,Bioresmethrin,28434-01-7
+1550,T3D1846,Fenpropathrin,39515-41-8
+1551,T3D1847,Flucythrinate,70124-77-5
+1552,T3D1848,Flumethrin,69770-45-2
+1553,T3D1849,Tau-fluvalinate,102851-06-9
+1554,T3D1850,Permethrin,52645-53-1
+1555,T3D1851,Tefluthrin,79538-32-2
+1556,T3D1852,Tralomethrin,66841-25-6
+1557,T3D1853,Cinerin I,25402-06-6
+1558,T3D1854,Cinerin II,121-20-0
+1559,T3D1855,Jasmolin I,4466-14-2
+1560,T3D1856,Jasmolin II,1172-63-0
+1561,T3D1857,Pyrethrin I,121-21-1
+1562,T3D1858,Pyrethrin II,121-29-9
+1563,T3D1859,Antimony monosulfide,12067-17-3
+1564,T3D1860,Antimony tetramer,12597-17-0
+1565,T3D1861,Antimony(III) isopropoxide,18770-47-3
+1566,T3D1862,Antimony(III) ethoxide,10433-06-4
+1567,T3D1863,Chlorofluorotrimethylantimony,13077-54-8
+1568,T3D1864,Chlorohydroxytriphenylantimony,36368-97-5
+1569,T3D1866,Diantimony diselenide,193095-46-4
+1570,T3D1867,Diantimony tetrasulfide,12359-48-7
+1571,T3D1868,Dibromotributylantimony,16629-56-4
+1572,T3D1869,Dichlorotribenzylantimony,19493-17-5
+1573,T3D1870,Dioxygenyl hexafluoroantimonate,12361-66-9
+1574,T3D1872,Hexafluoroantimonic acid,16950-06-4
+1575,T3D1873,Lithium hexafluoroantimonate(V),18424-17-4
+1576,T3D1874,Magic acid (fluorosulfuric acid-antimony pentafluoride),23854-38-8
+1577,T3D1875,Nitronium hexafluoroantimonate(V),17856-92-7
+1578,T3D1876,Nitrosonium (nitrosyl) hexafluoroantimonate,16941-06-3
+1579,T3D1877,Potassium hexahydroxoantimonate(V),12208-13-8
+1580,T3D1879,Potassium hexafluoroantimonate(V),16893-92-8
+1581,T3D1880,Potassium pyroantimonate,10090-54-7
+1582,T3D1881,Silver(I) hexafluoroantimonate,26042-64-8
+1583,T3D1882,Sodium hexafluoroantimonate,16925-25-0
+1584,T3D1883,Sodium thioantimonate(V),13776-84-6
+1585,T3D1884,Tetrabutylantimony(V) bromide,45212-19-9
+1586,T3D1885,Tetraphenylantimony bromide,16894-69-2
+1587,T3D1886,Triantimony disulfide,107373-21-7
+1588,T3D1887,Triethyloxonium hexachloroantimonate,3264-67-3
+1589,T3D1888,Trimethylantimony bromide,5835-64-3
+1590,T3D1889,Trimethylantimony dichloride,13059-67-1
+1591,T3D1890,Trimethylantimony diiodide,13077-53-7
+1592,T3D1891,Trimethyloxonium hexachlorantimonate,54075-76-2
+1593,T3D1892,Triphenylantimony,603-36-1
+1594,T3D1893,Triphenylantimony diacetate,1538-62-1
+1595,T3D1894,Triphenylantimony dibenzoate,57997-56-5
+1596,T3D1895,Triphenylantimony dichloride,594-31-0
+1597,T3D1896,Triphenylthioantimonate,28609-58-7
+1598,T3D1897,Triphenylcarbenium hexachloroantimonate,52704-88-8
+1599,T3D1898,Tris(1-naphthyl)antimony,27309-70-2
+1600,T3D1899,Tris(3-(trifluoromethyl)phenyl)antimony,386-91-4
+1601,T3D1900,Tris(4-bromophenyl)aminium hexachloroantimonate,24964-91-8
+1602,T3D1901,Tris(4-bromophenyl)antimony,17946-45-1
+1603,T3D1902,Tris(dimethylamino)antimony,7289-92-1
+1604,T3D1903,Tris(o-tolyl)antimony,23822-15-3
+1605,T3D1904,Tris(p-tolyl)antimony,5395-43-7
+1606,T3D1905,Antimony acetate,3643-76-3
+1607,T3D1906,"cis-1,3-Dichloropropene",10061-01-5
+1608,T3D1907,"trans-1,3-Dichloropropene",10061-02-6
+1609,T3D1908,"1,1-Dichloropropene",563-58-6
+1610,T3D1909,"1,2-Dichloropropene",563-54-2
+1611,T3D1910,"2,3-Dichloropropene",78-88-6
+1612,T3D1911,"3,3-Dichloropropene",563-57-5
+1613,T3D1912,Magnesium perchlorate,10034-81-8
+1614,T3D1913,Potassium perchlorate,7778-74-7
+1615,T3D1914,Ammonium perchlorate,7790-98-9
+1616,T3D1915,Sodium perchlorate,7601-89-0
+1617,T3D1916,Lithium perchlorate,7791-03-9
+1618,T3D1917,2-Monobromobiphenyl,252-07-7
+1619,T3D1918,"2,3-Dibromobiphenyl",115245-06-2
+1620,T3D1919,"2,4,5-Tribromobiphenyl",115245-07-3
+1621,T3D1920,"3,4,5-Tribromobiphenyl",115245-08-4
+1622,T3D1921,"2,3,4,5-Tetrabromobiphenyl",115245-09-5
+1623,T3D1922,"2,3,4,6-Tetrabromobiphenyl",115245-10-8
+1624,T3D1923,"2,2',3,3',4,6'-Hexabromobiphenyl",119264-50-5
+1625,T3D1924,"2,2',3,3',5,6'-Hexabromobiphenyl",119264-51-6
+1626,T3D1925,"2,2',3,4,5',6-Hexabromobiphenyl",119264-52-7
+1627,T3D1926,"2,2',3,5,5',6-Hexabromobiphenyl",119264-53-8
+1628,T3D1927,"2,2',3,3',5,5',6-Heptabromobiphenyl",119264-54-9
+1629,T3D1928,"2,2',3,4,4',5,6'-Heptabromobiphenyl",119264-55-0
+1630,T3D1929,"2,2',3,4,4',6,6'-Heptabromobiphenyl",119264-56-1
+1631,T3D1930,"2,2',3,4,5,6,6'-Heptabromobiphenyl",119264-57-2
+1632,T3D1931,"2,2',3,4',5,6,6'-Heptabromobiphenyl",119264-58-3
+1633,T3D1932,"2,2',3,3',4,4',6,6'-Octabromobiphenyl",119264-59-4
+1634,T3D1933,"2,2',3,3',4,5,6,6'-Octabromobiphenyl",119264-60-7
+1635,T3D1934,"2,2',3,4,4',5,6,6'-Octabromobiphenyl",119264-61-8
+1636,T3D1935,"2,2',3,3',4,4',5,6,6'-Nonabromobiphenyl",60586-57-4
+1637,T3D1936,"2,2',3,3',4,5,5',6,6'-Nonabromobiphenyl",119264-63-0
+1638,T3D1937,"2,2',3,4,5,5'-Hexabromobiphenyl",120991-47-1
+1639,T3D1938,"2,3,3',4,5,5'-Hexabromobiphenyl",120991-48-2
+1640,T3D1939,"2,2'-Dibromobiphenyl",13029-09-9
+1641,T3D1940,"2,2',3,3',4,4',5,5',6,6'-Decabromobiphenyl",13654-09-6
+1642,T3D1941,"3,5-Dibromobiphenyl",16372-96-6
+1643,T3D1942,"3,3',5,5'-Tetrabromobiphenyl",16400-50-3
+1644,T3D1943,"3,3'-Dibromobiphenyl",16400-51-4
+1645,T3D1944,3-Monobromobiphenyl,2113-57-7
+1646,T3D1948,Octabromobiphenyl,27858-07-7
+1647,T3D1949,Heptabromobiphenyl,35194-78-6
+1648,T3D1951,"2,2',4,4',5,6'-Hexabromobiphenyl",36402-15-0
+1649,T3D1952,"2,3,4,5,6-Pentabromobiphenyl",38421-62-4
+1650,T3D1953,Tetrabromobiphenyl,40088-45-7
+1651,T3D1954,"2,3'-Dibromobiphenyl",49602-90-6
+1652,T3D1955,"2,4'-Dibromobiphenyl",49602-91-7
+1653,T3D1956,Tribromobiphenyl,51202-79-0
+1654,T3D1957,"2,4-Dibromobiphenyl",53592-10-2
+1655,T3D1958,"2,2',3,3',5,5'-Hexabromobiphenyl",55066-76-7
+1656,T3D1960,"3,4'-Dibromobiphenyl",57186-90-0
+1657,T3D1961,"2,5-Dibromobiphenyl",57422-77-2
+1658,T3D1962,"2,6-Dibromobiphenyl",59080-32-9
+1659,T3D1963,"2,4,6-Tribromobiphenyl",59080-33-0
+1660,T3D1964,"2,2',5-Tribromobiphenyl",59080-34-1
+1661,T3D1965,"2,3',5-Tribromobiphenyl",59080-35-2
+1662,T3D1966,"2,4',5-Tribromobiphenyl",59080-36-3
+1663,T3D1967,"2,2',5,5'-Tetrabromobiphenyl",59080-37-4
+1664,T3D1968,"2,3',4',5-Tetrabromobiphenyl",59080-38-5
+1665,T3D1969,"2,2',4,5',6-Pentabromobiphenyl",59080-39-6
+1666,T3D1970,"2,2',4,4',5,5'-Hexabromobiphenyl",59080-40-9
+1667,T3D1971,"2,2',3,3',5,5',6,6'-Octabromobiphenyl",59080-41-0
+1668,T3D1972,"2,2',4,4',6,6'-Hexabromobiphenyl",59261-08-4
+1669,T3D1973,"3,4,4',5-Tetrabromobiphenyl",59589-92-3
+1670,T3D1974,"2,2',4,5'-Tetrabromobiphenyl",60044-24-8
+1671,T3D1975,"2,2',5,6'-Tetrabromobiphenyl",60044-25-9
+1672,T3D1976,"3,3',4,4',5,5'-Hexabromobiphenyl",60044-26-0
+1673,T3D1977,"3,4-Dibromobiphenyl",60108-72-7
+1674,T3D1978,"2,4,4',6-Tetrabromobiphenyl",64258-02-2
+1675,T3D1979,"2,4',6-Tribromobiphenyl",64258-03-3
+1676,T3D1980,"2,4,4'-Tribromobiphenyl",6430-90-6
+1677,T3D1981,"2,2',4,4'-Tetrabromobiphenyl",66115-57-9
+1678,T3D1982,"3,4,4'-Tribromobiphenyl",6683-35-8
+1679,T3D1983,"2,2',3,4,4',5,5'-Heptabromobiphenyl",67733-52-2
+1680,T3D1984,"2,2',4,5,5'-Pentabromobiphenyl",67888-96-4
+1681,T3D1985,"2,3',4,4',5-Pentabromobiphenyl",67888-97-5
+1682,T3D1986,"2,2',3,4,4',5'-Hexabromobiphenyl",67888-98-6
+1683,T3D1987,"2,3',4,4',5,5'-Hexabromobiphenyl",67888-99-7
+1684,T3D1988,"2,2',3,3',4,4',5,5'-Octabromobiphenyl",67889-00-3
+1685,T3D1989,"2,2',3,4',5',6-Hexabromobiphenyl",69278-59-7
+1686,T3D1990,"2,2',3,3',4,4',5-Heptabromobiphenyl",69278-60-0
+1687,T3D1991,"2,2',3,3',4,4',5',6-Octabromobiphenyl",69278-61-1
+1688,T3D1992,"2,2',3,3',4,4',5,5',6-Nonabromobiphenyl",69278-62-2
+1689,T3D1993,"2,2',3,3',4,5',6,6'-Octabromobiphenyl",69887-11-2
+1690,T3D1994,"3,4',5-Tribromobiphenyl",72416-87-6
+1691,T3D1995,"2',3,4,4',5-Pentabromobiphenyl",74114-77-5
+1692,T3D1996,"3,3',4,4'-Tetrabromobiphenyl",77102-82-0
+1693,T3D1997,"2,3,3',4,4',5-Hexabromobiphenyl",77607-09-1
+1694,T3D1998,"2,2',3,4,6-Pentabromobiphenyl",77910-04-4
+1695,T3D1999,"2,3,3',4,4',5,6-Heptabromobiphenyl",79682-25-0
+1696,T3D2000,"2,2',4,5,6'-Pentabromobiphenyl",80274-92-6
+1697,T3D2001,"2,3',4,5,5'-Pentabromobiphenyl",80407-70-1
+1698,T3D2002,"2,2',3,4,4',5-Hexabromobiphenyl",81381-52-4
+1699,T3D2003,"2,2',4,4',5-Pentabromobiphenyl",81397-99-1
+1700,T3D2004,"3,3',4,5,5'-Pentabromobiphenyl",81902-33-2
+1701,T3D2005,"2,2',3,3',4,4'-Hexabromobiphenyl",82865-89-2
+1702,T3D2006,"2,2',3,3',4,5'-Hexabromobiphenyl",82865-90-5
+1703,T3D2007,"2,3,3',4',5',6-Hexabromobiphenyl",82865-91-5
+1704,T3D2008,"2,2',3,3',4,5,5'-Heptabromobiphenyl",82865-92-7
+1705,T3D2009,"2,3',4,4'-Tetrabromobiphenyl",84303-45-7
+1706,T3D2010,"3,3',4,4',5-Pentabromobiphenyl",84303-46-8
+1707,T3D2011,"2,3,3',4,4',5'-Hexabromobiphenyl",84303-47-9
+1708,T3D2012,"2,3',4,4',5',6-Hexabromobiphenyl",84303-48-0
+1709,T3D2013,"2,2',3,4',5,5',6-Heptabromobiphenyl",84303-49-1
+1710,T3D2014,"2,3',4,4',6-Pentabromobiphenyl",86029-64-3
+1711,T3D2015,"2,2',3,3',4,5,6'-Heptabromobiphenyl",88700-04-3
+1712,T3D2016,"2,2',3,5',6-Pentabromobiphenyl",88700-05-4
+1713,T3D2017,"2,3,3',4,4',5,5'-Heptabromobiphenyl",88700-06-5
+1714,T3D2018,4-Monobromobiphenyl,92-66-0
+1715,T3D2019,"4,4'-Dibromobiphenyl",92-86-4
+1716,T3D2020,"2,2',3,4',5,6'-Hexabromobiphenyl",93261-83-7
+1717,T3D2021,"2,3,4,4',5-Pentabromobiphenyl",96551-70-1
+1718,T3D2022,"2,2',4,6'-Tetrabromobiphenyl",97038-95-4
+1719,T3D2023,"2,2',6,6'-Tetrabromobiphenyl",97038-96-5
+1720,T3D2024,"2,2',4,4',6-Pentabromobiphenyl",97038-97-6
+1721,T3D2025,"3,3',4,5'-Tetrabromobiphenyl",97038-98-7
+1722,T3D2026,"2,3,3',4-Tetrabromobiphenyl",97038-99-8
+1723,T3D2027,"2,2',4,6,6'-Pentabromobiphenyl",97063-75-7
+1724,T3D2032,"2,2',3,3',4-Pentabromobiphenyl",
+1725,T3D2033,"2,2',3,6-Tetrabromobiphenyl",
+1726,T3D2034,"2,2',3,4,5,6-Hexabromobiphenyl",
+1727,T3D2035,"2,2',3,3'-Tetrabromobiphenyl",
+1728,T3D2036,4-Bromobiphenyl Ether,101-55-3
+1729,T3D2037,"4,4'-Dibromobiphenyl Ether",2050-47-7
+1730,T3D2038,Tribromobiphenyl Ether,49690-94-0
+1731,T3D2039,Tetrabromodiphenyl ethers,40088-47-9
+1732,T3D2040,Pentabromodiphenyl ethers,32534-81-9
+1733,T3D2041,Hexabromobiphenyl Ether,36483-60-0
+1734,T3D2042,Heptabromobiphenyl Ether,68928-80-3
+1735,T3D2043,"2,3,3',4,4',5,5',6'-Octabromobiphenyl Ether",32536-52-0
+1736,T3D2044,Nonabromobiphenyl Ether,63936-56-1
+1737,T3D2045,"2,2',3,3',4,4',5,5',6,6'-Decabromobiphenyl Ether",1163-19-5
+1738,T3D2046,1-Chlorodibenzo-p-dioxin,39227-53-7
+1739,T3D2047,2-Chlorodibenzo-p-dioxin,39227-54-8
+1740,T3D2048,"1,3-Dichlorodibenzo-p-dioxin",50585-39-2
+1741,T3D2049,"1,6-Dichlorodibenzo-p-dioxin",38178-38-0
+1742,T3D2050,"2,3-Dichlorodibenzo-p-dioxin",29446-15-9
+1743,T3D2051,"2,7-Dichlorodibenzo-p-dioxin",33857-26-0
+1744,T3D2052,"2,8-Dichlorodibenzo-p-dioxin",38964-22-6
+1745,T3D2053,"1,4-Dichlorodibenzo-p-dioxin",54536-19-5
+1746,T3D2054,"1,2-Dichlorodibenzo-p-dioxin",54536-18-4
+1747,T3D2055,"1,9-Dichlorodibenzo-p-dioxin",64560-13-0
+1748,T3D2056,"1,8-Dichlorodibenzo-p-dioxin",82291-27-8
+1749,T3D2057,"1,7-Dichlorodibenzo-p-dioxin",82291-26-7
+1750,T3D2058,"1,2,4-Trichlorodibenzo-p-dioxin",39227-58-2
+1751,T3D2059,"2,3,7-Trichlorodibenzo-p-dioxin",33857-28-2
+1752,T3D2060,"1,3,7-Trichlorodibenzo-p-dioxin",67028-17-5
+1753,T3D2061,"1,7,8-Trichlorodibenzo-p-dioxin",82306-65-8
+1754,T3D2062,"1,4,9-Trichlorodibenzo-p-dioxin",82306-63-6
+1755,T3D2063,"1,4,8-Trichlorodibenzo-p-dioxin",82306-64-7
+1756,T3D2064,"1,3,9-Trichlorodibenzo-p-dioxin",82306-62-5
+1757,T3D2065,"1,3,8-Trichlorodibenzo-p-dioxin",82306-61-4
+1758,T3D2066,"1,3,6-Trichlorodibenzo-p-dioxin",82291-33-6
+1759,T3D2067,"1,2,9-Trichlorodibenzo-p-dioxin",82291-32-5
+1760,T3D2068,"1,2,8-Trichlorodibenzo-p-dioxin",82291-31-4
+1761,T3D2069,"1,2,7-Trichlorodibenzo-p-dioxin",82291-30-3
+1762,T3D2070,"1,2,6-Trichlorodibenzo-p-dioxin",69760-96-9
+1763,T3D2071,"1,2,3-Trichlorodibenzo-p-dioxin",54536-17-3
+1764,T3D2072,"1,2,3,4-Tetrachlorodibenzo-p-dioxin",30746-58-8
+1765,T3D2073,"1,2,3,6-Tetrachlorodibenzo-p-dioxin",71669-25-5
+1766,T3D2074,"1,2,3,7-Tetrachlorodibenzo-p-dioxin",67028-18-6
+1767,T3D2075,"1,2,3,8-Tetrachlorodibenzo-p-dioxin",53555-02-5
+1768,T3D2076,"1,2,3,9-Tetrachlorodibenzo-p-dioxin",71669-26-6
+1769,T3D2077,"1,2,4,6-Tetrachlorodibenzo-p-dioxin",71669-27-7
+1770,T3D2078,"1,2,4,7-Tetrachlorodibenzo-p-dioxin",71669-28-8
+1771,T3D2079,"1,2,4,8-Tetrachlorodibenzo-p-dioxin",71669-29-9
+1772,T3D2080,"1,2,4,9-Tetrachlorodibenzo-p-dioxin",71665-99-1
+1773,T3D2081,"1,2,6,7-Tetrachlorodibenzo-p-dioxin",40581-90-6
+1774,T3D2082,"1,2,6,8-Tetrachlorodibenzo-p-dioxin",67323-56-2
+1775,T3D2083,"1,2,6,9-Tetrachlorodibenzo-p-dioxin",40581-91-7
+1776,T3D2084,"2,3,6,7-Tetrachlorodibenzo-p-dioxin",34816-53-0
+1777,T3D2085,"1,2,8,9-Tetrachlorodibenzo-p-dioxin",62470-54-6
+1778,T3D2086,"1,3,6,8-Tetrachlorodibenzo-p-dioxin",33423-92-6
+1779,T3D2087,"1,3,6,9-Tetrachlorodibenzo-p-dioxin",71669-24-4
+1780,T3D2088,"1,3,7,8-Tetrachlorodibenzo-p-dioxin",50585-46-1
+1781,T3D2089,"1,3,7,9-Tetrachlorodibenzo-p-dioxin",62470-53-5
+1782,T3D2090,"1,4,6,9-Tetrachlorodibenzo-p-dioxin",40581-93-9
+1783,T3D2091,"1,4,7,8-Tetrachlorodibenzo-p-dioxin",40581-94-0
+1784,T3D2092,"1,2,3,4,7-Pentachlorodibenzo-p-dioxin",39227-61-7
+1785,T3D2093,"1,2,3,7,8-Pentachlorodibenzo-p-dioxin",40321-76-4
+1786,T3D2094,"1,2,4,7,8-Pentachlorodibenzo-p-dioxin",58802-08-7
+1787,T3D2095,"1,2,3,8,9-Pentachlorodibenzo-p-dioxin",71925-18-3
+1788,T3D2096,"1,2,4,8,9-Pentachlorodibenzo-p-dioxin",82291-38-1
+1789,T3D2097,"1,2,4,6,9-Pentachlorodibenzo-p-dioxin",82291-36-9
+1790,T3D2098,"1,2,4,6,7-Pentachlorodibenzo-p-dioxin",82291-35-8
+1791,T3D2099,"1,2,3,7,9-Pentachlorodibenzo-p-dioxin",71925-17-2
+1792,T3D2100,"1,2,3,6,9-Pentachlorodibenzo-p-dioxin",82291-34-7
+1793,T3D2101,"1,2,3,6,8-Pentachlorodibenzo-p-dioxin",71925-16-1
+1794,T3D2102,"1,2,3,4,6-Pentachlorodibenzo-p-dioxin",67028-19-7
+1795,T3D2103,"1,2,4,7,9-Pentachlorodibenzo-p-dioxin",82291-37-0
+1796,T3D2104,"1,2,4,6,8-Pentachlorodibenzo-p-dioxin",71998-76-0
+1797,T3D2105,"1,2,3,6,7-Pentachlorodibenzo-p-dioxin",71925-15-0
+1798,T3D2106,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin",57653-85-7
+1799,T3D2107,"1,2,3,6,7,9-Hexachlorodibenzo-p-dioxin",64461-98-9
+1800,T3D2108,"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",19408-74-3
+1801,T3D2109,"1,2,4,6,7,9-Hexachlorodibenzo-p-dioxin",39227-62-8
+1802,T3D2110,"1,2,3,4,6,7-Hexachlorodibenzo-p-dioxin",58200-66-1
+1803,T3D2111,"1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin",39227-28-6
+1804,T3D2112,"1,2,3,6,8,9-Hexachlorodibenzo-p-dioxin",58200-69-4
+1805,T3D2113,"1,2,3,4,6,9-Hexachlorodibenzo-p-dioxin",58200-68-3
+1806,T3D2114,"1,2,4,6,8,9-Hexachlorodibenzo-p-dioxin",58802-09-8
+1807,T3D2115,"1,2,3,4,6,8-Hexachlorodibenzo-p-dioxin",58200-67-2
+1808,T3D2116,"1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin",35822-46-9
+1809,T3D2117,"1,2,3,4,6,7,9-Heptachlorodibenzo-p-dioxin",58200-70-7
+1810,T3D2118,Octachlorodibenzo-p-dioxin,3268-87-9
+1811,T3D2132,"1,2,3,4,6,7,8,9,10,10,11,11-Dodecachloro-1,4,4a,5a,6,9,9a,9b-octahydro-1,4:6,9- dimethanodibenzofuran",31107-44-5
+1812,T3D2134,"1,2,3,4,6,7,8-Heptabromodibenzofuran",107555-95-3
+1813,T3D2136,"1,2,3,4,6,7,9-Heptachlorodibenzofuran",70648-25-8
+1814,T3D2137,"1,2,3,4,6,7-Hexabromodibenzofuran",124388-78-9
+1815,T3D2138,"1,2,3,4,6,7-Hexachlorodibenzofuran",79060-60-9
+1816,T3D2139,"1,2,3,4,6,8,9-Heptachlorodibenzofuran",69698-58-4
+1817,T3D2140,"1,2,3,4,6,8-Hexachlorodibenzofuran",69698-60-8
+1818,T3D2141,"1,2,3,4,6,9-Hexachlorodibenzofuran",91538-83-9
+1819,T3D2142,"1,2,3,4,6-Pentachlorodibenzofuran",83704-47-6
+1820,T3D2143,"1,2,3,4,7,8,9-Heptabromodibenzofuran",161880-51-9
+1821,T3D2144,"1,2,3,4,7,8,9-Heptachlorodibenzofuran",55673-89-7
+1822,T3D2145,"1,2,3,4,7,8-Hexabromodibenzofuran",129880-08-6
+1823,T3D2146,"1,2,3,4,7,8-Hexachlorodibenzofuran",70648-26-9
+1824,T3D2147,"1,2,3,4,7,9-Hexachlorodibenzofuran",91538-84-0
+1825,T3D2148,"1,2,3,4,7-Pentachlorodibenzofuran",83704-48-7
+1826,T3D2149,"1,2,3,4,8,9-Hexachlorodibenzofuran",92341-07-6
+1827,T3D2150,"1,2,3,4,8-Pentachlorodibenzofuran",67517-48-0
+1828,T3D2151,"1,2,3,4,9-Pentachlorodibenzofuran",83704-49-8
+1829,T3D2152,"1,2,3,4-Tetrachlorodibenzofuran",24478-72-6
+1830,T3D2154,"1,2,3,6,7,8-Hexabromodibenzofuran",107555-94-2
+1831,T3D2155,"2,3,4,7,8,9-Hexachlorodibenzofuran",57117-44-9
+1832,T3D2156,"1,2,3,6,7,9-Hexachlorodibenzofuran",92341-06-5
+1833,T3D2157,"1,2,3,6,7-Pentachlorodibenzofuran",57117-42-7
+1834,T3D2158,"1,2,3,6,8,9-Hexachlorodibenzofuran",75198-38-8
+1835,T3D2159,"1,2,3,6,8-Pentachlorodibenzofuran",83704-51-2
+1836,T3D2160,"1,2,3,6,9-Pentachlorodibenzofuran",83704-52-3
+1837,T3D2161,"1,2,3,6-Tetrachlorodibenzofuran",83704-21-6
+1838,T3D2162,"1,2,3,7,8,9-Hexabromodibenzofuran",161880-49-5
+1839,T3D2163,"1,2,3,7,8,9-Hexachlorodibenzofuran",72918-21-9
+1840,T3D2164,"1,2,3,7,8-Pentabromodibenzofuran",107555-93-1
+1841,T3D2165,"1,2,3,7,8-Pentachlorodibenzofuran",57117-41-6
+1842,T3D2166,"1,2,3,7,9-Pentachlorodibenzofuran",83704-53-4
+1843,T3D2167,"1,2,3,7-Tetrachlorodibenzofuran",83704-22-7
+1844,T3D2168,"1,2,3,8,9-Pentachlorodibenzofuran",83704-54-5
+1845,T3D2169,"1,2,3,8-Tetrachlorodibenzofuran",62615-08-1
+1846,T3D2170,"1,2,3,9-Tetrachlorodibenzofuran",83704-23-8
+1847,T3D2171,"1,2,4,6,7,8-Hexachlorodibenzofuran",67562-40-7
+1848,T3D2172,"1,2,4,6,7,9-Hexachlorodibenzofuran",75627-02-0
+1849,T3D2173,"1,2,4,6,7-Pentachlorodibenzofuran",83704-50-1
+1850,T3D2174,"1,2,4,6,8,9-Hexachlorodibenzofuran",69698-59-5
+1851,T3D2175,"1,2,4,6,8-Pentachlorodibenzofuran",69698-57-3
+1852,T3D2176,"1,2,4,6,9-Pentachlorodibenzofuran",70648-24-7
+1853,T3D2177,"1,2,4,6-Tetrachlorodibenzofuran",71998-73-7
+1854,T3D2178,"1,2,4,7,8-Pentachlorodibenzofuran",58802-15-6
+1855,T3D2179,"1,2,4,7,9-Pentachlorodibenzofuran",71998-74-8
+1856,T3D2180,"1,2,4,7-Tetrachlorodibenzofuran",83719-40-8
+1857,T3D2181,"1,2,4,8,9-Pentachlorodibenzofuran",70648-23-6
+1858,T3D2182,"1,2,4,8-Tetrachlorodibenzofuran",64126-87-0
+1859,T3D2184,"2,3,4,8,9-Pentachlorodibenzofuran",69433-00-7
+1860,T3D2185,"1,3,4,8,9-Pentachlorodibenzofuran",70872-82-1
+1861,T3D2186,"1,2,6,7-Tetrachlorodibenzofuran",83704-25-0
+1862,T3D2187,"1,2,6,8-Tetrachlorodibenzofuran",83710-07-0
+1863,T3D2188,"1,2,7,8-Tetrabromodibenzofuran",84761-80-8
+1864,T3D2189,"1,2,7,8-Tetrachlorodibenzofuran",58802-20-3
+1865,T3D2190,"1,2,7,9-Tetrachlorodibenzofuran",83704-26-1
+1866,T3D2191,"1,2-Dichlorodibenzofuran",64126-85-8
+1867,T3D2192,"1,3,4,6,7,8-Hexachlorodibenzofuran",71998-75-9
+1868,T3D2193,"1,3,4,6,7,9-Hexachlorodibenzofuran",92341-05-4
+1869,T3D2194,"1,3,4,6,7-Pentachlorodibenzofuran",83704-36-3
+1870,T3D2195,"1,3,4,6,8-Pentachlorodibenzofuran",83704-55-6
+1871,T3D2196,"1,3,4,6,9-Pentachlorodibenzofuran",70648-15-6
+1872,T3D2197,"1,3,4,6-Tetrachlorodibenzofuran",83704-27-2
+1873,T3D2198,"1,3,4,7,8-Pentachlorodibenzofuran",58802-16-7
+1874,T3D2199,"1,3,4,7,9-Pentachlorodibenzofuran",70648-20-3
+1875,T3D2200,"1,3,4,7-Tetrachlorodibenzofuran",70648-16-7
+1876,T3D2201,"1,3,4,8-Tetrachlorodibenzofuran",92341-04-3
+1877,T3D2203,"2,3,4,7,9-Pentachlorodibenzofuran",70648-21-4
+1878,T3D2204,"1,3,6,7-Tetrachlorodibenzofuran",57117-36-9
+1879,T3D2205,"1,3,6,8-Tetrachlorodibenzofuran",71998-72-6
+1880,T3D2206,"1,3,6,9-Tetrachlorodibenzofuran",83690-98-6
+1881,T3D2207,"1,3,7,8-Tetrachlorodibenzofuran",57117-35-8
+1882,T3D2208,"1,3,7,9-Tetrachlorodibenzofuran",64560-17-4
+1883,T3D2209,"1,3,7-Trichlorodibenzofuran",64560-16-3
+1884,T3D2210,"1,3-Dichlorodibenzofuran",94538-00-8
+1885,T3D2211,"1,4,6,7-Tetrachlorodibenzofuran",66794-59-0
+1886,T3D2212,"1,4,6,8-Tetrachlorodibenzofuran",82911-58-8
+1887,T3D2213,"1,4,7,8-Tetrachlorodibenzofuran",83704-29-4
+1888,T3D2214,"1,4,8-Trichlorodibenzofuran",64560-14-1
+1889,T3D2215,1-Chlorodibenzofuran,42934-53-2
+1890,T3D2225,2-(Chloroacetyl)dibenzofuran,13067-90-8
+1891,T3D2228,"2,3,4,6,7,8-Hexabromodibenzofuran",161880-50-8
+1892,T3D2229,"2,3,4,6,7,8-Hexachlorodibenzofuran",60851-34-5
+1893,T3D2230,"2,3,4,6,7-Pentabromodibenzofuran",124388-77-8
+1894,T3D2231,"2,3,4,6,7-Pentachlorodibenzofuran",57117-43-8
+1895,T3D2232,"2,3,4,6,8-Pentachlorodibenzofuran",67481-22-5
+1896,T3D2233,"2,3,4,6-Tetrachlorodibenzofuran",83704-30-7
+1897,T3D2234,"2,3,4,7,8-Pentabromodibenzofuran",131166-92-2
+1898,T3D2236,"2,3,4,7-Tetrachlorodibenzofuran",83704-31-8
+1899,T3D2237,"2,3,4,8-Tetrachlorodibenzofuran",83704-32-9
+1900,T3D2238,"2,3,4-Trichlorodibenzofuran",57117-34-7
+1901,T3D2239,"2,3,6,7-Tetrachlorodibenzofuran",57117-39-2
+1902,T3D2240,"2,3,6,8-Tetrachlorodibenzofuran",57117-37-0
+1903,T3D2241,"2,3,6-Trichlordibenzofuran",57117-33-6
+1904,T3D2242,"2,3,7,8-Tetrabromodibenzofuran",67733-57-7
+1905,T3D2244,"2,3,7-Trichlorodibenzofuran",58802-17-8
+1906,T3D2245,"2,3,8-Trichlorodibenzofuran",57117-32-5
+1907,T3D2247,"2,4,6,7-Tetrachlorodibenzofuran",57117-38-1
+1908,T3D2248,"2,4,6,8-Tetrachlorodibenzofuran",58802-19-0
+1909,T3D2249,"2,4,6-Trichlorodibenzofuran",58802-14-5
+1910,T3D2250,"2,4,8-Trichlorodibenzofuran",54589-71-8
+1911,T3D2251,"2,4-Dichlorodibenzofuran",24478-74-8
+1912,T3D2257,"2,6-Dichlorodibenzofuran",60390-27-4
+1913,T3D2258,"2,7-Dibromodibenzofuran",65489-80-7
+1914,T3D2263,"2,8-Dibromodibenzofuran",10016-52-1
+1915,T3D2264,"2,8-Dichlorodibenzofuran",5409-83-6
+1916,T3D2266,2-Bromodibenzofuran,86-76-0
+1917,T3D2268,2-Chlorodibenzofuran,51230-49-0
+1918,T3D2279,"3,4,6,7-Tetrachlorodibenzofuran",57117-40-5
+1919,T3D2281,"3,6-Dichlorodibenzofuran",74918-40-4
+1920,T3D2282,"3,7-Dichlorodibenzofuran",58802-21-4
+1921,T3D2286,3-Chlorodibenzofuran,25074-67-3
+1922,T3D2306,"4-Bromo-2,3,7,8-tetrachlorodibenzofuran",115656-08-1
+1923,T3D2307,4-Chlorodibenzofuran,74992-96-4
+1924,T3D2324,"6-Cyclohexyl-1,3,8-trichlorodibenzofuran",125652-15-5
+1925,T3D2325,"6-Methyl-1,3,8-trichlorodibenzofuran",118174-38-2
+1926,T3D2326,"6-Methyl-8-iodo-1,3-dichlordibenzofuran",132194-83-3
+1927,T3D2327,"6-Nitro-1,3,8-trichlorodibenzofuran",125652-17-7
+1928,T3D2328,"6-tert-Butyl-1,3,8-trichlorodibenzofuran",125652-12-2
+1929,T3D2329,"7,8-Dichloro-2-dibenzofuranol",74423-77-1
+1930,T3D2330,"8-Bromo-2,3,4-trichlorodibenzofuran",103124-72-7
+1931,T3D2331,8-Chloro-3-dibenzofuranol,51596-39-5
+1932,T3D2336,Bromodichlorodibenzofuran,107227-60-1
+1933,T3D2338,Cannabielsoin,52025-76-0
+1934,T3D2339,Cercosporamide,131436-22-1
+1935,T3D2350,Dichloromethoxydibenzofuran,107819-07-8
+1936,T3D2358,"1,2,3,4,6,7-Hexabromo-8,9-dichlorodibenzofuran",107207-36-3
+1937,T3D2378,Taziprinone,79253-92-2
+1938,T3D2384,Tribromodibenzofuran,103456-41-3
+1939,T3D2403,Hexane,110-54-3
+1940,T3D2404,2-Methylpentane,107-83-5
+1941,T3D2405,3-Methylpentane,96-14-0
+1942,T3D2406,"2,3-Dimethylbutane",79-29-8
+1943,T3D2407,"2,2-Dimethylbutane",75-83-2
+1944,T3D2408,Boron phosphide,20205-91-8
+1945,T3D2409,Calcium phosphide,1305-99-3
+1946,T3D2410,Gallium phosphide,12063-98-8
+1947,T3D2411,Indium phosphide,22398-80-7
+1948,T3D2412,Iron phosphide,12023-53-9
+1949,T3D2413,Sodium phosphide,12058-85-4
+1950,T3D2414,Titanium(III) phosphide,12037-65-9
+1951,T3D2415,"1,4-Dichlorodibenzofuran",94538-01-9
+1952,T3D2416,"1,6-Dichlorodibenzofuran",74992-97-5
+1953,T3D2417,"1,7-Dichlorodibenzofuran",94538-02-0
+1954,T3D2418,"1,8-Dichlorodibenzofuran",81638-37-1
+1955,T3D2419,"1,9-Dichlorodibenzofuran",70648-14-5
+1956,T3D2420,"2,3-Dichlorodibenzofuran",64126-86-9
+1957,T3D2421,"2,7-Dichlorodibenzofuran",74992-98-6
+1958,T3D2422,"3,4-Dichlorodibenzofuran",94570-83-9
+1959,T3D2423,"1,2,3-Trichlorodibenzofuran",83636-47-9
+1960,T3D2424,"1,2,6-Trichlorodibenzofuran",64560-15-2
+1961,T3D2425,"1,2,7-Trichlorodibenzofuran",83704-37-4
+1962,T3D2426,"1,2,8-Trichlorodibenzofuran",83704-34-1
+1963,T3D2427,"1,2,9-Trichlorodibenzofuran",83704-38-5
+1964,T3D2428,"1,3,4-Trichlorodibenzofuran",82911-61-3
+1965,T3D2429,"1,3,6-Trichlorodibenzofuran",83704-39-6
+1966,T3D2430,"1,3,8-Trichlorodibenzofuran",76621-12-0
+1967,T3D2431,"1,3,9-Trichlorodibenzofuran",83704-40-9
+1968,T3D2432,"1,4,6-Trichlorodibenzofuran",82911-60-2
+1969,T3D2433,"1,4,7-Trichlorodibenzofuran",83704-41-0
+1970,T3D2434,"1,4,9-Trichlorodibenzofuran",70648-13-4
+1971,T3D2435,"2,3,9-Trichlorodibenzofuran",58802-18-9
+1972,T3D2436,"2,4,7-Trichlorodibenzofuran",83704-42-1
+1973,T3D2437,"2,4,9-Trichlorodibenzofuran",82911-59-9
+1974,T3D2438,"3,4,6-Trichlorodibenzofuran",83704-43-2
+1975,T3D2439,"3,4,7-Trichlorodibenzofuran",83704-44-3
+1976,T3D2440,"3,4,8-Trichlorodibenzofuran",83704-45-4
+1977,T3D2441,"3,4,9-Trichlorodibenzofuran",83704-46-5
+1978,T3D2442,"1,2,4,9-Tetrachlorodibenzofuran",83704-24-9
+1979,T3D2443,"1,2,6,9-Tetrachlorodibenzofuran",70648-18-9
+1980,T3D2444,"1,2,8,9-Tetrachlorodibenzofuran",70648-22-5
+1981,T3D2445,"1,3,4,9-Tetrachlorodibenzofuran",83704-28-3
+1982,T3D2446,"1,4,6,9-Tetrachlorodibenzofuran",70648-19-0
+1983,T3D2447,"2,3,4,9-Tetrachlorodibenzofuran",83704-33-0
+1984,T3D2450,alpha-Amanitin,23109-05-9
+1985,T3D2451,Orellanine,37338-80-0
+1986,T3D2452,"(2S,4R,5S)-Muscarine",300-54-9
+1987,T3D2453,Gyromitrin,16568-02-8
+1988,T3D2454,L-Coprine,58919-61-2
+1989,T3D2455,Ibotenic acid,2552-55-8
+1990,T3D2456,Muscimol,18174-72-6
+1991,T3D2457,Psilocybin,520-52-5
+1992,T3D2458,Psilocin,520-53-6
+1993,T3D2460,Ergotamine,113-15-5
+1994,T3D2462,Palytoxin,77734-91-9
+1995,T3D2463,Ciguatoxin 1,11050-21-8
+1996,T3D2464,Ciguatoxin 2,142185-85-1
+1997,T3D2465,54-Deoxyciguatoxin,139341-09-6
+1998,T3D2466,Ciguatoxin 4B,123676-76-6
+1999,T3D2467,Phalloidin,17466-45-4
+2000,T3D2468,Prophalloin,67739-84-8
+2001,T3D2469,Phalloin,28227-92-1
+2002,T3D2470,Phallisin,19774-69-7
+2003,T3D2471,Phallacidin,26645-35-2
+2004,T3D2472,Phallacin,53568-40-4
+2005,T3D2473,Phallisacin,58286-46-7
+2006,T3D2474,Naftidrofuryl,31329-57-4
+2007,T3D2477,Insulin,11061-68-0
+2008,T3D2478,Levofloxacin,100986-85-4
+2009,T3D2479,Vindesine,53643-48-4
+2010,T3D2480,Amitriptyline,50-48-6
+2011,T3D2481,Ricin,9009-86-3
+2012,T3D2482,Dapsone,80-08-0
+2013,T3D2483,Glipizide,29094-61-9
+2014,T3D2484,Tetrodotoxin,4368-28-9
+2015,T3D2486,Methotrexate,59-05-2
+2016,T3D2487,Apamin (Apis mellifera),24345-16-2
+2017,T3D2489,Philanthotoxin,77108-00-0
+2018,T3D2490,alpha-Pompilidotoxin,202075-91-0
+2019,T3D2491,beta-Pompilidotoxin,216064-36-7
+2020,T3D2492,Holocyclotoxin,88254-04-0
+2021,T3D2493,Poneratoxin,137084-94-7
+2022,T3D2494,omega-Agatoxin,145017-83-0
+2023,T3D2495,"Atracotoxin, omega- (Hadronyche versuta)",193981-10-1
+2024,T3D2496,Versutoxin,114264-83-4
+2025,T3D2497,Robustoxin,91728-12-0
+2026,T3D2498,Grammotoxin,152617-90-8
+2027,T3D2499,Huwentoxin,526224-73-7
+2028,T3D2500,alpha-Latrotoxin,65988-34-3
+2029,T3D2501,Phrixotoxin,880886-00-0 or 221872-97-5
+2030,T3D2502,Stromatoxin,1262235-00-6
+2031,T3D2503,Phoneutriatoxin,
+2032,T3D2505,Heteropodatoxin,189120-72-7
+2033,T3D2506,Agitoxin,155646-21-2
+2034,T3D2507,Charybdotoxin,95751-30-7
+2035,T3D2508,Chlorotoxin ,163515-35-3
+2036,T3D2509,Cobatoxin,211688-17-4
+2037,T3D2510,alpha-Cobratoxin,769933-79-1
+2038,T3D2511,kappa-Hefutoxin,478621-50-0
+2039,T3D2512,Iberiotoxin,129203-60-7
+2040,T3D2513,Imperatoxin-A,172451-37-5
+2041,T3D2514,Imperatoxin-1,
+2042,T3D2515,Kaliotoxin,145199-73-1
+2043,T3D2516,Kaliotoxin-1,150769-72-5
+2044,T3D2517,Kaliotoxin-2,159605-22-8
+2045,T3D2518,Kaliotoxin-3,223246-26-2
+2046,T3D2519,Kurtoxin,820959-57-7
+2047,T3D2520,Margatoxin,145808-47-5
+2048,T3D2521,Maurotoxin,188240-41-7
+2049,T3D2522,Noxiustoxin,85205-49-8
+2050,T3D2523,Scyllatoxin,142948-19-4
+2051,T3D2524,Slotoxin,144026-79-9
+2052,T3D2525,Tamapin,508220-81-3
+2053,T3D2526,Tityustoxin (Tityus serrulatus ),39465-37-7
+2054,T3D2527,Batrachotoxin,23509-16-2
+2055,T3D2528,Histrionicotoxin,34272-51-0
+2056,T3D2529,Pumiliotoxin,73376-35-9
+2057,T3D2530,Epibatidine,140111-52-0
+2058,T3D2531,Allopumiliotoxin,73376-38-2
+2059,T3D2532,Arenobufagin,464-74-4
+2060,T3D2534,Bufotenin,487-93-4
+2061,T3D2535,Cinobufagin,470-37-1
+2062,T3D2536,Marinobufagenin,470-42-8
+2063,T3D2537,alpha-Bungarotoxin,11032-79-4
+2064,T3D2538,beta-Bungarotoxin,12778-32-4
+2065,T3D2539,Calciseptine ,134710-25-1
+2066,T3D2540,Calcicludine,178037-96-2
+2067,T3D2541,Cardiotoxin (Naja atra),155808-00-7
+2068,T3D2542,Crotamine ,58740-15-1
+2069,T3D2543,Crotoxin ,9007-40-3
+2070,T3D2544,Convulxin,37206-04-5
+2071,T3D2545,Dendrotoxin (Dendroaspis polylepis polylepis),119128-61-9
+2072,T3D2546,Dendrotoxin (Dendroaspis angusticeps),74504-53-3
+2073,T3D2547,Taicatoxin ,112154-17-3
+2074,T3D2549,Eledoisin (Eledone cirrhosa),69-25-0
+2075,T3D2550,Onchidal,67656-42-2
+2076,T3D2551,Saxitoxin,35523-89-8
+2077,T3D2552,Sticholysin,269658-04-0; 183449-91-4
+2078,T3D2553,4-Aminopyridine ,504-24-5
+2079,T3D2554,Baclofen,1134-47-0
+2080,T3D2555,Quetiapine,111974-69-7
+2081,T3D2556,Flecainide,54143-55-4
+2082,T3D2557,Disulfiram,97-77-8
+2083,T3D2558,Valproic acid,99-66-1
+2084,T3D2560,Amantadine,768-94-5
+2085,T3D2561,Chloroquine,54-05-7
+2086,T3D2562,Gamma-Butyrolactone,96-48-0
+2087,T3D2563,Carbon dioxide,124-38-9
+2088,T3D2564,Triazolam,28911-01-5
+2089,T3D2565,Promazine,58-40-2
+2090,T3D2566,Heparin,9005-49-6
+2091,T3D2567,Warfarin,81-81-2
+2092,T3D2568,Ceftriaxone,73384-59-5
+2093,T3D2570,Lamotrigine,84057-84-1
+2094,T3D2571,Acetaminophen,103-90-2
+2095,T3D2573,Acrylamide,1979-06-01
+2096,T3D2575,Tramadol,27203-92-5
+2097,T3D2576,Haloperidol,52-86-8
+2098,T3D2577,Varenicline,249296-44-4
+2099,T3D2578,Fluoroacetamide,640-19-7
+2100,T3D2580,Mastoparan (Vespa tropica),72093-21-1
+2101,T3D2581,Hongotoxin,203526-59-4
+2102,T3D2582,Maurocalcin ,269745-22-4
+2103,T3D2584,Myotoxin (Crotalus viridis viridis),132821-30-8
+2104,T3D2585,Taipoxin,52019-39-3
+2105,T3D2587,Maitotoxin,59392-53-9
+2106,T3D2589,Anthopleurin (Anthopleura xanthogrammica),600880-63-9
+2107,T3D2590,Calitoxin,118354-83-9
+2108,T3D2592,Edema factor,921236-86-4
+2109,T3D2593,Protective antigen,643772-15-0
+2110,T3D2594,Lethal factor,159233-86-0
+2111,T3D2595,Pertussis toxin,70323-44-3
+2112,T3D2596,Bifunctional hemolysin/adenylate cyclase (Bordetella pertussis),566070-83-5
+2113,T3D2597,Toxin A (Clostridium difficile),
+2114,T3D2598,Toxin B (Clostridium difficile),
+2115,T3D2599,Alpha-toxin (Clostridium perfringens),
+2116,T3D2600,Heat-labile enterotoxin (Escherichia coli),
+2117,T3D2601,Perfringolysin O,71329-60-7
+2118,T3D2602,Tetanus toxin,676570-37-9
+2119,T3D2605,Listeriolysin O,112627-82-4
+2120,T3D2606,Dermonecrotic toxin (Pasteurella multocida),
+2121,T3D2607,Exotoxin A (Pseudomonas aeruginosa),
+2122,T3D2609,Shiga toxin subunit A,
+2123,T3D2610,Alpha-hemolysin,94716-94-6
+2124,T3D2611,Beta-hemolysin,143257-99-2
+2125,T3D2612,Delta-hemolysin,74838-20-3
+2126,T3D2613,Leukocidin S,
+2127,T3D2614,Leukocidin F,147096-70-6
+2128,T3D2618,Enterotoxin type A,
+2129,T3D2619,Enterotoxin type B,
+2130,T3D2620,Pneumolysin,
+2131,T3D2622,Streptolysin O (Streptococcus pyogenes),98072-47-0
+2132,T3D2623,Cholera toxin,9012-63-9
+2133,T3D2624,Melittin (Apis mellifera),20449-79-0
+2134,T3D2625,Lopap ,
+2135,T3D2626,alpha-Agatoxin,128549-96-2
+2136,T3D2627,mu-Agatoxin,120500-28-9
+2137,T3D2628,kappa-Atracotoxin (Hadronyche versuta),
+2138,T3D2629,Hanatoxin,170780-01-5
+2139,T3D2630,Sphingomyelinase D (Loxosceles intermedia),9031-54-3
+2140,T3D2631,Heteroscodratoxin,
+2141,T3D2633,Acanthophin,126601-49-8
+2142,T3D2635,Erabutoxin,59536-69-5
+2143,T3D2636,Disintegrin echistatin (Echis carinatus),
+2144,T3D2637,Nigroxin,9001-84-7
+2145,T3D2638,Notexin,37233-96-4
+2146,T3D2639,Ohanin,
+2147,T3D2640,Pseudechetoxin,
+2148,T3D2642,Viperotoxin,
+2149,T3D2643,Vipoxin,
+2150,T3D2645,Brevetoxin,98112-41-5
+2151,T3D2646,Hydralysin (Chlorohydra viridissima),
+2152,T3D2647,Stonustoxin,
+2153,T3D2648,Neoverrucotoxin,
+2154,T3D2649,Box jellyfish toxin (Chironex fleckeri),
+2155,T3D2656,omega-Conotoxin (Conus striatus),
+2156,T3D2657,alpha-Conotoxin (Conus geographus),
+2157,T3D2658,delta-Conotoxin (Conus striatus),
+2158,T3D2659,kappa-Conotoxin (Conus purpurascens),
+2159,T3D2660,mu-Conotoxin (Conus purpurascens),
+2160,T3D2661,Contryphan (Conus ventricosus),
+2161,T3D2663,Clodronate,10596-23-3
+2162,T3D2665,Pamidronate,40391-99-9
+2163,T3D2666,Alendronic acid,66376-36-1
+2164,T3D2667,Ibandronate,114084-78-5
+2165,T3D2668,Risedronate,105462-24-6
+2166,T3D2669,Zoledronate,118072-93-8
+2167,T3D2670,Digoxin,20830-75-5
+2168,T3D2671,Rituximab,174722-31-7
+2169,T3D2672,Azaspiracid,214899-21-5
+2170,T3D2673,Zaleplon,151319-34-5
+2171,T3D2674,Oxaliplatin,61825-94-3
+2172,T3D2675,Linezolid,165800-03-3
+2173,T3D2676,Methadone,76-99-3
+2174,T3D2677,Aripiprazole,129722-12-9
+2175,T3D2679,Nitrofurantoin,67-20-9
+2176,T3D2680,Rosuvastatin,287714-41-4
+2177,T3D2690,Biotin,58-85-5
+2178,T3D2692,Calcitriol,32222-06-3
+2179,T3D2694,Calcidiol,19356-17-3
+2180,T3D2696,Thiamine,59-43-8
+2181,T3D2697,Ergocalciferol,50-14-6
+2182,T3D2698,Folic acid,59-30-3
+2183,T3D2699,Vitamin A,68-26-8
+2184,T3D2700,Alpha-Tocopherol,59-02-9
+2185,T3D2701,Pyridoxine,65-23-6
+2186,T3D2702,(R)-lipoic acid,62-46-4
+2187,T3D2703,Cholecalciferol,67-97-0
+2188,T3D2704,Menadione,58-27-5
+2189,T3D2705,Fluvoxamine,54739-18-3
+2190,T3D2706,Amphetamine,300-62-9
+2191,T3D2707,Lorazepam,846-49-1
+2192,T3D2708,Ethchlorvynol,113-18-8
+2193,T3D2709,Phentermine,122-09-8
+2194,T3D2711,Fluconazole,86386-73-4
+2195,T3D2712,Caffeine,58-08-2
+2196,T3D2713,Reserpine,50-55-5
+2197,T3D2715,Citalopram,59729-33-8
+2198,T3D2717,Enflurane,13838-16-9
+2199,T3D2719,Temazepam,846-50-4
+2200,T3D2720,Reboxetine,98769-81-4
+2201,T3D2721,Butabarbital,125-40-6
+2202,T3D2722,Oxiconazole,64211-46-7
+2203,T3D2724,Benzatropine,86-13-5
+2204,T3D2726,Methysergide,361-37-5
+2205,T3D2727,Cabergoline,81409-90-7
+2206,T3D2728,Phenytoin,57-41-0
+2207,T3D2729,Clotrimazole,23593-75-1
+2208,T3D2731,Ropinirole,91374-21-9
+2209,T3D2733,Topiramate,97240-79-4
+2210,T3D2735,Lidocaine,137-58-6
+2211,T3D2736,Venlafaxine,93413-69-5
+2212,T3D2737,Atomoxetine,82248-59-7
+2213,T3D2738,Bleomycin,11056-06-7
+2214,T3D2740,Morphine,57-27-2
+2215,T3D2741,Ropivacaine,84057-95-4
+2216,T3D2742,Bupivacaine,2180-92-9
+2217,T3D2743,Mitomycin,50-07-7
+2218,T3D2745,Pentobarbital,76-74-4
+2219,T3D2748,Zolmitriptan,139264-17-8
+2220,T3D2749,Codeine,76-57-3
+2221,T3D2750,Dihydroergotamine,6190-39-2
+2222,T3D2751,Tolcapone,134308-13-7
+2223,T3D2752,Hydromorphone,466-99-9
+2224,T3D2753,Indomethacin,53-86-1
+2225,T3D2754,Olanzapine,132539-06-1
+2226,T3D2755,Metixene,4969-02-2
+2227,T3D2756,Cetirizine,83881-51-0
+2228,T3D2757,Terfenadine,50679-08-8
+2229,T3D2758,Diltiazem,42399-41-7
+2230,T3D2759,Protriptyline,438-60-8
+2231,T3D2760,Trimethadione,127-48-0
+2232,T3D2763,Anidulafungin,166663-25-8
+2233,T3D2764,Clozapine,5786-21-0
+2234,T3D2767,Mirtazapine,61337-67-5
+2235,T3D2770,Trihexyphenidyl,144-11-6
+2236,T3D2771,Dexrazoxane,24584-09-6
+2237,T3D2772,Tacrine,321-64-2
+2238,T3D2773,Procyclidine,77-37-2
+2239,T3D2777,Alprazolam,28981-97-7
+2240,T3D2779,Loxapine,1977-10-2
+2241,T3D2783,Pramipexole,104632-26-0
+2242,T3D2784,Secobarbital,76-73-3
+2243,T3D2786,Methylphenidate,113-45-1
+2244,T3D2787,Zolpidem,82626-48-0
+2245,T3D2788,Streptozocin,18883-66-4
+2246,T3D2789,Prochlorperazine,58-38-8
+2247,T3D2790,Cyproheptadine,129-03-3
+2248,T3D2791,Epirubicin,56420-45-2
+2249,T3D2795,Meperidine,57-42-1
+2250,T3D2796,Loratadine,79794-75-5
+2251,T3D2797,Imipramine,50-49-7
+2252,T3D2798,Metharbital,50-11-3
+2253,T3D2800,Quinine,130-95-0
+2254,T3D2801,delta9-Tetrahydrocannabinol,1972-08-3
+2255,T3D2802,Fluoxetine,54910-89-3
+2256,T3D2803,Methohexital,151-83-7
+2257,T3D2804,Chlordiazepoxide,58-25-3
+2258,T3D2805,Duloxetine,136434-34-9
+2259,T3D2806,Chlorpromazine,50-53-3
+2260,T3D2807,Buspirone,36505-84-7
+2261,T3D2808,Entacapone,130929-57-6
+2262,T3D2809,Oxycodone,76-42-6
+2263,T3D2810,Cimetidine,51481-61-9
+2264,T3D2813,Triflupromazine,146-54-3
+2265,T3D2815,Dextromethorphan,125-71-3
+2266,T3D2818,Nortriptyline,72-69-5
+2267,T3D2819,Amoxapine,14028-44-5
+2268,T3D2820,Pyridostigmine,155-97-5
+2269,T3D2822,Pentostatin,53910-25-1
+2270,T3D2823,Hydroxyzine,68-88-2
+2271,T3D2825,Benzthiazide,91-33-8
+2272,T3D2826,Carbamazepine,298-46-4
+2273,T3D2829,Clonidine,4205-90-7
+2274,T3D2830,Mazindol,22232-71-9
+2275,T3D2832,L-Carnitine,541-15-1
+2276,T3D2834,Ethosuximide,77-67-8
+2277,T3D2835,Thiopental,76-75-5
+2278,T3D2836,Cisapride,81098-60-4
+2279,T3D2837,Butorphanol,42408-82-2
+2280,T3D2838,Rifabutin,72559-06-9
+2281,T3D2839,Paramethadione,115-67-3
+2282,T3D2840,Fluphenazine,69-23-8
+2283,T3D2841,Nicotinic acid,59-67-6
+2284,T3D2842,Clorazepate,23887-31-2
+2285,T3D2844,Astemizole,68844-77-9
+2286,T3D2847,Nystatin,1400-61-9
+2287,T3D2848,Propoxyphene,469-62-5
+2288,T3D2849,Pteroyl-D-glutamic acid,1492-18-8
+2289,T3D2850,Pentazocine,359-83-1
+2290,T3D2851,Magnesium Sulfate,7487-88-9
+2291,T3D2852,Trazodone,19794-93-5
+2292,T3D2853,Acamprosate,77337-76-9
+2293,T3D2855,Nafarelin,76932-56-4
+2294,T3D2856,Sumatriptan,103628-46-2
+2295,T3D2857,Galantamine,357-70-0
+2296,T3D2858,Thioridazine,50-52-2
+2297,T3D2859,Midazolam,59467-70-8
+2298,T3D2860,Flurazepam,17617-23-1
+2299,T3D2861,Daunorubicin,20830-81-3
+2300,T3D2862,Tizanidine,51322-75-9
+2301,T3D2863,Amprenavir,161814-49-9
+2302,T3D2864,Naltrexone,16590-41-3
+2303,T3D2865,Sufentanil,56030-54-7
+2304,T3D2866,Flurbiprofen,5104-49-4
+2305,T3D2867,Apomorphine,41372-20-7
+2306,T3D2868,Paroxetine,61869-08-7
+2307,T3D2869,Procaine,59-46-1
+2308,T3D2870,Trimipramine,739-71-9
+2309,T3D2871,Risperidone,106266-06-2
+2310,T3D2873,Esomeprazole,161796-78-7
+2311,T3D2874,Meclizine,569-65-3
+2312,T3D2875,Riluzole,1744-22-5
+2313,T3D2876,Modafinil,68693-11-8
+2314,T3D2877,Scopolamine,51-34-3
+2315,T3D2881,Tranylcypromine,155-09-9
+2316,T3D2882,Isoflurane,26675-46-7
+2317,T3D2883,Ethotoin,86-35-1
+2318,T3D2884,9-cis-Retinoic acid,302-79-4
+2319,T3D2886,Olopatadine,113806-05-6
+2320,T3D2887,Oxcarbazepine,28721-07-5
+2321,T3D2888,Propiomazine,362-29-8
+2322,T3D2889,Phenelzine,51-71-8
+2323,T3D2892,Sulfasalazine,599-79-1
+2324,T3D2893,Halazepam,23092-17-3
+2325,T3D2894,Alfentanil,71195-58-9
+2326,T3D2896,Proparacaine,499-67-2
+2327,T3D2897,Biperiden,514-65-8
+2328,T3D2898,Fentanyl,437-38-7
+2329,T3D2899,Meloxicam,71125-38-7
+2330,T3D2900,Propofol,2078-54-8
+2331,T3D2903,Diazepam,439-14-5
+2332,T3D2904,Phenmetrazine,134-49-6
+2333,T3D2905,Trifluoperazine,117-89-5
+2334,T3D2907,Mifepristone,84371-65-3
+2335,T3D2908,Progabide,62666-20-0
+2336,T3D2909,Oxazepam,604-75-1
+2337,T3D2910,Donepezil,120014-06-4
+2338,T3D2911,Nalbuphine,20594-83-6
+2339,T3D2913,Perphenazine,58-39-9
+2340,T3D2914,Levorphanol,77-07-6
+2341,T3D2917,Drostanolone,58-19-5
+2342,T3D2918,Diflunisal,22494-42-4
+2343,T3D2919,Benzphetamine,156-08-1
+2344,T3D2920,Flupenthixol,2709-56-0
+2345,T3D2921,Sirolimus,53123-88-9
+2346,T3D2924,Methdilazine,1982-37-2
+2347,T3D2925,Ondansetron,99614-02-5
+2348,T3D2926,Tiagabine,115103-54-3
+2349,T3D2927,Cocaine,50-36-2
+2350,T3D2928,Zonisamide,68291-97-4
+2351,T3D2929,Anileridine,144-14-9
+2352,T3D2931,Almotriptan,181183-52-8
+2353,T3D2932,Buprenorphine,52485-79-7
+2354,T3D2933,Mesoridazine,5588-33-0
+2355,T3D2934,Maprotiline,10262-69-8
+2356,T3D2935,Diethylpropion,90-84-6
+2357,T3D2936,Aspirin,50-78-2
+2358,T3D2937,Felbamate,25451-15-4
+2359,T3D2938,Fexofenadine,83799-24-0
+2360,T3D2939,Naratriptan,121679-13-8
+2361,T3D2940,Rizatriptan,145202-66-0
+2362,T3D2941,Hydrocodone,125-29-1
+2363,T3D2942,Mepivacaine,96-88-8
+2364,T3D2951,Neomycin,1404-04-2
+2365,T3D2952,Gabapentin,60142-96-3
+2366,T3D2953,Doxorubicin,23214-92-8
+2367,T3D2954,Frovatriptan,158747-02-5
+2368,T3D2955,Levobupivacaine,27262-47-1
+2369,T3D2956,Tioconazole,65899-73-2
+2370,T3D2957,Balsalazide,80573-04-2
+2371,T3D2958,Bethanechol,674-38-4
+2372,T3D2959,Phytonadione,84-80-0
+2373,T3D2960,Mycophenolic acid,24280-93-1
+2374,T3D2961,Ketoconazole,65277-42-1
+2375,T3D2962,Methoxyflurane,76-38-0
+2376,T3D2963,Ethinamate,126-52-3
+2377,T3D2964,Cerulenin,17397-89-6
+2378,T3D2965,Selegiline,14611-51-9
+2379,T3D2966,Carphenazine,2622-30-2
+2380,T3D2967,Memantine,19982-08-2
+2381,T3D2968,Gatifloxacin,112811-59-3
+2382,T3D2969,Rifampin,13292-46-1
+2383,T3D2970,Ibuprofen,15687-27-1
+2384,T3D2972,Melatonin,73-31-4
+2385,T3D2973,Clonazepam,1622-61-3
+2386,T3D2974,Dihydrotachysterol,67-96-9
+2387,T3D2975,Perhexiline,6621-47-2
+2388,T3D2976,Diphenhydramine,58-73-1
+2389,T3D2977,Vigabatrin,60643-86-9
+2390,T3D2978,Diphenoxylate,915-30-0
+2391,T3D2979,Pilocarpine,54-71-7
+2392,T3D2980,Benzocaine,94-09-7
+2393,T3D2982,Dimethyl sulfoxide,67-68-5
+2394,T3D2983,Flucytosine,2022-85-7
+2395,T3D2984,Pimozide,2062-78-4
+2396,T3D2985,Sertraline,79617-96-2
+2397,T3D2986,Sibutramine,106650-56-0
+2398,T3D2987,Methyprylon,125-64-4
+2399,T3D2988,Miconazole,22916-47-8
+2400,T3D2989,Chlorpheniramine,132-22-9
+2401,T3D2990,Phenacemide,63-98-9
+2402,T3D2991,Ambenonium,7648-98-8
+2403,T3D2992,Econazole,27220-47-9
+2404,T3D2993,Doxepin,1668-19-5
+2405,T3D2995,Nefazodone,83366-66-9
+2406,T3D2996,Desipramine,50-47-5
+2407,T3D2997,Sertaconazole,99592-32-2
+2408,T3D2999,Bupropion,34841-39-9
+2409,T3D3000,Trimetrexate,52128-35-5
+2410,T3D3001,Halothane,151-67-7
+2411,T3D3003,Chloroprocaine,133-16-4
+2412,T3D3004,Moclobemide,71320-77-9
+2413,T3D3005,Orphenadrine,83-98-7
+2414,T3D3006,Phenobarbital,50-06-6
+2415,T3D3007,Escitalopram,128196-01-0
+2416,T3D3009,Chlormezanone,80-77-3
+2417,T3D3010,Fluoxymesterone,76-43-7
+2418,T3D3011,Pergolide,66104-22-1
+2419,T3D3012,Ciclopirox,29342-05-0
+2420,T3D3013,Desflurane,57041-67-5
+2421,T3D3014,Dexfenfluramine,3239-44-9
+2422,T3D3015,Oxymorphone,76-41-5
+2423,T3D3016,Zopiclone,43200-80-2
+2424,T3D3017,Bromocriptine,25614-03-3
+2425,T3D3018,Rifapentine,61379-65-5
+2426,T3D3019,Levetiracetam,102767-28-2
+2427,T3D3020,Mitoxantrone,65271-80-9
+2428,T3D3021,Ridogrel,110140-89-1
+2429,T3D3023,Estazolam,29975-16-4
+2430,T3D3025,Ketamine,6740-88-1
+2431,T3D3027,Levomethadyl Acetate,1477-40-3
+2432,T3D3028,L-Dopa,59-92-7
+2433,T3D3029,Sevoflurane,28523-86-6
+2434,T3D3030,Bromodiphenhydramine,118-23-0
+2435,T3D3031,Chlorprothixene,113-59-7
+2436,T3D3032,Clomipramine,303-49-1
+2437,T3D3033,Isocarboxazid,59-63-2
+2438,T3D3035,Posaconazole,171228-49-2
+2439,T3D3036,Fosphenytoin,93390-81-9
+2440,T3D3038,Butethal,77-28-1
+2441,T3D3039,Hexobarbital,56-29-1
+2442,T3D3040,Ephedrine,299-42-3
+2443,T3D3041,Methotrimeprazine,60-99-1
+2444,T3D3046,Fencamfamine,1209-98-9
+2445,T3D3047,Flunitrazepam,1622-62-4
+2446,T3D3048,Bromazepam,1812-30-2
+2447,T3D3049,Clotiazepam,33671-46-4
+2448,T3D3051,Dextroamphetamine,51-64-9
+2449,T3D3052,Methamphetamine,537-46-2
+2450,T3D3054,Prazepam,2955-38-6
+2451,T3D3055,Quazepam,36735-22-5
+2452,T3D3056,Cinolazepam,75696-02-5
+2453,T3D3057,Nitrazepam,146-22-5
+2454,T3D3060,Phenindamine,82-88-2
+2455,T3D3062,Calcipotriol,112965-21-6
+2456,T3D3063,Quinestrol,152-43-2
+2457,T3D3064,Chlophedianol,791-35-5
+2458,T3D3066,Bepotastine,125602-71-3
+2459,T3D3067,Vapreotide,103222-11-3
+2460,T3D3068,Silver sulfadiazine,22199-08-2
+2461,T3D3069,Methsuximide,77-41-8
+2462,T3D3070,Abrin-a,53597-23-2
+2463,T3D3071,Abrin-b,
+2464,T3D3072,Abrin-c,53597-24-3
+2465,T3D3073,Abrin-d,1393-62-0
+2466,T3D3074,Anisatin,5230-87-5
+2467,T3D3075,Brucine,357-57-3
+2468,T3D3076,Cicutoxin,505-75-9
+2469,T3D3077,Delphinine,561-07-9
+2470,T3D3078,Aconitine,302-27-2
+2471,T3D3079,Djenkolic acid,498-59-9
+2472,T3D3081,(-)-Gossypol,90141-22-3
+2473,T3D3082,beta-Methylamino-L-alanine,15920-93-1
+2474,T3D3083,Oenanthotoxin,20311-78-8
+2475,T3D3084,Resiniferatoxin,57444-62-9
+2476,T3D3085,Capsaicin,404-86-4
+2477,T3D3086,Strychnine,57-24-9
+2478,T3D3087,Swainsonine,72741-87-8
+2479,T3D3088,Thionin (Pyrularia pubera),
+2480,T3D3089,Tutin,2571-22-4
+2481,T3D3090,Grayanotoxin I,4720-09-6
+2482,T3D3091,Grayanotoxin II,4678-44-8
+2483,T3D3092,Grayanotoxin III,4678-45-9
+2484,T3D3094,Oleandrin,465-16-7
+2485,T3D3095,Hyoscyamine,101-31-5
+2486,T3D3096,D-Hyoscyamine,13269-35-7
+2487,T3D3097,Tubocurarine,6989-98-6
+2488,T3D3098,Alcuronium,23214-96-2
+2489,T3D3099,Toxiferine,6888-23-9
+2490,T3D3101,Brodifacoum,56073-10-0
+2491,T3D3102,Bromadiolone,28772-56-7
+2492,T3D3103,Fumarin,117-52-2
+2493,T3D3104,Difenacoum,56073-07-5
+2494,T3D3105,Phenprocoumon,435-97-2
+2495,T3D3106,Acenocoumarol,152-72-7
+2496,T3D3107,Phenindione,83-12-5
+2497,T3D3108,Anabasine,13078-04-1
+2498,T3D3114,Myristicin,607-91-0
+2499,T3D3121,Diphtheria toxin (Corynephage omega),
+2500,T3D3123,Botulinum neurotoxin type E,
+2501,T3D3124,Botulinum neurotoxin type F,
+2502,T3D3125,Botulinum neurotoxin type B,
+2503,T3D3126,Botulinum neurotoxin type D,
+2504,T3D3127,Botulinum neurotoxin type A ,
+2505,T3D3128,Botulinum neurotoxin type C1,
+2506,T3D3129,Shiga toxin subunit B,75757-64-1
+2507,T3D3201,4-Ethylphenol,123-07-9
+2508,T3D3204,"7-Methyl-3-methylene-1,6-octadiene",123-35-3
+2509,T3D3209,Diazenedicarboxamide,123-77-3
+2510,T3D3214,Benzyl acetate,140-11-4
+2511,T3D3216,Ethyl acrylate,140-88-5
+2512,T3D3224,Menthol,2216-51-5
+2513,T3D3230,2-Methoxy-4-propylphenol,2785-87-7
+2514,T3D3231,2-Propenyl 3-methylbutanoate,2835-39-4
+2515,T3D3233,CE(10:0),1183-04-6
+2516,T3D3241,Diacetyl,431-03-8
+2517,T3D3268,Acetic acid,64-19-7
+2518,T3D3426,n-Butane,106-97-8
+2519,T3D3427,Isobutane,75-28-5
+2520,T3D3428,Pentane,109-66-0
+2521,T3D3429,Isopentane,78-78-4
+2522,T3D3430,Neopentane,463-82-1
+2523,T3D3431,N-Heptane,142-82-5
+2524,T3D3432,2-Methylhexane,591-76-4
+2525,T3D3433,3-Methylhexane,589-34-4
+2526,T3D3434,"2,2-Dimethylpentane",590-35-2
+2527,T3D3435,"2,3-Dimethylpentane",565-59-3
+2528,T3D3436,"2,4-Dimethylpentane",108-08-7
+2529,T3D3437,"3,3-Dimethylpentane",562-49-2
+2530,T3D3438,3-Ethylpentane,617-78-7
+2531,T3D3439,"2,2,3-Trimethylbutane",464-06-2
+2532,T3D3440,Octane,111-65-9
+2533,T3D3441,2-Methylheptane,592-27-8
+2534,T3D3442,3-Methylheptane,589-81-1
+2535,T3D3443,4-Methylheptane,589-53-7
+2536,T3D3444,3-Ethylhexane,619-99-8
+2537,T3D3445,"2,2-Dimethylhexane",590-73-8
+2538,T3D3446,"xi-2,3-Dimethylhexane",584-94-1
+2539,T3D3447,"2,4-Dimethylhexane",589-43-5
+2540,T3D3448,"2,5-Dimethylhexane",592-13-2
+2541,T3D3449,"3,3-Dimethylhexane",563-16-6
+2542,T3D3450,"3,4-Dimethylhexane",583-48-2
+2543,T3D3451,3-Ethyl-2-methylpentane,609-26-7
+2544,T3D3452,3-Ethyl-3-methylpentane,1067-08-9
+2545,T3D3453,"2,2,3-Trimethylpentane",564-02-3
+2546,T3D3454,"2,2,4-Trimethylpentane",540-84-1
+2547,T3D3455,"2,3,3-Trimethylpentane",560-21-4
+2548,T3D3456,"2,3,4-Trimethylpentane",565-75-3
+2549,T3D3457,"2,2,3,3-Tetramethylbutane",594-82-1
+2550,T3D3458,1-Pentene,109-67-1
+2551,T3D3459,2-Pentene,109-68-2
+2552,T3D3460,2-Methyl-2-butene,513-35-9
+2553,T3D3461,3-Methyl-1-butene,563-45-1
+2554,T3D3462,2-Methyl-1-butene,563-46-2
+2555,T3D3463,3-Methyl-2-pentene,922-62-3
+2556,T3D3464,"2,4,4,-Trimethyl-1-pentene",107-39-1
+2557,T3D3465,Cyclopentane,287-92-3
+2558,T3D3466,Methylcyclopentane,96-37-7
+2559,T3D3467,Cyclohexane,110-82-7
+2560,T3D3468,Isopropylbenzene,98-82-8
+2561,T3D3469,Polyvinyl acetate,9003-20-7
+2562,T3D3470,Ethenyl acetate,108-05-4
+2563,T3D3471,Acetaldehyde,75-07-0
+2564,T3D3474,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",28289-54-5
+2565,T3D3476,Albendazole,54965-21-8
+2566,T3D3477,Allopurinol,315-30-0
+2567,T3D3480,Atenolol,29122-68-7
+2568,T3D3483,Etidronic acid,7414-83-7
+2569,T3D3487,Brimonidine,59803-98-4
+2570,T3D3491,Carisoprodol,78-44-4
+2571,T3D3492,Cephalosporin ,97519-39-6
+2572,T3D3495,Ciprofloxacin,85721-33-1
+2573,T3D3497,Clindamycin,18323-44-9
+2574,T3D3498,Cyclosporin  ,59865-13-3
+2575,T3D3499,Darifenacin,133099-04-4
+2576,T3D3501,Docetaxel,114977-28-5
+2577,T3D3503,Fenthion,55-38-9
+2578,T3D3504,Fluoroacetic acid,144-49-0
+2579,T3D3507,Capecitabine,154361-50-9
+2580,T3D3512,Hydroxychloroquine,118-42-3
+2581,T3D3513,Ifosfamide,3778-73-2
+2582,T3D3514,Infliximab  ,170277-31-3
+2583,T3D3516,Itraconazole,84625-61-6
+2584,T3D3517,Labetalol,36894-69-6
+2585,T3D3520,Melamine,108-78-1
+2586,T3D3521,Metaldehyde,108-62-3
+2587,T3D3522,"1,1-Dimethylbiguanide",657-24-9
+2588,T3D3523,Methyl ethyl ketone peroxide  ,1338-23-4
+2589,T3D3524,Omeprazole,73590-58-6
+2590,T3D3526,Pentamidine,100-33-4
+2591,T3D3529,Polymyxin B Sulfate,1405-20-5
+2592,T3D3532,Salvinorin A ,83729-01-5
+2593,T3D3533,Sorafenib,284461-73-0
+2594,T3D3536,Telithromycin,191114-48-4
+2595,T3D3537,Terazosin  ,70024-40-7
+2596,T3D3539,Thalidomide,50-35-1
+2597,T3D3542,Valaciclovir,124832-26-4
+2598,T3D3543,Vancomycin,1404-90-6
+2599,T3D3544,Verapamil,52-53-9
+2600,T3D3548,Ammonium nitrite,13446-48-5
+2601,T3D3549,Nitrous acid,7782-77-6
+2602,T3D3550,Potassium nitrite,7758-09-0
+2603,T3D3551,Sodium nitrite,7632-00-0
+2604,T3D3552,Ammonium nitrate,6484-52-2
+2605,T3D3553,Cesium nitrate,7789-18-6
+2606,T3D3554,Calcium nitrate,10124-37-5
+2607,T3D3556,Ceric ammonium nitrate,16774-21-3
+2608,T3D3557,Chlorine nitrate,14545-72-3
+2609,T3D3558,Cellulose nitrate,9004-70-0
+2610,T3D3559,Dinitrogen tetroxide,10544-72-6
+2611,T3D3560,Gadolinium nitrate,10168-81-7
+2612,T3D3561,Guanidine nitrate,506-93-4
+2613,T3D3562,Hydroxylammonium nitrate,13465-08-2
+2614,T3D3563,Iron(III) nitrate,10421-48-4
+2615,T3D3566,Lithium nitrate,7790-69-4
+2616,T3D3567,Magnesium nitrate,10377-60-3
+2617,T3D3570,Methylammonium nitrate,22113-87-7
+2618,T3D3571,Nitric acid,7697-37-2
+2619,T3D3572,Potassium nitrate,7757-79-1
+2620,T3D3573,Rubidium nitrate,13126-12-0
+2621,T3D3574,Sodium nitrate,7631-99-4
+2622,T3D3575,Strontium nitrate,10042-76-9
+2623,T3D3577,Methyldopa,555-30-6
+2624,T3D3579,2-Nitrophenol,88-75-5
+2625,T3D3580,Sodium fluoroacetate,62-74-8
+2626,T3D3582,Lysergic Acid Diethylamide,50-37-3
+2627,T3D3583,Botulinum toxin,93384-43-1
+2628,T3D3584,Botulinum neurotoxin type G,
+2629,T3D3585,beta-Amanitin,21150-22-1
+2630,T3D3586,gamma-Amanitin,21150-23-2
+2631,T3D3587,epsilon-Amanitin,21705-02-2
+2632,T3D3588,Amanullin,21803-57-6
+2633,T3D3589,Amanullinic acid,54532-45-5
+2634,T3D3590,Amaninamide,58311-65-2
+2635,T3D3591,Amanin,21150-21-0
+2636,T3D3592,Proamanullin,54532-46-6
+2637,T3D3596,Iodine,7553-56-2
+2638,T3D3597,Citrinin,518-75-2
+2639,T3D3598,Aflatoxin B1,1162-65-8
+2640,T3D3599,2-Aminophenol,95-55-6
+2641,T3D3600,4-Aminophenol,123-30-8
+2642,T3D3601,3-Aminophenol,591-27-5
+2643,T3D3602,Microcystin-LR,101043-37-2
+2644,T3D3603,Fumonisin B1,116355-83-0
+2645,T3D3604,Gliotoxin,67-99-2
+2646,T3D3605,Ochratoxin A,303-47-9
+2647,T3D3606,Ochratoxin B,4825-86-9
+2648,T3D3607,Ochratoxin C,4865-85-4
+2649,T3D3608,Microcystin-YR,101064-48-6
+2650,T3D3609,Microcystin-RR,111755-37-4
+2651,T3D3610,Cyanoginosin-LA,96180-79-9
+2652,T3D3611,Microcystin-LF,154037-70-4
+2653,T3D3613,Microcystin-LL,154037-67-9
+2654,T3D3614,Microcystin-LW,157622-02-1
+2655,T3D3615,Microcystin-LY,123304-10-9
+2656,T3D3616,Nodularin-R,118399-22-7
+2657,T3D3619,Ammonium laureth sulfate,32612-48-9
+2658,T3D3620,Ammonium lauryl sulfate ,2235-54-3
+2659,T3D3621,Cocoyl sarcosine ,783292-49-9
+2660,T3D3622,Lauroyl sarcosine,97-78-9
+2661,T3D3623,Sodium cocoyl sarcosinate,61791-59-1
+2662,T3D3624,Sodium lauroyl sarcosinate,137-16-6
+2663,T3D3625,Imidazolidinyl urea,39236-46-9
+2664,T3D3626,Diazolidinyl urea,78491-02-8
+2665,T3D3627,"1,3-Dimethylol-5,5-dimethylhydantoin",6440-58-0
+2666,T3D3628,Quaternium-15,4080-31-3
+2667,T3D3629,Sodium lauryl sulfate,151-21-3
+2668,T3D3630,Sodium laureth sulfate,9004-82-4
+2669,T3D3633,Quaternium-22,51812-80-7
+2670,T3D3636,Quaternium-52,58069-11-7
+2671,T3D3637,Quaternium-10,80702-43-8
+2672,T3D3638,Diethyl phthalate,84-66-2
+2673,T3D3639,Butyl cyclohexyl phthalate,84-64-0
+2674,T3D3640,Butyl decyl phthalate,89-19-0
+2675,T3D3641,Di(n-octyl) phthalate,117-84-0
+2676,T3D3642,Diallyl phthalate,131-17-9
+2677,T3D3643,Dicyclohexyl phthalate,84-61-7
+2678,T3D3644,Diisobutyl phthalate,84-69-5
+2679,T3D3645,Diisodecyl phthalate,26761-40-0
+2680,T3D3646,Diisoheptyl phthalate,41451-28-9
+2681,T3D3647,Diisohexyl phthalate,146-50-9
+2682,T3D3648,Diisononyl phthalate,28553-12-0
+2683,T3D3649,Diisooctyl phthalate,27554-26-3
+2684,T3D3650,Diisotridecyl phthalate,68515-47-9
+2685,T3D3651,Diisoundecyl phthalate,85507-79-5
+2686,T3D3652,Dimethyl phthalate,131-11-3
+2687,T3D3653,Di-n-hexyl phthalate,84-75-3
+2688,T3D3654,Di-n-pentyl phthalate,131-18-0
+2689,T3D3655,Di-n-propyl phthalate,131-16-8
+2690,T3D3656,Ditridecyl phthalate,119-06-2
+2691,T3D3657,Diundecyl phthalate,3648-20-2
+2692,T3D3658,n-Octyl n-decyl phthalate,119-07-3
+2693,T3D3659,Polyethylene terephthalate,25038-59-9
+2694,T3D3660,Glycolic acid,79-14-1
+2695,T3D3661,Patulin,149-29-1
+2696,T3D3662,Roquefortine,58735-64-1
+2697,T3D3663,Sterigmatocystin,10048-13-2
+2698,T3D3664,T2 Toxin,21259-20-1
+2699,T3D3665,"(S,E)-Zearalenone",17924-92-4
+2700,T3D3666,Aflatoxin M1,6795-23-9
+2701,T3D3667,Cytochalasin B,14930-96-2
+2702,T3D3668,Deoxynivalenol,51481-10-8
+2703,T3D3669,Aflatoxin B2,7220-81-7
+2704,T3D3670,Aflatoxin G,1165-39-5
+2705,T3D3671,Aflatoxin G2,7241-98-7
+2706,T3D3672,Aflatoxin M2,6885-57-0
+2707,T3D3673,HT-2 Toxin,26934-87-2
+2708,T3D3674,Nivalenol,23282-20-4
+2709,T3D3675,Zeranol,26538-44-3
+2710,T3D3676,Cytochalasin A,14110-64-6
+2711,T3D3677,Cytochalasin C,22144-76-9
+2712,T3D3678,Cytochalasin D,22144-77-0
+2713,T3D3679,Cytochalasin E,36011-19-5
+2714,T3D3680,Cytochalasin H,53760-19-3
+2715,T3D3681,Cytochalasin J,56144-22-0
+2716,T3D3682,Dihydrocytochalasin B,39156-67-7
+2717,T3D3683,Dihydrocytochalasin B gamma-lactone,14110-71-5
+2718,T3D3684,Ergine,478-94-4
+2719,T3D3685,Ergonovine,60-79-7
+2720,T3D3686,Methylergonovine,113-42-8
+2721,T3D3687,Lysergic acid hydroxyethylamide,3343-15-5
+2722,T3D3688,Ergocristine,511-08-0
+2723,T3D3689,Ergocornine,564-36-3
+2724,T3D3690,Ergocryptine,511-09-1
+2725,T3D3691,Ergovaline,2873-38-3
+2726,T3D3692,Agroclavine,548-42-5
+2727,T3D3693,Xanthomegnin,1685-91-2
+2728,T3D3694,Elymoclavine,548-43-6
+2729,T3D3695,Lysergol,602-85-7
+2730,T3D3696,Costaclavine,436-41-9
+2731,T3D3697,Fumonisin B2,116355-84-1
+2732,T3D3698,"3-Acetoxyscirpene-4,15-diol",70402-13-0
+2733,T3D3699,Monoacetoxyscirpenol,2623-22-5
+2734,T3D3700,Acetyldeoxynivalenol,50722-38-8
+2735,T3D3701,15-Acetyl-4-deoxynivalenol,88337-96-6
+2736,T3D3702,Crotocin,21284-11-7
+2737,T3D3703,15-Deacetylcalonectrin,38818-66-5
+2738,T3D3704,Diacetylnivalenol,14287-82-2
+2739,T3D3705,Diacetoxyscirpenol,2270-40-8
+2740,T3D3706,Diacetylverrucarol,2198-94-9
+2741,T3D3707,Fusarenon-X,23255-69-8
+2742,T3D3708,Neosolaniol,36519-25-2
+2743,T3D3709,Roridin A,14729-29-4
+2744,T3D3710,Roridin D,14682-29-2
+2745,T3D3711,Roridin E,16891-85-3
+2746,T3D3712,Satratoxin H,53126-64-0
+2747,T3D3713,Scirpene,37133-74-7
+2748,T3D3714,Toxin T2 tetrol,34114-99-3
+2749,T3D3715,Triacetoxyscirpenol,4297-61-4
+2750,T3D3716,Trichodermin,4682-50-2
+2751,T3D3717,Trichodermol,2198-93-8
+2752,T3D3718,Trichothecin,6379-69-7
+2753,T3D3719,Trichothecolone,2199-06-6
+2754,T3D3720,Verrucarin A,3148-09-2
+2755,T3D3721,Verrucarin B,2290-11-1
+2756,T3D3722,Verrucarin J,4643-58-7
+2757,T3D3723,Verrucarol,2198-92-7
+2758,T3D3724,Bovinocidin,504-88-1
+2759,T3D3725,Aflatoxicol,29611-03-8
+2760,T3D3726,Aflatrem,70553-75-2
+2761,T3D3727,Alternariol,641-38-3
+2762,T3D3728,Alternariol methyl ether,23452-05-3
+2763,T3D3729,Altertoxin-1,56258-32-3
+2764,T3D3730,Rubratoxin B,21794-01-4
+2765,T3D3731,Rubratoxin A,22467-31-8
+2766,T3D3732,Penitrem A,12627-35-9
+2767,T3D3733,Penitrem B,11076-67-8
+2768,T3D3734,Penitrem C,37318-84-6
+2769,T3D3735,Dicumarol,66-76-2
+2770,T3D3736,Cyclopiazonic acid,18172-33-3
+2771,T3D3737,Citreoviridin A,25425-12-1
+2772,T3D3738,Penicillic acid,90-65-3
+2773,T3D3740,Beauvericin,26048-05-5
+2774,T3D3741,Fusaric Acid,536-69-6
+2775,T3D3742,Fumitremorgin A,12626-18-5
+2776,T3D3743,Fumitremorgin B,12626-17-4
+2777,T3D3744,Fumitremorgin C,118974-02-0
+2778,T3D3745,Territrem B,70407-20-4
+2779,T3D3746,Territrem A,70407-19-1
+2780,T3D3747,Territrem C,89020-33-7
+2781,T3D3748,Paspalinine,63722-91-8
+2782,T3D3749,Asteltoxin,79663-49-3
+2783,T3D3750,Aurovertin B,55350-03-3
+2784,T3D3751,Aurovertin D,65256-31-7
+2785,T3D3752,Arisugacin A,167114-89-8
+2786,T3D3753,Butenolide,16275-44-8
+2787,T3D3754,Emestrin,97816-62-1
+2788,T3D3755,Emodin,518-82-1
+2789,T3D3756,Enniatin A,2503-13-1
+2790,T3D3757,Enniatin A1,4530-21-6
+2791,T3D3758,Enniatin B,917-13-5
+2792,T3D3759,Enniatin B1,19914-20-6
+2793,T3D3760,Fumagillin,23110-15-8
+2794,T3D3762,Janthitrem B,73561-90-7
+2795,T3D3763,Janthitrem C,73561-91-8
+2796,T3D3764,Janthitrem E,90986-50-8
+2797,T3D3765,Janthitrem F,90986-52-0
+2798,T3D3766,Janthitrem G,90986-51-9
+2799,T3D3767,Lolitrem B,81771-19-9
+2800,T3D3768,Luteoskyrin,21884-44-6
+2801,T3D3769,Kojic acid,501-30-4
+2802,T3D3770,Moniliformin,71376-34-6
+2803,T3D3771,Restrictocin (Aspergillus restrictus),1406-72-0
+2804,T3D3773,alpha-Sarcin (Aspergillus giganteus),86243-64-3
+2805,T3D3774,Secalonic Acid D,35287-69-5
+2806,T3D3775,Slaframine,20084-93-9
+2807,T3D3776,Sporidesmin,1456-55-9
+2808,T3D3777,Paspalitrem A,63722-90-7
+2809,T3D3778,Paspalitrem B,63764-58-9
+2810,T3D3779,Paspalicine,11024-55-8
+2811,T3D3780,Paxilline,57186-25-1
+2812,T3D3781,Verrucosidin,88389-71-3
+2813,T3D3782,Verruculogen,12771-72-1
+2814,T3D3787,6-Deisopropylatrazine,1007-28-9
+2815,T3D3788,Acephate,30560-19-1
+2816,T3D3789,Acibenzolar-S-Methyl,135158-54-2
+2817,T3D3790,Acifluorfen,50594-66-6
+2818,T3D3791,Ametryn,834-12-8
+2819,T3D3792,Amitraz,33089-61-1
+2820,T3D3793,Anilazine,101-05-3
+2821,T3D3794,Azamethiphos,35575-96-3
+2822,T3D3795,Azoxystrobin,131860-33-8
+2823,T3D3796,Benfluralin,1861-40-1
+2824,T3D3797,Bensulide,741-58-2
+2825,T3D3798,Bifenazate,149877-41-8
+2826,T3D3799,Boric acid (H3BO3),10043-35-3
+2827,T3D3800,Boscalid,188425-85-6
+2828,T3D3801,Bromacil,314-40-9
+2829,T3D3802,Buprofezin,69327-76-0
+2830,T3D3803,Butafenacil,134605-64-4
+2831,T3D3804,Captan,133-06-2
+2832,T3D3805,Carfentrazone-ethyl,128639-02-1
+2833,T3D3806,Chloridazon,1698-60-8
+2834,T3D3807,Chloroneb,2675-77-6
+2835,T3D3808,Chlorpyrifos-methyl,5598-13-0
+2836,T3D3809,Chlorsulfuron,64902-72-3
+2837,T3D3810,Cinmethylin,87818-31-3
+2838,T3D3811,Clofentezine,74115-24-5
+2839,T3D3812,Cloprop,101-10-0
+2840,T3D3813,Clopyralid-olamine,57754-85-5
+2841,T3D3814,Clorophene,120-32-1
+2842,T3D3815,Clothianidin,210880-92-5
+2843,T3D3816,Cyanamide,420-04-2
+2844,T3D3817,Cyanazine,21725-46-2
+2845,T3D3818,Cyhalofop-butyl,122008-85-9
+2846,T3D3819,Cymoxanil,57966-95-7
+2847,T3D3820,Cyprodinil,121552-61-2
+2848,T3D3821,Daminozide,1596-84-5
+2849,T3D3822,Dazomet,533-74-4
+2850,T3D3823,Dichloran,99-30-9
+2851,T3D3824,Diclofop-methyl,51338-27-3
+2852,T3D3825,Diclosulam,145701-21-9
+2853,T3D3826,Dicrotophos,141-66-2
+2854,T3D3827,Diethyltoluamide,134-62-3
+2855,T3D3828,Difenoconazole,119446-68-3
+2856,T3D3829,Difenzoquat metilsulfate,43222-48-6
+2857,T3D3830,Dimethenamid,87674-68-8
+2858,T3D3831,Emamectin benzoate,155569-91-8
+2859,T3D3832,Ethalfluralin,55283-68-6
+2860,T3D3833,Ethephon,16672-87-0
+2861,T3D3834,Etoxazole,153233-91-1
+2862,T3D3835,Etridiazole,2593-15-9
+2863,T3D3836,Fenamidone,161326-34-7
+2864,T3D3837,Fenamiphos,22224-92-6
+2865,T3D3838,Fenhexamid,126833-17-8
+2866,T3D3839,Fenitrothion,122-14-5
+2867,T3D3840,Fluazifop-butyl,69806-50-4
+2868,T3D3841,Fluazifop-P-butyl,79241-46-6
+2869,T3D3842,Fluazinam,79622-59-6
+2870,T3D3843,Flufenacet,142459-58-3
+2871,T3D3844,Flufenpyr-ethyl,188489-07-8
+2872,T3D3845,Flumetsulam,98967-40-9
+2873,T3D3846,Flumiclorac-pentyl,87546-18-7
+2874,T3D3847,Flumioxazin,103361-09-7
+2875,T3D3848,Fluroxypyr,69377-81-7
+2876,T3D3849,Fluroxypyr-meptyl,81406-37-3
+2877,T3D3850,Flusilazole,85509-19-9
+2878,T3D3851,Fluthiacet-methyl,117337-19-6
+2879,T3D3852,Flutolanil,66332-96-5
+2880,T3D3853,Folpet,133-07-3
+2881,T3D3855,Fosthiazate,98886-44-3
+2882,T3D3856,Halosulfuron-methyl,100784-20-1
+2883,T3D3857,Hexazinone,51235-04-2
+2884,T3D3858,HPTE,2971-36-0
+2885,T3D3859,Icaridin,119515-38-7
+2886,T3D3860,Enilconazole,35554-44-0
+2887,T3D3861,Imazamox,114311-32-9
+2888,T3D3862,Imazapic,104098-48-8
+2889,T3D3863,Imazaquin,81335-37-7
+2890,T3D3864,Indoxacarb,173584-44-6
+2891,T3D3865,Iodosulfuron-methyl-sodium,144550-36-7
+2892,T3D3866,Iprodione,36734-19-7
+2893,T3D3867,Isoxaben,82558-50-7
+2894,T3D3868,Isoxaflutole,141112-29-0
+2895,T3D3869,Lactofen,77501-63-4
+2896,T3D3870,Malathion,121-75-5
+2897,T3D3871,Maleic hydrazide,123-33-1
+2898,T3D3872,Mancozeb,8018-01-07
+2899,T3D3873,Monobutylphthalate,131-70-4
+2900,T3D3874,Mepiquat chloride,24307-26-4
+2901,T3D3875,Mesosulfuron-methyl,208465-21-8
+2902,T3D3877,Metam-sodium hydrate,6734-80-1
+2903,T3D3878,(±)-Methamidophos,115182-35-9
+2904,T3D3879,Methidathion,950-37-8
+2905,T3D3880,Methoxyfenozide,161050-58-4
+2906,T3D3881,Methyl cellusolve,9004-74-4
+2907,T3D3882,Metribuzin,21087-64-9
+2908,T3D3883,Metsulfuron-methyl,74223-64-6
+2909,T3D3884,Mevinphos,7786-34-7
+2910,T3D3885,MGK,113-48-4
+2911,T3D3886,Monomethyl phthalate,4376-18-5
+2912,T3D3887,Milbemectin (mixture),51596-11-3
+2913,T3D3888,(E)-Monocrotophos,6923-22-4
+2914,T3D3889,Myclobutanil,88671-89-0
+2915,T3D3890,Napropamide,15299-99-7
+2916,T3D3891,Niclosamide,50-65-7
+2917,T3D3892,Nitrapyrin,1929-82-4
+2918,T3D3893,Norflurazon,27314-13-2
+2919,T3D3894,Oxadiazon,19666-30-9
+2920,T3D3895,Oxasulfuron,144651-06-9
+2921,T3D3896,Oxyfluorfen,42874-03-3
+2922,T3D3897,Paclobutrazol,76738-62-0
+2923,T3D3898,Penoxsulam,219714-96-2
+2924,T3D3899,Perfluorooctanesulfonic acid,1763-23-1
+2925,T3D3900,2-Phenoxyethanol,122-99-6
+2926,T3D3901,Phosalone,2310-17-0
+2927,T3D3902,Primisulfuron-methyl,86209-51-0
+2928,T3D3903,Prochloraz,67747-09-5
+2929,T3D3904,Prohexadione-calcium,127277-53-6
+2930,T3D3905,Prometon,1610-18-0
+2931,T3D3906,Prometryn,7287-19-6
+2932,T3D3907,Propargite,2312-35-8
+2933,T3D3908,Propazine,139-40-2
+2934,T3D3909,Propetamphos,31218-83-4
+2935,T3D3910,Propiconazole,60207-90-1
+2936,T3D3911,Propoxycarbazone-sodium,181274-15-7
+2937,T3D3912,Prosulfuron,94125-34-5
+2938,T3D3913,Pymetrozine,123312-89-0
+2939,T3D3914,Pyraclostrobin,175013-18-0
+2940,T3D3915,Pyridaben,96489-71-3
+2941,T3D3916,Pyriproxyfen,95737-68-1
+2942,T3D3917,Pyrithiobac-sodium,123343-16-8
+2943,T3D3918,Quinclorac,84087-01-4
+2944,T3D3919,Quizalofop-ethyl,76578-14-8
+2945,T3D3920,S-Bioallethrin,28434-00-6
+2946,T3D3921,Sethoxydim,74051-80-2
+2947,T3D3922,Simazine,122-34-9
+2948,T3D3923,Spiroxamine,118134-30-8
+2949,T3D3924,Sulfentrazone,122836-35-5
+2950,T3D3925,Tebufenozide,112410-23-8
+2951,T3D3926,Tebufenpyrad,119168-77-3
+2952,T3D3927,Tebupirimfos,96182-53-5
+2953,T3D3928,Tebuthiuron,34014-18-1
+2954,T3D3929,Tepraloxydim,149979-41-9
+2955,T3D3930,Tetraconazole,112281-77-3
+2956,T3D3931,Thiabendazole,148-79-8
+2957,T3D3932,Thiamethoxam,153719-23-4
+2958,T3D3933,Thiazopyr,117718-60-2
+2959,T3D3934,Thiophanate-methyl,23564-05-8
+2960,T3D3935,Tralkoxydim,87820-88-0
+2961,T3D3936,Triasulfuron,82097-50-5
+2962,T3D3937,Tribenuron-methyl,101200-48-0
+2963,T3D3938,Trichlorfon,52-68-6
+2964,T3D3939,Triclosan,3380-34-5
+2965,T3D3940,Trifloxysulfuron-sodium,199119-58-9
+2966,T3D3941,Triflusulfuron-methyl,126535-15-7
+2967,T3D3942,Vinclozolin,50471-44-8
+2968,T3D3943,"2,5-Pyridinedicarboxylic acid, dipropyl ester",136-45-8
+2969,T3D3944,2-Tert-butylphenol,88-18-6
+2970,T3D3945,2-Isopropylphenol,88-69-7
+2971,T3D3946,4-Tert-octylphenol,140-66-9
+2972,T3D3947,"3,4-Dichlorophenol",95-77-2
+2973,T3D3948,Tetrachlorobisphenol A,79-95-8
+2974,T3D3949,4-Phenylphenol,92-69-3
+2975,T3D3950,Doxycycline,564-25-0
+2976,T3D3951,Demeclocycline,127-33-3
+2977,T3D3952,Lymecycline,992-21-2
+2978,T3D3953,Oxytetracycline,79-57-2
+2979,T3D3954,Chloramphenicol,56-75-7
+2980,T3D3955,Tetracycline,60-54-8
+2981,T3D3956,Cotinine,486-56-6
+2982,T3D3957,Molybdenum,7439-98-7
+2983,T3D3958,Diethylthiophosphate,5871-17-0
+2984,T3D3959,Tungsten,7440-33-7
+2985,T3D3960,Monoisobutyl phthalic acid,30833-53-5
+2986,T3D3961,Monoethyl phthalate,2306-33-4
+2987,T3D3962,Equol,531-95-3
+2988,T3D3964,Daidzein,486-66-8
+2989,T3D3965,O-Desmethylangolensin,21255-69-6
+2990,T3D3967,Enterolactone,76543-15-2
+2991,T3D3968,1-Naphthol,90-15-3
+2992,T3D3969,Diethylphosphate,598-02-7
+2993,T3D3970,2-Naphthol,135-19-3
+2994,T3D3971,1-Hydroxypyrene,5315-79-7
+2995,T3D3973,Monoethylhexyl phthalic acid,4376-20-9
+2996,T3D3974,Cesium,7440-46-2
+2997,T3D3975,Thallium,7440-28-0
+2998,T3D3976,Benzophenone,119-61-9
+2999,T3D3977,Methylparaben,99-76-3
+3000,T3D3978,Ethylparaben,120-47-8
+3001,T3D3979,Propylparaben,94-13-3
+3002,T3D3980,Butylparaben,94-26-8
+3003,T3D3981,2-Biphenylol,90-43-7
+3004,T3D3982,"2,5-Dimethylfuran",625-86-5
+3005,T3D3984,4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol,76014-81-8
+3006,T3D3985,Perfluorooctanoic acid,335-67-1
+3007,T3D3990,3-Hydroxyfluorene,6344-67-8
+3008,T3D3991,9-Hydroxyfluorene,1689-64-1
+3009,T3D3992,Uranium,
+3010,T3D3999,Perfluorodecanoic acid,335-76-2
+3011,T3D4001,Perfluorononanoic acid,375-95-1
+3012,T3D4005,Perfluoroundecanoic acid,2058-94-8
+3013,T3D4006,Mono-benzyl phthalate,2528-16-7
+3014,T3D4015,Protopine,130-86-9
+3015,T3D4016,Vincristine,57-22-7
+3016,T3D4017,Vinblastine,865-21-4
+3017,T3D4018,Ouabain,630-60-4
+3018,T3D4019,Paclitaxel,33069-62-4
+3019,T3D4020,Colchicine,64-86-8
+3020,T3D4021,Digitoxin,71-63-6
+3021,T3D4022,Sanguinarine,2447-54-3
+3022,T3D4023,Neosaxitoxin,64296-20-4
+3023,T3D4024,L-Hypoglycin A,156-56-9
+3024,T3D4025,Hypoglycin B,502-37-4
+3025,T3D4026,(+)-Calycanthine,595-05-1
+3026,T3D4027,(S)-Isocorydine,475-67-2
+3027,T3D4028,(S)-2-Propylpiperidine,458-88-8
+3028,T3D4029,Okadaic acid,78111-17-8
+3029,T3D4030,Dinophysistoxin 1,81720-10-7
+3030,T3D4032,Cyclochlorotine,12663-46-6
+3031,T3D4038,Gonyautoxin I,60748-39-2
+3032,T3D4039,Gonyautoxin II,60508-89-6
+3033,T3D4040,Domoic acid,14277-97-5
+3034,T3D4042,alpha-Solanine,20562-02-1
+3035,T3D4050,alpha-Chaconine,20562-03-2
+3036,T3D4051,Gymnodimine,173792-58-0
+3037,T3D4052,alpha-Zearalenol,36455-72-8
+3038,T3D4053,beta-Zearalenol,71030-11-0
+3039,T3D4056,Debromoaplysiatoxin,52423-28-6
+3040,T3D4059,Senecionine,130-01-8
+3041,T3D4060,Retronecine,480-85-3
+3042,T3D4061,Veratridine,71-62-5
+3043,T3D4063,Ranunculin,644-69-9
+3044,T3D4064,Lycorine,476-28-8
+3045,T3D4065,Mesaconitine,2752-64-9
+3046,T3D4066,Ryanodine,15662-33-6
+3047,T3D4067,Convallatoxin,508-75-8
+3048,T3D4068,C-Curarine,7168-64-1
+3049,T3D4069,Phorbol,17673-25-5
+3050,T3D4071,Gelsemine,509-15-9
+3051,T3D4073,Bicuculline,485-49-4
+3052,T3D4074,Coriamyrtin,2571-86-0
+3053,T3D4078,Lasiocarpine,303-34-4
+3054,T3D4080,Dictamnine,484-29-7
+3055,T3D4081,Matrine,519-02-8
+3056,T3D4082,Cyclopamine,4449-51-8
+3057,T3D4083,Jervine,469-59-0
+3058,T3D4084,Veratramine,60-70-8
+3059,T3D4086,Chelerythrine,34316-15-9
+3060,T3D4087,Chelidonine,476-32-4
+3061,T3D4088,Lyngbyatoxin A,70497-14-2
+3062,T3D4092,Dicentrine,517-66-8
+3063,T3D4103,Nantenine,2565-01-7
+3064,T3D4113,Aristolochic acid,313-67-7
+3065,T3D4124,Anatoxin a,64285-06-9
+3066,T3D4128,Brevetoxin B,79580-28-2
+3067,T3D4138,Anatoxin-a(s),103170-78-1
+3068,T3D4148,Dimethylamine,124-40-3
+3069,T3D4149,Guanidoacetic acid,352-97-6
+3070,T3D4150,Hypoxanthine,68-94-0
+3071,T3D4151,Methylamine,74-89-5
+3072,T3D4152,Indoleacetic acid,87-51-4
+3073,T3D4153,Phenylacetic acid,103-82-2
+3074,T3D4154,Norepinephrine,51-41-2
+3075,T3D4156,L-Cysteine,52-90-4
+3076,T3D4157,Indican,1336-79-4
+3077,T3D4158,Indoxyl sulfate,487-94-5
+3078,T3D4159,Hippuric acid,495-69-2
+3079,T3D4160,Kynurenic acid,492-27-3
+3080,T3D4161,Homocysteine,454-29-5
+3081,T3D4162,Neopterin,2009-64-5
+3082,T3D4163,Trimethylamine,75-50-3
+3083,T3D4164,Trimethylamine N-oxide,1184-78-7
+3084,T3D4165,2-Aminobenzoic acid,118-92-3
+3085,T3D4166,Spermine,71-44-3
+3086,T3D4167,Spermidine,124-20-9
+3087,T3D4168,Niacinamide,98-92-0
+3088,T3D4169,Putrescine,110-60-1
+3089,T3D4170,Methylguanidine,471-29-4
+3090,T3D4171,Asymmetric dimethylarginine,30315-93-6
+3091,T3D4172,Guanidine,113-00-8
+3092,T3D4173,Argininic acid,157-07-3
+3093,T3D4174,Guanidinosuccinic acid,6133-30-8
+3094,T3D4175,8-Hydroxy-deoxyguanosine,88847-89-6
+3095,T3D4176,Symmetric dimethylarginine,30344-00-4
+3096,T3D4177,Pentosidine,124505-87-9
+3097,T3D4178,N1-Methyl-2-pyridone-5-carboxamide,701-44-0
+3098,T3D4179,N1-Methyl-4-pyridone-3-carboxamide,769-49-3
+3099,T3D4180,4-Hydroxynonenal,75899-68-2
+3100,T3D4181,Hexanal,66-25-1
+3101,T3D4182,Malondialdehyde,542-78-9
+3102,T3D4183,Decanal,112-31-2
+3103,T3D4184,p-Cresol sulfate,3233-58-7
+3104,T3D4185,Ethylamine,75-04-7
+3105,T3D4186,2-Octenal,2363-89-5
+3106,T3D4187,2-Nonenal,2463-53-8
+3107,T3D4188,Heptanal,111-71-7
+3108,T3D4189,2-Hexenal,505-57-7
+3109,T3D4190,2-Heptenal,2463-63-0
+3110,T3D4191,4-Decenal,30390-50-2
+3111,T3D4192,Nonanal,124-19-6
+3112,T3D4193,4-Hydroxydecenal,73529-64-3
+3113,T3D4194,4-Hydroxyhexanal,109710-36-3
+3114,T3D4195,4-Hydroxyoctenal,17449-15-9
+3115,T3D4196,Alpha-keto-delta-guanidinovaleric acid,3715-10-4
+3116,T3D4197,3-Carboxy-4-methyl-5-propyl-2-furan-propanoic acid,86879-39-2
+3117,T3D4198,N(6)-Carboxymethyllysine,5746-04-3
+3118,T3D4199,Dihydroxyphenylalanine,63-84-3
+3119,T3D4200,Inodxyl glucuronide,35804-66-1
+3120,T3D4201,Caffeic acid,331-39-5
+3121,T3D4202,Carbamic acid,463-77-4
+3122,T3D4203,Furan,110-00-9
+3123,T3D4204,Mechlorethamine,51-75-2
+3124,T3D4207,Ethylene Oxide,75-21-8
+3125,T3D4209,Acetamide,60-35-5
+3126,T3D4212,Safrole,94-59-7
+3127,T3D4213,2-Aminonaphthalene,91-59-8
+3128,T3D4214,Diethylamine,71247-25-1
+3129,T3D4215,N'-nitrosonornicotine,16543-55-8
+3130,T3D4216,Nitrobenzene,98-95-3
+3131,T3D4217,O-Toluidine,95-53-4
+3132,T3D4218,"2,6-Dimethylaniline",87-62-7
+3133,T3D4224,Glycidol,556-52-5
+3134,T3D4232,Cylindrospermopsin,143545-90-8
+3135,T3D4234,Lipopolysaccharide,
+3136,T3D4235,Aplysiatoxin,52659-57-1
+3137,T3D4237,Fumaric acid,110-17-8
+3138,T3D4240,Androstenedione,63-05-8
+3139,T3D4242,Dehydroepiandrosterone sulfate,651-48-9
+3140,T3D4245,Deoxycorticosterone,64-85-7
+3141,T3D4247,L-2-Hydroxyglutaric acid,13095-48-2
+3142,T3D4250,Gamma-Aminobutyric acid,56-12-2
+3143,T3D4251,D-2-Hydroxyglutaric acid,2889-31-8
+3144,T3D4253,L-Lactic acid,79-33-4
+3145,T3D4257,Oxoadipic acid,3184-35-8
+3146,T3D4258,2-Hydroxyadipic acid,18294-85-4
+3147,T3D4259,Aminoadipic acid,542-32-5
+3148,T3D4262,3-Hydroxymethylglutaric acid,503-49-1
+3149,T3D4263,3-Hydroxyisovaleric acid,625-08-1
+3150,T3D4265,3-Methylglutaconic acid,5746-90-7
+3151,T3D4269,4-Hydroxybutyric acid,591-81-1
+3152,T3D4270,Pyroglutamic acid,98-79-3
+3153,T3D4273,5-Aminolevulinic acid,106-60-5
+3154,T3D4274,Porphobilinogen,487-90-1
+3155,T3D4275,Adenosine,58-61-7
+3156,T3D4276,Adenosine triphosphate,56-65-5
+3157,T3D4278,Deoxyadenosine triphosphate,1927-31-7
+3158,T3D4279,Adenine,73-24-5
+3159,T3D4281,SAICAR,3031-95-6
+3160,T3D4282,17-Hydroxyprogesterone,68-96-2
+3161,T3D4283,Testosterone,58-22-0
+3162,T3D4284,18-Hydroxycorticosterone,561-65-9
+3163,T3D4286,Hexacosanoic acid,506-46-7
+3164,T3D4287,Homogentisic acid,451-13-8
+3165,T3D4289,L-Arginine,74-79-3
+3166,T3D4290,Creatine,57-00-1
+3167,T3D4292,Orotic acid,65-86-1
+3168,T3D4294,Argininosuccinic acid,2387-71-5
+3169,T3D4295,Citrulline,372-75-8
+3170,T3D4296,L-Glutamic acid,56-86-0
+3171,T3D4298,5-Hydroxy-L-tryptophan,4350-09-8
+3172,T3D4300,Dopamine,51-61-6
+3173,T3D4304,Hydroxypropionic acid,503-66-2
+3174,T3D4307,D-Lactic acid,10326-41-7
+3175,T3D4310,N-Acetyl-L-aspartic acid,997-55-7
+3176,T3D4314,Cholesterol,57-88-5
+3177,T3D4318,Glycine,56-40-6
+3178,T3D4319,L-Glutamine,56-85-9
+3179,T3D4320,L-Alanine,56-41-7
+3180,T3D4322,Uroporphyrin III,18273-06-8
+3181,T3D4323,Coproporphyrin III,14643-66-4
+3182,T3D4324,Uroporphyrin I,607-14-7
+3183,T3D4325,Pyruvic acid,127-17-3
+3184,T3D4328,L-Methionine,63-68-3
+3185,T3D4330,Glyceric acid,473-81-4
+3186,T3D4332,Dihydrothymine,696-04-8
+3187,T3D4333,Dihydrouracil,504-07-4
+3188,T3D4343,Cholic acid,81-25-4
+3189,T3D4344,Potassium,7440-09-7
+3190,T3D4345,D-Fructose,53188-23-1
+3191,T3D4346,Beta-Alanine,107-95-9
+3192,T3D4349,Galactitol,608-66-2
+3193,T3D4350,Bilirubin,635-65-4
+3194,T3D4352,Glutathione,70-18-8
+3195,T3D4356,D-Glucose,50-99-7
+3196,T3D4357,3-Hydroxyglutaric acid,638-18-6
+3197,T3D4358,Glutaconic acid,1724-02-3
+3198,T3D4359,Glutaric acid,110-94-1
+3199,T3D4360,Glycerol,56-81-5
+3200,T3D4362,L-Asparagine,70-47-3
+3201,T3D4363,L-Histidine,71-00-1
+3202,T3D4364,L-Isoleucine,73-32-5
+3203,T3D4365,L-Leucine,61-90-5
+3204,T3D4366,L-Phenylalanine,63-91-2
+3205,T3D4367,L-Serine,56-45-1
+3206,T3D4368,L-Threonine,72-19-5
+3207,T3D4369,L-Tryptophan,73-22-3
+3208,T3D4370,L-Valine,72-18-4
+3209,T3D4371,L-Tyrosine,60-18-4
+3210,T3D4372,Hawkinsin,63224-90-8
+3211,T3D4398,Saccharopine,997-68-2
+3212,T3D4404,Methylmalonic acid,516-05-2
+3213,T3D4405,Calcium,7440-70-2
+3214,T3D4409,Xanthine,69-89-6
+3215,T3D4411,L-Proline,147-85-3
+3216,T3D4413,4-Hydroxyproline,51-35-4
+3217,T3D4424,3-Methyl-2-oxovaleric acid,1460-34-0
+3218,T3D4425,Alpha-ketoisovaleric acid,759-05-7
+3219,T3D4426,Ketoleucine,816-66-0
+3220,T3D4430,Deoxyuridine triphosphate,1173-82-6
+3221,T3D4434,S-Sulfocysteine,1637-71-4
+3222,T3D4435,Tyramine,51-67-2
+3223,T3D4438,Coproporphyrinogen III,2624-63-7
+3224,T3D4439,Protoporphyrinogen IX,7412-77-3
+3225,T3D4440,Protoporphyrin IX,553-12-8
+3226,T3D4442,Glyoxylic acid,298-12-4
+3227,T3D4444,Propionic acid,79-09-4
+3228,T3D4447,Propionyl-CoA,317-66-8
+3229,T3D4453,Succinic acid,110-15-6
+3230,T3D4454,Phytanic acid,14721-66-5
+3231,T3D4455,S-Adenosylhomocysteine,979-92-0
+3232,T3D4456,S-Adenosylmethionine,29908-03-0
+3233,T3D4458,Sarcosine,107-97-1
+3234,T3D4461,Ethylmalonic acid,601-75-2
+3235,T3D4466,Sulfite,14265-45-3
+3236,T3D4467,Chitin,1398-61-4
+3237,T3D4471,Succinylacetone,51568-18-4
+3238,T3D4476,Acetamiprid,135410-20-7
+3239,T3D4477,Atrazine,1912-24-9
+3240,T3D4478,Bensulfuron-methyl,83055-99-6
+3241,T3D4479,Bentazon,25057-89-0
+3242,T3D4480,Butralin,33629-47-9
+3243,T3D4481,Butylate,2008-41-5
+3244,T3D4482,Captafol,2425-06-1
+3245,T3D4483,Carboxin,5234-68-4
+3246,T3D4484,Chlorethoxyfos,54593-83-8
+3247,T3D4485,Chlorpyrifos oxon,5598-15-2
+3248,T3D4486,Clodinafop-propargyl,105512-06-9
+3249,T3D4487,Clomazone,81777-89-1
+3250,T3D4488,Clopyralid,1702-17-6
+3251,T3D4489,Coumaphos,56-72-4
+3252,T3D4490,Cyazofamid,120116-88-3
+3253,T3D4491,Cyclanilide,113136-77-9
+3254,T3D4492,Cyproconazole,94361-06-5
+3255,T3D4493,Cyromazine,66215-27-8
+3256,T3D4494,Diazoxon,962-58-3
+3257,T3D4495,Dimethomorph,110488-70-5
+3258,T3D4496,Diniconazole,83657-24-3
+3259,T3D4497,Diphenylamine,122-39-4
+3260,T3D4498,Diquat dibromide,85-00-7
+3261,T3D4499,Dithiopyr,97886-45-8
+3262,T3D4500,Diuron,330-54-1
+3263,T3D4501,Ethametsulfuron methyl,97780-06-8
+3264,T3D4502,Ethofumesate,26225-79-6
+3265,T3D4503,Ethylenethiourea,96-45-7
+3266,T3D4504,Famoxadone,131807-57-3
+3267,T3D4505,Fenarimol,60168-88-9
+3268,T3D4506,Fenbuconazole,114369-43-6
+3269,T3D4507,Fenoxaprop-ethyl,66441-23-4
+3270,T3D4509,Fludioxonil,131341-86-1
+3271,T3D4510,Flumetralin,62924-70-3
+3272,T3D4511,Fluometuron,2164-17-2
+3273,T3D4512,Fluoxastrobin,361377-29-9
+3274,T3D4513,Forchlorfenuron,68157-60-8
+3275,T3D4514,Hexaconazole,79983-71-4
+3276,T3D4515,Hexythiazox,78587-05-0
+3277,T3D4516,Imazapyr,81334-34-1
+3278,T3D4517,Isazofos,42509-80-8
+3279,T3D4518,Linuron,330-55-2
+3280,T3D4519,Malaoxon,1634-78-2
+3281,T3D4520,Maneb,12427-38-2
+3282,T3D4521,Novaluron,116714-46-6
+3283,T3D4522,Oryzalin,19044-88-3
+3284,T3D4523,Picloram,1918-02-1
+3285,T3D4524,Piperonyl butoxide,51-03-6
+3286,T3D4525,Pirimiphos-methyl,29232-93-7
+3287,T3D4526,Prallethrin,23031-36-9
+3288,T3D4527,Prodiamine,29091-21-2
+3289,T3D4528,Profenofos,41198-08-7
+3290,T3D4530,Propyzamide,23950-58-5
+3291,T3D4531,Pyraflufen-ethyl,129630-19-9
+3292,T3D4532,Pyrimethanil,53112-28-0
+3293,T3D4533,Quinoxyfen,124495-18-7
+3294,T3D4534,Quintozene,82-68-8
+3295,T3D4535,Rimsulfuron,122931-48-0
+3296,T3D4536,Spirodiclofen,148477-71-8
+3297,T3D4538,TCMTB,21564-17-0
+3298,T3D4539,Terbacil,5902-51-2
+3299,T3D4540,Thiacloprid,111988-49-9
+3300,T3D4541,Thidiazuron,51707-55-2
+3301,T3D4542,Thiram,137-26-8
+3302,T3D4543,Triadimefon,43121-43-3
+3303,T3D4544,Triadimenol,55219-65-3
+3304,T3D4545,Triclopyr,55335-06-3
+3305,T3D4546,Trifloxystrobin,141517-21-7
+3306,T3D4547,Triflumizole,68694-11-1 and 99387-89-0
+3307,T3D4548,Trifluralin,1582-09-8
+3308,T3D4549,Triticonazole,131983-72-7
+3309,T3D4550,Zoxamide,156052-68-5
+3310,T3D4551,Doxylamine,469-21-6
+3311,T3D4552,Eszopiclone,138729-47-2
+3312,T3D4553,Carbinoxamine,486-16-8
+3313,T3D4554,Brompheniramine,86-22-6
+3314,T3D4555,Pseudoephedrine,90-82-4
+3315,T3D4556,Guaifenesin,93-14-1
+3316,T3D4557,Desloratadine,100643-71-8
+3317,T3D4558,Azelastine,58581-89-8
+3318,T3D4560,Promethazine,60-87-7
+3319,T3D4561,Amobarbital,57-43-2
+3320,T3D4562,Heroin,561-27-3
+3321,T3D4563,Dexmethylphenidate,40431-64-9
+3322,T3D4564,Clobazam,22316-47-8
+3323,T3D4565,Haloxazolam,59128-97-1
+3324,T3D4566,Camazepam,36104-80-0
+3325,T3D4567,Delorazepam,2894-67-9
+3326,T3D4568,Ethyl loflazepate,29177-84-2
+3327,T3D4569,Cloxazolam,24166-13-0
+3328,T3D4570,Fludiazepam,3900-31-0
+3329,T3D4571,Ketazolam,27223-35-4
+3330,T3D4572,Tofisopam,22345-47-7
+3331,T3D4573,Brotizolam,57801-81-7
+3332,T3D4575,Pyrocatechol,120-80-9
+3333,T3D4576,Guaiacol,1990-05-01
+3334,T3D4577,Hydroquinone,123-31-9
+3335,T3D4578,Quinone,106-51-4
+3336,T3D4580,"1,3-Benzenediol",108-46-3
+3337,T3D4581,"1-Methyl-6-phenyl-1H-imidazo[4,5-b]pyridin-2-amine",105650-23-5
+3338,T3D4583,Ethyl carbamate,51-79-6
+3339,T3D4584,Etizolam,40054-69-1
+3340,T3D4585,Lormetazepam,848-75-9
+3341,T3D4586,Pinazepam,52463-83-9
+3342,T3D4587,Tetrazepam,10379-14-3
+3343,T3D4588,Nordiazepam,1088-11-5
+3344,T3D4589,Butanone,78-93-3
+3345,T3D4592,Butyric acid,107-92-6
+3346,T3D4594,Caprylic acid,124-07-2
+3347,T3D4595,Caproic acid,142-62-1
+3348,T3D4596,Dodecanoic acid,143-07-7
+3349,T3D4597,Heptanoic acid,111-14-8
+3350,T3D4599,Myristic acid,544-63-8
+3351,T3D4604,Tridecanoic acid,638-53-9
+3352,T3D4617,Podofilox,477-47-4
+3353,T3D4618,Prunasin,99-18-3
+3354,T3D4619,Sambunigrin,99-19-4
+3355,T3D4627,"7H-Dibenzo[c,g]carbazole",194-59-2
+3356,T3D4630,3-Aminobiphenyl,2243-47-2
+3357,T3D4631,N-(2-Cyanoethyl)valine,51078-49-0
+3358,T3D4636,"1,2-Naphthoquinone",524-42-5
+3359,T3D4637,"1,4-Naphthoquinone",130-15-4
+3360,T3D4646,Doxefazepam,40762-15-0
+3361,T3D4647,Loprazolam,61197-73-7
+3362,T3D4648,Medazepam,2898-12-6
+3363,T3D4649,Mexazolam,31868-18-5
+3364,T3D4650,Nimetazepam,2011-67-8
+3365,T3D4651,Oxazolam,24143-17-7
+3366,T3D4652,Bromomethyl ethyl ketone,816-40-0
+3367,T3D4653,Phosgene oxime,1794-86-1
+3368,T3D4654,Trichloronitroso-methane,3711-49-7
+3369,T3D4655,Chloropicrin,76-06-2
+3370,T3D4656,P-Chloroacetophenone,99-91-2
+3371,T3D4657,P-Chlorobenzylidenemalonitrile,1867-38-5
+3372,T3D4658,"Dibenz(b,F)-1,4-oxazepine",257-07-8
+3373,T3D4659,a-Chloroacetophenone,532-27-4
+3374,T3D4660,2-Chlorobenzylidene malononitrile,2698-41-1
+3375,T3D4661,Ethyl iodoacetate,623-48-3
+3376,T3D4662,Chloracetone,78-95-5
+3377,T3D4666,Sodium chloride,7647-14-5
+3378,T3D4668,Estradiol,50-28-2
+3379,T3D4669,"2,4-Toluenediamine",95-80-7
+3380,T3D4672,"4,4'-Methylenedianiline",101-77-9
+3381,T3D4673,Adapalene,106685-40-9
+3382,T3D4674,Amsacrine,51264-14-3
+3383,T3D4675,Arecoline,63-75-2
+3384,T3D4676,Azacitidine,320-67-2
+3385,T3D4677,Azathioprine,446-86-6
+3386,T3D4681,Carmustine,154-93-8
+3387,T3D4684,Chlorambucil,305-03-3
+3388,T3D4685,Chloromethyl methyl ether,107-30-2
+3389,T3D4686,Cisplatin,15663-27-1
+3390,T3D4688,Cyclophosphamide,50-18-0
+3391,T3D4689,Dacarbazine,4342-03-4
+3392,T3D4690,Dichloroacetic Acid,79-43-6
+3393,T3D4693,Equilin,474-86-2
+3394,T3D4695,Etoposide,33419-42-0
+3395,T3D4696,Griseofulvin,126-07-8
+3396,T3D4697,Iron,7439-89-6
+3397,T3D4699,Isopropyl alcohol,67-63-0
+3398,T3D4700,Lomustine,13010-47-4
+3399,T3D4702,Melphalan,148-82-3
+3400,T3D4703,Metronidazole,443-48-1
+3401,T3D4705,Nitrilotriacetic Acid,139-13-9
+3402,T3D4707,Phenacetin,62-44-2
+3403,T3D4708,Phenolphthalein,77-09-8
+3404,T3D4710,Prednisone,53-03-2
+3405,T3D4711,Procarbazine,671-16-9
+3406,T3D4712,Propylthiouracil,51-52-5
+3407,T3D4714,Tamoxifen,10540-29-1
+3408,T3D4715,Teniposide,29767-20-2
+3409,T3D4716,Thiotepa,52-24-4
+3410,T3D4718,Uracil mustard,66-75-1
+3411,T3D4719,Zalcitabine,7481-89-2
+3412,T3D4720,Zidovudine,30516-87-1
+3413,T3D4725,Ozone,10028-15-6
+3414,T3D4726,Alteplase,105857-23-6
+3415,T3D4727,Streptokinase,9002-01-1
+3416,T3D4729,Diclofenac,15307-86-5
+3417,T3D4730,Medroxyprogesterone Acetate,71-58-9
+3418,T3D4731,Potassium Chloride,7447-40-7
+3419,T3D4732,Tacrolimus,104987-11-3
+3420,T3D4733,Quinapril,85441-61-8
+3421,T3D4734,Salmeterol,89365-50-4
+3422,T3D4735,Salbutamol,18559-94-9
+3423,T3D4736,Fludarabine,75607-67-9
+3424,T3D4737,Amiodarone,1951-25-3
+3425,T3D4738,Encainide,66778-36-7
+3426,T3D4739,Imipenem,74431-23-5
+3427,T3D4740,Hexestrol,84-16-2
+3428,T3D4741,Aminopterin,54-62-6
+3429,T3D4742,Sodium Tetradecyl Sulfate,1191-50-0
+3430,T3D4743,Ethinyl Estradiol,57-63-6
+3431,T3D4744,Diethylstilbestrol,56-53-1
+3432,T3D4745,Norethindrone,68-22-4
+3433,T3D4746,Estrone,53-16-7
+3434,T3D4747,Cyproterone acetate,427-51-0
+3435,T3D4748,Methyltestosterone,58-18-4
+3436,T3D4749,Levonorgestrel,797-63-7
+3437,T3D4750,Busulfan,55-98-1
+3438,T3D4751,Dihydrotestosterone,521-18-6
+3439,T3D4752,Nitrofural,59-87-0
+3440,T3D4753,Spironolactone,52-01-7
+3441,T3D4754,Testosterone Propionate,57-85-2
+3442,T3D4755,Stearic acid,57-11-4
+3443,T3D4756,Triamcinolone,124-94-7
+3444,T3D4757,Fulvestrant,129453-61-8
+3445,T3D4758,Quercetin,117-39-5
+3446,T3D4759,Liothyronine,6893-02-3
+3447,T3D4760,Alpha-Cyclodextrin (Cyclohexa-Amylose),10016-20-3
+3448,T3D4761,Butylbenzene,104-51-8
+3449,T3D4762,"1,3-Butanediol",107-88-0
+3450,T3D4763,Cyclohexanol,108-93-0
+3451,T3D4764,Erythromycin,114-07-8
+3452,T3D4765,Tolazamide,1156-19-0
+3453,T3D4766,N-Decane,124-18-5
+3454,T3D4767,Hydroxyurea,127-07-1
+3455,T3D4768,Flutamide,13311-84-7
+3456,T3D4769,Ethanolamine,141-43-5
+3457,T3D4770,Tioguanine,154-42-7
+3458,T3D4771,Celecoxib,169590-42-5
+3459,T3D4772,Stavudine,3056-17-5
+3460,T3D4773,Capric acid,334-48-5
+3461,T3D4774,Cladribine,4291-63-8
+3462,T3D4775,Fenofibrate,49562-28-9
+3463,T3D4776,Fluorouracil,51-21-8
+3464,T3D4777,Isoniazid,54-85-3
+3465,T3D4778,Propylene glycol,57-55-6
+3466,T3D4779,Pyrimethamine,58-14-0
+3467,T3D4780,Theophylline,58-55-9
+3468,T3D4781,Hydrochlorothiazide,58-93-5
+3469,T3D4782,Pentadecane,629-62-9
+3470,T3D4783,Nilutamide,63612-50-0
+3471,T3D4784,Clofibrate,637-07-0
+3472,T3D4785,Benzoic acid,65-85-0
+3473,T3D4786,Didanosine,69655-05-6
+3474,T3D4787,Lovastatin,75330-75-5
+3475,T3D4788,Simvastatin,79902-63-9
+3476,T3D4789,Troglitazone,97322-87-7
+3477,T3D4790,Estriol,50-27-1
+3478,T3D4791,Mestranol,72-33-3
+3479,T3D4792,17-Hydroxyprogesterone caproate,630-56-8
+3480,T3D4793,Rhodamine 6g,989-38-8
+3481,T3D4795,Kaempferol,520-18-3
+3482,T3D4796,Anastrozole,120511-73-1
+3483,T3D4797,Palmitic acid,57-10-3
+3484,T3D4798,Iopanoic acid,96-83-3
+3485,T3D4799,Azelaic Acid,123-99-9
+3486,T3D4800,Maleic acid,110-16-7
+3487,T3D4801,Tetraethylene Glycol,112-60-7
+3488,T3D4802,Oleic acid,112-80-1
+3489,T3D4803,Letrozole,112809-51-5
+3490,T3D4804,"2,4,6-Tribromophenol",118-79-6
+3491,T3D4805,Phenylacetaldehyde,122-78-1
+3492,T3D4806,Aminoglutethimide,125-84-8
+3493,T3D4807,Oxybenzone,131-57-7
+3494,T3D4808,Fluorescein,2321-07-5
+3495,T3D4809,Gemfibrozil,25812-30-0
+3496,T3D4810,N-Butyl-Benzenesulfonamide,3622-84-2
+3497,T3D4811,Farnesol,4602-84-0
+3498,T3D4812,Alpha-Linolenic Acid,463-40-1
+3499,T3D4813,Masoprocol,500-38-9
+3500,T3D4814,Cetyl-Trimethyl-Ammonium,57-09-0
+3501,T3D4815,"1,10-Phenanthroline",66-71-7
+3502,T3D4816,Salicylic acid,69-72-7
+3503,T3D4817,Riboflavin,83-88-5
+3504,T3D4818,Bicalutamide,90357-06-5
+3505,T3D4819,Indene,95-13-6
+3506,T3D4820,Finasteride,98319-26-7
+3507,T3D4821,Gentian Violet,14426-25-6
+3508,T3D4824,CP-122721,145742-28-5
+3509,T3D4825,Ilepatril,473289-62-2
+3510,T3D4826,"3,4-Dimethylphenol",95-65-8
+3511,T3D4827,Forskolin,64657-11-0 and 66575-29-9
+3512,T3D4828,Ethylphosphate,78-40-0
+3513,T3D4829,1-Octen-3-Ol,3391-86-4
+3514,T3D4830,Glycoluril,496-46-8
+3515,T3D4831,Octyl gallate,1034-01-1
+3516,T3D4832,17a-Estradiol,57-91-0
+3517,T3D4833,Triethyl citrate,77-93-0
+3518,T3D4834,Metenamine,100-97-0
+3519,T3D4835,Triethanolamine,102-71-6
+3520,T3D4836,4-Nonylphenol,104-40-5
+3521,T3D4837,Geranyl acetate,105-87-3
+3522,T3D4838,beta-Geraniol,106-24-1
+3523,T3D4839,Isoamyl butyrate,106-27-4
+3524,T3D4840,Propylene glycol mono- and diesters of fats and fatty acids,107-98-2
+3525,T3D4841,Dimethylethanolamine,108-01-0
+3526,T3D4842,Dibutyl decanedioate,109-43-3
+3527,T3D4843,"(2E,4E)-2,4-Hexadienoic acid",110-44-1
+3528,T3D4844,Glutaral,111-30-8
+3529,T3D4845,Diethanolamine,111-42-2
+3530,T3D4846,Methyl dodecanoate,111-82-0
+3531,T3D4847,Undecylenic acid,112-38-9
+3532,T3D4848,Methyl 2-hydroxybenzoate,119-36-8
+3533,T3D4849,Vanillin,121-33-5
+3534,T3D4850,Propyl gallate,121-79-9
+3535,T3D4851,Isopentyl acetate,123-92-2
+3536,T3D4852,Carmine red,1260-17-9
+3537,T3D4853,"3-Methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-3-buten-2-one",127-51-5
+3538,T3D4854,Sorbitan oleate,1338-43-8
+3539,T3D4855,Hexylresorcinol,136-77-6
+3540,T3D4857,2(3H)-Benzothiazolethione,149-30-4
+3541,T3D4858,Acid yellow 23,1934-21-0
+3542,T3D4859,"2-tert-Butyl-1,4-benzenediol",1948-33-0
+3543,T3D4860,Allura red AC,25956-17-6
+3544,T3D4861,"1,2-Benzisothiazol-3(2H)-one",2634-33-5
+3545,T3D4862,Disodium 6-hydroxy-5-[(4-sulfophenyl)azo]-2-naphthalenesulfonate,2783-94-0
+3546,T3D4863,1-Hexadecanol,36653-82-4
+3547,T3D4864,Erioglaucine A disodium salt,3844-45-9
+3548,T3D4865,Sodium dehydroacetate,4418-26-2
+3549,T3D4866,cis-Citral,5392-40-5
+3550,T3D4867,"2,6-Dimethylphenol",576-26-1
+3551,T3D4868,"2,6-Diethylaniline",579-66-8
+3552,T3D4869,Dimethyl adipate,627-93-0
+3553,T3D4870,Trichloroacetic acid,76-03-9
+3554,T3D4871,Acetyl tributyl citrate,77-90-7
+3555,T3D4872,Tartaric acid,87-69-4
+3556,T3D4873,"(±)-2-(1-Methylpropyl)-4,6-dinitrophenol",88-85-7
+3557,T3D4874,Ethoxyquin,91-53-2
+3558,T3D4875,Coumarin,91-64-5
+3559,T3D4876,Methyleugenol,93-15-2
+3560,T3D4877,"1,2,4-Trimethylbenzene",95-63-6
+3561,T3D4878,"2,4-Di-tert-butylphenol",96-76-4
+3562,T3D4879,Eugenol,97-53-0
+3563,T3D4880,Isoeugenol,97-54-1
+3564,T3D4881,4-tert-Butylphenol,98-54-4
+3565,T3D4882,p-Cymene,99-87-6
+3566,T3D4883,Sebacic acid,111-20-6
+3567,T3D4884,"2,6-Dimethyl-4-heptanone",108-83-8
+3568,T3D4885,2-Ethyl-1-hexanol sulfate,126-92-1
+3569,T3D4886,Biochanin A,491-80-5
+3570,T3D4887,Heptyl 4-hydroxybenzoate,1085-12-7
+3571,T3D4888,Apigenin,520-36-5
+3572,T3D4889,trans-Cinnamic acid,140-10-3
+3573,T3D4890,Gamma-terpinene,99-85-4
+3574,T3D4891,Thiourea,62-56-6
+3575,T3D4892,2-Hydroxybenzaldehyde,90-02-8
+3576,T3D4893,"5,7-Dihydroxyflavone",480-40-0
+3577,T3D4894,"4-Methyl-3-penten-2-one, 9CI",141-79-7
+3578,T3D4895,"4-Acetyl-6-tert-butyl-1,1-dimethylindane",13171-00-1
+3579,T3D4896,Phosphoric acid,7664-38-2
+3580,T3D4897,Benzyl cinnamate,103-41-3
+3581,T3D4898,Chloroacetaldehyde,107-20-0
+3582,T3D4899,5-Methyl-2-hexanone,110-12-3
+3583,T3D4900,1-Hexanol,111-27-3
+3584,T3D4901,Diethylenetriamine,111-40-0
+3585,T3D4902,Methyl linoleate,112-63-0
+3586,T3D4903,Linalyl acetate,115-95-7
+3587,T3D4904,Dodecyl gallate,1166-52-5
+3588,T3D4905,Phenyl salicylate,118-55-8
+3589,T3D4906,Benzoin,119-53-9
+3590,T3D4907,"4,5-Dichloro-3H-1,3-dithiol-2-one",1192-52-5
+3591,T3D4908,2-Pentyl-3-phenyl-2-propenal,122-40-7
+3592,T3D4909,Benzylideneacetone,122-57-6
+3593,T3D4910,Retinol acetate,127-47-9
+3594,T3D4911,"2,6-Di-tert-butyl-4-methylphenol",128-37-0
+3595,T3D4912,Ascorbyl palmitate,137-66-6
+3596,T3D4913,Butyl lactate,138-22-7
+3597,T3D4914,Fd&c red no. 3,16423-68-0
+3598,T3D4915,gamma-Cyclodextrin,17465-86-0
+3599,T3D4916,Fast green FCF,2353-45-9
+3600,T3D4917,"Polypropylene glycol (m w 1,200-3,000)",25322-69-4
+3601,T3D4918,Isobornyl propionate,2756-56-1
+3602,T3D4919,"Ethyl 2Z,4E-decadienoic acid",3025-30-7
+3603,T3D4920,Paraoxon,311-45-5
+3604,T3D4921,Diflubenzuron,35367-38-5
+3605,T3D4922,"2,6-Di-tert-butyl-4-ethylphenol",4130-42-1
+3606,T3D4923,C.I. Food Red 1,4548-53-2
+3607,T3D4924,Flavone,525-82-6
+3608,T3D4926,D-Xylose,58-86-6
+3609,T3D4927,Terpinolene,586-62-9
+3610,T3D4928,Linoleic acid,60-33-3
+3611,T3D4929,Nerolidol,7212-44-4
+3612,T3D4930,(-)-alpha-Pinene,7785-26-4
+3613,T3D4931,"3,7-Dimethyl-3-octanol",78-69-3
+3614,T3D4932,Dimethyl dialkyl ammonium chloride,8001-54-5
+3615,T3D4933,4-tert-Butylphenyl salicylate,87-18-3
+3616,T3D4934,Methyl beta-naphthyl ketone,93-08-3
+3617,T3D4935,Ethyl benzoate,93-89-0
+3618,T3D4936,Allantoin,97-59-6
+3619,T3D4937,4-Hydroxytamoxifen,68047-06-3
+3620,T3D4938,2-Ethylhexanoic acid,149-57-5
+3621,T3D4939,Tridemorph,81412-43-3
+3622,T3D4940,alpha-Ionone,127-41-3
+3623,T3D4941,3-Ethylphenol,620-17-7
+3624,T3D4942,Fenpropimorph,67306-03-0 and 67564-91-4
+3625,T3D4943,2-Ethoxyethanol,110-80-5
+3626,T3D4944,1-Nitronaphthalene,86-57-7
+3627,T3D4946,1-Methyl-2-pyrrolidone,872-50-4
+3628,T3D4950,Tris(2-chloroethyl)phosphate,115-96-8
+3629,T3D4953,"2,3,4,6,7,8-Hexachlorodecane",
+3630,T3D4954,"2,3,4,6,7,8,11-Heptachlorotridecane",
+3631,T3D4955,"2,3,6,9-Tetrachlorodecane",
+3632,T3D4956,Tritium,10028-17-8
+3633,T3D4957,(E)-N-[2-[[5-(Dimethylaminomethyl)furan-2-yl]methylsulfanyl]ethyl]-1-(4-methylpiperazin-1-yl)-2-nitroethenamine,102787-23-5
+3634,T3D4958,Deoxyadenosine,958-09-8
+3635,T3D4959,Pyrophosphate,14000-31-8
+3636,T3D4960,Galactonic acid,13382-27-9
+3637,T3D4961,Deoxycholic acid,83-44-3
+3638,T3D4962,Galactosylsphingosine,2238-90-6
+3639,T3D4963,Lithocholic acid,434-13-9
+3640,T3D4964,Glyceraldehyde,56-82-6
+3641,T3D4965,1-Pyrroline-5-carboxylic acid,2906-39-0
+3642,T3D4966,3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid,3247-75-4
+3643,T3D4967,L-Dopaquinone,110810-88-3
+3644,T3D4968,Hydrochloric acid,7647-01-0
+3645,T3D4970,Sodium hypochlorite,7681-52-9
+3646,T3D4971,Bromide ion,24959-67-9
+3647,T3D4972,Chlorine gas,7782-50-5
+3648,T3D4973,Cobalt-60,10198-40-0
+3649,T3D4976,Clomifene,911-45-5
+3650,T3D4977,Edetic Acid,62-33-9
+3651,T3D4978,Cytarabine,147-94-4
+3652,T3D4979,Isoprenaline,7683-59-2
+3653,T3D4980,Atorvastatin,134523-00-5
+3654,T3D4981,Pioglitazone,111025-46-8
+3655,T3D4982,Dexamethasone,50-02-2
+3656,T3D4983,Tiratricol,51-24-1
+3657,T3D4984,Aniline,62-53-3
+3658,T3D4985,Cinnamaldehyde,104-55-2
+3659,T3D4986,p-Anisidine,104-94-9
+3660,T3D4987,Dihydro-5-propyl-2(3H)-furanone,57129-71-2
+3661,T3D4988,"9-(2-Carboxyphenyl)-3,6-bis(diethylamino)xanthylium(1+)",14899-08-2
+3662,T3D4989,3-Acetyl-4-hydroxy-6-methyl-2H-pyran-2-one,771-03-9
+3663,T3D4990,"2,2,4-Trimethyl-1,3-pentadienol diisobutyrate",6846-50-0
+3664,T3D4991,9-Hydroxyphenanthrene,484-17-3
+3665,T3D4992,m-Dichlorobenzene,541-73-1
+3666,T3D4993,2-hydroxyflutamide,52806-53-8
+3667,T3D4994,Dibenzylideneacetone,538-58-9
+3668,T3D4995,"22,23-dihydroavermectin b1a",71827-03-7
+3669,T3D4996,"22,23-dihydroavermectin b1b",70209-81-3
+3670,T3D4997,Carbon-14,14762-75-5
+3671,T3D4998,Sulfur-35,15117-53-0
+3672,T3D4999,Succinyl acetoacetate,65115-74-4
+3673,T3D5000,Sulfuric acid,7664-93-9
+3674,T3D5001,Succinic acid semialdehyde,692-29-5
+3675,T3D5002,L-Dopachrome,89762-39-0
+3676,T3D5003,Benzoquinoneacetic acid,10275-07-7
+3677,T3D5004,Quinolacetic acid,55604-87-0
