@@ -1,0 +1,15 @@
+# Manifest for Knapsack database molecule list
+[source]
+title = "Knapsack"
+authors = "Cheminfo.org"
+url = "http://www.cheminfo.org/Chemistry/Database/Knapsack/index.html"
+tags = ""
+
+[raw]
+"scraped_data.csv" = "List of compounds including MW, SMILES, and CAS "
+
+[processed]
+"molecules.csv" = "Information about molecules used"
+
+[code]
+"main.py" = "Processing workflow"
