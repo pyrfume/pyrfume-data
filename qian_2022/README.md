@@ -1,1 +1,1 @@
-Currently not proceeded according to Pyrfume standard format.
+Currently not curated according to Pyrfume standard format.
