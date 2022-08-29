@@ -6,7 +6,11 @@ url = "http://www.cheminfo.org/Chemistry/Database/Knapsack/index.html"
 tags = ""
 
 [raw]
-"scraped_data.csv" = "List of compounds including MW, SMILES, and CAS "
+"scraped_data.csv" = "List of compounds including MW, SMILES, and CAS"
+
+[parsed]
+"smiles.csv" = "List of SMILES to run through PubChem exchange service"
+"smiles_to_cids.txt" = "CIDs fetched from SMILES using PubChem exchange"
 
 [processed]
 "molecules.csv" = "Information about molecules used"
