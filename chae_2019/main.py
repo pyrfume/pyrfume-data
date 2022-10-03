@@ -1,341 +1,220 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Description of Chae 2019 data: 
+#
+# 1. Glomerular data: glomerular deltaF/F responses organized into 57 (odorants) x N (glomeruli) matrices. Data are from 5
+# animals, for both left and right hemibulbs (i.e. 10 x 57 x N). N (the # of glomeruli) is variable for each (hemibulb, animal)
+# pair. 
+#
+# 2. 'Mitral 55' data: cellular deltaF/F responses organized into 55 (odorants) x N (cells) matrices. There are data for both
+# 'high' and 'low' concentrations of odorant, for 7 and 6 fields of view, respectively. Similar to above, N is the number of
+# cells, and varies across concentration and FOV.
+#
+# 3. 'Mitral 33' data: cellular deltaF/F responses organized into 33 (odorants) x N (cells) matrices. Only one concentration, 
+# but 6 fields of view (6 total conditions). N = # cells, and varies across the 6 conditions. 
+#
+# 4. Tufted data: cellular deltaF/F rsponses, organized into 55 (odorants) x N (cells) matrices. 2 concentrations and 3 fields
+# of view (6 total conditions). N = # cells, and varies across the 6 conditions. 
 
 import os
 import scipy.io as sio
 import pandas as pd
-from pyrfume import odorants
+import pyrfume
 import numpy as np
 from collections import OrderedDict
 
+# Data directories
+raw_root = 'raw'
+mol_names_path = os.path.join(raw_root, 'supplementary_table_1_odors_with_cas_and_cid.xlsx')
+glom_data_path = os.path.join(raw_root, 'glomerular_data', 'glomerular_responses', 'glomerular_responses__main')
+mitral_data_path = os.path.join(raw_root, 'MT_cell')
 
-# ### Description of Data: 
-# 
-# There are 4 datasets here: 
-# 
-# 1. **Glomerular data:** glomerular deltaF/F responses organized into 57 (odorants) x N (glomeruli) matrices. Data are from 5 animals, for both left and right hemibulbs (i.e. 10 x 57 x N). N (the # of glomeruli) is variable for each (hemibulb, animal) pair. 
-# 
-# 
-# 2. **'Mitral 55' data:** cellular deltaF/F responses organized into 55 (odorants) x N (cells) matrices. There are data for both 'high' and 'low' concentrations of odorant, for 7 and 6 fields of view, respectively. Similar to above, N is the number of cells, and varies across concentration and FOV.
-# 
-# 
-# 3. **'Mitral 33' data:** cellular deltaF/F responses organized into 33 (odorants) x N (cells) matrices. Only one concentration, but 6 fields of view (6 total conditions). N = # cells, and varies across the 6 conditions. 
-# 
-# 
-# 4. **Tufted data:** cellular deltaF/F rsponses, organized into 55 (odorants) x N (cells) matrices. 2 concentrations and 3 fields of view (6 total conditions). N = # cells, and varies across the 6 conditions. 
-# 
-# 
+# CIDs for each experiment
+glom_cids = pd.read_excel(mol_names_path, header = 0, sheet_name='Glomerular odor panel')['CID']
+glom_cids = glom_cids.replace(np.nan, -1).astype(int).values.tolist() # Use -1 for coffee's missing CID
 
-# ### Glomerular data: Delta F/F responses
+mt_cell_file = os.path.join(mitral_data_path, 'MT_cells.xlsx')
+mol_list_33 = pd.read_excel(mt_cell_file, sheet_name='odor list_33 odors', header=0)['odor name'].to_list()
+mol_list_55 = pd.read_excel(mt_cell_file, sheet_name='odor list_55 odors', header=0)['odor name'].to_list() 
 
-# First grab the CIDs for the glomerular data (55 odorants)
+molecules_55_name_to_cid = pyrfume.get_cids(mol_list_55, kind='name')
 
+# Fix the pathological cases where pyrfume didn't find a CID: 
+molecules_55_name_to_cid['ethyl 3-mercapto propionate'] = 87475436  
+molecules_55_name_to_cid['fenchone (-)'] = 14525  
+molecules_55_name_to_cid['citral cis+trans'] = 638011  
+molecules_55_name_to_cid['3-acetal 2,5 dimethyl furan'] = 61527
+molecules_55_name_to_cid['phenyl ethyl acetate'] = 854188  
+molecules_55_name_to_cid['carvyl acetate (-)'] = 11964245  
+molecules_55_name_to_cid['trans 2-hexenol'] = 5318042
+molecules_55_name_to_cid['coffee'] = -1
 
-saved_path = os.getcwd()
-root = '/Users/jcastro/Dropbox/CnG/Chae et al 2019/' # set as needed
-glom_data_path = 'raw/glomerular_data/glomerular_responses/glomerular_responses__main'
-mol_names_path = root + 'raw/supplementary table 1 odors with cas and cid.xlsx'
+cids_55 = list(molecules_55_name_to_cid.values())
 
-os.chdir(root + glom_data_path)
+molecules_33_name_to_cid = pyrfume.get_cids(mol_list_33, kind='name')
 
-glom_CIDs = pd.read_excel(mol_names_path, header = 0, sheet_name='Glomerular odor panel',
-                              usecols = 'C', squeeze=True)
+# Fix the pathological cases where pyrfume didn't find a CID: 
+molecules_33_name_to_cid['ethyl 3-mercapto propionate'] = 87475436 
 
-# putting  a dummy value in for the nan, so that the function odorants.from_cids doesn't throw an error
-glom_CIDs = glom_CIDs.replace(np.nan, 123456).values.tolist()
-glom_CIDs = list(map(int,glom_CIDs))
+# Going on the assumption that this is mislabeled, and should be 'isopropyl', not 'siopropyl'
+molecules_33_name_to_cid['4-siopropyl benzaldehyde'] = 326
 
-print(root + glom_data_path)
-os.chdir(saved_path)
+cids_33 = list(molecules_33_name_to_cid.values())
 
+# Merge CID lists and get info for molecules.csv
+all_cids = list(set(glom_cids + cids_55 +cids_33))
+
+molecules = pd.DataFrame(pyrfume.from_cids(all_cids)).set_index('CID').sort_index()
+
+molecules.head()
 
 # Grab all the dF/F data for the glomerular experiments, and assemble into long format
+# Walk through the directories and grab the glomerular response data
 
-
-# walk through the directories and grab the glomerular response data
-i=0
-
-for root, dirs, files in os.walk(root + glom_data_path):
+glom_dict = {}
+for root, dirs, files in os.walk(glom_data_path):
     for filename in files:
-        res = root.split('/')
-        hemibulb, animal = res[-1], res[-2]
+        animal, hemibulb = os.path.normpath(root).split(os.sep)[-2:]
         if filename.endswith('responses.mat'):
-            thedata = sio.loadmat(root + '/'+ filename)
-            hemibulb_string = hemibulb + '_ROI_responses'
-            thedata = thedata[hemibulb_string]
-            df = pd.DataFrame(thedata)
-            df.insert(0, 'animal', animal[-1]) # column w/ experimental subject 
-            df.insert(0, 'hemibulb', hemibulb.split('_')[0]) # column indicating which hemisphere
-            df.insert(0,'CIDs',glom_CIDs)
-            # melt into long format:
-            _, cols = thedata.shape
-            df = pd.melt(df, id_vars=['CIDs', 'hemibulb', 'animal'], value_vars=list(range(cols)))
-            df.rename(columns={'variable': 'glom', 'value' : 'delF'}, inplace=True)
-            df.sort_values(by=['CIDs'], inplace=True)
+            the_data = sio.loadmat(os.path.join(root, filename))
+            df = pd.DataFrame(the_data[hemibulb + '_ROI_responses'])
+            df.insert(0, 'Animal', int(animal[-1])) # column w/ experimental subject 
+            df.insert(0, 'Hemibulb', hemibulb.split('_')[0]) # column indicating which hemisphere
+            df.insert(0, 'CID', glom_CIDs)
             
-            if i == 0: 
-                df_cat_glom = df
-            else:
-                df_cat_glom = pd.concat([df_cat_glom, df])
-            i = i + 1
+            # melt into long format:
+            df = pd.melt(df, id_vars=['CID', 'Hemibulb', 'Animal'], var_name='Glom', value_name='DeltaF/F')
+            
+            glom_dict[animal + '_' + hemibulb] = df
 
-df_cat_glom.sort_values(by=['CIDs', 'animal', 'glom'], inplace=True)
-df_cat_glom.shape
+glom_data = pd.concat(glom_dict, axis=0)
 
+glom_data['Stimulus'] = 'G_' + glom_data.CID.astype(str)
+glom_data['Subject'] = 'G_' + glom_data[['Animal', 'Hemibulb']].astype(str).agg('_'.join, axis=1) + '_'     + glom_data.Glom.astype(str).str.zfill(2)
 
-# Quick and dirty function to extract data by animal and hemibulb (the orig. format)
+glom_data = glom_data.reset_index(drop=True).set_index(['Stimulus', 'Subject']).sort_index()
+glom_data.head()
 
-
-
-def extractGlomData(df,LorR,animal_num):
-    cond1 = df.hemibulb == LorR
-    cond2 = df.animal == animal_num
-    all_cond = cond1 & cond2
-    df_out = df[all_cond].pivot(index = 'CIDs', columns=['glom'], values = 'delF')
-    return df_out
+# Function to extract data by animal and hemibulb (the orig. format)
+def extractGlomData(df, LorR, animal_num):
+    return df[(df.Hemibulb == LorR) & (df.Animal == animal_num)].pivot(index = 'CID', columns=['Glom'], values = 'DeltaF/F')
 
 # example: 
-df_out = extractGlomData(df_cat_glom,'right','1') # return the df for right hemibulb of animal #1
+df_out = extractGlomData(glom_data, 'right', 1) # return the df for right hemibulb of animal #1
 print(df_out.shape) # for ('right', animal # 1) should return 57, 116
-df_out.head()
+# df_out.head()
 
-
-# ### Fetch the 'Mitral 55', 'Mitral 33', and 'tufted' data: Delta F/F responses
-
-# The 3 datasets are all sitting in the same directory, so we'll grab each of them in the same loop and 
-# save them as dicts. 
-
-
-
-saved_path = os.getcwd()
-root = '/Users/jcastro/Dropbox/CnG/Chae et al 2019/' # set as needed
-mitral = 'raw/MT_cell/'
-
-#mitral_cells/'
-os.chdir(root + mitral)
-
+# Fetch the 'Mitral 55', 'Mitral 33', and 'tufted' data: Delta F/F responses
+# The 3 datasets are all same parent directory, so we'll grab each of them in the same loop and save them as dicts
 mitral_33 = OrderedDict()
 mitral_55 = OrderedDict()
 tufted = OrderedDict()
 
-# walk through the directories and grab the glomerular response data
-for root, dirs, files in os.walk(root + mitral):
+# Walk through the directories and grab the glomerular response data
+for root, dirs, files in os.walk(mitral_data_path):
     for filename in files:
-        res = root.split('/')
-        experiment_type = res[-1] # tufted, or mitral1 (33 odorants), or mitral2 (55 odorants)
-        
         if filename.endswith('.mat'):
-            namestring = filename.split('.')[-2]
-            thedata = sio.loadmat(root + '/'+ filename) 
+            the_data = sio.loadmat(os.path.join(root, filename)) 
             
+            experiment_type = os.path.normpath(root).split(os.sep)[-1] # tufted, mitral1 (33 odorants), or mitral2 (55 odorants)  
+            namestring = filename.split('.')[0]
+    
             if experiment_type == 'tufted_cells':
-                tufted[namestring] = thedata['R']
+                tufted[namestring] = the_data['R']
             if experiment_type == '33_odors':
-                mitral_33[namestring] = thedata['R']
+                mitral_33[namestring] = the_data['R']
             if experiment_type == '55_odors':
-                mitral_55[namestring] = thedata['R']
-
-mitral33_mol_list = pd.read_excel('MT_cells.xlsx', sheet_name='odor list_33 odors', header=0, usecols = 'B')
-mitral55_mol_list = pd.read_excel('MT_cells.xlsx', sheet_name='odor list_55 odors', header=0, usecols = 'B')
-tufted_mol_list = '' # fix this... 
-
-os.chdir(saved_path)
-
-
-# ### 'Mitral 55', 'Mitral 33'molecule lists
-
-# Generate the list of Mitral55 odorants:
-
-
-
-mitral55_mol_list
-molecules_55 = odorants.get_cids(list(mitral55_mol_list['odor name']))
-
-
-
-# Fix the pathological cases where pyrfume didn't find a CID: 
-
-molecules_55['ethyl 3-mercapto propionate'] = 87475436  
-molecules_55['fenchone (-)'] = 14525  
-molecules_55['citral cis+trans'] = 638011  
-molecules_55['3-acetal 2,5 dimethyl furan'] = 61527
-molecules_55['phenyl ethyl acetate'] = 854188  
-molecules_55['carvyl acetate (-)'] = 11964245  
-molecules_55['trans 2-hexenol'] = 5318042
-
-mitral55_cids = list(molecules_55.values())
-
-
-# Generate the list of Mitral33 odorants: 
-
-
-mitral33_mol_list
-molecules_33 = odorants.get_cids(list(mitral33_mol_list['odor name']))
-
-
-
-# Fix the pathological cases where pyrfume didn't find a CID: 
-
-molecules_33['ethyl 3-mercapto propionate'] = 87475436  
-# going on the assumption that this is mislabeled, and should be 'isopropyl', not 'siopropyl'
-molecules_33['4-siopropyl benzaldehyde'] = 326
-
-mitral33_cids = list(molecules_33.values())
-
-
-# ### Tidy the 'mitral 55', 'mitral 33', and 'tufted' data: 
+                mitral_55[namestring] = the_data['R']
 
 # Mitral 55 data
-
-
-keys = mitral_55.keys()
-i = 0
-
-for key in keys:
-    HorL = key[1] #l (low) or h (high) concentration
-    fov = key[-1] # field of view
-    thedata = mitral_55[key]
-    df = pd.DataFrame(thedata)
-    df.insert(0, 'High or Low Conc.', HorL) # column with conc. level (h (high) or l (low))
-    df.insert(0, 'FOV', fov) # column with FOV number (see orig paper)
-    df.insert(0,'CIDs',mitral55_cids)
+mitral55_dict = {}
+for key in mitral_55.keys():
+    df = pd.DataFrame(mitral_55[key])
+    df.insert(0, 'High/Low Conc.',key[1]) # column with conc. level (h (high) or l (low))
+    df.insert(0, 'FOV', key[-1]) # column with FOV number (see orig paper)
+    df.insert(0, 'CID', cids_55)
     
     # melt into long format:
-    _, cols = thedata.shape
-    df = pd.melt(df, id_vars=['CIDs', 'FOV', 'High or Low Conc.'], value_vars=list(range(cols)))
-    df.rename(columns={'variable': 'cell', 'value' : 'delF'}, inplace=True)
-    df.sort_values(by=['CIDs'], inplace=True)
+    df = pd.melt(df, id_vars=['CID', 'FOV', 'High/Low Conc.'], var_name='Cell', value_name='DeltaF/F')
     
-    if i == 0: 
-        df_cat_mitral55 = df
-    else:
-        df_cat_mitral55 = pd.concat([df_cat_mitral55, df])
-    i = i + 1
+    mitral55_dict[key] = df
+    
+mitral55_data = pd.concat(mitral55_dict, axis=0)
 
-df_cat_mitral55.sort_values(by=['CIDs', 'FOV', 'cell'], inplace=True)
+mitral55_data['Stimulus'] = 'M55_' + mitral55_data.CID.astype(str) + '_' + mitral55_data['High/Low Conc.']
+mitral55_data['Subject'] = 'M55_' + mitral55_data[['Cell', 'FOV']].astype(str).agg('_'.join, axis=1)
 
+mitral55_data = mitral55_data.reset_index(drop=True).set_index(['Stimulus', 'Subject']).sort_index()
+mitral55_data.head()
 
 # Mitral 33 data
-
-
-
-keys = mitral_33.keys()
-i = 0
-
-for key in keys:
-    fov = key[-1] # field of view
-    thedata = mitral_33[key]
-    df = pd.DataFrame(thedata)
-    df.insert(0, 'FOV', fov) # column with FOV number (see orig paper)
-    df.insert(0,'CIDs',mitral33_cids)
+mitral33_dict = {}
+for key in mitral_33.keys():
+    df = pd.DataFrame(mitral_33[key])
+    df.insert(0, 'FOV', key[-1]) # column with FOV number (see orig paper)
+    df.insert(0,'CID',  cids_33)
     
     # melt into long format:
-    _, cols = thedata.shape
-    df = pd.melt(df, id_vars=['CIDs', 'FOV'], value_vars=list(range(cols)))
-    df.rename(columns={'variable': 'cell', 'value' : 'delF'}, inplace=True)
-    df.sort_values(by=['CIDs'], inplace=True)
-    
-    if i == 0: 
-        df_cat_mitral33 = df
-    else:
-        df_cat_mitral33 = pd.concat([df_cat_mitral33, df])
-    i = i + 1
+    df = pd.melt(df, id_vars=['CID', 'FOV'], var_name='Cell', value_name='DeltaF/F')
+        
+    mitral33_dict[key] = df
 
-df_cat_mitral33.sort_values(by=['CIDs', 'FOV', 'cell'], inplace=True)
+mitral33_data = pd.concat(mitral33_dict, axis=0)
 
+mitral33_data['Stimulus'] = 'M33_' + mitral33_data.CID.astype(str)
+mitral33_data['Subject'] = 'M33_' + mitral33_data[['Cell', 'FOV']].astype(str).agg('_'.join, axis=1)
+
+mitral33_data = mitral33_data.reset_index(drop=True).set_index(['Stimulus', 'Subject']).sort_index()
+mitral33_data.head()
 
 # Tufted data
-
-
-
-
-#Tufted data: cellular deltaF/F rsponses, organized into 55 (odorants) x N (cells) matrices. 
-#2 concentrations and 3 fields of view (6 total conditions). N = # cells, and varies across the 6 conditions.
-
-keys = tufted.keys()
-i = 0
-
-for key in keys:
-    HorL = key[1] #l (low) or h (high) concentration
-    fov = key[-1] # field of view
-    thedata = tufted[key]
-    df = pd.DataFrame(thedata)
-    df.insert(0, 'High or Low Conc.', HorL) # column with conc. level (h (high) or l (low))
-    df.insert(0, 'FOV', fov) # column with FOV number (see orig paper)
-    df.insert(0,'CIDs',mitral55_cids)
+tufted_dict = {}
+for key in tufted.keys():
+    df = pd.DataFrame(tufted[key])
+    df.insert(0, 'High/Low Conc.',key[1]) # column with conc. level (h (high) or l (low))
+    df.insert(0, 'FOV', key[-1]) # column with FOV number (see orig paper)
+    df.insert(0, 'CID', cids_55)
     
     # melt into long format:
-    _, cols = thedata.shape
-    df = pd.melt(df, id_vars=['CIDs', 'High or Low Conc.', 'FOV'], value_vars=list(range(cols)))
-    df.rename(columns={'variable': 'cell', 'value' : 'delF'}, inplace=True)
-    df.sort_values(by=['CIDs', 'cell'], inplace=True)
+    df = pd.melt(df, id_vars=['CID', 'FOV', 'High/Low Conc.'], var_name='Cell', value_name='DeltaF/F')
     
-    if i == 0: 
-        df_cat_tufted = df
-    else:
-        df_cat_tufted = pd.concat([df_cat_tufted, df])
-    i = i + 1
+    tufted_dict[key] = df
+    
+tufted_data = pd.concat(tufted_dict, axis=0)
 
-df_cat_tufted.sort_values(by=['CIDs', 'FOV', 'High or Low Conc.', 'cell'], inplace=True)
+tufted_data['Stimulus'] = 'T_' + tufted_data.CID.astype(str) + '_' + tufted_data['High/Low Conc.']
+tufted_data['Subject'] = 'T_' + tufted_data[['Cell', 'FOV']].astype(str).agg('_'.join, axis=1)
 
+tufted_data = tufted_data.reset_index(drop=True).set_index(['Stimulus', 'Subject']).sort_index()
+tufted_data.head()
 
-# ### Merging Molecule lists
+# Create dataframe for stimuli.csv
+stimuli = pd.concat([glom_data.reset_index()[['Stimulus', 'CID']].copy(),
+                    mitral33_data.reset_index()[['Stimulus', 'CID']].copy(),
+                    mitral55_data.reset_index()[['Stimulus', 'CID', 'High/Low Conc.']].copy(),
+                    tufted_data.reset_index()[['Stimulus', 'CID', 'High/Low Conc.']].copy()], axis=0)
 
+stimuli = stimuli.set_index('Stimulus').sort_index()
+stimuli = stimuli[~stimuli.index.duplicated()]
+stimuli.head()
 
+# Create dataframe for subjects.csv
+subjects = pd.concat([glom_data.reset_index()[['Subject', 'Animal', 'Hemibulb', 'Glom']].copy(),
+                     mitral33_data.reset_index()[['Subject', 'Cell', 'FOV']].copy(),
+                     mitral55_data.reset_index()[['Subject', 'Cell', 'FOV']].copy(),
+                     tufted_data.reset_index()[['Subject', 'Cell', 'FOV']].copy()], axis=0)
 
+subjects = subjects.set_index('Subject').sort_index()
+subjects = subjects[~subjects.index.duplicated()]
+subjects.head()
 
-# generate merged molecule lists:
-glom_cids = glom_CIDs
-mitral55_cids = list(molecules_55.values())
-mitral33_cids = list(molecules_33.values())
-all_mols = list(set(glom_cids + mitral55_cids + mitral33_cids))
-
-
-
-
-
-# fetch IUPAC, SMILES, etc. info
-mols = odorants.from_cids(all_mols)
-
-
-
-
-
-mols_df = pd.DataFrame(mols) # Still need to fix 'coffee'
-mols_df.head(6)
-
-
-# Recall that CID='123456' was a dummy value for 'coffee', which
-# doesn't actually have a CID. So we need to adjust the row w/ that
-# CID entry (row # 36): 
-
-
-
-
-mols_df.iloc[36] = [-1, '', '', '', 'coffee']
-# write to disk
-mols_df.sort_values(by='CID', inplace=True)
-
-
-# While we're attending to this, let's also fix the CID entries from the glomerular data that corresponde to coffee, and have the incorrect dummy value of 123456. The correct CID should be -1:
-
-
-
-
-coffee_idx = (df_cat_glom['CIDs'] == 123456)
-df_cat_glom.CIDs[coffee_idx] = -1
-df_cat_glom.sort_values(by=['CIDs', 'animal', 'glom'], inplace=True)
-
-
-# ### Write behavior and molecule files to disk:
-
-
-
-df_cat_mitral55.to_csv('behavior_3.csv', index=False)
-df_cat_mitral33.to_csv('behavior_2.csv', index=False)
-df_cat_tufted.to_csv('behavior_4.csv', index=False)
-df_cat_glom.to_csv('behavior_1.csv', index=False)
-
-mols_df.to_csv('molecules.csv',index=False)
+# Write to disk
+molecules.to_csv('molecules.csv')
+stimuli.to_csv('stimuli.csv')
+subjects.to_csv('subjects.csv')
+glom_data.drop(['CID', 'Hemibulb', 'Animal', 'Glom'], axis=1).to_csv('behavior_1.csv')
+mitral33_data.drop(['CID', 'FOV', 'Cell'], axis=1).to_csv('behavior_2.csv')
+mitral55_data.drop(['CID', 'FOV', 'High/Low Conc.', 'Cell'], axis=1).to_csv('behavior_3.csv')
+tufted_data.drop(['CID', 'FOV', 'High/Low Conc.', 'Cell'], axis=1).to_csv('behavior_4.csv')
 
