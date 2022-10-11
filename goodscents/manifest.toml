@@ -18,9 +18,8 @@ LICENSE = "Licensing information and use restrictions according to the terms of 
 
 [processed]
 "molecules.csv" = "Information about odorant molecules used"
-"identifiers.csv" = "Mappings between PubChem IDs and GoodScents IDs"
-"behavior.csv" = "Odor labels for each molecule (one column per label)"
-"behavior_sparse.csv" = "Odor labels for each molecule (single column)"
+"stimuli.csv" = "Mappings between PubChem IDs and GoodScents IDs, Concentration, and Solvent"
+"behavior.csv" = "Odor descriptors for each molecule"
 
 [code]
 "main.py" = "Processing workflow"
