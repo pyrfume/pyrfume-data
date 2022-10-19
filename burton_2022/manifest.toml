@@ -9,15 +9,18 @@ tags = "rodent;receptorResponse;academic"
 "raw/odormappingdata_fullinfo_06_2021.mat" = "All raw data except for odorant concentrations. See main.py for full details"
 "raw/odormappingdata_simple_05_2022.mat" = "Simplified version of 'fullinfo' .mat file containig deltaF response matrices and odorant concentrations. See main.py for full details"
 "raw/ID_glom_04_2022.mat" = "Data for functionally-identifiable glomeruli and diagnostic odorants. See main.py for full details"
+
+[parsed]
 "raw/XXXX_ROIPos.csv" = "X and Y coordinates for the centroids of each ROI (glom) in each experiment XXXX; exported from odormappingdata_fullinfo_06_2021.mat file because Matlab 'table' class is not Python readable"
 
 [processed]
-"main.py" = "Processing workflow"
 "molecules.csv" = "Information about odorant molecules used"
-"imaging.csv" = "Paths to response maps saved in .csv form for every odorant/mouse combination tested"
 "behavior_1.csv" = "DeltaF response values of every ROI (glomerulus) for every odorant/mouse tested"
 "behavior_2.csv" = "Properties of diagnostic odorants with functionally-identified glomeruli. See main.py for full details"
 "behavior_3.csv" = "Properties of diagnostic odorants that consistently elicit sparse activation but did not meet the criteria for functional identification. See main.py for full details"
-"subjects.csv" = "Maps subject ID to mouse ID and olfactory bulb hemisphere"
+"behavior_4.csv" = "Paths to response maps saved in .csv form for every odorant/mouse combination tested"
+"subjects.csv" = "Maps subject ID to mouse ID, olfactory bulb hemisphere, and ROI#"
 "stimuli.csv" = "Maps stimuli to CID and odor concentrations used for each subject"
-"rois.csv" = "X and Y coords of each ROI analyzed in each experiment; indexed by subject"
+
+[code]
+"main.py" = "Processing workflow"
