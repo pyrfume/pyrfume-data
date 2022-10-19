@@ -10,6 +10,9 @@ authors = "D Manoel, M Makhlouf, CJ Arayata, A Sathappan, S Da’as, D Abdelrahm
 "SmilesInfo2.xlsx" = "Information about each odorant"
 
 [processed]
-"main.py" = "Processing workflow"
 "molecules.csv" = "Information about odorant molecules used"
-"behavior.csv" = "Scored behaviors for each mouse and odorant"
+"behavior.csv" = "Scored behaviors for each mouse and odorant. Each molecule was tested with multiple animals, but each animal is tested on only one molecule."
+"stimuli.csv" = "Maps stimulus to CID"
+
+[code]
+"main.py" = "Processing workflow"
