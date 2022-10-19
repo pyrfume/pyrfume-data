@@ -11,15 +11,16 @@ tags = "human;rodent;academic"
 [parsed]
 "dragon-weights.csv" = "Weights and names for the 32 Dragon features given in the supplement"
 "cas.txt" = "Molecules listed in Supplemental Tables 1 and 3"
+"weights.csv" = "Parsed weights and Dragon symbols"
 
 [computed]
 "dragon6-symbols.csv" = "Equivalent features symbols in version 6 of Dragon"
 "features.csv" = "The 32 Dragon 6 feature values for selected molecules"
-
-[processed]
-"main.py" = "Processing workflow from parsed to processed data"
-"molecules.csv" = "Molecules listed in the supplement"
 "features_weighted.csv" = "The 32 Dragon 6 feature values, pre-weighted for distance metric computation"
 
+[processed]
+"molecules.csv" = "Molecules listed in the supplement"
+
 [code]
+"main.py" = "Processing workflow from parsed to processed data"
 "haddad.py" = "Code for computing distance metrics for pairs of molecules using this data"

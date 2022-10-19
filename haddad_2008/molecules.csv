@@ -3,7 +3,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 177,44.05,CC=O,acetaldehyde,acetaldehyde
 527,58.08,CCC=O,propanal,propionaldehyde
 261,72.11,CCCC=O,butanal,butyraldehyde
-8063,86.13,CCCCC=O,pentanal,pentanal
+8063,86.13,CCCCC=O,pentanal,valeraldehyde
 6184,100.16,CCCCCC=O,hexanal,hexanal
 8130,114.19,CCCCCCC=O,heptanal,heptanal
 454,128.21,CCCCCCCC=O,octanal,octanal
@@ -31,7 +31,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6568,74.12,CCC(C)O,butan-2-ol,2-butanol
 22386,88.15,CCCC(C)O,pentan-2-ol,2-pentanol
 10976,116.20,CCCCCC(C)O,heptan-2-ol,2-heptanol
-20083,130.23,CCCCCCC(C)O,octan-2-ol,2-octanol
+20083,130.23,CCCCCCC(C)O,octan-2-ol,octan-2-ol
 12367,144.25,CCCCCCCC(C)O,nonan-2-ol,2-nonanol
 12178,102.17,CCCC(CC)O,hexan-3-ol,3-hexanol
 244,108.14,C1=CC=C(C=C1)CO,phenylmethanol,benzyl alcohol
@@ -55,7 +55,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 8314,102.13,CCC(C)C(=O)O,2-methylbutanoic acid,2-methylbutanoic acid
 444539,148.16,C1=CC=C(C=C1)/C=C/C(=O)O,(E)-3-phenylprop-2-enoic acid,cinnamic acid
 637090,86.09,C/C=C/C(=O)O,(E)-but-2-enoic acid,crotonic acid
-297,16.043,C,methane,(11c)methane
+297,16.043,C,methane,02329_fluka
 6324,30.07,CC,ethane,ethane
 6334,44.10,CCC,propane,propane
 7843,58.12,CCCC,butane,butane
@@ -67,13 +67,13 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 15600,142.28,CCCCCCCCCC,decane,decane
 14257,156.31,CCCCCCCCCCC,undecane,undecane
 6360,58.12,CC(C)C,2-methylpropane,isobutane
-6556,72.15,CCC(C)C,2-methylbutane,isopentane
+6556,72.15,CCC(C)C,2-methylbutane,2-methylbutane
 10041,72.15,CC(C)(C)C,"2,2-dimethylpropane",neopentane
 11507,100.20,CCCC(C)CC,3-methylhexane,3-methylhexane
 11233,114.23,CCCC(C)(C)CC,"3,3-dimethylhexane","3,3-dimethylhexane"
 88038,142.28,CCC(CC)C(CC)CC,"3,4-diethylhexane","3,4-diethylhexane"
 7288,86.13,CCC(=O)CC,pentan-3-one,3-pentanone
-16724,150.22,CC1=CC[C@@H](CC1=O)C(=C)C,(5S)-2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-one,2244-16-8
+16724,150.22,CC1=CC[C@@H](CC1=O)C(=C)C,(5S)-2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-one,d-carvone
 7895,86.13,CCCC(=O)C,pentan-2-one,2-pentanone
 439570,150.22,CC1=CC[C@H](CC1=O)C(=C)C,(5R)-2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-one,(-)-carvone
 11509,100.16,CCCC(=O)CC,hexan-3-one,3-hexanone
@@ -100,7 +100,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 246728,128.21,CCCCCC(=O)CC,octan-3-one,3-octanone
 7967,98.14,C1CCC(=O)CC1,cyclohexanone,cyclohexanone
 31242,122.16,CCC1=CC=C(C=C1)O,4-ethylphenol,4-ethylphenol
-8093,128.21,CCCCCCC(=O)C,octan-2-one,octan-2-one
+8093,128.21,CCCCCCC(=O)C,octan-2-one,2-octanone
 12338,88.15,CCCCOC,1-methoxybutane,1-methoxybutane
 460,124.14,COC1=CC=CC=C1O,2-methoxyphenol,guaiacol
 12203,156.26,CCCCCCC(=O)CCC,decan-4-one,4-decanone
@@ -114,7 +114,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 7519,108.14,COC1=CC=CC=C1,anisole,anisole
 84467,170.29,CCCCCCCC(=O)CCC,undecan-4-one,4-undecanone
 1140,92.14,CC1=CC=CC=C1,toluene,toluene
-7674,122.16,CCOC1=CC=CC=C1,ethoxybenzene,ethoxybenzene
+7674,122.16,CCOC1=CC=CC=C1,ethoxybenzene,phenetole
 7410,120.15,CC(=O)C1=CC=CC=C1,1-phenylethanone,acetophenone
 82227,136.23,CC1=CC[C@@H]2C[C@H]1C2(C)C,"(1R,5R)-2,6,6-trimethylbicyclo[3.1.1]hept-2-ene",(+)-alpha-pinene
 62539,114.14,CCC(=O)C(=O)CC,"hexane-3,4-dione","3,4-hexanedione"
