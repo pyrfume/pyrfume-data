@@ -1,5 +1,6 @@
-CID,Descriptor 1,Descriptor 2,Descriptor 3
+Stimulus,Descriptor 1,Descriptor 2,Descriptor 3
 439711,Earthy,Woody,Camphoraceous
+16213731,Woody,Balsamic,Nutty
 227829,Woody,Smoky,Rose
 101977,Floral,Rose,Geranium
 439263,Minty,Fresh,Aromatic
@@ -39,7 +40,6 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 114233,Floral,Muguet,Rose
 114533,Fruity,Sweet,Pear
 110923,Citrus,Fresh,Lemon
-61125,Woody,Spicy,Earthy
 166527,Floral,Green,Hyacinth
 109193,Woody,Floral,Amber
 13663,Floral,Neroli,Sweet
@@ -130,13 +130,14 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 74005,Herbal,Powerful,Leathery
 175661,Fruity,Peach,Apricot
 21967387,Fruity,Fresh,Sweet
-20836195,Green,Watery,Aldehydic
+6365761,Green,Watery,Aldehydic
 14917671,Citrus,Lemon,Herbal
 20499,Sulfurous,Coffee,Onion
 1252759,Aldehydic,Green,Herbal
 85833,Herbal,Aromatic,Juniper
 156605,Citrus,Grapefruit,Rhubarb
 83367,Floral,Rose,Fresh
+3034843,Powdery,Woody,Tobacco
 28905,Gourmand,Nutty,Nutty
 10687,Earthy,Phenolic,Musty
 22201,Food Like,Nutty,Roasted
@@ -251,6 +252,7 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 5365891,Fruity,Sweet,Tropical-Fruit
 61303,Floral,Oily,Fresh
 7895,Fruity,Sweet,Fermented
+12550535,Herbal,Fruity,Green
 20959,Floral,Jasmin,Green
 61005,Floral,Fruity,Rose
 6429333,Gourmand,Honey,Rose
@@ -328,10 +330,10 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 12101,Food Like,Coffee,Phenolic
 10823,Green,Leathery,Tobacco
 11509,Fruity,Sweet,Grape
-22506563,Green,Fruity,Apple
+57358937,Green,Fruity,Apple
 5284503,Green,Fresh,Floral
 643139,Green,Fruity,Floral
-89704529,Green,Fresh,Floral
+92033995,Green,Fresh,Floral
 59870763,Green,Fresh,Floral
 5365069,Fruity,Apple,Green
 5363291,Green,Oily,Melon
@@ -380,6 +382,7 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 106731,Floral,Rose,Fresh
 95689,Herbal,Green,Fruity
 61007,Fruity,Raspberry,Cherry
+14833045,Fruity,Citrus,Floral
 93947,Woody,Spicy,Peppery
 87453,Floral,Earthy,Leathery
 103487,Herbal,Lavender,Pine
@@ -497,9 +500,9 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 105595,Floral,Sweet,Jasmin
 5366077,Floral,Sweet,Berry
 1623625,Floral,Fresh,Citrus
-31209,Floral,Jasmin,Balsamic
 6005821,Floral,Jasmin,Fruity
 6435059,Floral,Fresh,Jasmin
+6076971,Floral,Jasmin,Citrus
 86597,Floral,Soft,Balsamic
 6431015,Woody,Cedarwood,Aromatic
 66327,Floral,Rose,Geranium
@@ -558,7 +561,6 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 7119,Floral,Neroli,Powdery
 12313993,Woody,Patchouli,Terpenic
 5281535,Citrus,Mandarin,Aldehydic
-106997,Minty,Earthy,Oily
 106805,Aromatic,Pine,Woody
 169211,Aromatic,Pine,Woody
 7095,Green,Rose,Geranium
@@ -580,6 +582,8 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 11517,Gourmand,Buttery,Herbal
 11529,Fruity,Sweet,Banana
 261,Gourmand,Fruity,Chocolate
+159055,Camphoraceous,Fresh,Herbal
+159055,Camphoraceous,Fresh,Herbal
 7335,Herbal,Minty,Fresh
 90473619,Woody,Fruity,Spicy
 105755,Balsamic,Fruity,Woody
@@ -592,7 +596,6 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 11658397,Fruity,Juicy,Blackcurrant
 521207,Woody,Cedarwood,Sandalwood
 6431015,Woody,Cedarwood,Amber
-119831,Woody,Cedarwood,Amber
 13335685,Woody,Cedarwood,Powdery
 65575,Woody,Soft,Cedarwood
 24758199,Woody,Dry,Amber
@@ -610,6 +613,7 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 643941,Green,Grassy,Fruity
 5281167,Green,Grassy,Fresh
 5372353,Fruity,Green,Grape
+5367711,Green,Balsamic,Floral
 5365587,Green,Fresh,Apple
 5352543,Fruity,Green,Fresh
 5352539,Green,Apple,Pear
@@ -663,7 +667,6 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 74279,Fruity,Tobacco,Woody
 11126487,Herbal,Lavender,Fresh
 22227,Minty,Herbal,Menthol
-5789691,Floral,Green,Aldehydic
 243783,Fruity,Apple,Pineapple
 96325,Floral,Honey,Rose
 10409,Musk like,Powdery,Animal Like
@@ -718,6 +721,7 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 93639,Woody,Amber,Dry
 84559,Green,Fresh,Waxy
 442495,Minty,Aromatic,Herbal
+119965,Green,Mossy,Earthy
 62583,Gourmand,Sweet,Tonka
 8815,Herbal,Anisic,Tarragon
 56841839,Herbal,Fruity,Artemisia
@@ -774,7 +778,6 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 106997,Earthy,Woody,Mossy
 7127,Spicy,Clove,Tea
 13750367,Woody,Cedarwood,Pine
-94403,Floral,Rose,Green
 14525,Aromatic,Woody,Minty
 94111,Woody,Amber,Dry
 163267,Acidic,Neutral,Dry
@@ -800,9 +803,16 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 5355853,Floral,Fruity,Tropical-Fruit
 5367785,Floral,Geranium,Green
 11521869,Herbal,Minty,Cooling
+22311,Citrus,Grapefruit,Bitter
+22311,Citrus,Fresh,Sharp
+22311,Citrus,Fresh,Sharp
+22311,Citrus,Grapefruit,Fresh
+22311,Citrus,Fresh,Sharp
+22311,Citrus,Fresh,Sharp
+22311,Citrus,Fresh,Sharp
+22311,Citrus,Fresh,Sharp
 77777,Spicy,Woody,Smoky
 61155,Spicy,Woody,Smoky
-61079,Woody,Nutty,Smoky
 61453,Green,Fruity,Orange
 8159,Fruity,Green,Citrus
 8129,Aldehydic,Green,Fruity
@@ -826,7 +836,6 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 5463911,Floral,Muguet,Green
 8863,Floral,Fresh,Lily
 163281,Floral,Jasmin,warm
-59018943,Amber,Woody,Musk Like
 7193,Fruity,Balsamic,Apple
 7795,Fruity,Sweet,Banana
 5273467,Spicy,Warm,Cinnamon
@@ -855,6 +864,7 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 93199,Aldehydic,Citrus,Orange
 6435841,Floral,Waxy,Jasmin
 11264493,Woody,Patchouli,Musty
+5372195,Floral,Violet,Powdery
 162413,Floral,Herbal,Fruity
 10453,Floral,Jasmin,Fresh
 166517,Floral,Balsamic,Cherry-Blossom
@@ -864,12 +874,12 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 94579,Minty,Peppermint,Sweet
 33865,Floral,Rose,Soft
 112239,Floral,Sweet,Fruity
-54247981,Floral,Sweet,Jasmin
-54247981,Floral,Sweet,Jasmin
-54247981,Floral,Sweet,Jasmin
-54247981,Floral,Sweet,Jasmin
-54247981,Floral,Sweet,Jasmin
-54247981,Floral,Sweet,Jasmin
+92043553,Floral,Sweet,Jasmin
+92043553,Floral,Sweet,Jasmin
+92043553,Floral,Sweet,Jasmin
+92043553,Floral,Sweet,Jasmin
+92043553,Floral,Sweet,Jasmin
+92043553,Floral,Sweet,Jasmin
 440967,Herbal,Pine,Woody
 89479,Animal like,Creamy,Jasmin
 93009,Woody,Herbal,Pine
@@ -960,13 +970,12 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 643779,Citrus,Fresh,Lemon
 61275,Green,Floral,Neroli
 5284507,Floral,Rose,Woody
-98043,Floral,Sweet,Citrus
+6434513,Floral,Sweet,Citrus
 1549025,Floral,Citrus,Rose
 5365991,Fruity,Sweet,Berry
 6429039,Floral,Rose,Herbal
 62907,Minty,Herbal,Fresh
 15037,Green,Plastic,Waxy
-29421,Fruity,Caramel,Green
 643731,Green,Cucumber,Fatty
 31289,Aldehydic,Sweet,Orange
 87813,Fruity,Pear,Green
@@ -1055,12 +1064,14 @@ CID,Descriptor 1,Descriptor 2,Descriptor 3
 7685,Floral,Lily,Fruity
 60997,Floral,Narcissus,Hyacinth
 442495,Minty,Sweet,Spearmint
+55251157,Food Like,Nutty,Earthy
 11980947,Spicy,Sweet,Aromatic
 81263,Floral,Rose,Geranium
 8833,Floral,Rose,Citrus
 61093,Fruity,Rose,Citrus
 7781,Floral,Rose,Geranium
 1712087,Floral,Woody,Dry
+91001317,Fruity,Fermented,Ethereal
 102815,Green,Herbal,Leafy
 73555481,Woody,Sandalwood,Creamy
 73555481,Woody,Sandalwood,Creamy

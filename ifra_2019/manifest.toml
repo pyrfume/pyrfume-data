@@ -16,6 +16,9 @@ extra = "Other representatives of IFRA Regular and Supporting Members, IFRA Nati
 "ifra-fragrance-ingredient-glossary---oct-2019.csv" = "The contents of the pdf extracted"
 
 [processed]
-"main.py" = "Processing workflow from parsed to processed data"
 "molecules.csv" = "Identifiable molecules listed in the data"
 "behavior.csv" = "The top 3 descriptors (in order of applicability)"
+"stimuli.csv" = "Maps stimulus to CID"
+
+[code]
+"main.py" = "Processing workflow from parsed to processed data"
