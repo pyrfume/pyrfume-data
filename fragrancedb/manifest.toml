@@ -1,0 +1,16 @@
+# Manifest for FragranceDB (contents of SuperScent + Flavornet) database molecule list
+[source]
+title = "FragranceDB"
+authors = ""
+url = "https://gdb.unibe.ch/downloads/"
+tags = ""
+
+[raw]
+"FragranceDB.smi" = "List of SMILES and FragranceDB ID#"
+LICENSE = ""
+
+[processed]
+"molecules.csv" = "Information about molecules used"
+
+[code]
+"main.py" = "Processing workflow"
