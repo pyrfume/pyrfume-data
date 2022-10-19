@@ -37,7 +37,7 @@ pages =  [t.text for t in table.find_all('a') if 'html' in t.text]
 
 # Scrape to get data for all odorants
 # Pickle after 1st full scrape to avoid having to repeat
-if not os.path.isfile('data.pkl'):
+if not os.path.isfile('scraped_data.pkl'):
     data_dict = {}
     for page in pages:
         cas = page.split('.')[0]
@@ -47,11 +47,11 @@ if not os.path.isfile('data.pkl'):
         except:
             data_dict[cas] = {'CAS': None, 'MW': None, 'Odors': None, 'Names': 'No data returned'}
     
-    with open('data.pkl', 'wb') as file:
+    with open('scraped_data.pkl', 'wb') as file:
         pickle.dump(data_dict, file)
 
 else:    
-    with open('data.pkl', "rb") as file:
+    with open('scraped_data.pkl', "rb") as file:
         data_dict = pickle.load(file)
 
 # As sanity check, I compared the CAS# from the list of pages to what was actually on the page and all match
@@ -104,6 +104,7 @@ mol_dict = pyrfume.from_cids(all_cids)
 
 # Create dataframe for molecules.csv
 molecules = pd.DataFrame(mol_dict).set_index('CID').sort_index()
+molecules = molecules[~molecules.index.duplicated()] # Remove duplicate rows
 molecules.head()
 
 # Check odor descriptors for spelling
@@ -117,7 +118,7 @@ for tmp in spell.unknown(odors):
         if w not in spell: print(w, '->', spell.correction(w), '?')
 
 spell_repl = {'terpentine': 'turpentine'}
-for w1, w2 in spell_replace.items():
+for w1, w2 in spell_repl.items():
     idx = np.where(np.array(odors) == w1)[0]
     for i in idx:
         odors[i] = w2
@@ -156,8 +157,16 @@ behavior = behavior.groupby(level=0).agg(sum)
 # Apply filtering function to odor descriptors
 behavior['Descriptors'] = behavior.apply(lambda row: filter_odors(row['Odors'], spell_repl, repl), axis=1)
 behavior.drop('Odors', axis=1, inplace=True)
+behavior.index.name = 'Stimulus'
 behavior.head()
+
+# Create dataframe for stimuli.csv; all simuli are CIDs
+stimuli = pd.DataFrame(molecules.index.copy(), index=molecules.index.copy())
+stimuli.index.name = 'Stimulus'
+stimuli.head()
 
 # Write to disk
 molecules.to_csv('molecules.csv')
 behavior.to_csv('behavior.csv')
+stimuli.to_csv('stimuli.csv')
+
