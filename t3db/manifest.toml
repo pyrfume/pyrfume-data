@@ -1,0 +1,16 @@
+# Manifest for T3DB (Toxin and Toxin-Target) database molecule list
+[source]
+doi = "10.1093/nar/gku1004"
+title = "The Toxin and Toxin Target Database (T3DB)"
+authors = "Wishart Research Group"
+url = "http://www.t3db.ca/"
+tags = ""
+
+[raw]
+"scraped_data.csv" = "Scraped list of molecules (name and CAS) on database"
+
+[processed]
+"molecules.csv" = "Information about molecules used"
+
+[code]
+"main.py" = "Processing workflow"
