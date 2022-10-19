@@ -1,0 +1,19 @@
+# Manifest for National Health and Nutrition Examination Survey (NHANES) 2014 Taste & Smell dataset
+[source]
+url = "https://www.cdc.gov/nchs/nhanes/index.htm"
+title = "NHANES 2013-2014 Taste & Smell Data"
+authors = "National Health and Nutrition Examination Survey"
+tags = "human;odorCharacter"
+
+[raw]
+"CSQ_H.XPT" = "Taste and smell questionnaire data"
+"CSX_H.XPT" = "Taste and smell exam data"
+LICENSE = ""
+
+[processed]
+"stimuli.csv" = "Maps stimulus (question ID) to questionnaire or exam meta data"
+"behavior_1.csv" = "Questionnaire data processed"
+"behavior_2.csv" = "Exam data processed"
+
+[code]
+"main.py" = "Processing workflow"
