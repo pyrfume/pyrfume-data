@@ -10,7 +10,9 @@ tags = "human;odorCharacter;academic"
 "tableS2.csv" = "Supplementary Table 2"
 
 [processed]
-"main.py" = "Processing workflow"
 "molecules.csv" = "Molecules used"
-"mixtures.csv" = "Mixtures used"
+"stimuli.csv" = "Maps stimulus (Test UID) to composition of mixtures used"
 "behavior.csv" = "Triangle test results"
+
+[code]
+"main.py" = "Processing workflow"
