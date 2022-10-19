@@ -213,6 +213,7 @@ df['Odor Modifiers'] = df.Odor.apply(lambda x: to_modifiers(x))
 df['Flavor Percepts'] = df.Flavor.apply(lambda x: to_percepts(x))
 df['Flavor Modifiers'] = df.Flavor.apply(lambda x: to_modifiers(x))
 df.drop(['Odor', 'Flavor'], axis=1, inplace=True)
+df.index.name = 'Stimulus'
 df.head()
 
 # Get info from cids
@@ -225,6 +226,13 @@ molecules.head()
 # Check that all molecules are accounted for
 assert list(df.index) == list(molecules.index)
 
+# Create dataframe for stimuli.csv; all stimuli are CIDs
+stimuli = pd.DataFrame(molecules.index, index=molecules.index, columns=['CID'])
+stimuli.index.name = 'Stimulus'
+stimuli.head()
+
 # Write to disck
 molecules.to_csv('molecules.csv')
 df.to_csv('behavior.csv')
+stimuli.to_csv('stimuli.csv')
+
