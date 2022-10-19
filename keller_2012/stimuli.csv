@@ -1,0 +1,168 @@
+stimulus,vial #,CID,CAS#,name,concentration,dilution,solvent,measures obtained,notes
+D1,,,8008-79-5,spearmint,,1/5.000,paraffin oil,descriptors,calibration stimulus
+D2,,235414.0,106-02-5,pentadecalactone,,1/500,propylene glycol,descriptors,
+D3,,1030.0,57-55-6,propylene glycol,,,,descriptors,solvent
+D4,,1183.0,121-33-5,vanillin,,1/200,propylene glycol,descriptors,
+D5,,6852393.0,18339-16-7,androstenone,,1/10.000,propylene glycol,descriptors,
+IP1,1.0,17100.0,98-55-5,terpineol,high,1/100,paraffin oil,intensity/pleasantness,calibration stimulus
+IP10,10.0,11617.0,592-88-1,diallyl sulfide,low,1/2.000.000,paraffin oil,intensity/pleasantness,
+IP100,100.0,8130.0,111-71-7,heptaldehyde,high,1/25.000,paraffin oil,intensity/pleasantness,
+IP101,101.0,12587.0,646-07-1,4-methylvaleric acid,high,1/10.000,paraffin oil,intensity/pleasantness,
+IP102,102.0,,8002-09-3,fir,low,1/100.000,paraffin oil,intensity/pleasantness,
+IP103,103.0,,8015-62-1,ambrette,high,1/1.000,paraffin oil,intensity/pleasantness,
+IP104,104.0,,,banana,high,1/10.000,paraffin oil,intensity/pleasantness,
+IP105,105.0,853433.0,97-54-1,isoeugenol,low,1/25.000,paraffin oil,intensity/pleasantness,
+IP106,106.0,650.0,431-03-8,diacetyl,high,1/10.000,paraffin oil,intensity/pleasantness,
+IP107,107.0,61061.0,125-12-2,CC(=O)O[C@@H]1C[C@@H]2CC[C@@]1(C2(C)C)C,high,1/100,paraffin oil,intensity/pleasantness,
+IP108,108.0,235414.0,106-02-5,pentadecalactone,high,1/500,propylene glycol,intensity/pleasantness,
+IP109,109.0,454.0,124-13-0,octyl aldehyde,low,1/250.000,paraffin oil,intensity/pleasantness,
+IP11,11.0,9261.0,290-37-9,pyrazine,high,1/10,propylene glycol,intensity/pleasantness,
+IP110,110.0,106997.0,18368-91-7,2-ethylfenchol,low,1/100.000,paraffin oil,intensity/pleasantness,
+IP111,111.0,12587.0,646-07-1,4-methylvaleric acid,low,1/5.000.000,paraffin oil,intensity/pleasantness,
+IP112,112.0,,8022-96-6,jasmine,high,1/1.000,paraffin oil,intensity/pleasantness,
+IP113,113.0,91497.0,1222-05-5,galaxolide,high,1/1.000,paraffin oil,intensity/pleasantness,
+IP114,114.0,135442941.0,8008-57-9,orange,high,1/100,paraffin oil,intensity/pleasantness,
+IP115,115.0,7583.0,101-84-8,diphenyl ether,low,1/500,paraffin oil,intensity/pleasantness,
+IP116,116.0,91691547.0,5989-27-5,r-limonene,low,1/250,paraffin oil,intensity/pleasantness,
+IP117,117.0,878.0,5188-07-8,methanethiol,high,1/10.000.000,water,intensity/pleasantness,
+IP118,118.0,998.0,122-78-1,phenyl acetaldehyde,low,1/8.000.000,paraffin oil,intensity/pleasantness,
+IP119,119.0,6850845.0,8007-70-3,anise,high,1/5.000,paraffin oil,intensity/pleasantness,
+IP12,12.0,4133.0,119-36-8,methyl salicylate,low,1/25.000,paraffin oil,intensity/pleasantness,
+IP120,120.0,61014.0,105-95-3,ethylene brassylate,low,1/500,paraffin oil,intensity/pleasantness,
+IP121,121.0,,,banana,low,1/250.000,paraffin oil,intensity/pleasantness,
+IP122,122.0,454.0,124-13-0,octyl aldehyde,high,1/25.000,paraffin oil,intensity/pleasantness,
+IP123,123.0,135442941.0,8008-57-9,orange,low,1/2.500,paraffin oil,intensity/pleasantness,
+IP124,124.0,8467.0,121-32-4,ethyl vanillin,high,1/200,propylene glycol,intensity/pleasantness,
+IP125,125.0,165675.0,15356-60-2,(+)-menthol,high,1/40,propylene glycol,intensity/pleasantness,
+IP126,126.0,3314.0,97-53-0,eugenol,high,1/1.000,paraffin oil,intensity/pleasantness,
+IP127,127.0,,8006-87-9,sandalwood,low,1/10.000,paraffin oil,intensity/pleasantness,
+IP128,128.0,7136.0,93-28-7,eugenol acetate,high,1/100,paraffin oil,intensity/pleasantness,
+IP129,129.0,,8008-45-5,nutmeg,low,1/25.000,paraffin oil,intensity/pleasantness,
+IP13,13.0,8159.0,112-06-1,heptyl acetate,high,1/2.500,paraffin oil,intensity/pleasantness,
+IP130,130.0,8843.0,3913-71-1,CC(=CCCC(=CC=O)C)C,high,1/1.000,paraffin oil,intensity/pleasantness,
+IP131,131.0,6569.0,78-93-3,2-butanone,low,1/10.000,paraffin oil,intensity/pleasantness,
+IP132,132.0,1030.0,57-55-6,propylene glycol,,,,intensity/pleasantness,solvent
+IP133,133.0,92979.0,794-58-9,androstadienone,low,1/100.000,propylene glycol,intensity/pleasantness,
+IP134,134.0,8843.0,5392-40-5,CC(=CCCC(=CC=O)C)C,low,1/50.000,paraffin oil,intensity/pleasantness,
+IP135,135.0,61014.0,105-95-3,ethylene brassylate,high,1/100,paraffin oil,intensity/pleasantness,
+IP136,136.0,64832.0,18127-01-0,bourgeonal,low,1/2.000,paraffin oil,intensity/pleasantness,
+IP137,137.0,8164.0,112-14-1,octyl acetate,low,1/200,paraffin oil,intensity/pleasantness,
+IP138,138.0,439570.0,6485-40-1,r-carvone,high,1/1.000,paraffin oil,intensity/pleasantness,
+IP139,139.0,106997.0,18368-91-7,2-ethylfenchol,high,1/5.000,paraffin oil,intensity/pleasantness,
+IP14,14.0,,8008-79-5,spearmint,low,1/250.000,paraffin oil,intensity/pleasantness,
+IP140,140.0,7144.0,93-51-6,2-methoxy-4-methylphenol,high,1/100.000,paraffin oil,intensity/pleasantness,
+IP141,141.0,6852393.0,18339-16-7,androstenone,low,1/100.000,propylene glycol,intensity/pleasantness,
+IP142,142.0,6590.0,79-31-2,isobutyric acid,high,1/1.000,paraffin oil,intensity/pleasantness,
+IP143,143.0,,68990-83-0,cedarwood,high,1/2.000,paraffin oil,intensity/pleasantness,
+IP144,144.0,1183.0,121-33-5,vanillin,low,1/1.000,propylene glycol,intensity/pleasantness,
+IP145,145.0,460.0,90-05-1,guaiacol,high,1/1.000.000,paraffin oil,intensity/pleasantness,second repeat
+IP146,146.0,8164.0,112-14-1,octyl acetate,high,1/100,paraffin oil,intensity/pleasantness,second repeat
+IP147,147.0,8186.0,112-44-7,undecanal,high,1/1.000,paraffin oil,intensity/pleasantness,second repeat
+IP148,148.0,,8012-95-1,paraffin oil,,,,intensity/pleasantness,second repeat; solvent
+IP149,149.0,8159.0,112-06-1,heptyl acetate,low,1/25.000,paraffin oil,intensity/pleasantness,second repeat
+IP15,15.0,11617.0,592-88-1,diallyl sulfide,high,1/100.000,paraffin oil,intensity/pleasantness,
+IP150,150.0,17525.0,2639-63-6,hexyl butyrate,low,1/1.000,paraffin oil,intensity/pleasantness,second repeat
+IP151,151.0,264.0,107-92-6,butyric acid,high,1/250.000,paraffin oil,intensity/pleasantness,second repeat
+IP152,152.0,17525.0,2639-63-6,hexyl butyrate,high,1/100,paraffin oil,intensity/pleasantness,second repeat
+IP153,153.0,8175.0,112-31-2,decyl aldehyde,high,1/5.000,paraffin oil,intensity/pleasantness,second repeat
+IP154,154.0,8843.0,3913-71-1,CC(=CCCC(=CC=O)C)C,low,1/10.000,paraffin oil,intensity/pleasantness,second repeat
+IP155,155.0,5281167.0,928-96-1,cis-3-hexen-1-ol,low,1/250.000,paraffin oil,intensity/pleasantness,second repeat
+IP156,156.0,31289.0,124-19-6,nonyl aldehyde,high,1/5.000,paraffin oil,intensity/pleasantness,second repeat
+IP157,157.0,7144.0,93-51-6,2-methoxy-4-methylphenol,low,1/1.000.000,paraffin oil,intensity/pleasantness,second repeat
+IP158,158.0,8175.0,112-31-2,decyl aldehyde,low,1/25.000,paraffin oil,intensity/pleasantness,second repeat
+IP159,159.0,1030.0,57-55-6,propylene glycol,,,,intensity/pleasantness,second repeat; solvent
+IP16,16.0,1030.0,57-55-6,propylene glycol,,,,intensity/pleasantness,solvent
+IP17,17.0,14525.0,7787-20-4,fenchone,low,1/25.000,paraffin oil,intensity/pleasantness,
+IP18,18.0,263.0,71-36-3,1-butanol,high,1/1.000,paraffin oil,intensity/pleasantness,
+IP19,19.0,6852393.0,18339-16-7,androstenone,high,1/1.000,propylene glycol,intensity/pleasantness,
+IP2,2.0,,800-78-0,garlic,high,1/25.000,paraffin oil,intensity/pleasantness,calibration stimulus
+IP20,20.0,650.0,431-03-8,diacetyl,low,1/10.000.000,paraffin oil,intensity/pleasantness,
+IP21,21.0,111037.0,80-26-2,terpinyl acetate,high,1/500,paraffin oil,intensity/pleasantness,
+IP22,22.0,7127.0,93-15-2,eugenol methyl ether,low,1/500,paraffin oil,intensity/pleasantness,
+IP23,23.0,,8006-87-9,sandalwood,high,1/1.000,paraffin oil,intensity/pleasantness,
+IP24,24.0,,8008-45-5,nutmeg,high,1/1.000,paraffin oil,intensity/pleasantness,
+IP25,25.0,9261.0,290-37-9,pyrazine,low,1/500,propylene glycol,intensity/pleasantness,
+IP26,26.0,853433.0,97-54-1,isoeugenol,high,1/2.000,paraffin oil,intensity/pleasantness,
+IP27,27.0,91691547.0,5989-27-5,r-limonene,high,1/10,paraffin oil,intensity/pleasantness,
+IP28,28.0,165675.0,15356-60-2,(+)-menthol,low,1/400,propylene glycol,intensity/pleasantness,
+IP29,29.0,2758.0,470-82-6,cineole,high,1/1.000,paraffin oil,intensity/pleasantness,
+IP3,3.0,9261.0,290-37-9,pyrazine,low,1/500,propylene glycol,intensity/pleasantness,calibration stimulus
+IP30,30.0,264.0,107-92-6,butyric acid,low,1/1.000.000,paraffin oil,intensity/pleasantness,
+IP31,31.0,1549026.0,105-87-3,geranyl acetate,high,1/200,paraffin oil,intensity/pleasantness,
+IP32,32.0,998.0,122-78-1,phenyl acetaldehyde,high,1/2.000.000,paraffin oil,intensity/pleasantness,
+IP33,33.0,8186.0,112-44-7,undecanal,low,1/10.000,paraffin oil,intensity/pleasantness,
+IP34,34.0,3314.0,97-53-0,eugenol,low,1/25.000,paraffin oil,intensity/pleasantness,
+IP35,35.0,31272.0,123-86-4,butyl acetate,high,1/1.000,paraffin oil,intensity/pleasantness,
+IP36,36.0,7127.0,93-15-2,eugenol methyl ether,high,1/10,paraffin oil,intensity/pleasantness,
+IP37,37.0,64832.0,18127-01-0,bourgeonal,high,1/200,paraffin oil,intensity/pleasantness,
+IP38,38.0,439570.0,6485-40-1,r-carvone,low,1/100.000,paraffin oil,intensity/pleasantness,
+IP39,39.0,460.0,90-05-1,guaiacol,high,1/1.000.000,paraffin oil,intensity/pleasantness,first repeat
+IP4,4.0,878.0,5188-07-8,methanethiol,high,1/10.000.000,water,intensity/pleasantness,calibration stimulus
+IP40,40.0,8164.0,112-14-1,octyl acetate,high,1/100,paraffin oil,intensity/pleasantness,first repeat
+IP41,41.0,8186.0,112-44-7,undecanal,high,1/1.000,paraffin oil,intensity/pleasantness,first repeat
+IP42,42.0,,8012-95-1,paraffin oil,,,,intensity/pleasantness,first repeat; solvent
+IP43,43.0,8159.0,112-06-1,heptyl acetate,low,1/25.000,paraffin oil,intensity/pleasantness,first repeat
+IP44,44.0,17525.0,2639-63-6,hexyl butyrate,low,1/1.000,paraffin oil,intensity/pleasantness,first repeat
+IP45,45.0,264.0,107-92-6,butyric acid,high,1/250.000,paraffin oil,intensity/pleasantness,first repeat
+IP46,46.0,17525.0,2639-63-6,hexyl butyrate,high,1/100,paraffin oil,intensity/pleasantness,first repeat
+IP47,47.0,8175.0,112-31-2,decyl aldehyde,high,1/5.000,paraffin oil,intensity/pleasantness,first repeat
+IP48,48.0,8843.0,3913-71-1,CC(=CCCC(=CC=O)C)C,low,1/10.000,paraffin oil,intensity/pleasantness,first repeat
+IP49,49.0,5281167.0,928-96-1,cis-3-hexen-1-ol,low,1/250.000,paraffin oil,intensity/pleasantness,first repeat
+IP5,5.0,4133.0,119-36-8,methyl salicylate,low,1/25.000,paraffin oil,intensity/pleasantness,calibration stimulus
+IP50,50.0,31289.0,124-19-6,nonyl aldehyde,high,1/5.000,paraffin oil,intensity/pleasantness,first repeat
+IP51,51.0,7144.0,93-51-6,2-methoxy-4-methylphenol,low,1/1.000.000,paraffin oil,intensity/pleasantness,first repeat
+IP52,52.0,8175.0,112-31-2,decyl aldehyde,low,1/25.000,paraffin oil,intensity/pleasantness,first repeat
+IP53,53.0,1030.0,57-55-6,propylene glycol,,,,intensity/pleasantness,first repeat; solvent
+IP54,54.0,31272.0,123-86-4,butyl acetate,low,1/1.000.000,paraffin oil,intensity/pleasantness,
+IP55,55.0,235414.0,106-02-5,pentadecalactone,low,1/2.000,propylene glycol,intensity/pleasantness,
+IP56,56.0,7794.0,8000-29-1,citronella,low,1/250.000,paraffin oil,intensity/pleasantness,
+IP57,57.0,6549.0,78-70-6,linalool,low,1/100.000,paraffin oil,intensity/pleasantness,
+IP58,58.0,31289.0,124-19-6,nonyl aldehyde,low,1/100.000,paraffin oil,intensity/pleasantness,
+IP59,59.0,,8015-91-6,cinnamon,low,1/50.000,paraffin oil,intensity/pleasantness,
+IP6,6.0,8186.0,112-44-7,undecanal,high,1/1.000,paraffin oil,intensity/pleasantness,calibration stimulus
+IP60,60.0,7583.0,101-84-8,diphenyl ether,high,1/200,paraffin oil,intensity/pleasantness,
+IP61,61.0,,8008-79-5,spearmint,high,1/5.000,paraffin oil,intensity/pleasantness,
+IP62,62.0,16666.0,2216-51-5,(-)-menthol,low,1/400,propylene glycol,intensity/pleasantness,
+IP63,63.0,6549.0,78-70-6,linalool,high,1/100,paraffin oil,intensity/pleasantness,
+IP64,64.0,92979.0,794-58-9,androstadienone,high,1/1.000,propylene glycol,intensity/pleasantness,
+IP65,65.0,2758.0,470-82-6,cineole,low,1/100.000,paraffin oil,intensity/pleasantness,
+IP66,66.0,17100.0,98-55-5,terpineol,low,1/10.000,paraffin oil,intensity/pleasantness,
+IP67,67.0,,8008-26-2,lime,high,1/5.000,paraffin oil,intensity/pleasantness,
+IP68,68.0,6561.0,78-84-2,isobutyraldehyde,low,1/100.000,paraffin oil,intensity/pleasantness,
+IP69,69.0,8892.0,142-62-1,caproic acid,high,1/250.000,paraffin oil,intensity/pleasantness,
+IP7,7.0,17100.0,98-55-5,terpineol,high,1/100,paraffin oil,intensity/pleasantness,
+IP70,70.0,,8002-09-3,fir,high,1/10.000,paraffin oil,intensity/pleasantness,
+IP71,71.0,263.0,71-36-3,1-butanol,low,1/10.000,paraffin oil,intensity/pleasantness,
+IP72,72.0,1549026.0,105-87-3,geranyl acetate,low,1/10.000,paraffin oil,intensity/pleasantness,
+IP73,73.0,111037.0,80-26-2,terpinyl acetate,low,1/1.000,paraffin oil,intensity/pleasantness,
+IP74,74.0,,8012-95-1,paraffin oil,,,,intensity/pleasantness,solvent
+IP75,75.0,,68990-83-0,cedarwood,low,1/5.000,paraffin oil,intensity/pleasantness,
+IP76,76.0,1183.0,121-33-5,vanillin,high,1/200,propylene glycol,intensity/pleasantness,
+IP77,77.0,,8015-62-1,ambrette,low,1/1.000.000,paraffin oil,intensity/pleasantness,
+IP78,78.0,10430.0,503-74-2,isovaleric acid,low,1/2.000.000,paraffin oil,intensity/pleasantness,
+IP79,79.0,6569.0,78-93-3,2-butanone,high,1/5.000,paraffin oil,intensity/pleasantness,
+IP8,8.0,8467.0,121-32-4,ethyl vanillin,low,1/1.000,propylene glycol,intensity/pleasantness,
+IP80,80.0,5281167.0,928-96-1,cis-3-hexen-1-ol,high,1/100.000,paraffin oil,intensity/pleasantness,
+IP81,81.0,8843.0,5392-40-5,CC(=CCCC(=CC=O)C)C,high,1/5.000,paraffin oil,intensity/pleasantness,
+IP82,82.0,16666.0,2216-51-5,(-)-menthol,high,1/40,propylene glycol,intensity/pleasantness,
+IP83,83.0,8130.0,111-71-7,heptaldehyde,low,1/10.000.000,paraffin oil,intensity/pleasantness,
+IP84,84.0,6561.0,78-84-2,isobutyraldehyde,high,1/1.000,paraffin oil,intensity/pleasantness,
+IP85,85.0,61061.0,125-12-2,CC(=O)O[C@@H]1C[C@@H]2CC[C@@]1(C2(C)C)C,low,1/2.000.000,paraffin oil,intensity/pleasantness,
+IP86,86.0,878.0,5188-07-8,methanethiol,low,1/50.000.000,water,intensity/pleasantness,
+IP87,87.0,4133.0,119-36-8,methyl salicylate,high,1/1.000,paraffin oil,intensity/pleasantness,
+IP88,88.0,14525.0,7787-20-4,fenchone,high,1/1.000,paraffin oil,intensity/pleasantness,
+IP89,89.0,,8008-26-2,lime,low,1/2.000.000,paraffin oil,intensity/pleasantness,
+IP9,9.0,,8015-91-6,cinnamon,high,1/10.000,paraffin oil,intensity/pleasantness,
+IP90,90.0,91497.0,1222-05-5,galaxolide,low,1/10,paraffin oil,intensity/pleasantness,
+IP91,91.0,6590.0,79-31-2,isobutyric acid,low,1/10.000,paraffin oil,intensity/pleasantness,
+IP92,92.0,,8022-96-6,jasmine,low,1/200.000,paraffin oil,intensity/pleasantness,
+IP93,93.0,7794.0,8000-29-1,citronella,high,1/10.000,paraffin oil,intensity/pleasantness,
+IP94,94.0,8892.0,142-62-1,caproic acid,low,1/1.000.000,paraffin oil,intensity/pleasantness,
+IP95,95.0,,8012-95-1,paraffin oil,,,,intensity/pleasantness,solvent
+IP96,96.0,10430.0,503-74-2,isovaleric acid,high,1/20.000,paraffin oil,intensity/pleasantness,
+IP97,97.0,7136.0,93-28-7,eugenol acetate,low,1/1.000.000,paraffin oil,intensity/pleasantness,
+IP98,98.0,6850845.0,8007-70-3,anise,low,1/50.000,paraffin oil,intensity/pleasantness,
+IP99,99.0,460.0,90-05-1,guaiacol,low,1/50.000.000,paraffin oil,intensity/pleasantness,
+T1,,235414.0,106-02-5,pentadecalactone,,,propylene glycol,threshold,
+T2,,10430.0,503-74-2,isovaleric acid,,,paraffin oil,threshold,
+T3,,1183.0,121-33-5,vanillin,,,propylene glycol,threshold,

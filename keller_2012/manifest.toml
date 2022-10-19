@@ -10,12 +10,13 @@ tags = "human;intensity;pleasantness;odorCharacter;threshold;academic"
 "12868_2012_2787_MOESM1_ESM.xlsx" = "Raw data from the supplementary materials"
 
 [processed]
-"main.py" = "Processing workflow"
 "molecules.csv" = "Information about odorant molecules used"
-"mixtures.csv" = "Molecular composition and concentration of the odorants used"
+"stimuli.csv" = "Maps stimulus to the molecular composition and concentration of the odorants used"
 "behavior_1.csv" = "Detection thresholds for 3 odorants"
 "behavior_2.csv" = "Descriptors for 3 odorants"
 "behavior_3.csv" = "Intensity for 134 odorants"
 "behavior_4.csv" = "Pleasantness for 134 odorants"
 "subjects.csv" = "Subject metadata"
-"substances.csv" = "Stimuli that do not have CID's"
+
+[code]
+"main.py" = "Processing workflow"
