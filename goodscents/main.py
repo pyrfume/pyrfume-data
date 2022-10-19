@@ -1,102 +1,118 @@
-# ---
-# jupyter:
-#   jupytext:
-#     formats: ipynb,py
-#     text_representation:
-#       extension: .py
-#       format_name: light
-#       format_version: '1.5'
-#       jupytext_version: 1.10.3
-#   kernelspec:
-#     display_name: Python 3
-#     language: python
-#     name: python3
-# ---
+#!/usr/bin/env python
+# coding: utf-8
 
-# # Preprocessing for Goodscents data
+# Preprocessing for Goodscents data
+# Initial preprocessing previously done by Contrebande Labs
+# Preprocessing here is to convert this to the Pyrfume standard format
 
-# ### Initial preprocessing previously done by Contrebande Labs
-# ### Preprocessing here is to convert this to the Pyrfume standard format
-
-from itertools import chain
 import numpy as np
 import pandas as pd
 import pyrfume
-from pyrfume.odorants import get_cids, from_cids, canonical_smiles, smiles_to_mol
-from rdkit.Chem.Descriptors import MolWt
-from tqdm.auto import tqdm
+import os
 
 # Load the data previously processed by Google form the Leffingwell raw source file (not available here)
 opl = pd.read_csv('data_rw_opl.csv')
+print(opl.shape[0], 'rows')
+print(opl[opl['TGSC ID'].duplicated(keep=False)].shape[0], 'duplicate IDs')
+opl.head()
+
+opl2 = pd.read_csv('opl.csv')
+print(opl2.shape[0], 'rows')
+print(opl2[opl2['TGSC OPL ID'].duplicated(keep=False)].shape[0], 'duplicate IDs')
+opl2.head()
 
 # Load the data previously processed by Google form the Leffingwell raw source file (not available here)
 odor = pd.read_csv('data_rw_odor.csv')
+print(odor.shape[0], 'rows')
+print(odor[odor['TGSC ID'].duplicated(keep=False)].shape[0], 'duplicate IDs')
+odor.head()
 
-# Load the data previously processed by Google form the Leffingwell raw source file (not available here)
-contents = pd.read_csv('data_rw_contents.csv')
+odor = odor[['TGSC ID', 'Tags', 'Concentration %', 'Solvent']]
+odor.sort_values(['TGSC ID', 'Concentration %', 'Solvent'], na_position='last', inplace=True)
 
-# The CIDs given by Contrebande
-cids_1 = opl['CID'].fillna(0).apply(lambda x: x[0] if isinstance(x, pd.Series) else x).fillna(0).astype(int)
+# # Fix some apostrophe issues and convert to lists
+odor.Tags = odor.Tags.fillna('[]').apply(lambda x: eval(x.replace("'s'", "s'")))
 
-# Export CAS for CIDs not found by Contrebande
-opl[cids_1==0]['CAS Number'].to_csv('untracked/cas_out_2.csv', index=False, header=False)
+# Merge tags for duplicate TGSC ID's and remove duplicate descriptors
+# Assumption here is that the duplicate ID's from data_rw_odor.csv are the result of listings for different sources
+odor = odor.groupby('TGSC ID', dropna=False).agg({'Tags': 'sum', 'Concentration %': 'first', 'Solvent': 'first'}).reset_index()
+odor.Tags = odor.Tags.apply(lambda x: list(set(x)))
 
-# Now run cas_out_1.csv through the PubChem exchange service (https://pubchem.ncbi.nlm.nih.gov/idexchange/idexchange.cgi)
-# Save the output and load it:
-cas_to_cid = pd.read_csv('untracked/cas_to_cids_2.txt', sep='\t', index_col=0, header=None)[1]
-cas_to_cid[''] = 0
-# Map CAS numbers to CIDs
-cids_2 = opl[cids_1==0]['CAS Number'].fillna('').apply(cas_to_cid.get, args=(0,))
-# Pick the first CID if there are multiple hits
-cids_2 = cids_2.apply(lambda x: x[0] if isinstance(x, pd.Series) else x).fillna(0).astype(int)
+print(odor.shape[0], 'rows left after merging duplicates')
+odor.head()
 
-# Export names for things not yet found by Contrebande or CAS
-opl[cids_1==0][cids_2==0]['Name'].to_csv('untracked/name_out_3.csv', index=False, header=False)
+df = odor.copy()
 
-# Now run name_out_2.csv through the PubChem exchange service (https://pubchem.ncbi.nlm.nih.gov/idexchange/idexchange.cgi)
-# Save the output and load it:
-name_to_cid = pd.read_csv('untracked/name_to_cids_3.txt', sep='\t', index_col=0, header=None)[1]
-name_to_cid[''] = 0
-# Map names to CIDs
-cids_3 = opl[cids_1==0][cids_2==0]['Name'].fillna('').apply(name_to_cid.get, args=(0,))
-# Pick the first CID if there are multiple hits
-cids_3 = cids_3.apply(lambda x: x[0] if isinstance(x, pd.Series) else x).fillna(0).astype(int)
+df['OPL ID'] = df['TGSC ID'].map(dict(zip(opl['TGSC ID'], opl['TGSC OPL ID'])))
+df['CAS'] = df['TGSC ID'].map(dict(zip(opl['TGSC ID'], opl['CAS Number'])))
+df['CID'] = df['TGSC ID'].map(dict(zip(opl['TGSC ID'], opl['CID']))).replace(np.nan, 0)
+df['SMILES'] = df['OPL ID'].map(dict(zip(opl2['TGSC OPL ID'], opl2['SMILES'])))
+df['Name'] = df['OPL ID'].map(dict(zip(opl2['TGSC OPL ID'], opl2['Common Name'])))
+df['IUPAC Name'] = df['OPL ID'].map(dict(zip(opl2['TGSC OPL ID'], opl2['IUPAC Name'])))
 
-# Found by each method
-len(cids_1[cids_1>0]), len(cids_2[cids_2>0]), len(cids_3[cids_3>0])
+# Use 'TGSC OPL ID' as index and stimulus ID since TGSC OPL ID is unique in opl.csv
+df.drop_duplicates(subset=['OPL ID'], inplace=True) # Remove duplicates
+df['OPL ID'].fillna(df.CAS, inplace=True)
+df.set_index('OPL ID', inplace=True)
+df.index.name = 'Stimulus'
 
-opl = opl.copy() # Bypass ridiculous setting on a copy warning
-# Apply CAS-based CIDs only to those CIDs not found by Contrebande
-opl.loc[cids_1==0, 'CID'] = cids_2.copy()
-# Apply name-based CIDs only to those CIDs not found by Contrebande or by CAS
-opl.loc[cids_1==0, :].loc[cids_2==0, 'CID'] = cids_3.copy()
-opl['CID'] = opl['CID'].astype(int)
+print(df.shape[0], 'rows')
+print(df[df.CID == 0].shape[0], 'missing CIDs')
+df.head()
 
-# + tags=[]
-cids = list(set(opl['CID']) - set([0]))
+# Try fetching missing CIDs using SMILES
+smi = df[df.CID == 0].SMILES.dropna()
+cid_from_smi = pyrfume.get_cids(smi.to_list(), kind='smiles')
+
+df.loc[smi.index, 'CID'] = df.loc[smi.index, 'SMILES'].map(cid_from_smi)
+print(df[df.CID == 0].shape[0], 'missing CIDs')
+
+# Now try finding remaining missing using CAS #'s
+cas = df[df.CID == 0].CAS.dropna()
+cid_from_cas = pyrfume.get_cids(cas.to_list())
+
+df.loc[cas.index, 'CID'] = df.loc[cas.index, 'CAS'].map(cid_from_cas)
+print(df[df.CID == 0].shape[0], 'missing CIDs')
+
+# Now try finding remaining missing using names
+# Searching by IUPAC names at this stage does not yeild any new CIDs
+names = df[df.CID == 0]['Name'].dropna()
+cid_from_name = pyrfume.get_cids(names.to_list(), kind='name')
+
+df.loc[names.index, 'CID'] = df.loc[names.index, 'Name'].map(cid_from_name)
+print(df[df.CID == 0].shape[0], 'missing CIDs')
+
+# Manually add some of the remaining missing CIDs by searching PubChem 
+# and drop remaining missing CIDS if also missing SMILES
+# There are no missing CIDs after this step
+df.loc['93905-03-4', 'CID'] = 33166
+df.loc['27177-85-1', 'CID'] = 314293
+df.loc['NF0133', 'CID'] = 11008539 
+df = df[(df.CID != 0) & (~df.SMILES.isna())]
+
+df.CID = df.CID.astype(int)
+print(df.shape)
+df.head()
+
 # Get standard information from PubChem for the CIDs that were found
-molecules = from_cids(cids)
-# Convert to a DataFrame
-molecules = pd.DataFrame(molecules).set_index('CID').sort_index()
-# -
+cids = list(set(df.CID.to_list()))
 
-molecules.to_csv('molecules.csv')
+molecules = pd.DataFrame(pyrfume.from_cids(cids)).set_index('CID').sort_index()
+
 molecules.head()
 
-tgsc_id = opl.set_index('CID')['TGSC ID']
-identifiers = tgsc_id[tgsc_id.index>0].sort_index()
-identifiers.to_csv('identifiers.csv')
+# Dataframe for stimuli.csv
+stimuli = df[['TGSC ID', 'CID', 'Concentration %', 'Solvent']].copy()
+stimuli.sort_index(inplace=True)
+stimuli.head()
 
-delivery = odor.set_index('TGSC ID')[['Concentration %', 'Solvent']]
-delivery.to_csv('delivery.csv')
+# Odor descriptor tags -> behavior.csv
+behavior = df['Tags'].copy().to_frame().sort_index()
+behavior['Descriptors'] = behavior.Tags.apply(lambda x: ';'.join(x))
+behavior.head()
 
-z = odor.set_index('TGSC ID')['Tags'].fillna('[]').apply(lambda x: x.replace("'s'", "s'")) # Fix some apostrophe issues
-behavior_sparse = z.apply(lambda x: set(eval(x)))
-all_tags = set.union(*list(behavior_sparse.values))
-behavior_sparse.to_csv('behavior_sparse.csv')
+# Write to disk
+molecules.to_csv('molecules.csv')
+behavior.drop('Tags', axis=1).to_csv('behavior.csv')
+stimuli.to_csv('stimuli.csv')
 
-behavior = pd.DataFrame(index=behavior_sparse.index, columns=all_tags)
-for tag in tqdm(all_tags):
-    behavior[tag] = behavior_sparse.apply(lambda x: tag in x).astype(int)
-
-behavior.to_csv('behavior.csv')
