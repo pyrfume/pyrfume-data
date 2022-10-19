@@ -1,17 +1,5 @@
-# ---
-# jupyter:
-#   jupytext:
-#     formats: ipynb,py
-#     text_representation:
-#       extension: .py
-#       format_name: light
-#       format_version: '1.5'
-#       jupytext_version: 1.10.3
-#   kernelspec:
-#     display_name: Python 3
-#     language: python
-#     name: python3
-# ---
+#!/usr/bin/env python
+# coding: utf-8
 
 from pyrfume.odorants import from_cids, get_cids
 import pandas as pd
@@ -92,8 +80,9 @@ z1 = all_data.set_index('stimulus_1')[['cid1', 'conc_1st']]
 z1.columns = ['CIDs', 'conc']
 z2 = all_data.set_index('stimulus_2')[['cid2', 'conc_2nd']]
 z2.columns = ['CIDs', 'conc']
-identifiers = pd.concat([z1, z2])
-identifiers = identifiers[~identifiers.index.duplicated()].sort_index()
-identifiers.index.name = 'stimulus'
-identifiers.to_csv('identifiers.csv')
-identifiers.head()
+stimuli = pd.concat([z1, z2])
+stimuli = stimuli[~stimuli.index.duplicated()].sort_index()
+stimuli.index.name = 'stimulus'
+stimuli.to_csv('stimuli.csv')
+stimuli.head()
+
