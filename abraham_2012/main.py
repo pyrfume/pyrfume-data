@@ -1,18 +1,5 @@
-# -*- coding: utf-8 -*-
-# ---
-# jupyter:
-#   jupytext:
-#     formats: ipynb,py
-#     text_representation:
-#       extension: .py
-#       format_name: light
-#       format_version: '1.5'
-#       jupytext_version: 1.10.3
-#   kernelspec:
-#     display_name: Python 3
-#     language: python
-#     name: python3
-# ---
+#!/usr/bin/env python
+# coding: utf-8
 
 import pandas as pd
 from pyrfume.odorants import get_cids, from_cids
@@ -43,6 +30,7 @@ subs = {'lsobutylaldehyde': 'isobutyraldehyde',
         'n-Propy n-butyrate': 'Propyl butyrate',
         'D-3-carene': 'delta-3-carene',
         'sec-Pentanol': '2-pentanol'}
+
 df['Substance'] = df['Substance'].replace(subs)
 
 # Replace typos and odd spellings with correct molecule names (parts of names)
@@ -52,6 +40,7 @@ subs = {'.': '-',
         'mercaptane': 'mercaptan',
         'acryrale': 'acrylate',
         '- ': '-'}
+
 for key, value in subs.items():
     df['Substance'] = df['Substance'].str.replace(key, value, regex=False)
 
@@ -67,26 +56,36 @@ assert all(df['CID']>0)
 
 # Use the CID as the index and discard other identifiers from original dataset
 df = df.set_index('CID').drop(['Substance', 'SMILES', 'MW'], axis=1)
+df.head()
 
-# +
 # There are some duplicate entries so average over duplicates and indicate where this has occurred
 counts = df.groupby('CID')['Log (1/ODT)'].count()
 behavior = df.groupby('CID').mean()
 behavior['Duplicates'] = counts - 1
 
-# Save this to the behavior file
+behavior.sort_index(inplace=True)
 behavior.index.name = 'Stimulus'
+behavior.head()
+
+# Save this to the behavior file
+# behavior.index.name = 'Stimulus'
 behavior.to_csv('behavior.csv')
 
-# +
 # Get molecular data from PubChem (for consistency)
 molecules = pd.DataFrame(from_cids(df.index)).set_index('CID')
 
+# Sort index and remove duplicates
+molecules.sort_index(inplace=True)
+molecules = molecules[~molecules.index.duplicated()]
+molecules.head()
+
+# Verfify that both dataframes contain same set of CIDs
+assert behavior.index.equals(molecules.index) 
+
 # Save this to the molecules file
 molecules.to_csv('molecules.csv')
-# -
 
-# All identifiers are CIDs
-identifiers = pd.DataFrame(molecules.index, index=molecules.index.tolist())
-identifiers.index.name = 'Stimulus'
-identifiers.to_csv('identifiers.csv')
+# All stimuli are CIDs
+stimuli = pd.DataFrame(molecules.index, index=molecules.index.tolist())
+stimuli.index.name = 'Stimulus'
+stimuli.to_csv('stimuli.csv')
