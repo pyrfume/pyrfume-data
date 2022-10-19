@@ -14,8 +14,11 @@ extra = "Originally compiled by Sharma et al. 2021 and organized as OlfactionBas
 LICENSE = "2022 Copyright OlfactionBase. All Rights Reserved."
 
 [processed]
-"main.py" = "Processing workflow."
 "molecules.csv" = "Information about odorant molecules used."
+"stimuli.csv" = "Maps stimulus to CID"
 "behavior_1.csv" = "Odor descriptors and strength for each molecule (odorants and odorless chemicals)."
 "behavior_2.csv" = "Olfactory receptor pair for each CID."
 "physics.csv" = "Physicochemical and pharmacokinetic properties indexed by CID."
+
+[code]
+"main.py" = "Processing workflow."

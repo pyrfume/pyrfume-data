@@ -10,6 +10,7 @@ import shutil
 from time import sleep
 import pickle
 import sys
+import bz2
 import pyrfume
 
 # Only need to scrape for raw data once
@@ -201,7 +202,8 @@ behav1['Primary Odor'] = behav1['Primary Odor'].str.replace(' ','')
 
 # Add odor strength where available
 behav1['Strength'] = behav1['CID'].map(odor_strength)
-behav1 = behav1.set_index(['CID', 'Primary Odor']).sort_index()
+behav1.rename(columns={'CID': 'Stimulus'}, inplace=True)
+behav1 = behav1.set_index(['Stimulus', 'Primary Odor']).sort_index()
 behav1.head()
 
 # Load OR-odorant pairs -> behavior_2.csv
@@ -209,8 +211,9 @@ pairs = pd.read_csv('OR-odorant_pairs.csv', index_col='Sr. No')
 pairs.rename(columns={'PubChem':'CID', 'Receptor':'Olfactory Receptor'}, inplace=True)
 pairs.head()
 
-behav2 = pairs[['CID','Olfactory Receptor']]
+behav2 = pairs[['CID','Olfactory Receptor']].copy()
 behav2 = behav2.set_index('CID').sort_index()
+behav2.index.name = 'Stimulus'
 behav2.head()
 
 # Create physics.csv from physicochemical and pharmacokinetic properties
@@ -228,8 +231,15 @@ drop_list = ['Molecular Weight (g/mol)', 'Mass (g/mol)']
 physics.drop(axis=1, columns=drop_list, inplace=True)
 physics.head()
 
+# Create dataframe for stimuli.csv; all simuli are CIDs
+stimuli = pd.DataFrame(molecules.index.copy(), index=molecules.index.copy())
+stimuli.index.name = 'Stimulus'
+stimuli.head()
+
 # Write to disk
 molecules.to_csv('molecules.csv')
 behav1.to_csv('behavior_1.csv')
 behav2.to_csv('behavior_2.csv')
 physics.to_csv('physics.csv')
+stimuli.to_csv('stimuli.csv')
+
