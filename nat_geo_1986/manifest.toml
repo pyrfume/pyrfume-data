@@ -15,8 +15,11 @@ extra = "Originally conducted for National Geographic magazine in 1986 by Avery 
 "methods.txt" = "An excerpt describing the odorants from the original Gilbert and Wysocki paper"
 
 [processed]
-"main.py" = "Processing workflow"
 "molecules.csv" = "Information about odorant molecules used"
-"mixtures.csv" = "Molecular composition of the odorants used"
+"stimuli.csv" = "Maps stimuli to the molecular composition of the odorants used"
 "behavior.csv" = "Subject responses about the odorants"
 "subjects.csv" = "Subject metadata"
+
+[code]
+"main.py" = "Processing workflow"
+
