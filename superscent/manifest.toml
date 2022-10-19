@@ -1,0 +1,16 @@
+# Manifest for SuperScent molecule list
+[source]
+title = "SuperScent"
+authors = ""
+url = "http://bioinf-applied.charite.de/superscent/"
+tags = ""
+
+[raw]
+"superscent_cids.txt" = "List of CIDs"
+LICENSE = ""
+
+[processed]
+"molecules.csv" = "Information about molecules used"
+
+[code]
+"main.py" = "Processing workflow"
