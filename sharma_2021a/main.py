@@ -72,7 +72,7 @@ dups['cid3'] = dups['SMILES'].map(pyrfume.get_cids(dups['SMILES'].to_list()))
 
 dups.head()
 
-# Manually looked up CID duplicates on Pubchem to disambiguiate; -1 means that couldn't identifty as unique, will drop
+# Manually looked up CID duplicates on Pubchem to disambiguiate; -1 means that couldn't identifty as unique
 cid_replacements = { # df index: new CID
     1600: 49,
     148: 111044,
@@ -263,8 +263,16 @@ behavior = df[['CID', 'Smell Percepts']].copy().set_index('CID').sort_index()
 behavior['Decriptors'] = behavior['Smell Percepts'].apply(lambda x: to_descriptors(x, spell_replace, standardize_dict, to_drop))
 behavior['Modifiers'] = behavior['Smell Percepts'].apply(lambda x: to_modifiers(x, modifiers))
 behavior.drop('Smell Percepts', axis=1, inplace=True)
+behavior.index.name = 'Stimulus'
 behavior.head()
+
+# Create dataframe for stimuli.csv; all simuli are CIDs
+stimuli = pd.DataFrame(molecules.index.copy(), index=molecules.index.copy())
+stimuli.index.name = 'Stimulus'
+stimuli.head()
 
 # Write to disk
 molecules.to_csv('molecules.csv')
 behavior.to_csv('behavior.csv')
+stimuli.to_csv('stimuli.csv')
+
