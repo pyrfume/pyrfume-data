@@ -33,6 +33,7 @@ behav1 = df1[['CAS Number', 'Dorsal Response']].copy()
 behav1['CID'] = behav1['CAS Number'].map(cids) # convert CAS to CID
 behav1['Dorsal Response'] = behav1['Dorsal Response'].map(d_resp) # convert respose notation to integers
 behav1 = behav1.set_index(['CID']).sort_index()
+behav1.index.name = 'Stimulus'
 behav1.head()
 
 # DeltaF/F data is in sd02.csv, each experiment in it's own worksheet
@@ -100,6 +101,7 @@ for exp in expts:
 for exp in artifact:
     artifact[exp].drop(['Glom', '', 'X', 'Y'], axis=1, inplace=True)
     artifact[exp] = pd.melt(artifact[exp], var_name='OdorCode', value_name='Artifact', ignore_index=False)
+#     artifact[exp].set_index('Glom', inplace=True)
 
 # Reshape into single long form dataframe
 df4 = pd.concat(artifact, axis=0)
@@ -123,16 +125,19 @@ def add_conc(row, conc):
 behav2['Conc (% of S.V.)'] = behav2.apply(lambda row: add_conc(row, conc), axis=1)
 behav2.set_index(['CID', 'Experiment', 'Glom', 'Conc (% of S.V.)'], inplace=True)
 behav2.sort_index(inplace=True)
+behav2.index.set_names('Stimulus', level='CID', inplace=True)
 behav2.head()
 
-# Dataframe for identifiers.csv
-ident = pd.DataFrame.from_dict({v: k for k, v in abbr_to_cid.items()}, orient='index', columns=['In-lab Abbreviation'])
-ident.index.name = 'CID'
-ident.sort_index(inplace=True)
-ident.head()
+# Dataframe for stimuli.csv
+stimuli = pd.DataFrame.from_dict({v: k for k, v in abbr_to_cid.items()}, orient='index', columns=['In-lab Abbreviation'])
+stimuli.index.name = 'Stimulus'
+stimuli['CID'] = stimuli.index
+stimuli = stimuli[['CID', 'In-lab Abbreviation']].sort_index()
+stimuli.head()
 
 # write to disk
 molecules.to_csv('molecules.csv')
 behav1.drop('CAS Number', axis=1).to_csv('behavior_1.csv')
 behav2.drop('OdorCode', axis=1).to_csv('behavior_2.csv')
-ident.to_csv('identifiers.csv')
+stimuli.to_csv('stimuli.csv')
+
