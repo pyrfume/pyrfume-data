@@ -14,8 +14,11 @@ extra = "This experiment uses some substances (mixtures) that do not resolve to 
 "sdata20152-s2.xls" = "Supplementary data file from paper containing results"
 
 [processed]
-"main.py" = "Processing workflow"
 "molecules.csv" = "Molecules used"
-"receptors.csv" = "Receptors used"
+"subjects.csv" = "Maps subject to receptors used"
+"stimuli.csv" = "Maps stimulus to odorant used"
 "behavior_1.csv" = "Results from a screening experiment for active odorant/OR combinations"
 "behavior_2.csv" = "Computed activation thresholds and threshold algorithm parameters from the main experiment"
+
+[code]
+"main.py" = "Processing workflow"
