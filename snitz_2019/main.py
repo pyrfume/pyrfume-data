@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Full reproducability is dependent on published data files to be downloaded and saved to ./published_data
 # odorants_raw.csv was manually created by copy/pasting from Table 1 in online version of manuscript
 # complete_odorants_csv.ipynb must then be run to clean odorants_raw.csv and add CID, CAS lists for mixtures
 
@@ -95,5 +94,6 @@ stimuli.head()
 molecules.to_csv('molecules.csv')
 behav1.to_csv('behavior_1.csv')
 behav2.to_csv('behavior_2.csv')
-subjects.to_csv('stimuli.csv')
+subjects.to_csv('subjects.csv')
+stimuli.to_csv('stimuli.csv')
 
