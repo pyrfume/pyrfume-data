@@ -11,7 +11,7 @@ tags = "human;threshold;academic"
 [processed]
 "molecules.csv" = "Molecules used"
 "behavior.csv" = "Compiled odor thresholds and threshold algorithm parameters, indexed by CID"
-"stimuli.csv" = "Mapps stimulus to CID"
+"stimuli.csv" = "Maps stimulus to CID"
 
 [code]
 "main.py" = "Processing workflow"
