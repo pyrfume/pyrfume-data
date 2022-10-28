@@ -15,7 +15,7 @@ extra = "Copyright 2021 Emily Mayhew, Rick Gerkin, Brian Lee, Joel Mainland"
 "molecules.csv" = "Information about odorant molecules used"
 "behavior_1.csv" = "Data from S1.csv minus Dragon desriptors"
 "behavior_2.csv" = "Data from S2.csv"
-"physcis.csv" = "Data from s3.csv; transprot features for GDB-17 molecules"
+"physics.csv" = "Data from s3.csv; transprot features for GDB-17 molecules"
 "stimuli.csv" = "Maps SMILES (stimulus) to CID"
 
 [code]
