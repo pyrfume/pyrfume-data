@@ -1,6 +1,9 @@
 # Manifest for prediction targets compiled for select pyrfume datasets
-[processed]
+
+[code]
 "main.py" = "Processing workflow"
+
+[processed]
 "dravnieks_1985.csv" = "CID, Descriptor, Applicability, Use"
 "keller_2016.csv" = "CID, Descriptor, Average Rating (averaged across all concentrations, replicates, and subjects)"
 "abraham_2012.csv" = "CID, Log(1/ODT) threshold"
