@@ -7,6 +7,8 @@ authors = "Liyah A Coleman, Richard C Gerkin"
 "raw_data.csv" = "Values were extracted from PubChem"
 
 [processed]
-"main.py" = "Code for scraping"
 "molecules.csv" = "Molecules used"
-"attributes.csv" = "Dataframe of the scraped opr values"
+"physics.csv" = "Dataframe of the scraped opr values"
+
+[code]
+"main.py" = "Processing workflow"
