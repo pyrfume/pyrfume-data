@@ -11,7 +11,7 @@ tags = "rodent"
 
 [processed]
 "molecules.csv" = "Information about odorant molecules used"
-"stimuli.cav" = "Maps stimulus ID to odorant, dillution, and odorant set"
+"stimuli.csv" = "Maps stimulus ID to odorant, dillution, and odorant set"
 "behavior.csv" = "Perceptual similary results"
 
 [code]
