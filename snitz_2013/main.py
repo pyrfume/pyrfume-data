@@ -24,7 +24,13 @@ df3 = pd.read_csv('experiment3_comparisons.csv',
             header=0,index_col=0,names=['A','B','Similarity'])
 df3.head()
 
+df1.index.name = 'Pair'
+df2.index.name = 'Pair'
+df2.index = [200+int(x) for x in df2.index]
+df3.index.name = 'Pair'
+df3.index = [300+int(x) for x in df3.index]
 df = pd.concat([df1, df2, df3])
+df = df.rename(columns={'A': 'StimulusA', 'B': 'StimulusB'})
 df.head()
 
 cids1 = df1_cids['Mixture Cids'].apply(str.split, args=(',')).sum()
