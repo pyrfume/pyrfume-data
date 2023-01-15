@@ -2,7 +2,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 240,106.12,C1=CC=C(C=C1)C=O,benzaldehyde,benzaldehyde
 261,72.11,CCCC=O,butanal,butyraldehyde
 264,88.11,CCCC(=O)O,butanoic acid,butyric acid
-273,102.18,C(CCN)CCN,"pentane-1,5-diamine","pentane-1,5-diamine"
+273,102.18,C(CCN)CCN,"pentane-1,5-diamine",cadaverine
 323,146.14,C1=CC=C2C(=C1)C=CC(=O)O2,chromen-2-one,coumarin
 326,148.20,CC(C)C1=CC=C(C=C1)C=O,4-propan-2-ylbenzaldehyde,4-isopropylbenzaldehyde
 342,108.14,CC1=CC(=CC=C1)O,3-methylphenol,m-cresol
@@ -28,7 +28,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6826,165.19,CNC1=CC=CC=C1C(=O)OC,methyl 2-(methylamino)benzoate,methyl 2-(methylamino)benzoate
 6985,148.20,CC1=CC(=C(C=C1)C(=O)C)C,"1-(2,4-dimethylphenyl)ethanone","2',4'-dimethylacetophenone"
 7041,154.16,COC1=C(C(=CC=C1)OC)O,"2,6-dimethoxyphenol","2,6-dimethoxyphenol"
-7127,178.23,COC1=C(C=C(C=C1)CC=C)OC,"1,2-dimethoxy-4-prop-2-enylbenzene",methyl eugenol
+7127,178.23,COC1=C(C=C(C=C1)CC=C)OC,"1,2-dimethoxy-4-prop-2-enylbenzene",methyleugenol
 7136,206.24,CC(=O)OC1=C(C=C(C=C1)CC=C)OC,(2-methoxy-4-prop-2-enylphenyl) acetate,eugenol acetate
 7148,134.17,CCC(=O)C1=CC=CC=C1,1-phenylpropan-1-one,propiophenone
 7150,136.15,COC(=O)C1=CC=CC=C1,methyl benzoate,methyl benzoate
@@ -103,7 +103,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 21059,140.14,CCC1=C(C(=O)C=CO1)O,2-ethyl-3-hydroxypyran-4-one,ethyl maltol
 21648,164.20,CC(=O)CCC1=CC=C(C=C1)O,4-(4-hydroxyphenyl)butan-2-one,4-(4-hydroxyphenyl)-2-butanone
 22201,108.14,CC1=NC=CN=C1C,"2,3-dimethylpyrazine","2,3-dimethylpyrazine"
-25124,185.69,CN(C)CCC1=CC=CC=C1.Cl,"N,N-dimethyl-2-phenylethanamine;hydrochloride",10275-21-5
+25125,149.23,CN(C)CCC1=CC=CC=C1,"N,N-dimethyl-2-phenylethanamine","n,n-dimethylphenethylamine"
 25915,122.17,CCC1=NC=C(N=C1)C,2-ethyl-5-methylpyrazine,2-ethyl-5-methylpyrazine
 26331,108.14,CCC1=NC=CN=C1,2-ethylpyrazine,2-ethylpyrazine
 26333,150.22,CC1=NC=CN=C1CC(C)C,2-methyl-3-(2-methylpropyl)pyrazine,2-isobutyl-3-methylpyrazine
@@ -148,10 +148,10 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 439570,150.22,CC1=CC[C@H](CC1=O)C(=C)C,(5R)-2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-one,(-)-carvone
 440917,136.23,CC1=CC[C@@H](CC1)C(=C)C,(4R)-1-methyl-4-prop-1-en-2-ylcyclohexene,d-limonene
 442478,150.22,C[C@@H]1CCC2=C(C1)OC=C2C,"(6R)-3,6-dimethyl-4,5,6,7-tetrahydro-1-benzofuran",(+)-menthofuran
-442495,152.23,C[C@@H]1CCC(=C(C)C)C(=O)C1,(5R)-5-methyl-2-propan-2-ylidenecyclohexan-1-one,(+)-pulegone
+442495,152.23,C[C@@H]1CCC(=C(C)C)C(=O)C1,(5R)-5-methyl-2-propan-2-ylidenecyclohexan-1-one,pulegone
 518810,176.28,CCCC(CCOC(=O)C)S,3-sulfanylhexyl acetate,3-mercaptohexyl acetate
 518937,128.19,CSCC1=CC=CO1,2-(methylsulfanylmethyl)furan,furfuryl methyl sulfide
-520098,166.22,CCC(C)C1=NC=CN=C1OC,2-butan-2-yl-3-methoxypyrazine,24168-70-5
+520098,166.22,CCC(C)C1=NC=CN=C1OC,2-butan-2-yl-3-methoxypyrazine,2-sec-butyl-3-methoxypyrazine
 520108,127.17,CC(=O)C1=NC=CS1,"1-(1,3-thiazol-2-yl)ethanone",2-acetylthiazole
 526195,134.24,CC(C)(CCOC)S,4-methoxy-2-methylbutane-2-thiol,4-methoxy-2-methyl-2-butanethiol
 637511,132.16,C1=CC=C(C=C1)/C=C/C=O,(E)-3-phenylprop-2-enal,cinnamaldehyde
@@ -162,7 +162,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 643731,138.21,CC/C=C\CC/C=C/C=O,"(2E,6Z)-nona-2,6-dienal","trans-2,cis-6-nonadienal"
 853433,164.20,C/C=C/C1=CC(=C(C=C1)O)OC,2-methoxy-4-[(E)-prop-1-enyl]phenol,isoeugenol
 1268142,218.33,C[C@@H]1CC(=O)C=C2[C@]1(C[C@@H](CC2)C(=C)C)C,"(4R,4aS,6R)-4,4a-dimethyl-6-prop-1-en-2-yl-3,4,5,6,7,8-hexahydronaphthalen-2-one",nootkatone
-3085845,151.19,CC1=C[N+](=CC(=N1)C)C(=O)C,"1-(3,5-dimethylpyrazin-1-ium-1-yl)ethanone","2-acetyl-3,(5 or 6)-dimethylpyrazine"
+3085845,151.19,CC1=C[N+](=CC(=N1)C)C(=O)C,"1-(3,5-dimethylpyrazin-1-ium-1-yl)ethanone",einecs 276-848-2
 4409936,135.14,C1=CC=C(C=C1)CC(=O)[O-],2-phenylacetate,phenylacetate
 5281163,128.17,CCOC(=O)/C(=C/C)/C,ethyl (E)-2-methylbut-2-enoate,ethyl tiglate
 5281167,100.16,CC/C=C\CCO,(Z)-hex-3-en-1-ol,cis-3-hexen-1-ol
@@ -181,7 +181,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 5460048,176.12,C(C(COC=O)OC=O)OC=O,"2,3-diformyloxypropyl formate",triformin
 6992244,128.21,CCCCC[C@H](C=C)O,(3R)-oct-1-en-3-ol,(3r)-oct-1-en-3-ol
 10857465,236.39,C[C@]12CCCC([C@@H]1CC[C@@]3([C@@H]2CCO3)C)(C)C,"(3aR,5aS,9aS,9bR)-3a,6,6,9a-tetramethyl-2,4,5,5a,7,8,9,9b-octahydro-1H-benzo[e][1]benzofuran",(-)-ambroxide
-13479201,238.41,CCCCCCC/C=C(\CCCCCC)/C=O,(E)-2-hexyldec-2-enal,unii-v7nk8bcx89
+13479201,238.41,CCCCCCC/C=C(\CCCCCC)/C=O,(E)-2-hexyldec-2-enal,v7nk8bcx89
 15559490,182.30,C[C@@H]1CCC[C@]2([C@]1(CCCC2)O)C,"(4R,4aR,8aS)-4,8a-dimethyl-1,2,3,4,5,6,7,8-octahydronaphthalen-4a-ol",(+)-geosmin
-58165301,129.23,CCC1N=C(CS1)C,"2-ethyl-4-methyl-2,5-dihydro-1,3-thiazole","2-ethyl-4-methyl-2,5-dihydrothiazole"
+58165301,129.23,CCC1N=C(CS1)C,"2-ethyl-4-methyl-2,5-dihydro-1,3-thiazole","3-thiazoline, 2-ethyl-4-methyl-"
 71311442,456.6,CC(C)C1=CN=CC(=N1)OC.CC(C)C1=CN=C(C=N1)OC.CC(C)C1=NC=CN=C1OC,2-methoxy-3-propan-2-ylpyrazine;2-methoxy-5-propan-2-ylpyrazine;2-methoxy-6-propan-2-ylpyrazine,"2-methoxy-3(5 or 6)-isopropylpyrazine, >=98%"
