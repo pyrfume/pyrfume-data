@@ -151,3 +151,5 @@ burton_2022/raw/odormappingdata_fullinfo_06_2021.mat
 foodb/cids.pkl
 foodb/cids2.pkl
 foodb/cids3.pkl
+mordred/features_actual.csv
+morgan/features_sim_actual.csv
