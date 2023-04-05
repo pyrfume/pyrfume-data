@@ -153,3 +153,5 @@ foodb/cids2.pkl
 foodb/cids3.pkl
 mordred/features_actual.csv
 morgan/features_sim_actual.csv
+mordred/features_actual.zip
+morgan/features_sim_actual.zip
