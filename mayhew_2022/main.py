@@ -1,10 +1,24 @@
-#!/usr/bin/env python
-# coding: utf-8
+# ---
+# jupyter:
+#   jupytext:
+#     formats: ipynb,py
+#     text_representation:
+#       extension: .py
+#       format_name: light
+#       format_version: '1.5'
+#       jupytext_version: 1.14.4
+#   kernelspec:
+#     display_name: Python 3 (ipykernel)
+#     language: python
+#     name: python3
+# ---
 
 import pandas as pd
 import numpy as np
 import pyrfume
+from pyrfume.odorants import hash_smiles
 
+# +
 # load S1.csv data
 s1 = pd.read_csv('S1.csv')
 
@@ -12,6 +26,7 @@ s1 = pd.read_csv('S1.csv')
 idx = s1.columns.get_loc('vapor.pressure.best.available')
 s1.drop(s1.iloc[:, idx+1:], inplace=True, axis=1)
 s1.head()
+# -
 
 # load S2.csv data
 s2 = pd.read_csv('S2.csv').set_index('SMILES').sort_index()
@@ -30,13 +45,14 @@ cids = pyrfume.get_cids(smiles, kind='smiles')
 
 info_dict = pyrfume.from_cids(list(cids.values()))
 
+# +
 # manually add the missing CIDs
-man_add = [{'CID': -1,
+man_add = [{'CID': hash_smiles('CC(=O)OC[C@]1(O[C@H]2O[C@@H](COC(=O)C)[C@@H]([C@H]([C@@H]2OC(=O)C)OC(=O)C)OC(=O)C)O[C@H]([C@@H]([C@H]1OC(=O)C)OC(=O)C)COC(=O)C'),
             'MolecularWeight': 678.6,
             'IsomericSMILES': 'CC(=O)OC[C@]1(O[C@H]2O[C@@H](COC(=O)C)[C@@H]([C@H]([C@@H]2OC(=O)C)OC(=O)C)OC(=O)C)O[C@H]([C@@H]([C@H]1OC(=O)C)OC(=O)C)COC(=O)C',
             'IUPACName': None,
             'name': 'diastereomer of sucrose octaacetate'},
-           {'CID': -2,
+           {'CID': hash_smiles('O[C@@H]1[C@@H](O[C@H]2O[C@H](C(=O)O)[C@H]([C@H]([C@@H]2O)O)O)[C@@H](O[C@@H]([C@H]1O)C(=O)O)O[C@@H]1CC[C@@]2([C@@H](C1(C)C)CC[C@@]1([C@H]2C(=O)C=C2[C@@]1(C)CC[C@@]1([C@H]2C[C@](C)(CC1)C(=O)O)C)C)C'),
             'MolecularWeight': 822.4,
             'IsomericSMILES': 'O[C@@H]1[C@@H](O[C@H]2O[C@H](C(=O)O)[C@H]([C@H]([C@@H]2O)O)O)[C@@H](O[C@@H]([C@H]1O)C(=O)O)O[C@@H]1CC[C@@]2([C@@H](C1(C)C)CC[C@@]1([C@H]2C(=O)C=C2[C@@]1(C)CC[C@@]1([C@H]2C[C@](C)(CC1)C(=O)O)C)C)C',
             'IUPACName': None,
@@ -47,9 +63,16 @@ for d in man_add:
     
 info_dict += man_add
 
+# +
 # create dataframe for molecules.csv
 molecules = pd.DataFrame(info_dict).set_index('CID').sort_index()
+
+# Remove any duplicates
+molecules = molecules[~molecules.index.duplicated()].sort_index()
+
+print(molecules.shape)
 molecules.head()
+# -
 
 # reindex s1 dataframe for behavior_1.csv
 s1.set_index('SMILES', inplace=True)
@@ -60,7 +83,7 @@ s1.head()
 # Dataframe for stimuli.csv; use SMILES as stimulus ID
 stimuli = pd.DataFrame.from_dict(cids, orient='index', columns=['CID']).sort_index()
 stimuli.index.name = 'Stimulus'
-stimuli.head()
+stimuli.sort_values(by='CID').head()
 
 # write to disk
 molecules.to_csv('molecules.csv')
@@ -68,4 +91,3 @@ stimuli.to_csv('stimuli.csv')
 s1.to_csv('behavior_1.csv')
 s2.to_csv('behavior_2.csv')
 s3.to_csv('physics.csv')
-

@@ -677,7 +677,7 @@ CC(=O)OCCCC1=CC=CC=C1,31226
 CC(=O)OCCOC,8054
 CC(=O)OCCOC(=O)C,8121
 CC(=O)OCCOCCOCCOC(=O)C,8098
-CC(=O)OC[C@]1(O[C@H]2O[C@@H](COC(=O)C)[C@@H]([C@H]([C@@H]2OC(=O)C)OC(=O)C)OC(=O)C)O[C@H]([C@@H]([C@H]1OC(=O)C)OC(=O)C)COC(=O)C,-1
+CC(=O)OC[C@]1(O[C@H]2O[C@@H](COC(=O)C)[C@@H]([C@H]([C@@H]2OC(=O)C)OC(=O)C)OC(=O)C)O[C@H]([C@@H]([C@H]1OC(=O)C)OC(=O)C)COC(=O)C,-23864708000
 CC(=O)OO,6585
 CC(=O)S,10484
 CC(=O)SC,73750
@@ -1889,7 +1889,7 @@ OP(=O)(O)O,1004
 OS(=O)(=O)Cl,24638
 OS(=O)(=O)F,24603
 OS(=O)O,1100
-O[C@@H]1[C@@H](O[C@H]2O[C@H](C(=O)O)[C@H]([C@H]([C@@H]2O)O)O)[C@@H](O[C@@H]([C@H]1O)C(=O)O)O[C@@H]1CC[C@@]2([C@@H](C1(C)C)CC[C@@]1([C@H]2C(=O)C=C2[C@@]1(C)CC[C@@]1([C@H]2C[C@](C)(CC1)C(=O)O)C)C)C,-2
+O[C@@H]1[C@@H](O[C@H]2O[C@H](C(=O)O)[C@H]([C@H]([C@@H]2O)O)O)[C@@H](O[C@@H]([C@H]1O)C(=O)O)O[C@@H]1CC[C@@]2([C@@H](C1(C)C)CC[C@@]1([C@H]2C(=O)C=C2[C@@]1(C)CC[C@@]1([C@H]2C[C@](C)(CC1)C(=O)O)C)C)C,-603357305896
 O[Cr](=O)(=O)O,24425
 P(=S)(Cl)(Cl)Cl,19883
 P(Br)(Br)Br,24614
