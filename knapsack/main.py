@@ -1,5 +1,17 @@
-#!/usr/bin/env python
-# coding: utf-8
+# ---
+# jupyter:
+#   jupytext:
+#     formats: ipynb,py
+#     text_representation:
+#       extension: .py
+#       format_name: light
+#       format_version: '1.5'
+#       jupytext_version: 1.14.4
+#   kernelspec:
+#     display_name: Python 3 (ipykernel)
+#     language: python
+#     name: python3
+# ---
 
 import numpy as np
 import pandas as pd
@@ -8,8 +20,11 @@ import os
 import bs4
 from tqdm import tqdm
 import pyrfume
+from pyrfume.odorants import hash_smiles
 from time import sleep
 
+
+# +
 # Functions
 def get_soup(num):
     db_id = 'C' + str(num).zfill(8)
@@ -39,6 +54,8 @@ def chunks(my_list, n):
     for i in range(0, len(my_list), n):
         yield my_list[i:i + n]
 
+
+# +
 # Scrape to get data if scrape_data.csv does not exits
 BASE_URL = 'http://www.knapsackfamily.com/knapsack_core/information.php?mode=r&word='
 
@@ -55,6 +72,7 @@ else:
     print('loading from file')
     df = pd.read_csv('scrape_data.csv', index_col=0)
 
+# +
 df.replace('', np.nan, inplace=True)
 df.rename(columns={'CAS RN': 'CAS'}, inplace=True)
 df.index.name = 'Knapsack ID'
@@ -65,6 +83,7 @@ df.dropna(subset=['Name', 'CAS', 'SMILES'], how='all', inplace=True)
 print(df.shape)
 df.head()
 
+# +
 # Fetch CIDs
 chunk_size = 1000
 sleep_time = 30
@@ -77,6 +96,7 @@ smi = df[~df.SMILES.isna()].SMILES.to_list()
 #     cids1.update(pyrfume.get_cids(chunk, kind='smiles'))
 #     sleep(sleep_time)
 
+# +
 # The above search by SMILES won't complete w/o getting timeout error from PubChem, so instead save SMILES to .csv file and
 # run through the PubChem exchange service (https://pubchem.ncbi.nlm.nih.gov/idexchange/idexchange.cgi), save the results and
 # load here:
@@ -85,6 +105,7 @@ cids1 = pd.read_csv('smiles_to_cids.txt', sep='\t', index_col=None, header=None)
 cids1 = dict(zip(cids1[0], cids1[1]))
 
 df['CID'] = df.SMILES.map(cids1)
+# -
 
 # Now try by CAS
 cas_missing_cid = df[(df.CID == 0) | (df.CID.isna())]
@@ -101,6 +122,7 @@ for chunk in tqdm(chunks(names_missing_cid.Name.dropna().to_list(), chunk_size))
     cids3.update(pyrfume.get_cids(chunk), kind='name')
     sleep(sleep_time)
 
+# +
 # Check how many are still missing
 df.loc[names_missing_cid.index, 'CID'] = df.loc[names_missing_cid.index, 'Name'].map(cids3)
 still_missing_cid = df[(df.CID == 0) | (df.CID.isna())]
@@ -115,15 +137,25 @@ still_missing_cid.set_index('CID', inplace=True)
 
 print(still_missing_cid.shape)
 still_missing_cid.head()
+# -
 
 # Get info for molecules.csv
 all_cids = df.loc[(df.CID != 0) & (~df.CID.isna()), 'CID'].astype(int)
 all_cids = list(set(all_cids))
 molecules_tmp = pd.DataFrame(pyrfume.from_cids(all_cids)).set_index('CID').sort_index()
 
-molecules = pd.concat([molecules_tmp, still_missing_cid], axis=0).sort_index()
+# +
+molecules = pd.concat([molecules_tmp, still_missing_cid], axis=0)
+
+# Replace negative integer CID with hash of SMILES
+molecules.index = molecules.apply(lambda row: hash_smiles(row['IsomericSMILES']) if row.name < 0 else row.name, axis=1)
+
+# Remove any duplicates
+molecules = molecules[~molecules.index.duplicated()].sort_index()
+
+print(molecules.shape)
 molecules.head()
+# -
 
 # Write to disk
 molecules.to_csv('molecules.csv')
-
