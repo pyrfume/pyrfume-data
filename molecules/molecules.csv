@@ -1,39 +1,41 @@
 CID,MolecularWeight,IsomericSMILES,IUPACName,name
--35_CC(C)CC(C)(O)C1CCCS1,188.33600000000015,CC(C)CC(C)(O)C1CCCS1,,Isopropylmethyltetrahydrothiophenyl-ethanol
--34_CCCCCCCCC(=O)C(=O)OC(=C(C)C)C(O)CO,300.39499999999947,CCCCCCCCC(=O)C(=O)OC(=C(C)C)C(O)CO,,Isopropylideneglyceryl oxodecanoate
--33_CCCCC=COC(=O)C=CCCCCC,224.3440000000002,CCCCC=COC(=O)C=CCCCCC,,Hexenyl octenoate
--32_CCCC(CCOC)[SH]=C(O)OCC,222.35000000000016,CCCC(CCOC)[SH]=C(O)OCC,,Ethyl S-(1-methoxyhexan-3-yl)carbonothioate
--31_CCCCCCCCC(S)C=O,188.33600000000013,CCCCCCCCC(S)C=O,,Mercaptodecanal
--30_CCCC(S)COCC,148.27100000000013,CCCC(S)COCC,,Ethoxymethylbutanethiol
--29_CC1=C(OC(=O)CO)CC(C(C)C)CC1,212.28900000000016,CC1=C(OC(=O)CO)CC(C(C)C)CC1,,Hydroxyacetoxymenthene
--28_CCCCCCCC=CC(=O)OC(CCCCCCCC)C(=O)O,340.50399999999934,CCCCCCCC=CC(=O)OC(CCCCCCCC)C(=O)O,,Decenoyloxydecanoic acid
--27_CCC=CC(=O)OC=CCCCC,182.26300000000012,CCC=CC(=O)OC=CCCCC,,Hexenyl pentenoate
--26_CCCC=CC(OCCCC)OCCCC,228.37600000000023,CCCC=CC(OCCCC)OCCCC,,Hexenal dibutyl acetal
--25_CC(C)C=C(C=O)c1ccco1,164.2040000000001,CC(C)C=C(C=O)c1ccco1,,Isopropylfurylpropenal
--24_CCCC(=O)CCSCc1ccco1,212.3140000000001,CCCC(=O)CCSCc1ccco1,,Furfurylthiomethylpentanone
--23_CCCCC(C)C(C)(C)OC(=O)CC(C)C,228.37600000000023,CCCCC(C)C(C)(C)OC(=O)CC(C)C,,Trimethylhexyl isovalerate
--22_CCC(=O)OC1(C)CCCCC1(C)C,198.30600000000015,CCC(=O)OC1(C)CCCCC1(C)C,,Trimethylcyclohexyl propionate
--21_CC(=O)OCC1C=CC(C(C)C)CC1,196.29000000000016,CC(=O)OCC1C=CC(C(C)C)CC1,,Tetrahydrocuminyl acetate
--20_CCCCCCCC=COC(=O)CC(C)C,226.3600000000002,CCCCCCCC=COC(=O)CC(C)C,,Nonenyl isovalerate
--19_CC=CCOC(=O)C(C)CCC,170.25200000000015,CC=CCOC(=O)C(C)CCC,,Methylallyl methylvalerate
--18_CCCCCCCCCCC(OC=O)C(=O)OC,258.3580000000001,CCCCCCCCCCC(OC=O)C(=O)OC,,Methyl formyloxydodecanoate
--17_CCCCCCCCC(OC(C)=O)C(=O)OC,244.3310000000002,CCCCCCCCC(OC(C)=O)C(=O)OC,,Methyl acetoxydecanoate
--16_CCCCC=COC(=O)CCCCCCCC,240.38700000000023,CCCCC=COC(=O)CCCCCCCC,,Hexenyl nonanoate
--15_CCCCC=COC(=O)C(C)CCC,198.30600000000015,CCCCC=COC(=O)C(C)CCC,,Hexenyl methylvalerate
--14_CCCCC=COC(=O)c1ccco1,194.2300000000001,CCCCC=COC(=O)c1ccco1,,Hexenyl furoate
--13_CCOC(=O)C1(c2ccccc2)OC1CC,220.2680000000001,CCOC(=O)C1(c2ccccc2)OC1CC,,Ethyl ethylphenylglycidate
--12_CCCCCCCCC=CC(OC)OC,214.34900000000025,CCCCCCCCC=CC(OC)OC,,Undecenal dimethyl acetal
--11_CC(=C(C=O)CC1CC1)C(C)C,166.26400000000015,CC(=C(C=O)CC1CC1)C(C)C,,Dimethylcyclopropylmethylpentenal
--10_CC(=S)OC1(C)OCCC1C,174.2650000000001,CC(=S)OC1(C)OCCC1C,,Dimethyltetrahydrofuryl thioacetate
--9_CCCCCCCCCC(=O)Oc1ccccc1C,262.39300000000003,CCCCCCCCCC(=O)Oc1ccccc1C,,Tolyl decanoate
--8_CCCOC(CC)OC(C)CCC,188.3110000000002,CCCOC(CC)OC(C)CCC,,Propanal methylbutyl propyl acetal
--7_CC=CC1(C)CCOSC1(C)C,186.3200000000001,CC=CC1(C)CCOSC1(C)C,,Methylpropenyldimethyloxathiane
--6_CCC(=O)C(C)SSc1ccco1,216.3270000000001,CCC(=O)C(C)SSc1ccco1,,Methylfuryldithiobutanone
--5_CCCSC(O)(CS)CCC,194.36500000000012,CCCSC(O)(CS)CCC,,Mercaptomethylpropylthiobutanol
--4_SCC1CC=CS1,132.253,SCC1CC=CS1,,Mercaptomethyldihydrothiophene
--3_CCCC(CS)OC=O,148.2270000000001,CCCC(CS)OC=O,,Mercaptomethylbutyl formate
--2_CCCCCC(OCC)OCCC,188.3110000000002,CCCCCC(OCC)OCCC,,Hexanal ethyl propyl acetal
--1_CCCCCCCCC=CC=CC=CC=CC=O,246.3940000000002,CCCCCCCCC=CC=CC=CC=CC=O,,Heptadecatetraenal
+-955348933095,240.38700000000023,CCCCC=COC(=O)CCCCCCCC,,Hexenyl nonanoate
+-923209957509,196.29000000000016,CC(=O)OCC1C=CC(C(C)C)CC1,,Tetrahydrocuminyl acetate
+-874408321546,244.3310000000002,CCCCCCCCC(OC(C)=O)C(=O)OC,,Methyl acetoxydecanoate
+-873963935677,198.30600000000015,CCCCC=COC(=O)C(C)CCC,,Hexenyl methylvalerate
+-862841422647,148.27100000000013,CCCC(S)COCC,,Ethoxymethylbutanethiol
+-848964121442,340.50399999999934,CCCCCCCC=CC(=O)OC(CCCCCCCC)C(=O)O,,Decenoyloxydecanoic acid
+-824509018158,224.3440000000002,CCCCC=COC(=O)C=CCCCCC,,Hexenyl octenoate
+-814358720178,188.33600000000015,CC(C)CC(C)(O)C1CCCS1,,Isopropylmethyltetrahydrothiophenyl-ethanol
+-810574975629,174.2650000000001,CC(=S)OC1(C)OCCC1C,,Dimethyltetrahydrofuryl thioacetate
+-769823381108,188.3110000000002,CCCCCC(OCC)OCCC,,Hexanal ethyl propyl acetal
+-715392619320,194.2300000000001,CCCCC=COC(=O)c1ccco1,,Hexenyl furoate
+-642230313989,182.26300000000012,CCC=CC(=O)OC=CCCCC,,Hexenyl pentenoate
+-616034955208,148.2270000000001,CCCC(CS)OC=O,,Mercaptomethylbutyl formate
+-603357305896,822.4,O[C@@H]1[C@@H](O[C@H]2O[C@H](C(=O)O)[C@H]([C@H]([C@@H]2O)O)O)[C@@H](O[C@@H]([C@H]1O)C(=O)O)O[C@@H]1CC[C@@]2([C@@H](C1(C)C)CC[C@@]1([C@H]2C(=O)C=C2[C@@]1(C)CC[C@@]1([C@H]2C[C@](C)(CC1)C(=O)O)C)C)C,,diastereomer of glycyron
+-589819164142,300.39499999999947,CCCCCCCCC(=O)C(=O)OC(=C(C)C)C(O)CO,,Isopropylideneglyceryl oxodecanoate
+-577518874063,222.35000000000016,CCCC(CCOC)[SH]=C(O)OCC,,Ethyl S-(1-methoxyhexan-3-yl)carbonothioate
+-555789259302,170.25200000000015,CC=CCOC(=O)C(C)CCC,,Methylallyl methylvalerate
+-539027388368,212.28900000000016,CC1=C(OC(=O)CO)CC(C(C)C)CC1,,Hydroxyacetoxymenthene
+-536536091492,206.26600000000008,Cc1coc(C(=O)c2cccs2)c1C,,Dimethylthiofuroylfuran
+-532443835007,258.3580000000001,CCCCCCCCCCC(OC=O)C(=O)OC,,Methyl formyloxydodecanoate
+-526637194554,212.3140000000001,CCCC(=O)CCSCc1ccco1,,Furfurylthiomethylpentanone
+-521801045481,220.2680000000001,CCOC(=O)C1(c2ccccc2)OC1CC,,Ethyl ethylphenylglycidate
+-491960711349,214.34900000000025,CCCCCCCCC=CC(OC)OC,,Undecenal dimethyl acetal
+-468405094669,132.253,SCC1CC=CS1,,Mercaptomethyldihydrothiophene
+-441877084569,188.3110000000002,CCCOC(CC)OC(C)CCC,,Propanal methylbutyl propyl acetal
+-411945882527,226.3600000000002,CCCCCCCC=COC(=O)CC(C)C,,Nonenyl isovalerate
+-389804435463,262.39300000000003,CCCCCCCCCC(=O)Oc1ccccc1C,,Tolyl decanoate
+-382341259279,186.3200000000001,CC=CC1(C)CCOSC1(C)C,,Methylpropenyldimethyloxathiane
+-364029032463,194.36500000000012,CCCSC(O)(CS)CCC,,Mercaptomethylpropylthiobutanol
+-333456693241,164.2040000000001,CC(C)C=C(C=O)c1ccco1,,Isopropylfurylpropenal
+-266093978319,228.37600000000023,CCCCC(C)C(C)(C)OC(=O)CC(C)C,,Trimethylhexyl isovalerate
+-259860539641,246.3940000000002,CCCCCCCCC=CC=CC=CC=CC=O,,Heptadecatetraenal
+-210999474125,228.37600000000023,CCCC=CC(OCCCC)OCCCC,,Hexenal dibutyl acetal
+-97585500558,216.3270000000001,CCC(=O)C(C)SSc1ccco1,,Methylfuryldithiobutanone
+-86422482515,188.33600000000013,CCCCCCCCC(S)C=O,,Mercaptodecanal
+-70998382595,198.30600000000015,CCC(=O)OC1(C)CCCCC1(C)C,,Trimethylcyclohexyl propionate
+-23864708000,678.6,CC(=O)OC[C@]1(O[C@H]2O[C@@H](COC(=O)C)[C@@H]([C@H]([C@@H]2OC(=O)C)OC(=O)C)OC(=O)C)O[C@H]([C@@H]([C@H]1OC(=O)C)OC(=O)C)COC(=O)C,,diastereomer of sucrose octaacetate
 4,75.11,CC(CN)O,1-aminopropan-2-ol,1-aminopropan-2-ol
 6,202.55,C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])Cl,"1-chloro-2,4-dinitrobenzene","1-chloro-2,4-dinitrobenzene"
 11,98.96,C(CCl)Cl,"1,2-dichloroethane","1,2-dichloroethane"
@@ -81,7 +83,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 262,90.12,CC(C(C)O)O,"butane-2,3-diol","2,3-butanediol"
 263,74.12,CCCCO,butan-1-ol,1-butanol
 264,88.11,CCCC(=O)O,butanoic acid,butyric acid
-273,102.18,C(CCN)CCN,"pentane-1,5-diamine","pentane-1,5-diamine"
+273,102.18,C(CCN)CCN,"pentane-1,5-diamine",cadaverine
 280,44.009,C(=O)=O,,carbon dioxide
 281,28.01,[C-]#[O+],carbon monoxide,carbon monoxide
 284,46.025,C(=O)O,formic acid,formic acid
@@ -139,8 +141,8 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 702,46.07,CCO,ethanol,ethanol
 712,30.026,C=O,formaldehyde,formaldehyde
 713,45.041,C(=O)N,formamide,formamide
-716,180.16,C(C1C(C(C(O1)(CO)O)O)O)O,"2,5-bis(hydroxymethyl)oxolane-2,3,4-triol",53188-23-1
-723,116.07,C(=CC(=O)O)C(=O)O,but-2-enedioic acid,butenedioic acid
+716,180.16,C(C1C(C(C(O1)(CO)O)O)O)O,"2,5-bis(hydroxymethyl)oxolane-2,3,4-triol","2,5-bis(hydroxymethyl)oxolane-2,3,4-triol"
+723,116.07,C(=CC(=O)O)C(=O)O,but-2-enedioic acid,2-butenedioic acid
 735,450.4,CC(=CCCC(=CCCC(=CCCC(=CCOP(=O)(O)OP(=O)(O)O)C)C)C)C,"phosphono 3,7,11,15-tetramethylhexadeca-2,6,10,14-tetraenyl hydrogen phosphate",nerylneryl pyrophosphate
 736,178.14,C(C1C(C(C(C(=O)O1)O)O)O)O,"3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-one","3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-one"
 743,132.11,C(CC(=O)O)CC(=O)O,pentanedioic acid,glutaric acid
@@ -309,7 +311,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 2812,344.8,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3Cl)N4C=CN=C4,1-[(2-chlorophenyl)-diphenylmethyl]imidazole,clotrimazole
 2826,303.35,CN1C2CCC1C(C(C2)OC(=O)C3=CC=CC=C3)C(=O)OC,methyl 3-benzoyloxy-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate,pseudococaine
 2879,108.14,CC1=CC=C(C=C1)O,4-methylphenol,p-cresol
-2883,203.28,CCN(C1=CC=CC=C1C)C(=O)C=CC,N-ethyl-N-(2-methylphenyl)but-2-enamide,n-ethyl-n-(2-methylphenyl)but-2-enamide
+2883,203.28,CCN(C1=CC=CC=C1C)C(=O)C=CC,N-ethyl-N-(2-methylphenyl)but-2-enamide,crotaglin
 2907,261.08,C1CNP(=O)(OC1)N(CCCl)CCCl,"N,N-bis(2-chloroethyl)-2-oxo-1,3,2lambda5-oxazaphosphinan-2-amine",cyclophosphamide
 2910,389.9,C1C2CC(C1C=C2)C3NC4=CC(=C(C=C4S(=O)(=O)N3)S(=O)(=O)N)Cl,"3-(2-bicyclo[2.2.1]hept-5-enyl)-6-chloro-1,1-dioxo-3,4-dihydro-2H-1lambda6,2,4-benzothiadiazine-7-sulfonamide",cyclothiazide
 2912,416.3,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C,"[cyano-(3-phenoxyphenyl)methyl] 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate",cypermethrin
@@ -382,7 +384,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 3767,137.14,C1=CN=CC=C1C(=O)NN,pyridine-4-carbohydrazide,isoniazid
 3776,60.1,CC(C)O,propan-2-ol,isopropanol
 3848,166.17,C1=CC=C(C=C1)CC(C(=O)O)O,2-hydroxy-3-phenylpropanoic acid,dl-3-phenyllactic acid
-3871,344.31,C(C1C(C(C(C(O1)OC(C(CO)O)C(C(CO)O)O)O)O)O)O,"4-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyhexane-1,2,3,5,6-pentol",d-lactitol (monohydrate)
+3871,344.31,C(C1C(C(C(C(O1)OC(C(CO)O)C(C(CO)O)O)O)O)O)O,"4-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyhexane-1,2,3,5,6-pentol","d-glucitol, 4-o-.beta.-d-galactopyranosyl-"
 3883,369.4,CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3N2)OCC(F)(F)F,"2-[[3-methyl-4-(2,2,2-trifluoroethoxy)pyridin-2-yl]methylsulfinyl]-1H-benzimidazole",lansoprazole
 3893,200.32,CCCCCCCCCCCC(=O)O,dodecanoic acid,lauric acid
 3902,285.3,C1=CC(=CC=C1C#N)C(C2=CC=C(C=C2)C#N)N3C=NC=N3,"4-[(4-cyanophenyl)-(1,2,4-triazol-1-yl)methyl]benzonitrile",letrozole
@@ -420,7 +422,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 4567,299.4,CC(CCC1=CC=CC=C1)NC(C)C(C2=CC=C(C=C2)O)O,4-[1-hydroxy-2-(4-phenylbutan-2-ylamino)propyl]phenol,nylidrin
 4616,286.71,C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O,"7-chloro-3-hydroxy-5-phenyl-1,3-dihydro-1,4-benzodiazepin-2-one",oxazepam
 4630,206.28,C1CCN(C1)CC#CCN2CCCC2=O,1-(4-pyrrolidin-1-ylbut-2-ynyl)pyrrolidin-2-one,oxotremorine
-4638,332.5,CC12CCC3C(C1CCC2(C)O)CCC4C3(CC(=CO)C(=O)C4)C,"17-hydroxy-2-(hydroxymethylidene)-10,13,17-trimethyl-1,4,5,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",mcule-6339641467
+4638,332.5,CC12CCC3C(C1CCC2(C)O)CCC4C3(CC(=CO)C(=O)C4)C,"17-hydroxy-2-(hydroxymethylidene)-10,13,17-trimethyl-1,4,5,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one","17-hydroxy-2-(hydroxymethylidene)-10,13,17-trimethyl-1,4,5,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one"
 4641,324.4,CCCCC1C(=O)N(N(C1=O)C2=CC=C(C=C2)O)C3=CC=CC=C3,"4-butyl-1-(4-hydroxyphenyl)-2-phenylpyrazolidine-3,5-dione",oxyphenbutazone
 4649,153.14,C1=CC(=C(C=C1N)O)C(=O)O,4-amino-2-hydroxybenzoic acid,4-aminosalicylic acid
 4650,108.09,C1=CC(=O)C=CC1=O,"cyclohexa-2,5-diene-1,4-dione",p-benzoquinone
@@ -1140,7 +1142,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 7687,190.28,CC(C)C1=CC=C(C=C1)C(C)CC=O,3-(4-propan-2-ylphenyl)butanal,schembl1299325
 7695,180.2,CC(=O)OCC1=CC=C(C=C1)OC,(4-methoxyphenyl)methyl acetate,4-methoxybenzyl acetate
 7702,150.22,CCCC1=CC=C(C=C1)OC,1-methoxy-4-propylbenzene,4-propylanisole
-7703,148.2,CC=CC1=CC=C(C=C1)OC,1-methoxy-4-prop-1-enylbenzene,cis-anethol
+7703,148.2,CC=CC1=CC=C(C=C1)OC,1-methoxy-4-prop-1-enylbenzene,p-(1-propenyl)anisole
 7704,142.2,CCCCC1CCC(=O)O1,5-butyloxolan-2-one,gamma-octalactone
 7705,134.22,CCCCC1=CC=CC=C1,butylbenzene,butylbenzene
 7707,134.17,C1=CC=C(C=C1)CCC=O,3-phenylpropanal,3-phenylpropanal
@@ -1192,7 +1194,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 7797,158.24,CCCCCCC(=O)OCC,ethyl heptanoate,ethyl heptanoate
 7798,158.19,CCCC(=O)OC(=O)CCC,butanoyl butanoate,butyric anhydride
 7799,172.26,CCCCCCCC(=O)OCC,ethyl octanoate,ethyl octanoate
-7800,228.37,CCCCCCCCCCCC(=O)OCC,ethyl dodecanoate,ethyl laurate
+7800,228.37,CCCCCCCCCCCC(=O)OCC,ethyl dodecanoate,ethyl dodecanoate
 7802,114.19,CCCCC(=O)CC,heptan-3-one,3-heptanone
 7803,116.16,CCCOC(=O)CC,propyl propanoate,propyl propionate
 7807,172.02,C1=CC(=CC=C1N)Br,4-bromoaniline,4-bromoaniline
@@ -1443,7 +1445,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 8188,174.28,CCCCOCCOCCCC,1-(2-butoxyethoxy)butane,ethylene glycol dibutyl ether
 8189,178.23,COCCOCCOCCOC,1-methoxy-2-[2-(2-methoxyethoxy)ethoxy]ethane,triglyme
 8190,178.23,CCOCCOCCOCCO,2-[2-(2-ethoxyethoxy)ethoxy]ethanol,triethylene glycol monoethyl ether
-8191,206.4,CCCCCSSCCCCC,1-(pentyldisulfanyl)pentane,di-n-amyl disulfide
+8191,206.4,CCCCCSSCCCCC,1-(pentyldisulfanyl)pentane,112-51-6
 8193,186.33,CCCCCCCCCCCCO,dodecan-1-ol,1-dodecanol
 8194,184.32,CCCCCCCCCCCC=O,dodecanal,dodecanal
 8195,202.4,CCCCCCCCCCCCS,dodecane-1-thiol,1-dodecanethiol
@@ -1506,7 +1508,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 8438,150.13,C1OC2=C(O1)C=C(C=C2)C=O,"1,3-benzodioxole-5-carbaldehyde",piperonal
 8439,162.18,CC=CC1=CC2=C(C=C1)OCO2,"5-prop-1-enyl-1,3-benzodioxole",dsstox_cid_767
 8441,194.18,COC(=O)C1=CC=C(C=C1)C(=O)OC,"dimethyl benzene-1,4-dicarboxylate",dimethyl terephthalate
-8442,324.5,CCCCCCCCS(=O)C(C)CC1=CC2=C(C=C1)OCO2,"5-(2-octylsulfinylpropyl)-1,3-benzodioxole",piperonyl sulfoxide
+8442,324.5,CCCCCCCCS(=O)C(C)CC1=CC2=C(C=C1)OCO2,"5-(2-octylsulfinylpropyl)-1,3-benzodioxole",sulfoxide
 8445,137.18,CC1=CC(=C(C=C1)OC)N,2-methoxy-5-methylaniline,2-methoxy-5-methylaniline
 8446,149.21,CC1=NC2=CC=CC=C2S1,"2-methyl-1,3-benzothiazole",2-methylbenzothiazole
 8447,332.5,C1=CC=C2C(=C1)N=C(S2)SSC3=NC4=CC=CC=C4S3,"2-(1,3-benzothiazol-2-yldisulfanyl)-1,3-benzothiazole",120-78-5
@@ -1611,7 +1613,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 8905,232.28,C1CNCCN1.C(CCC(=O)O)CC(=O)O,hexanedioic acid;piperazine,piperazine adipate
 8907,298.5,CCCCCCCCCCCCCCCC(=O)OC(C)C,propan-2-yl hexadecanoate,isopropyl palmitate
 8908,144.21,CCCCCCOC(=O)C,hexyl acetate,hexyl acetate
-8909,130.23,CCCCOCCCC,1-butoxybutane,butyl ether
+8909,130.23,CCCCOCCCC,1-butoxybutane,dibutyl ether
 8914,144.25,CCCCCCCCCO,nonan-1-ol,1-nonanol
 8917,174.35,CCCCCCCCCCS,decane-1-thiol,1-decanethiol
 8918,186.29,CCCCCCCCCOC(=O)C,nonyl acetate,nonyl acetate
@@ -1727,7 +1729,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 10326,118.18,C1CC2=CC=CC=C2C1,"2,3-dihydro-1H-indene",indan
 10329,120.15,C1COC2=CC=CC=C21,"2,3-dihydro-1-benzofuran","2,3-dihydrobenzofuran"
 10335,136.19,CC1=CC(=C(C=C1C)O)C,"2,4,5-trimethylphenol","2,4,5-trimethylphenol"
-10336,84.12,CC=C(C)C=O,2-methylbut-2-enal,2-methylbut-2-enal
+10336,84.12,CC=C(C)C=O,2-methylbut-2-enal,2-methyl-but-2-enal
 10340,105.988,C(=O)([O-])[O-].[Na+].[Na+],disodium;carbonate,sodium carbonate
 10341,84.07,C1C=CC(=O)O1,2H-furan-5-one,2(5h)-furanone
 10345,110.15,C1CC2CC1CC2=O,bicyclo[2.2.1]heptan-2-one,norcamphor
@@ -1744,7 +1746,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 10401,114.14,C1CCC(=O)OCC1,oxepan-2-one,oxepan-2-one
 10402,170.25,CC(CCC=C(C)C)CC(=O)O,"3,7-dimethyloct-6-enoic acid",citronellic acid
 10405,142.24,CCCCC(=O)CCCC,nonan-5-one,5-nonanone
-10408,268.5,CC(C)CCCC(C)CCCC(C)CCCC(=O)C,"6,10,14-trimethylpentadecan-2-one","6,10,14-trimethylpentadecan-2-one"
+10408,268.5,CC(C)CCCC(C)CCCC(C)CCCC(=O)C,"6,10,14-trimethylpentadecan-2-one",502-69-2
 10409,224.38,C1CCCCCCCC(=O)CCCCCC1,cyclopentadecanone,cyclopentadecanone
 10413,104.1,C(CC(=O)O)CO,4-hydroxybutanoic acid,4-hydroxybutanoic acid
 10419,54.09,CC#CC,but-2-yne,2-butyne
@@ -1960,7 +1962,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 11525,112.17,CC1CCC(=O)CC1,4-methylcyclohexan-1-one,4-methylcyclohexanone
 11527,130.23,CCCCCC(CC)O,octan-3-ol,3-octanol
 11529,130.18,CCCCOC(=O)CC,butyl propanoate,butyl propionate
-11536,76.52,CC=CCl,1-chloroprop-1-ene,1-chloropropene
+11536,76.52,CC=CCl,1-chloroprop-1-ene,1-chloroprop-1-ene
 11542,100.2,CCCC(C)(C)C,"2,2-dimethylpentane","2,2-dimethylpentane"
 11543,102.17,CCCC(C)(C)O,2-methylpentan-2-ol,2-methyl-2-pentanol
 11551,114.23,CCCCC(C)(C)C,"2,2-dimethylhexane","2,2-dimethylhexane"
@@ -2241,7 +2243,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 13357,116.16,CCC(C)C(=O)OC,methyl 2-methylbutanoate,methyl 2-methylbutyrate
 13367,74.15,C=CCS,prop-2-ene-1-thiol,allyl mercaptan
 13381,140.27,CCCCCCCCC=C,dec-1-ene,1-decene
-13382,174.35,CCCCCSCCCCC,1-pentylsulfanylpentane,872-10-6
+13382,174.35,CCCCCSCCCCC,1-pentylsulfanylpentane,diamyl sulfide
 13387,99.13,CN1CCCC1=O,1-methylpyrrolidin-2-one,1-methyl-2-pyrrolidinone
 13388,112.19,CCC1=CC=CS1,2-ethylthiophene,2-ethylthiophene
 13398,140.22,CC1CC(=O)CC(C1)(C)C,"3,3,5-trimethylcyclohexan-1-one","3,3,5-trimethylcyclohexanone"
@@ -2255,7 +2257,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 13549,202.25,CCCOC(=O)CCC(=O)OCCC,dipropyl butanedioate,dipropyl succinate
 13552,130.18,CC(=O)OCC(C)(C)C,"2,2-dimethylpropyl acetate","2,2-dimethylpropyl acetate"
 13555,82.14,CC(=CC=C)C,"4-methylpenta-1,3-diene","4-methyl-1,3-pentadiene"
-13556,124.99,CC(=CCCl)Cl,"1,3-dichlorobut-2-ene","1,3-dichlorobut-2-ene"
+13556,124.99,CC(=CCCl)Cl,"1,3-dichlorobut-2-ene","2-butene, 1,3-dichloro-"
 13561,170.29,CCCCCC(=O)CCCCC,undecan-6-one,6-undecanone
 13563,101.19,CCCCN(C)C,"N,N-dimethylbutan-1-amine","n,n-dimethylbutylamine"
 13571,219.6,CCCCCC[Si](Cl)(Cl)Cl,trichloro(hexyl)silane,hexyltrichlorosilane
@@ -2523,7 +2525,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 16833,214.34,CCCCCCCCCC(=O)OC(C)C,propan-2-yl decanoate,isopropyl decanoate
 16840,138.3,CSC(=S)SC,bis(methylsulfanyl)methanethione,dimethyl trithiocarbonate
 16846,164.2,CCCOC(=O)C1=CC=CC=C1,propyl benzoate,propyl benzoate
-16864,224.34,CC(C)C(=O)OCC=C(C)CCC=C(C)C,"3,7-dimethylocta-2,6-dienyl 2-methylpropanoate","propanoic acid, 2-methyl-, (2e)-3,7-dimethyl-2,6-octadienyl ester"
+16864,224.34,CC(C)C(=O)OCC=C(C)CCC=C(C)C,"3,7-dimethylocta-2,6-dienyl 2-methylpropanoate","3,7-dimethylocta-2,6-dienyl 2-methylpropanoate"
 16867,101.17,CC1=NCCS1,"2-methyl-4,5-dihydro-1,3-thiazole",2-methyl-2-thiazoline
 16872,172.26,CCCCCCOC(=O)C(C)C,hexyl 2-methylpropanoate,hexyl isobutyrate
 16899,152.23,CCCCCC=CC=CC=O,"deca-2,4-dienal",decadienal
@@ -2555,7 +2557,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 17134,310.33,COC1=C(N=CN=C1OC)NS(=O)(=O)C2=CC=C(C=C2)N,"4-amino-N-(5,6-dimethoxypyrimidin-4-yl)benzenesulfonamide",sulfadoxine
 17141,190.28,CC1(CCC(CC1)C(C)(C)O)O.O,4-(2-hydroxypropan-2-yl)-1-methylcyclohexan-1-ol;hydrate,terpin hydrate
 17152,298.5,CCCCCCCCCCOCCCCCCCCCC,1-decoxydecane,decyl ether
-17166,140.22,CCCCCCC=CC=O,non-2-enal,non-2-enal
+17166,140.22,CCCCCCC=CC=O,non-2-enal,nonenal
 17167,112.17,CCCCC=CC=O,hept-2-enal,2-hepten-1-al
 17198,196.2,CC(=O)C1=CC(=C(C(=C1)OC)O)OC,"1-(4-hydroxy-3,5-dimethoxyphenyl)ethanone",acetosyringone
 17236,176.21,CC(=C)C(=O)OCC1=CC=CC=C1,benzyl 2-methylprop-2-enoate,benzyl methacrylate
@@ -2650,7 +2652,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 19284,362.5,CCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCC,"diheptyl benzene-1,2-dicarboxylate",diheptyl phthalate
 19309,128.13,CC1C(=O)C(=C(O1)C)O,"4-hydroxy-2,5-dimethylfuran-3-one",furaneol
 19310,126.3,CSSSC,(methyltrisulfanyl)methane,dimethyl trisulfide
-19315,126.2,CC(=O)CCCCC=C,oct-7-en-2-one,7-octen-2-one
+19315,126.2,CC(=O)CCCCC=C,oct-7-en-2-one,oct-7-en-2-one
 19402,374.8,C1=CC=C(C=C1)C(C2=CC=C(C=C2)Cl)C(=O)C3C(=O)C4=CC=CC=C4C3=O,"2-[2-(4-chlorophenyl)-2-phenylacetyl]indene-1,3-dione",chlorophacinone
 19460,110.2,C=CCCCCC=C,"octa-1,7-diene","1,7-octadiene"
 19499,86.09,CC=CC(=O)O,but-2-enoic acid,2-butenoic acid
@@ -2825,7 +2827,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 24111,188.26,CCCCC(=CC1=CC=CC=C1)C=O,2-benzylidenehexanal,2-(phenylmethylene)hexanal
 24113,226.35,CCOC(C=C(C)CCC=C(C)C)OCC,"1,1-diethoxy-3,7-dimethylocta-2,6-diene","1,1-diethoxy-3,7-dimethyl-2,6-octadiene"
 24114,216.27,CCCCOC(=O)C(C)OC(=O)CCC,(1-butoxy-1-oxopropan-2-yl) butanoate,butyl butyryllactate
-24115,114.14,CC(C)C(=O)C(=O)C,"4-methylpentane-2,3-dione","4-methylpentane-2,3-dione"
+24115,114.14,CC(C)C(=O)C(=O)C,"4-methylpentane-2,3-dione",acetyl isobutyryl
 24116,177.2,C=CCOC(=O)C1=CC=CC=C1N,prop-2-enyl 2-aminobenzoate,allyl anthranilate
 24117,192.21,C=CCOC(=O)COC1=CC=CC=C1,prop-2-enyl 2-phenoxyacetate,allyl phenoxyacetate
 24120,164.2,CCC(=O)OC1=CC=C(C=C1)C,(4-methylphenyl) propanoate,"propanoic acid, 4-methylphenyl ester"
@@ -2917,7 +2919,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 24600,252.07,[NH4+].[NH4+].[O-][Cr](=O)(=O)O[Cr](=O)(=O)[O-],diazanium;oxido-(oxido(dioxo)chromio)oxy-dioxochromium,ammonium dichromate
 24602,20.028,[2H]O[2H],deuterated water,deuterium oxide
 24603,100.07,OS(=O)(=O)F,sulfurofluoridic acid,fluorosulfonic acid
-24613,286.69,O=P(Br)(Br)Br,,7789-59-5
+24613,286.69,O=P(Br)(Br)Br,,phosphorus oxybromide
 24614,270.69,P(Br)(Br)Br,tribromophosphane,phosphorus tribromide
 24619,389.88,[O-]I(=O)=O.[O-]I(=O)=O.[Ca+2],calcium;diiodate,calcium iodate
 24624,176.25,CCOCCC(OCC)OCC,"1,1,3-triethoxypropane","1,1,3-triethoxypropane"
@@ -2936,7 +2938,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 24685,179.22,CC(C)OC(=O)NC1=CC=CC=C1,propan-2-yl N-phenylcarbamate,propham
 24686,422.0,CC(C#C)OC(=O)NC1=CC(=CC=C1)Cl.CN(C)C(=O)NC1CCCCCCC1,"but-3-yn-2-yl N-(3-chlorophenyl)carbamate;3-cyclooctyl-1,1-dimethylurea",alipur
 24699,358.6,CCCCCCCCCCCCCCCCCC(=O)OCC(CO)O,"2,3-dihydroxypropyl octadecanoate",glyceryl monostearate
-24711,528.6,COC1=CC=CC(=C1O)CC(CS(=O)(=O)[O-])OC2=C(C=C(C=C2)CCCS(=O)(=O)[O-])OC.[Ca+2],calcium;3-(2-hydroxy-3-methoxyphenyl)-2-[2-methoxy-4-(3-sulfonatopropyl)phenoxy]propane-1-sulfonate,calcium lignosulfonate
+24711,528.6,COC1=CC=CC(=C1O)CC(CS(=O)(=O)[O-])OC2=C(C=C(C=C2)CCCS(=O)(=O)[O-])OC.[Ca+2],calcium;3-(2-hydroxy-3-methoxyphenyl)-2-[2-methoxy-4-(3-sulfonatopropyl)phenoxy]propane-1-sulfonate,8061-52-7
 24730,191.27,CC(CN(CC(C)O)CC(C)O)O,1-[bis(2-hydroxypropyl)amino]propan-2-ol,triisopropanolamine
 24738,227.69,CC(C)NC1=NC(=NC(=N1)NC2CC2)Cl,"6-chloro-4-N-cyclopropyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",cyprazine
 24744,300.31,CC1=CC(=CC=C1)NC(=O)OC2=CC=CC(=C2)NC(=O)OC,[3-(methoxycarbonylamino)phenyl] N-(3-methylphenyl)carbamate,phenmedipham
@@ -3026,7 +3028,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 25611,128.21,CCCCC(=O)C(C)C,2-methylheptan-3-one,2-methylheptan-3-one
 25612,156.26,C=CCCCCCCCCO,dec-9-en-1-ol,9-decen-1-ol
 25644,226.27,C=CC(=O)OCCCCCCOC(=O)C=C,6-prop-2-enoyloxyhexyl prop-2-enoate,13048-33-4
-25750,299.69,CCN(CC)C(=O)C(=C(C)OP(=O)(OC)OC)Cl,[3-chloro-4-(diethylamino)-4-oxobut-2-en-2-yl] dimethyl phosphate,13171-21-6
+25750,299.69,CCN(CC)C(=O)C(=C(C)OP(=O)(OC)OC)Cl,[3-chloro-4-(diethylamino)-4-oxobut-2-en-2-yl] dimethyl phosphate,2-chloro-3-(diethylamino)-1-methyl-3-oxo-1-propenyl dimethyl phosphate
 25797,136.19,CCC1=CN=C(C=N1)CC,"2,5-diethylpyrazine","2,5-diethylpyrazine"
 25812,184.27,CCCCCCC#CC(OC)OC,"1,1-dimethoxynon-2-yne","1,1-dimethoxynon-2-yne"
 25914,101.19,CCCCNCC,N-ethylbutan-1-amine,13360-63-9
@@ -3218,7 +3220,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 32881,134.17,CC(CO)OCC(C)O,2-(2-hydroxypropoxy)propan-1-ol,2-(2-hydroxypropoxy)propan-1-ol
 32898,158.28,CC(C)CCCCCCCO,8-methylnonan-1-ol,isodecanol
 32967,186.29,CCCCCOC(=O)CCC(C)C,pentyl 4-methylpentanoate,pentyl 4-methylpentanoate
-33023,206.28,CC(CO)OC(C)COC(C)COC,2-[1-(1-methoxypropan-2-yloxy)propan-2-yloxy]propan-1-ol,[2-(2-methoxymethylethoxy)methylethoxy]propanol
+33023,206.28,CC(CO)OC(C)COC(C)COC,2-[1-(1-methoxypropan-2-yloxy)propan-2-yloxy]propan-1-ol,(2-(2-methoxymethylethoxy)methylethoxy)propanol
 33032,147.13,C(CC(=O)O)[C@@H](C(=O)O)N,(2S)-2-aminopentanedioic acid,l-glutamic acid
 33094,150.17,CC1=CC=CC=C1C(=O)OC,methyl 2-methylbenzoate,methyl o-toluate
 33096,202.55,C1=CC(=C(C(=C1)Cl)[N+](=O)[O-])[N+](=O)[O-],"1-chloro-2,3-dinitrobenzene","1-chloro-2,3-dinitrobenzene"
@@ -3294,7 +3296,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 40380,127.21,CCC1=C(N=CS1)C,"5-ethyl-4-methyl-1,3-thiazole",5-ethyl-4-methylthiazole
 40585,505.2,CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Br)Br)C,"[(S)-cyano-(3-phenoxyphenyl)methyl] (1R,3R)-3-(2,2-dibromoethenyl)-2,2-dimethylcyclopropane-1-carboxylate",deltamethrin
 40631,151.25,CCCCCCC(=CC#N)C,3-methylnon-2-enenitrile,3-methylnon-2-enenitrile
-40787,155.26,CC1=C(SC(=N1)C(C)C)C,"4,5-dimethyl-2-propan-2-yl-1,3-thiazole","2-isopropyl-4,5-dimethylthiazole"
+40787,155.26,CC1=C(SC(=N1)C(C)C)C,"4,5-dimethyl-2-propan-2-yl-1,3-thiazole",53498-30-9
 40818,152.06,C(CO[N+](=O)[O-])O[N+](=O)[O-],2-nitrooxyethyl nitrate,ethylene glycol dinitrate
 40923,128.21,CCCC(CCC=C)O,oct-7-en-4-ol,7-octen-4-ol
 41270,256.34,C1CCCCCC(=O)OCCOC(=O)CCCC1,"1,4-dioxacyclohexadecane-5,16-dione","1,4-dioxacyclohexadecane-5,16-dione"
@@ -3419,7 +3421,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 61137,158.24,CCCCC(=O)OCCCC,butyl pentanoate,butyl valerate
 61138,100.12,C=CCCC(=O)O,pent-4-enoic acid,4-pentenoic acid
 61140,136.58,CCCCOC(=O)Cl,butyl carbonochloridate,butyl chloroformate
-61142,160.86,C[As](Cl)Cl,dichloro(methyl)arsane,methyldichlorarsine
+61142,160.86,C[As](Cl)Cl,dichloro(methyl)arsane,methyldichloroarsine
 61147,201.84,C(C(=O)Br)Br,2-bromoacetyl bromide,bromoacetyl bromide
 61151,166.17,COC1=CC=CC=C1C(=O)OC,methyl 2-methoxybenzoate,methyl 2-methoxybenzoate
 61153,134.17,COC1=CC=CC=C1C=C,1-ethenyl-2-methoxybenzene,2-vinylanisole
@@ -3458,7 +3460,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 61243,160.21,C=CC(CC=O)C1=CC=CC=C1,3-phenylpent-4-enal,3-phenylpent-4-enal
 61246,163.01,CCP(=S)(Cl)Cl,dichloro-ethyl-sulfanylidene-lambda5-phosphane,ethylphosphonothioic dichloride
 61249,130.14,CC(COC(=O)C=C)O,2-hydroxypropyl prop-2-enoate,2-hydroxypropyl acrylate
-61250,133.15,CCCCCO[N+](=O)[O-],pentyl nitrate,pentyl nitrate
+61250,133.15,CCCCCO[N+](=O)[O-],pentyl nitrate,amyl nitrate
 61252,102.16,C1CSCC1=O,thiolan-3-one,tetrahydrothiophen-3-one
 61253,282.33,CCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,"octyl 3,4,5-trihydroxybenzoate",octyl gallate
 61260,123.15,CCC(=O)C1=CC=CN1,1-(1H-pyrrol-2-yl)propan-1-one,2-propionylpyrrole
@@ -3481,7 +3483,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 61302,150.22,CC(CCC1=CC=CC=C1)O,4-phenylbutan-2-ol,4-phenyl-2-butanol
 61303,226.4,CCCCCCCCCCCCCC(=O)C,pentadecan-2-one,pentadecan-2-one
 61304,186.29,CCCCCCCOC(=O)C(C)C,heptyl 2-methylpropanoate,heptyl 2-methylpropanoate
-61310,128.17,CCCC=CC(=O)OC,methyl hex-2-enoate,"2-hexenoic acid, methyl ester"
+61310,128.17,CCCC=CC(=O)OC,methyl hex-2-enoate,methyl hex-2-enoate
 61312,142.2,CCC=CCC(=O)OCC,ethyl hex-3-enoate,ethyl-3-hexanoate
 61313,156.22,CCCCCC=CC(=O)OC,methyl oct-2-enoate,dtxsid7062378
 61319,114.14,CCC(=O)OCC=C,prop-2-enyl propanoate,allyl propionate
@@ -3575,7 +3577,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 61665,152.23,CC(=C)C1CCC(O1)(C)C=C,2-ethenyl-2-methyl-5-prop-1-en-2-yloxolane,13679-86-2
 61670,144.17,CC1=C2C(=CC=C1)N=CC=N2,5-methylquinoxaline,5-methylquinoxaline
 61680,100.39,[O-][Si](=O)[O-].[Mg+2],magnesium;dioxido(oxo)silane,florisil
-61696,196.29,CC(=O)OC1[C@]2(CC[C@H](C2)C1(C)C)C,"[(1S,4R)-1,3,3-trimethyl-2-bicyclo[2.2.1]heptanyl] acetate","2-norbornanol, 1,3,3-trimethyl-, acetate"
+61696,196.29,CC(=O)OC1[C@]2(CC[C@H](C2)C1(C)C)C,"[(1S,4R)-1,3,3-trimethyl-2-bicyclo[2.2.1]heptanyl] acetate",(1r)-(+)-fenchyl acetate
 61697,115.36,ClBr,,bromine chloride
 61700,136.19,CC1=CN=C(C=N1)C(C)C,2-methyl-5-propan-2-ylpyrazine,2-isopropyl-5-methylpyrazine
 61712,182.22,CCC1=CC(=C(C(=C1)OC)O)OC,"4-ethyl-2,6-dimethoxyphenol",4-ethylsyringol
@@ -3651,7 +3653,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 62106,222.26,CC1=CC(=C(O1)C)SC(=O)C2=CC=CO2,"S-(2,5-dimethylfuran-3-yl) furan-2-carbothioate","s-(2,5-dimethyl-3-furanyl) 2-furancarbothioate"
 62108,458.7,CCCCCCCCCCCCCCCCCC(=O)NCCCN(C)C.CC(C(=O)O)O,N-[3-(dimethylamino)propyl]octadecanamide;2-hydroxypropanoic acid,stearamidopropyl dimethylamine lactate
 62109,368.6,CCCCCCCCCCCCCCCCCC(=O)NCCCN(C)C,N-[3-(dimethylamino)propyl]octadecanamide,7651-02-7
-62117,168.23,CC(C)C1=CCC(CC1)C(=O)O,4-propan-2-ylcyclohex-3-ene-1-carboxylic acid,71298-42-5
+62117,168.23,CC(C)C1=CCC(CC1)C(=O)O,4-propan-2-ylcyclohex-3-ene-1-carboxylic acid,"1,2,5,6-tetrahydrocuminic acid"
 62126,194.31,CC1=C(C(CC=C1)(C)C)CCC(C)O,"4-(2,6,6-trimethylcyclohexa-1,3-dien-1-yl)butan-2-ol",dehydrodihydroionol
 62127,264.4,CC(=O)OC12CCCC(C1)(CCC3C2CC3(C)C)C,"(4,4,8-trimethyl-1-tricyclo[6.3.1.02,5]dodecanyl) acetate",beta-caryophyllene alcohol acetate
 62128,118.2,CC1C(CCO1)S,2-methyloxolane-3-thiol,57124-87-5
@@ -3691,13 +3693,13 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 62346,204.35,CC1=CCC(=C(C)CCC=C(C)C)CC1,1-methyl-4-(6-methylhept-5-en-2-ylidene)cyclohexene,495-62-5
 62348,154.16,COC1=C(C=CC(=C1)CO)O,4-(hydroxymethyl)-2-methoxyphenol,vanillyl alcohol
 62349,170.25,CC1CCC(OC(=O)C1)C(C)C,4-methyl-7-propan-2-yloxepan-2-one,7-isopropyl-4-methyloxepan-2-one
-62350,156.26,C[C@@H]1CC[C@H](C[C@H]1O)C(C)C,"(1R,2R,5R)-2-methyl-5-propan-2-ylcyclohexan-1-ol",p-menthan-2-ol
+62350,156.26,C[C@@H]1CC[C@H](C[C@H]1O)C(C)C,"(1R,2R,5R)-2-methyl-5-propan-2-ylcyclohexan-1-ol",carvomenthol
 62351,147.3,CSCCCN=C=S,1-isothiocyanato-3-methylsulfanylpropane,3-(methylthio)propyl isothiocyanate
 62353,202.93,C(C(C(F)(F)Cl)(F)F)(F)Cl,"1,3-dichloro-1,1,2,2,3-pentafluoropropane","1,3-dichloro-1,1,2,2,3-pentafluoropropane"
 62362,268.31,COC1=C(C=CC(=C1)CC=C)OC(=O)C2=CC=CC=C2,(2-methoxy-4-prop-2-enylphenyl) benzoate,eugenyl benzoate
 62365,136.58,CC(C)COC(=O)Cl,2-methylpropyl carbonochloridate,isobutyl chloroformate
 62367,154.25,CC(C)C12CCC(C1C2)(C)O,2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol,sabinene hydrate
-62368,188.22,CCCC=C1C2=CC=CC=C2C(=O)O1,3-butylidene-2-benzofuran-1-one,butylidenephthalide
+62368,188.22,CCCC=C1C2=CC=CC=C2C(=O)O1,3-butylidene-2-benzofuran-1-one,3-butylidenephthalide
 62374,152.19,CC1=CC(=O)CC(C1=O)(C)C,"2,6,6-trimethylcyclohex-2-ene-1,4-dione",1125-21-9
 62375,152.19,COC(C1=CC=CC=C1)OC,dimethoxymethylbenzene,benzaldehyde dimethyl acetal
 62378,166.26,CCCCCC1=C(CCC1=O)C,3-methyl-2-pentylcyclopent-2-en-1-one,dihydrojasmone
@@ -3754,7 +3756,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 62835,128.13,CC1C(=C(C(=O)O1)O)C,"4-hydroxy-2,3-dimethyl-2H-furan-5-one",28664-35-9
 62842,152.23,CC(=CCCC(C)(C#C)O)C,"3,7-dimethyloct-6-en-1-yn-3-ol","3,7-dimethyloct-6-en-1-yn-3-ol"
 62847,172.26,CCCCCCC(C)(C)C(=O)O,"2,2-dimethyloctanoic acid","2,2-dimethyloctanoic acid"
-62856,128.13,CC(=O)C1CCC(=O)O1,5-acetyloxolan-2-one,29393-32-6
+62856,128.13,CC(=O)C1CCC(=O)O1,5-acetyloxolan-2-one,5-acetyloxolan-2-one
 62876,222.32,CCCCOC(C)OCCC1=CC=CC=C1,2-(1-butoxyethoxy)ethylbenzene,(2-(1-butoxyethoxy)ethyl)benzene
 62882,295.8,CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O.Cl,1-naphthalen-1-yloxy-3-(propan-2-ylamino)propan-2-ol;hydrochloride,propranolol hydrochloride
 62897,120.15,CC(=C)C1=NC=CN=C1,2-prop-1-en-2-ylpyrazine,isopropenylpyrazine
@@ -3778,7 +3780,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 64805,192.21,CC(CC1=CC2=C(C=C1)OCO2)C=O,"3-(1,3-benzodioxol-5-yl)-2-methylpropanal",1205-17-0
 64807,337.5,CC(CC1=CC=C(C=C1)C(C)(C)C)C=NC2=CC=CC=C2C(=O)OC,methyl 2-[[3-(4-tert-butylphenyl)-2-methylpropylidene]amino]benzoate,verdantiol
 64811,178.23,C1COC(O1)CCC2=CC=CC=C2,"2-(2-phenylethyl)-1,3-dioxolane","2-phenethyl-1,3-dioxolane"
-64812,148.2,CC1=CC=C(C=C1)CCC=O,3-(4-methylphenyl)propanal,"benzenepropanal, 4-methyl-"
+64812,148.2,CC1=CC=C(C=C1)CCC=O,3-(4-methylphenyl)propanal,5406-12-2
 64813,178.23,CC(CC1=CC=C(C=C1)OC)C=O,3-(4-methoxyphenyl)-2-methylpropanal,3-(4-methoxyphenyl)-2-methylpropanal
 64820,208.3,CCOC(CCC1=CC=CC=C1)OCC,"3,3-diethoxypropylbenzene","(3,3-diethoxypropyl)benzene"
 64832,190.28,CC(C)(C)C1=CC=C(C=C1)CCC=O,3-(4-tert-butylphenyl)propanal,3-(4-tert-butylphenyl)propanal
@@ -3827,7 +3829,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 66708,162.18,CC1=CC2=C(C=C1)OC(=O)CC2,"6-methyl-3,4-dihydrochromen-2-one","6-methyl-3,4-dihydrocoumarin"
 66742,318.3,C1=CC=C(C=C1)C(=O)OC2=CC(=CC=C2)OC(=O)C3=CC=CC=C3,(3-benzoyloxyphenyl) benzoate,"1,3-dibenzoyloxybenzene"
 66751,234.33,CCCCCCCCOC(=O)C1=CC=CC=C1,octyl benzoate,octyl benzoate
-66752,342.4,C1=CC=C(C=C1)C(=O)OCCCOCCCOC(=O)C2=CC=CC=C2,3-(3-benzoyloxypropoxy)propyl benzoate,94-51-9
+66752,342.4,C1=CC=C(C=C1)C(=O)OCCCOCCCOC(=O)C2=CC=CC=C2,3-(3-benzoyloxypropoxy)propyl benzoate,"3,3'-oxybis(1-propanol) dibenzoate"
 66755,138.16,CCOC1=CC=CC=C1O,2-ethoxyphenol,2-ethoxyphenol
 66768,166.26,CCCCCCC1=CCCC1=O,2-hexylcyclopent-2-en-1-one,dihydroisojasmone
 66774,90.08,COC(=O)CO,methyl 2-hydroxyacetate,methyl glycolate
@@ -3962,7 +3964,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 70745,142.2,CC(=O)C1(CCCCC1)O,1-(1-hydroxycyclohexyl)ethanone,1-acetylcyclohexanol
 70763,142.24,C1CCC(CC1)CCCO,3-cyclohexylpropan-1-ol,3-cyclohexylpropan-1-ol
 70775,150.17,C=CCC1=CC(=C(C=C1)O)O,"4-prop-2-enylbenzene-1,2-diol",4-allylpyrocatechol
-70792,170.25,CC(C)C(=O)OC1CCCCC1,cyclohexyl 2-methylpropanoate,cyclohexyl isobutyrate
+70792,170.25,CC(C)C(=O)OC1CCCCC1,cyclohexyl 2-methylpropanoate,1129-47-1
 70796,170.25,C1CCC(CC1)CCCOC=O,3-cyclohexylpropyl formate,3-cyclohexylpropyl formate
 70797,163.26,CCCCCCC1=CC=CC=N1,2-hexylpyridine,2-hexylpyridine
 70960,154.16,CC1=C(C(=O)CC1)OC(=O)C,(2-methyl-5-oxocyclopenten-1-yl) acetate,cyclotene acetate
@@ -4112,7 +4114,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 77281,276.4,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)S,triphenylmethanethiol,triphenylmethanethiol
 77287,216.43,CCCCCCCCCCCCSC,1-methylsulfanyldodecane,dodecyl methyl sulfide
 77289,160.32,CCCCCCCCSC,1-methylsulfanyloctane,methyl n-octyl sulfide
-77366,172.22,CC(C)COC(=O)CCC(=O)C,2-methylpropyl 4-oxopentanoate,iso-butyl levulinate
+77366,172.22,CC(C)COC(=O)CCC(=O)C,2-methylpropyl 4-oxopentanoate,isobutyl 4-oxovalerate
 77544,118.13,CCOC(=O)COC,ethyl 2-methoxyacetate,ethyl methoxyacetate
 77547,182.17,CCOC(=O)C1=CC(=C(C=C1)O)O,"ethyl 3,4-dihydroxybenzoate","ethyl 3,4-dihydroxybenzoate"
 77610,184.23,CC1=CC=CC=C1OC2=CC=CC=C2,1-methyl-2-phenoxybenzene,o-phenoxytoluene
@@ -4139,7 +4141,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 78215,152.19,CC1=C(C(=CC=C1)OC)OC,"1,2-dimethoxy-3-methylbenzene","2,3-dimethoxytoluene"
 78230,178.23,CC(C)C1=CC=C(C=C1)CC(=O)O,2-(4-propan-2-ylphenyl)acetic acid,4-isopropylphenylacetic acid
 78236,142.24,CCCCCC(=O)CCC,nonan-4-one,4-nonanone
-78245,182.26,CCCCCC=CC=CC(=O)OC,"methyl deca-2,4-dienoate",decadienoic acid methyl ester
+78245,182.26,CCCCCC=CC=CC(=O)OC,"methyl deca-2,4-dienoate","methyl deca-2,4-dienoate"
 78252,138.23,CC1=CC=C(C=C1)CS,(4-methylphenyl)methanethiol,4498-99-1
 78274,151.16,COC(=O)C1=CC(=CC=C1)N,methyl 3-aminobenzoate,methyl 3-aminobenzoate
 78293,128.21,CCC1CCC(CC1)O,4-ethylcyclohexan-1-ol,4-ethylcyclohexanol
@@ -4202,12 +4204,12 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 79578,226.35,CC(C)OC(=O)CCCCCCCCC=C,propan-2-yl undec-10-enoate,isopropyl 10-undecenate
 79581,242.4,CCCCCCCCCCCOC(=O)CCC,undecyl butanoate,undecyl butyrate
 79582,200.32,CCCCCCCC(=O)OCC(C)C,2-methylpropyl octanoate,isobutyl octanoate
-79735,210.23,CCC(=O)C1=CC(=C(C(=C1)OC)O)OC,"1-(4-hydroxy-3,5-dimethoxyphenyl)propan-1-one",propiosyringone
+79735,210.23,CCC(=O)C1=CC(=C(C(=C1)OC)O)OC,"1-(4-hydroxy-3,5-dimethoxyphenyl)propan-1-one",5650-43-1
 79738,168.19,COC1=CC=CC(=C1OC)CO,"(2,3-dimethoxyphenyl)methanol","2,3-dimethoxybenzyl alcohol"
-79753,174.28,CC(C)COC(C)OCC(C)C,2-methyl-1-[1-(2-methylpropoxy)ethoxy]propane,5669-09-0
+79753,174.28,CC(C)COC(C)OCC(C)C,2-methyl-1-[1-(2-methylpropoxy)ethoxy]propane,acetaldehyde di-isobutylacetal
 79762,176.25,CCC(CC)C(=O)C1=CC=CC=C1,2-ethyl-1-phenylbutan-1-one,2-ethylbutyrophenone
 79782,150.17,COC1=CC=C(C=C1)CC=O,2-(4-methoxyphenyl)acetaldehyde,2-(4-methoxyphenyl)acetaldehyde
-79803,69.11,C1CC=NC1,"3,4-dihydro-2H-pyrrole","3,4-dihydro-2h-pyrrole"
+79803,69.11,C1CC=NC1,"3,4-dihydro-2H-pyrrole",1-pyrroline
 79813,178.23,CCCCOC1=CC=C(C=C1)C=O,4-butoxybenzaldehyde,4-butoxybenzaldehyde
 79828,158.3,CSSSSC,(methyltetrasulfanyl)methane,dimethyl tetrasulfide
 79911,126.18,CC1=C(SC=C1)C=O,3-methylthiophene-2-carbaldehyde,3-methyl-2-thiophenecarboxaldehyde
@@ -4238,7 +4240,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 80795,162.25,CCCCCOC(=O)CS,pentyl 2-sulfanylacetate,pentyl mercaptoacetate
 80799,354.6,CCCCCCCCCCCCCCCCCC(=O)OCCCCC,pentyl octadecanoate,pentyl stearate
 80800,178.27,CCCCCOCC1=CC=CC=C1,pentoxymethylbenzene,"benzene, [(pentyloxy)methyl]-"
-80865,174.19,CCOC(=O)CC1(OCCO1)C,"ethyl 2-(2-methyl-1,3-dioxolan-2-yl)acetate","ethyl 2-(2-methyl-1,3-dioxolan-2-yl)acetate"
+80865,174.19,CCOC(=O)CC1(OCCO1)C,"ethyl 2-(2-methyl-1,3-dioxolan-2-yl)acetate",6413-10-1
 80933,171.24,CC(C)C1=CC=CC2=C1N=CC=C2,8-propan-2-ylquinoline,8-(isopropyl)quinoline
 80960,248.36,CCCCCCCCC(=O)OCC1=CC=CC=C1,benzyl nonanoate,benzyl nonanoate
 81006,200.32,CCCCCCCCC(=O)OCCC,propyl nonanoate,propyl nonanoate
@@ -4269,7 +4271,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 81784,180.2,CCOC(=O)C1=CC=CC=C1OC,ethyl 2-methoxybenzoate,ethyl 2-methoxybenzoate
 81788,156.22,CC(C)CCOC(=O)C(=C)C,3-methylbutyl 2-methylprop-2-enoate,7336-27-8
 81834,184.27,CCCCCCCC=CC(=O)OC,methyl dec-2-enoate,ft-0770857
-81880,311.6,CCCCCCCCCCN(C)CCCCCCCCCC,N-decyl-N-methyldecan-1-amine,n-methyldidecylamine
+81880,311.6,CCCCCCCCCCN(C)CCCCCCCCCC,N-decyl-N-methyldecan-1-amine,didecylmethylamine
 81887,149.23,CCC(CC)C1=CC=CC=N1,2-pentan-3-ylpyridine,2-(3-pentyl)pyridine
 81894,206.28,CCCC(=O)OCCCC1=CC=CC=C1,3-phenylpropyl butanoate,3-phenylpropyl butyrate
 81898,176.25,CC(=O)CC(C)(C)C1=CC=CC=C1,4-methyl-4-phenylpentan-2-one,4-methyl-4-phenylpentan-2-one
@@ -4290,7 +4292,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 82511,234.33,CCCCCCCC(=O)OCC1=CC=CC=C1,benzyl octanoate,benzyl octanoate
 82556,156.26,CCCCCCC=CCCO,dec-3-en-1-ol,(3e)-3-decen-1-ol
 82584,192.25,CCCCC(=O)OCC1=CC=CC=C1,benzyl pentanoate,benzyl valerate
-82610,212.33,CCC(=O)OC1CCC(CC1)C(C)(C)C,(4-tert-butylcyclohexyl) propanoate,cis-4-tert-butylcyclohexyl propionate
+82610,212.33,CCC(=O)OC1CCC(CC1)C(C)(C)C,(4-tert-butylcyclohexyl) propanoate,10411-93-5
 82613,192.25,CCCCC(=O)OC1=CC=C(C=C1)C,(4-methylphenyl) pentanoate,10415-86-8
 82635,256.42,CCCCCCCCCC(=O)OCCCCCC,hexyl decanoate,hexyl decanoate
 82650,286.41,CCOC(=O)CCCCCCCCCCC(=O)OCC,diethyl dodecanedioate,diethyl dodecanedioate
@@ -4306,8 +4308,8 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 83268,144.25,CC(C)CCCC(C)(C)O,"2,6-dimethylheptan-2-ol","2,6-dimethylheptan-2-ol"
 83352,156.22,CC1CCC(CC1)OC(=O)C,(4-methylcyclohexyl) acetate,4-methylcyclohexanol acetate
 83367,164.24,CC(C)(CC1=CC=CC=C1)CO,"2,2-dimethyl-3-phenylpropan-1-ol",13351-61-6
-83453,216.36,CC(C)CC(OCC(C)C)OCC(C)C,"3-methyl-1,1-bis(2-methylpropoxy)butane","3-methyl-1,1-bis(2-methylpropoxy)butane"
-83466,160.25,CCOCCOCCC(C)C,1-(2-ethoxyethoxy)-3-methylbutane,1-(2-ethoxyethoxy)-3-methylbutane
+83453,216.36,CC(C)CC(OCC(C)C)OCC(C)C,"3-methyl-1,1-bis(2-methylpropoxy)butane","1,1-di-isobutoxy-3-methylbutane"
+83466,160.25,CCOCCOCCC(C)C,1-(2-ethoxyethoxy)-3-methylbutane,acetaldehyde ethyl 3-methylbutyl acetal
 83553,170.21,CCOC(C1=CC=CO1)OCC,2-(diethoxymethyl)furan,2-(diethoxymethyl)furan
 83652,154.19,CC(=O)C(=O)C1=CC=CS1,"1-thiophen-2-ylpropane-1,2-dione","1-(2-thienyl)propane-1,2-dione"
 83653,140.2,CC1=C(SC=C1)C(=O)C,1-(3-methylthiophen-2-yl)ethanone,2-acetyl-3-methylthiophene
@@ -4510,8 +4512,8 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 90840,142.2,CCCC1CCCOC1=O,3-propyloxan-2-one,3-propyloxan-2-one
 90843,186.33,CCOCCC(C)CCCC(C)C,"1-ethoxy-3,7-dimethyloctane","octane, 1-ethoxy-3,7-dimethyl-"
 90848,198.3,CCCCCCCCOC(=O)C=CC,octyl but-2-enoate,octyl but-2-enoate
-90884,176.21,CC1C(OC(C(O1)(C)O)C)(C)O,"2,3,5,6-tetramethyl-1,4-dioxane-2,5-diol",23147-57-1
-90895,302.5,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)O)C,"1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylic acid",resin acid
+90884,176.21,CC1C(OC(C(O1)(C)O)C)(C)O,"2,3,5,6-tetramethyl-1,4-dioxane-2,5-diol","2,3,5,6-tetramethyl-1,4-dioxane-2,5-diol"
+90895,302.5,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)O)C,"1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylic acid",17817-95-7
 90899,208.3,CC(=O)C=CC12C(CCCC1(O2)C)(C)C,"4-(2,2,6-trimethyl-7-oxabicyclo[4.1.0]heptan-1-yl)but-3-en-2-one","3-buten-2-one, 4-(2,2,6-trimethyl-7-oxabicyclo[4.1.0]hept-1-yl)-"
 90927,146.23,CCCCCC(CCO)O,"octane-1,3-diol","1,3-octanediol"
 90960,158.24,CC(CC(=O)O)CC(C)(C)C,"3,5,5-trimethylhexanoic acid","3,5,5-trimethylhexanoic acid"
@@ -4634,7 +4636,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 93838,254.36,CC1CCC2(O1)C(CCCC2(C)OC(=O)C)(C)C,"(2,6,10,10-tetramethyl-1-oxaspiro[4.5]decan-6-yl) acetate",6-acetoxydihydrotheaspirane
 93847,210.31,CCC1=CCCC(C1C(=O)OCC)(C)C,"ethyl 2-ethyl-6,6-dimethylcyclohex-2-ene-1-carboxylate",57934-97-1
 93868,260.4,CC1CCC(C(C1)OC(=O)C2=CC=CC=C2)C(C)C,(5-methyl-2-propan-2-ylcyclohexyl) benzoate,(-)-menthyl benzoate
-93869,156.22,CCCCCC1CC1C(=O)O,2-pentylcyclopropane-1-carboxylic acid,cis-2-pentylcyclopropanecarboxylic acid
+93869,156.22,CCCCCC1CC1C(=O)O,2-pentylcyclopropane-1-carboxylic acid,2-pentylcyclopropanecarboxylic acid
 93896,262.4,CCCCCCCCC(=O)OCCC1=CC=CC=C1,2-phenylethyl nonanoate,phenethyl nonanoate
 93947,250.38,CC1(CC2C1CCC3(CCCC2(C3)OC=O)C)C,"(4,4,8-trimethyl-1-tricyclo[6.3.1.02,5]dodecanyl) formate",caryophyllene formate
 93958,184.27,CCCCC(CC)C(=O)OCC=C,prop-2-enyl 2-ethylhexanoate,allyl 2-ethylhexanoate
@@ -4727,7 +4729,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 95485,166.22,CCOC(C)OC1=CC=CC=C1,1-ethoxyethoxybenzene,"benzene, (1-ethoxyethoxy)-"
 95495,198.34,CC(C)CCCC(C)CCCC(=O)C,"6,10-dimethylundecan-2-one","6,10-dimethylundecan-2-one"
 95539,172.26,CCCCOC(=O)C(C)CCC,butyl 2-methylpentanoate,butyl 2-methylvalerate
-95540,186.29,CCCCCOC(=O)C(C)CCC,pentyl 2-methylpentanoate,amyl-2-methylvalerate
+95540,186.29,CCCCCOC(=O)C(C)CCC,pentyl 2-methylpentanoate,pentyl 2-methylpentanoate
 95560,140.22,CC(C=O)C1CCCCC1,2-cyclohexylpropanal,2-cyclohexylpropanal
 95568,158.24,CCCCC(CC)COC=O,2-ethylhexyl formate,2-ethylhexyl formate
 95572,200.32,CCCCCCCCC1OCC(O1)C,"4-methyl-2-octyl-1,3-dioxolane","4-methyl-2-octyl-1,3-dioxolane"
@@ -4780,7 +4782,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 97842,170.25,CC1CCOC2(O1)CCCCC2,"4-methyl-1,5-dioxaspiro[5.5]undecane","2-methyl-1,5-dioxaspiro[5.5]undecane"
 97848,294.3,COC1=C(C=CC(=C1)CC=C)OC(=O)C=CC2=CC=CC=C2,(2-methoxy-4-prop-2-enylphenyl) 3-phenylprop-2-enoate,zimmtsaures eugenol
 97854,138.21,CC1CC(CC(=C1)C)C=O,"3,5-dimethylcyclohex-3-ene-1-carbaldehyde",68039-48-5
-97881,214.34,CCCCCC(C)OC(=O)CCCCC,heptan-2-yl hexanoate,1-methylhexyl hexanoate
+97881,214.34,CCCCCC(C)OC(=O)CCCCC,heptan-2-yl hexanoate,"hexanoic acid, 1-methylhexyl ester"
 97883,158.24,CCC(C)COC(=O)C(C)C,2-methylbutyl 2-methylpropanoate,2-methylbutyl isobutyrate
 97885,176.21,CC=CC(=O)OCC1=CC=CC=C1,benzyl but-2-enoate,"2-butenoic acid, phenylmethyl ester"
 97895,132.16,CCOC(C)OC(=O)C,1-ethoxyethyl acetate,1-ethoxyethyl acetate
@@ -4860,7 +4862,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 101145,160.21,CCCCCOC(=O)C(C)O,pentyl 2-hydroxypropanoate,amyl lactate
 101150,152.23,CC1CC(=CC(C1C=O)C)C,"2,4,6-trimethylcyclohex-3-ene-1-carbaldehyde",1423-46-7
 101278,232.32,CCCCCC(=CC1=CC=C(C=C1)OC)C=O,2-[(4-methoxyphenyl)methylidene]heptanal,2-[(4-methoxyphenyl)methylidene]heptanal
-101285,180.16,C1OC2=C(O1)C=C(C=C2)COC=O,"1,3-benzodioxol-5-ylmethyl formate",unii-j6ca72jcr6
+101285,180.16,C1OC2=C(O1)C=C(C=C2)COC=O,"1,3-benzodioxol-5-ylmethyl formate",85262-96-0
 101315,234.33,CCCCCCCOC(=O)CC1=CC=CC=C1,heptyl 2-phenylacetate,heptyl phenylacetate
 101330,220.26,C1CCC(CC1)OC(=O)C2=CC=CC=C2O,cyclohexyl 2-hydroxybenzoate,cyclohexyl salicylate
 101338,256.42,CCCCCCCCCCCC(=O)OCC(C)C,2-methylpropyl dodecanoate,isobutyl laurate
@@ -4908,7 +4910,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 102611,170.25,CC(=CCCC(C)(C1CO1)O)C,6-methyl-2-(oxiran-2-yl)hept-5-en-2-ol,1365-19-1
 102648,170.29,CC1CCC(C(C1)OC)C(C)C,2-methoxy-4-methyl-1-propan-2-ylcyclohexane,1-menthyl methyl ether
 102667,152.23,CC1(C2CC1C(=C)C(C2)O)C,"6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptan-3-ol",pinocarveol
-102680,152.23,CC1=CC(C(CC1)C=O)(C)C,"2,2,4-trimethylcyclohex-3-ene-1-carbaldehyde",1726-47-2
+102680,152.23,CC1=CC(C(CC1)C=O)(C)C,"2,2,4-trimethylcyclohex-3-ene-1-carbaldehyde",pseudo-cyclocitral
 102681,154.25,CC(C)(C)C1CCCCC1=O,2-tert-butylcyclohexan-1-one,2-tert-butylcyclohexanone
 102714,258.4,CC1COCC2=CC3=C(C=C12)C(CCC3(C)C)(C)C,"4,6,6,9,9-pentamethyl-3,4,7,8-tetrahydro-1H-benzo[g]isochromene",1922-67-4
 102717,206.28,C1CCOC(C1)OCCC2=CC=CC=C2,2-(2-phenylethoxy)oxane,tetrahydro-2-(2-phenylethoxy)-2h-pyran
@@ -4981,7 +4983,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 104471,184.27,CC(C)CCC1(OCC=CCO1)C,"2-methyl-2-(3-methylbutyl)-4,7-dihydro-1,3-dioxepine",53338-05-9
 104486,244.41,CCCCCCCCCCC(OCC)OCC,"1,1-diethoxyundecane","1,1-diethoxyundecane"
 104487,258.44,CCCCCCCCCCCC(OCC)OCC,"1,1-diethoxydodecane","1,1-diethoxydodecane"
-104512,172.26,CCCCCCCCOCC=O,2-octoxyacetaldehyde,(octyloxy)acetaldehyde
+104512,172.26,CCCCCCCCOCC=O,2-octoxyacetaldehyde,"acetaldehyde, (octyloxy)-"
 104513,169.29,CC1=C(SC(=N1)CC(C)C)C,"4,5-dimethyl-2-(2-methylpropyl)-1,3-thiazole","2-isobutyl-4,5-dimethylthiazole"
 104598,210.23,CC(=O)OCC1=CC(=C(C=C1)OC)OC,"(3,4-dimethoxyphenyl)methyl acetate",veratryl acetate
 104620,139.19,CCCC1=NC(=C(O1)C)C,"4,5-dimethyl-2-propyl-1,3-oxazole","4,5-dimethyl-2-propyloxazole"
@@ -5092,7 +5094,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 107166,236.39,CC1(CCCC2(C1CCC3(C2CCO3)C)C)C,"3a,6,6,9a-tetramethyl-2,4,5,5a,7,8,9,9b-octahydro-1H-benzo[e][1]benzofuran",ambrox dl
 107168,168.23,CC1C(O1)(C)C=CC2C(O2)(C)C,"2-[2-(3,3-dimethyloxiran-2-yl)ethenyl]-2,3-dimethyloxirane",schembl10582563
 107217,196.29,CC(=O)OC1C(C2CCC1(C2)C)(C)C,"(1,3,3-trimethyl-2-bicyclo[2.2.1]heptanyl) acetate",fenchyl acetate
-107231,134.2,CC(CS)C(=O)OC,methyl 2-methyl-3-sulfanylpropanoate,methyl 2-methyl-3-mercaptopropionate
+107231,134.2,CC(CS)C(=O)OC,methyl 2-methyl-3-sulfanylpropanoate,methyl 2-methyl-3-sulfanylpropanoate
 107271,172.26,CCCCC(CC)C1OCCO1,"2-heptan-3-yl-1,3-dioxolane","1,3-dioxolane, 2-(1-ethylpentyl)-"
 107272,198.34,CC1CCCC(C1CCC(C)O)(C)C,"4-(2,2,6-trimethylcyclohexyl)butan-2-ol",tetrahydroionol
 107327,226.4,C1CCCCCCCC(CCCCCC1)O,cyclopentadecanol,cyclopentadecanol
@@ -5104,7 +5106,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 107526,180.16,C([C@H]([C@H]([C@@H]([C@H](C=O)O)O)O)O)O,"(2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanal",d(+)-glucose
 107557,192.21,COC1=C(C=C(C=C1)C=CC=O)OC,"3-(3,4-dimethoxyphenyl)prop-2-enal","3-(3,4-dimethoxyphenyl)-2-propenal"
 107561,152.23,CC1=CC(=O)[C@H](CC1)C(C)C,(6R)-3-methyl-6-propan-2-ylcyclohex-2-en-1-one,l-piperitone
-107584,83.09,CC=CN=C=O,1-isocyanatoprop-1-ene,methylvinylisocyanate
+107584,83.09,CC=CN=C=O,1-isocyanatoprop-1-ene,1-isocyanato-1-propene
 107614,178.27,CC1=C(C(CCC1)(C)C)C=CC=O,"3-(2,6,6-trimethylcyclohexen-1-yl)prop-2-enal","3-(2,6,6-trimethylcyclohex-1-enyl)-2-propenal"
 107631,190.28,CC=CC=C1C(=CC(=O)CC1(C)C)C,"4-but-2-enylidene-3,5,5-trimethylcyclohex-2-en-1-one",13215-88-8
 107689,90.08,C[C@@H](C(=O)O)O,(2S)-2-hydroxypropanoic acid,l-lactic acid
@@ -5140,7 +5142,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 108716,144.21,CCC=CCC(OC)OC,"1,1-dimethoxyhex-3-ene","1,1-dimethoxyhex-3-ene"
 108764,170.23,CC1=CC(=C(O1)C)SC(=O)C,"S-(2,5-dimethylfuran-3-yl) ethanethioate",55764-22-2
 108765,156.2,CC1=C(C=CO1)SC(=O)C,S-(2-methylfuran-3-yl) ethanethioate,55764-25-5
-108879,268.3,C1=CC=C(C=C1)CCCOC(=O)CCC2=CC=CC=C2,3-phenylpropyl 3-phenylpropanoate,3-phenylpropyl 3-phenylpropanoate
+108879,268.3,C1=CC=C(C=C1)CCCOC(=O)CCC2=CC=CC=C2,3-phenylpropyl 3-phenylpropanoate,60045-27-4
 108902,270.5,CCCCCCCCCC(=O)OCCCCCCC,heptyl decanoate,heptyl decanoate
 108940,184.27,CC(=O)OCCCC1CCCCC1,3-cyclohexylpropyl acetate,cyclohexylpropyl acetate
 109095,228.37,CCCCCCCCC(=O)OCCCCC,pentyl nonanoate,amyl nonanoate
@@ -5293,18 +5295,18 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 112894,242.4,CCCCCCCCCCC(=O)OCC(C)C,2-methylpropyl undecanoate,"undecanoic acid, 2-methylpropyl ester"
 113007,223.35,C=CCCCCCCCCCOCCC#N,3-undec-10-enoxypropanenitrile,"propanenitrile, 3-(10-undecenyloxy)-"
 113204,124.14,COCC1=NC=CN=C1,2-(methoxymethyl)pyrazine,"pyrazine, methoxymethyl-"
-113425,170.25,CCC(C)COC(=O)C=C(C)C,2-methylbutyl 3-methylbut-2-enoate,2-methylbutyl 3-methylbut-2-enoate
+113425,170.25,CCC(C)COC(=O)C=C(C)C,2-methylbutyl 3-methylbut-2-enoate,2-methylbutyl 3-methyl-2-butenoate
 113471,170.21,CCCCCC#COC(=O)OC,hept-1-ynyl methyl carbonate,hept-1-yn-1-yl methyl carbonate
 113514,176.25,CC1CC(CO1)(C)C2=CC=CC=C2,"2,4-dimethyl-4-phenyloxolane",rhubafuran
 113640,202.25,CCOC(=O)CCCCCOC(=O)C,ethyl 6-acetyloxyhexanoate,ethyl 6-acetyloxyhexanoate
-114233,170.29,CC(C)C1CCC(CC1)C(C)O,1-(4-propan-2-ylcyclohexyl)ethanol,63767-86-2
+114233,170.29,CC(C)C1CCC(CC1)C(C)O,1-(4-propan-2-ylcyclohexyl)ethanol,1-(4-propan-2-ylcyclohexyl)ethanol
 114239,272.5,CCCCCCCCCCCCCCOCCCO,3-tetradecoxypropan-1-ol,3-(tetradecyloxy)propan-1-ol
 114416,254.41,CCCCCC(=O)OCCC(C)CCC=C(C)C,"3,7-dimethyloct-6-enyl hexanoate",citronellyl hexanoate
 114419,182.26,CC1CCC(C(C1)OC=O)C(=C)C,(5-methyl-2-prop-1-en-2-ylcyclohexyl) formate,isopulegyl formate
 114453,168.28,CCCCCC1C(CCC1=O)C,3-methyl-2-pentylcyclopentan-1-one,tetrahydrojasmone
 114454,168.28,CCCCCCC1CCCC1=O,2-hexylcyclopentan-1-one,2-hexylcyclopentanone
 114523,160.25,CCCCCOC(C)OCC,1-(1-ethoxyethoxy)pentane,1-(1-ethoxyethoxy)pentane
-114530,156.26,CC1CCOC(C1)CC(C)C,4-methyl-2-(2-methylpropyl)oxane,dihydroroseoxide
+114530,156.26,CC1CCOC(C1)CC(C)C,4-methyl-2-(2-methylpropyl)oxane,13477-62-8
 114531,192.25,CC1=CC=C(C=C1)OC2CCCCO2,2-(4-methylphenoxy)oxane,13481-09-9
 114533,170.25,CC(C1CCCCC1)OC(=O)C,1-cyclohexylethyl acetate,1-cyclohexylethyl acetate
 114535,126.15,CCC1CCC(=O)C1=O,"3-ethylcyclopentane-1,2-dione","3-ethylcyclopentane-1,2-dione"
@@ -5347,7 +5349,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 118148,172.29,CCC(C)SC(=O)C=C(C)C,S-butan-2-yl 3-methylbut-2-enethioate,34322-09-3
 118177,168.28,CCCC=CCC1CCCC1O,2-hex-2-enylcyclopentan-1-ol,2-hex-2-enylcyclopentan-1-ol
 118193,128.21,CC1CCC(CC1)CO,(4-methylcyclohexyl)methanol,34885-03-5
-118199,194.27,CCOC(=O)C1C(=CC=CC1(C)C)C,"ethyl 2,6,6-trimethylcyclohexa-2,4-diene-1-carboxylate",35044-57-6
+118199,194.27,CCOC(=O)C1C(=CC=CC1(C)C)C,"ethyl 2,6,6-trimethylcyclohexa-2,4-diene-1-carboxylate",ethyl safranate
 118201,194.27,CCOC(=O)C1=C(C=CCC1(C)C)C,"ethyl 2,6,6-trimethylcyclohexa-1,3-diene-1-carboxylate",35044-59-8
 118210,116.16,CCC(C)COC=O,2-methylbutyl formate,2-methylbutyl formate
 118225,230.3,CCCC(CCCC(=O)OCC)OC(=O)C,ethyl 5-acetyloxyoctanoate,ethyl 5-acetoxyoctanoate
@@ -5360,7 +5362,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 118530,286.5,CCCCCCOC(CCCCC)OCCCCCC,"1,1-dihexoxyhexane",hexanal dihexyl acetal
 118537,194.36,CC1C(C2CCCCC2C1(C)C)(C)C,"1,1,2,3,3-pentamethyl-3a,4,5,6,7,7a-hexahydro-2H-indene",33704-60-8
 118641,160.28,CC(C)CC(=O)SC(C)C,S-propan-2-yl 3-methylbutanethioate,34322-06-0
-118658,158.26,CC(C)SC(=O)C=C(C)C,S-propan-2-yl 3-methylbut-2-enethioate,34365-79-2
+118658,158.26,CC(C)SC(=O)C=C(C)C,S-propan-2-yl 3-methylbut-2-enethioate,s-isopropyl 3-methylbut-2-enethioate
 118704,178.27,CCC(CC)(CC1=CC=CC=C1)O,3-benzylpentan-3-ol,34577-40-7
 118758,206.4,CCC(C)(C)SSC(C)(C)CC,2-methyl-2-(2-methylbutan-2-yldisulfanyl)butane,di-tert-pentyl disulphide
 118782,154.25,CC(=O)CCCCCCC=C,dec-9-en-2-one,9-decen-2-one
@@ -5406,7 +5408,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 122419,146.18,CCCC(=O)OCC(C)O,2-hydroxypropyl butanoate,2-hydroxypropyl butyrate
 122484,154.25,CC(C)[C@@H]1CC[C@@](C=C1)(C)O,"(1R,4S)-1-methyl-4-propan-2-ylcyclohex-2-en-1-ol","2-cyclohexen-1-ol, 1-methyl-4-(1-methylethyl)-, trans-"
 122485,154.25,CC(C)[C@H]1CC[C@@](C=C1)(C)O,"(1R,4R)-1-methyl-4-propan-2-ylcyclohex-2-en-1-ol",cis-4-(isopropyl)-1-methylcyclohex-2-en-1-ol
-122491,148.24,CCC=CCC=CC=CC=C,"undeca-1,3,5,8-tetraene",dtxsid40959402
+122491,148.24,CCC=CCC=CC=CC=C,"undeca-1,3,5,8-tetraene","undeca-1,3,5,8-tetraene"
 122500,262.4,CCCCCCC1=CC=C(C=C1)C=CC(OC)OC,"1-(3,3-dimethoxyprop-1-enyl)-4-hexylbenzene","1-(3,3-dimethoxyprop-1-enyl)-4-hexylbenzene"
 122510,220.35,CC1CCC2C13CC(C2(C)C)C4(C(C3)O4)C,"2,6,6,8-tetramethyl-9-oxatetracyclo[5.4.1.01,5.08,10]dodecane",alpha-cedrene epoxide
 122549,246.4,CC(=O)C1=C2CC3(CCC2(CC3)C(CC1)(C)C)C,"1-(2,2,8-trimethyl-5-tricyclo[6.2.2.01,6]dodec-5-enyl)ethanone","ethanone, 1-(1,3,4,4a,5,6,7-hexahydro-2,5,5-trimethyl-2h-2,4a-ethanonaphthalen-8-yl)-"
@@ -5479,7 +5481,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 146586,102.2,CC(=CCS)C,3-methylbut-2-ene-1-thiol,5287-45-6
 146885,131.24,CCCC1NCCS1,"2-propyl-1,3-thiazolidine",2-propylthiazolidine
 147023,118.17,CCCCCC(O)O,"hexane-1,1-diol",hexanediol
-149211,224.38,CCCCCCCCCCCCC=CC=O,pentadec-2-enal,pentadec-2-enal
+149211,224.38,CCCCCCCCCCCCC=CC=O,pentadec-2-enal,dtxsid301025834
 151276,166.17,COC1=C(C=CC(=C1)CC=O)O,2-(4-hydroxy-3-methoxyphenyl)acetaldehyde,homovanillin
 151492,132.16,CCCC(CC(=O)O)O,3-hydroxyhexanoic acid,3-hydroxyhexanoic acid
 151932,418.3,C1=CC=NC(=C1)C(=O)[O-].C1=CC=NC(=C1)C(=O)[O-].C1=CC=NC(=C1)C(=O)[O-].[Cr+3],chromium(3+);pyridine-2-carboxylate,chromium picolinate
@@ -5491,7 +5493,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 155529,116.23,CCCC1CCS1,2-propylthietane,"thietane, 2-propyl-"
 155626,152.23,CC(=C)C1CCC(C=C1)(C)O,1-methyl-4-prop-1-en-2-ylcyclohex-2-en-1-ol,"p-mentha-2,8-dien-1-ol"
 155708,208.21,CCOC1=C(C=CC(=C1)C=O)OC(=O)C,(2-ethoxy-4-formylphenyl) acetate,2-ethoxy-4-formylphenyl acetate
-155724,236.4,CC(C)[C@@H]1CC[C@@]2([C@H]1[C@@H]3C(=C)CC[C@@H]2S3)C,"(1S,2R,5S,6S,7R)-2-methyl-8-methylidene-5-propan-2-yl-11-thiatricyclo[5.3.1.02,6]undecane",72445-42-2
+155724,236.4,CC(C)[C@@H]1CC[C@@]2([C@H]1[C@@H]3C(=C)CC[C@@H]2S3)C,"(1S,2R,5S,6S,7R)-2-methyl-8-methylidene-5-propan-2-yl-11-thiatricyclo[5.3.1.02,6]undecane","4,8-epithioazulene, decahydro-3a-methyl-7-methylene-1-(1-methylethyl)-, (1s-(1alpha,3aalpha,4alpha,8alpha,8aalpha))-"
 155771,180.24,CCCCCC#CC(=O)OCC=C,prop-2-enyl oct-2-ynoate,"2-octynoic acid, 2-propen-1-yl ester"
 156273,144.21,CCCCC1OCC(O1)C,"2-butyl-4-methyl-1,3-dioxolane","2-butyl-4-methyl-1,3-dioxolane"
 156391,230.26,C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,(2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid,naproxen
@@ -5528,7 +5530,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 162061,228.37,COCOC1CCCCCCCCCCC1,methoxymethoxycyclododecane,(methoxymethoxy)cyclododecane
 162105,210.31,CC(C)(CCCC1=CCCC(C1)C=O)O,3-(4-hydroxy-4-methylpentyl)cyclohex-3-ene-1-carbaldehyde,51414-25-6
 162184,228.33,CC1CCC(C2(C1)OCC(O2)CO)C(C)C,"(9-methyl-6-propan-2-yl-1,4-dioxaspiro[4.5]decan-3-yl)methanol",63187-91-7
-162239,144.21,CCCOC(=O)C(C)CC,propyl 2-methylbutanoate,propyl 2-methylbutyrate
+162239,144.21,CCCOC(=O)C(C)CC,propyl 2-methylbutanoate,propyl 2-methylbutanoate
 162248,224.34,CCC(C)C1CCCCC1(C=C)OC(=O)C,(2-butan-2-yl-1-ethenylcyclohexyl) acetate,37172-02-4
 162249,226.31,CCCCCCC1C(CCC1=O)C(=O)OC,methyl 2-hexyl-3-oxocyclopentane-1-carboxylate,37172-53-5
 162267,198.34,CCCCCCCCCCC(C)C=O,2-methyldodecanal,2-methyldodecanal
@@ -5683,7 +5685,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 182502,124.18,CCC=CCC(=O)C=C,"octa-1,5-dien-3-one","1,5-octadien-3-one, (5z)-"
 183870,170.25,CCCCCC[C@@H]1CCC(=O)O1,(5R)-5-hexyloxolan-2-one,(r)-gamma-decalactone
 184493,210.36,CC1(CCCCC(C1(CC=C)O)(C)C)C,"2,2,7,7-tetramethyl-1-prop-2-enylcycloheptan-1-ol",105463-44-3
-184852,141.24,C=CCCCCN=C=S,6-isothiocyanatohex-1-ene,6-isothiocyanatohex-1-ene
+184852,141.24,C=CCCCCN=C=S,6-isothiocyanatohex-1-ene,5-hexenyl isothiocyanate
 186148,82.1,C1C=CC=CO1,2H-pyran,2h-pyran
 187947,184.32,CCCCCCCCCCC=CO,dodec-1-en-1-ol,dodec-1-en-1-ol
 193087,128.17,CCCC(=CC(=O)O)C,3-methylhex-2-enoic acid,cis-3-methyl-2-hexenoic acid
@@ -5751,7 +5753,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 223147,215.29,C1CCN(CC1)C(=O)C=CC2=CC=CC=C2,3-phenyl-1-piperidin-1-ylprop-2-en-1-one,"piperidine, 1-(1-oxo-3-phenyl-2-propenyl)-"
 223944,188.22,CCCCOC(=O)C(C)OC(=O)C,butyl 2-acetyloxypropanoate,5422-69-5
 225700,246.4,CC1=C(CC2(C1CC3(CC2C3(C)C)C)C)C(=O)C,"1-(2,5,8,9,9-pentamethyl-4-tricyclo[6.1.1.02,6]dec-4-enyl)ethanone",nsc15341
-225856,222.24,CC1C(OC(O1)C2=CC3=C(C=C2)OCO3)C,"5-(4,5-dimethyl-1,3-dioxolan-2-yl)-1,3-benzodioxole",unii-7y4zv19zdp
+225856,222.24,CC1C(OC(O1)C2=CC3=C(C=C2)OCO3)C,"5-(4,5-dimethyl-1,3-dioxolan-2-yl)-1,3-benzodioxole","heliotropine butane-2,3-diol acetal"
 226249,170.23,CC(=O)CSCC1=CC=CO1,1-(furan-2-ylmethylsulfanyl)propan-2-one,58066-86-7
 226486,194.23,COC1=CC(=CC(=C1O)OC)CC=C,"2,6-dimethoxy-4-prop-2-enylphenol","4-allyl-2,6-dimethoxyphenol"
 226902,172.26,CCCC(C)C(=O)OCC(C)C,2-methylpropyl 2-methylpentanoate,isobutyl 2-methylvalerate
@@ -5796,7 +5798,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 230995,162.18,COC1=CC=C(C=C1)C=CC=O,3-(4-methoxyphenyl)prop-2-enal,3-(4-methoxyphenyl)prop-2-enal
 231031,232.74,CC(CCC=C(C)C)CCOC(=O)CCl,"3,7-dimethyloct-6-enyl 2-chloroacetate",5471-50-1
 231168,207.27,C1=CC=C(C=C1)CC2=CNC3=CC=CC=C32,3-benzyl-1H-indole,3-benzyl-1h-indole
-231325,152.19,CCCCC(=O)C1=CC=CO1,1-(furan-2-yl)pentan-1-one,3194-17-0
+231325,152.19,CCCCC(=O)C1=CC=CO1,1-(furan-2-yl)pentan-1-one,2-pentanoylfuran
 232444,282.29,CCC1=C(C=C(C(=C1[N+](=O)[O-])OC)C(C)(C)C)[N+](=O)[O-],"1-tert-butyl-4-ethyl-2-methoxy-3,5-dinitrobenzene",nsc29879
 232459,162.23,CC(C)(CC=O)C1=CC=CC=C1,3-methyl-3-phenylbutanal,3-methyl-3-phenylbutanal
 232703,168.23,CC12CCC(CC1O2)C3(CO3)C,1-methyl-4-(2-methyloxiran-2-yl)-7-oxabicyclo[4.1.0]heptane,limonene dioxide
@@ -5832,7 +5834,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 243803,270.5,CCCCCCCCCCCCOC(=O)CC(C)C,dodecyl 3-methylbutanoate,dodecyl 3-methylbutanoate
 244468,240.38,CCCC(=O)OCCCCCCCCCC=C,undec-10-enyl butanoate,10-undecenyl butyrate
 244473,240.38,CC(C)C(=O)OCCCCCCCCCC=C,undec-10-enyl 2-methylpropanoate,nsc55388
-244483,224.34,CCCC(=O)O[C@H]1C[C@H]2CC[C@]1(C2(C)C)C,"[(1S,2S,4R)-1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl] butanoate",13109-70-1
+244483,224.34,CCCC(=O)O[C@H]1C[C@H]2CC[C@]1(C2(C)C)C,"[(1S,2S,4R)-1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl] butanoate","(1s,2s,4r)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-yl butyrate"
 245572,256.42,CCCCCCCCCCCCOC(=O)CCC,dodecyl butanoate,dodecyl butyrate
 245601,200.27,CCCCCCC(=O)CC(=O)OCC,ethyl 3-oxononanoate,ethyl 3-oxononanoate
 246089,200.32,CCCCCCCC1(OCC(O1)C)C,"2-heptyl-2,4-dimethyl-1,3-dioxolane",2-nonanone propyleneglycol acetal
@@ -6088,13 +6090,13 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 519145,324.6,CCCCCCCCCCCCCCCCCCCCC(C)C,2-methyldocosane,2-methyldocosane
 519158,158.28,CCCCCCCC(CC)O,decan-3-ol,3-decanol
 519179,114.14,CCC=CC(=O)OC,methyl pent-2-enoate,methyl pent-2-enoate
-519180,184.27,CCCCCCCCC=CC(=O)O,undec-2-enoic acid,(e)-2-undecenoic acid;(e)-undec-2-enoic acid
+519180,184.27,CCCCCCCCC=CC(=O)O,undec-2-enoic acid,hendecenoic acid
 519184,196.29,CCCCCCC#CC(=O)OCCC,propyl non-2-ynoate,c12h20o2
 519203,136.19,CC1=NC=CN=C1C(C)C,2-methyl-3-propan-2-ylpyrazine,2-isopropyl-3-methylpyrazine
 519308,140.27,CCC1CCCC(C1)CC,"1,3-diethylcyclohexane","1,3-diethylcyclohexane"
 519382,194.31,CC1=C(C(CCC1)(C)C)CCC(=O)C,"4-(2,6,6-trimethylcyclohexen-1-yl)butan-2-one",dihydro-beta-ionone
 519415,146.23,CCOC(C(C)C)OCC,"1,1-diethoxy-2-methylpropane",isobutyraldehyde diethyl acetal
-519416,102.2,CCC=CSC,1-methylsulfanylbut-1-ene,1-buten-1-yl methyl sulfide
+519416,102.2,CCC=CSC,1-methylsulfanylbut-1-ene,32951-19-2
 519539,141.24,CCC(C)C1=NC=CS1,"2-butan-2-yl-1,3-thiazole",18277-27-5
 519564,178.27,CC1=CN=C(C(=N1)CCC(C)C)C,"2,5-dimethyl-3-(3-methylbutyl)pyrazine",18433-98-2
 519677,144.25,CCCCCCCOCC,1-ethoxyheptane,"heptane, 1-ethoxy-"
@@ -6136,12 +6138,12 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 520568,127.21,CCC1=CSC(=N1)C,"4-ethyl-2-methyl-1,3-thiazole",4-ethyl-2-methylthiazole
 520583,170.25,CCCCCCC=COC(=O)C,oct-1-enyl acetate,octen-1-ol acetate
 520667,100.12,CC1CC(=O)CO1,5-methyloxolan-3-one,5-methyloxolan-3-one
-520682,120.22,CC(C)(CCO)S,3-methyl-3-sulfanylbutan-1-ol,34300-94-2
+520682,120.22,CC(C)(CCO)S,3-methyl-3-sulfanylbutan-1-ol,3-mercapto-3-methyl-1-butanol
 520710,172.26,CCCCCCC(=O)OC(C)C,propan-2-yl heptanoate,isopropyl heptanoate
 520722,152.19,CCC1=NC=CN=C1OCC,2-ethoxy-3-ethylpyrazine,2-ethoxy-3-ethylpyrazine
 520888,155.22,CC1=C(SC(=N1)C)C(=O)C,"1-(2,4-dimethyl-1,3-thiazol-5-yl)ethanone","5-acetyl-2,4-dimethylthiazole"
 520895,180.4,CCC1SC(SS1)CC,"3,5-diethyl-1,2,4-trithiolane","3,5-diethyl-1,2,4-trithiolane"
-520911,112.13,CC1=CC=C(O1)CO,(5-methylfuran-2-yl)methanol,(5-methylfuran-2-yl)methanol
+520911,112.13,CC1=CC=C(O1)CO,(5-methylfuran-2-yl)methanol,3857-25-8
 520990,126.22,CCC1=CC=C(S1)C,2-ethyl-5-methylthiophene,2-ethyl-5-methylthiophene
 521064,146.18,CCC(C)C(C(=O)OC)O,methyl 2-hydroxy-3-methylpentanoate,methyl 2-hydroxy-3-methylpentanoate
 521080,155.26,CCCC1=NC(=C(S1)C)C,"4,5-dimethyl-2-propyl-1,3-thiazole","4,5-dimethyl-2-propylthiazole"
@@ -6154,7 +6156,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 521300,88.11,CCC(=O)CO,1-hydroxybutan-2-one,1-hydroxybutan-2-one
 521314,154.25,CC1(C2CCC(C1C2)CO)C,"(6,6-dimethyl-2-bicyclo[3.1.1]heptanyl)methanol",myrtanol
 521320,158.24,CCCCCC(C)C(=O)OC,methyl 2-methylheptanoate,methyl 2-methylheptanoate
-521321,158.24,CC(C)COC(=O)C(C)(C)C,"2-methylpropyl 2,2-dimethylpropanoate",iso-butyl pivalate
+521321,158.24,CC(C)COC(=O)C(C)(C)C,"2-methylpropyl 2,2-dimethylpropanoate","pivalic acid, 2-methylpropyl ester"
 521326,242.4,CCCCCCCCOC(=O)CCCCCC,octyl heptanoate,octyl heptanoate
 521334,204.35,CC(=C1CCC2(CCCC(=C)C2C1)C)C,"8a-methyl-4-methylidene-6-propan-2-ylidene-2,3,4a,5,7,8-hexahydro-1H-naphthalene",gamma-selinene
 521348,134.24,CCCC(CCO)S,3-sulfanylhexan-1-ol,3-mercapto-1-hexanol
@@ -6182,7 +6184,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 522404,186.25,CC(C)CCOC(=O)CCC(=O)C,3-methylbutyl 4-oxopentanoate,isoamyl levulinate
 522422,256.42,CCCCCCCCC(=O)OCCCCCCC,heptyl nonanoate,heptyl nonanoate
 522458,164.3,CCCCSSCCC,1-(propyldisulfanyl)butane,butyl propyl disulfide
-522459,150.3,CCCCCSSC,1-(methyldisulfanyl)pentane,methyl pentyl disulfide
+522459,150.3,CCCCCSSC,1-(methyldisulfanyl)pentane,amyl methyl disulfide
 522514,154.25,CC1(CCCC(O1)(C)C=C)C,"2-ethenyl-2,6,6-trimethyloxane",7392-19-0
 522567,252.31,C1=CC=C(C=C1)CC(=O)OCC=CC2=CC=CC=C2,3-phenylprop-2-enyl 2-phenylacetate,dtxsid70864075
 522673,224.34,CC1=CCC(CC1)C(C)(C)OC(=O)C(C)C,2-(4-methylcyclohex-3-en-1-yl)propan-2-yl 2-methylpropanoate,terpinyl isobutyrate
@@ -6216,7 +6218,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 526195,134.24,CC(C)(CCOC)S,4-methoxy-2-methylbutane-2-thiol,4-methoxy-2-methyl-2-butanethiol
 526487,148.23,CC(C)(CCOC=O)S,(3-methyl-3-sulfanylbutyl) formate,3-mercapto-3-methylbutyl formate
 526559,149.19,CC(=O)C1=CC=C2N1CCC2,"1-(6,7-dihydro-5H-pyrrolizin-3-yl)ethanone","5-acetyl-2,3-dihydro-1h-pyrrolizine"
-526614,162.18,C1=COC(=C1)CCC2=CC=CO2,2-[2-(furan-2-yl)ethyl]furan,"1,2-di(furan-2-yl)ethane"
+526614,162.18,C1=COC(=C1)CCC2=CC=CO2,2-[2-(furan-2-yl)ethyl]furan,"2,2'-(1,2-ethylenediyl)bis(furan)"
 526616,226.3,CC1=C(C=CO1)SSCC2=CC=CO2,3-(furan-2-ylmethyldisulfanyl)-2-methylfuran,furfuryl 2-methyl-3-furyl disulfide
 526618,128.19,CC1=C(C=CO1)SC,2-methyl-3-methylsulfanylfuran,2-methyl-3-(methylthio)furan
 526624,226.3,CC1=C(C=CO1)SSC2=C(OC=C2)C,2-methyl-3-[(2-methylfuran-3-yl)disulfanyl]furan,bis(2-methyl-3-furyl)disulfide
@@ -6293,7 +6295,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 529623,134.3,CC1CSC(S1)C,"2,4-dimethyl-1,3-dithiolane","2,4-dimethyl-1,3-dithiolane"
 529635,118.2,CCC(=O)C(C)S,2-sulfanylpentan-3-one,2-mercapto-3-pentanone
 529757,138.3,CC1CSSS1,4-methyltrithiolane,"4-methyl-1,2,3-trithiolane"
-529761,146.3,CC=CSSCC=C,1-(prop-2-enyldisulfanyl)prop-1-ene,allyl 1-propenyl disulfide
+529761,146.3,CC=CSSCC=C,1-(prop-2-enyldisulfanyl)prop-1-ene,schembl6130005
 529770,156.18,CC(=O)CCC(=O)OCC=C,prop-2-enyl 4-oxopentanoate,allyl levulinate
 529899,180.2,COC1=C(C=CC(=C1)CCC=O)O,3-(4-hydroxy-3-methoxyphenyl)propanal,80638-48-8
 529904,148.3,CCCSSC=CC,1-(prop-1-enyldisulfanyl)propane,propenyl propyl disulfide
@@ -6406,11 +6408,11 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 569214,192.25,CC(C)C(=O)OC(C)C1=CC=CC=C1,1-phenylethyl 2-methylpropanoate,1-phenylethyl isobutyrate
 570530,258.35,CC(C)(C1CCC(=C)CC1)OC(=O)C2=CC=CC=C2,2-(4-methylidenecyclohexyl)propan-2-yl benzoate,trans-.beta.-terpinyl benzoate
 570574,192.25,CCCC(=O)OC(C)C1=CC=CC=C1,1-phenylethyl butanoate,alpha-methylbenzyl butyrate
-570886,193.24,CC(C)OC(=O)C1=CC=CC=C1NC,propan-2-yl 2-(methylamino)benzoate,propan-2-yl 2-(methylamino)benzoate
+570886,193.24,CC(C)OC(=O)C1=CC=CC=C1NC,propan-2-yl 2-(methylamino)benzoate,99985-64-5
 572534,220.31,CCCCCCC(=O)OC1=CC=C(C=C1)C,(4-methylphenyl) heptanoate,4-methylphenyl heptanoate
 573652,166.26,CC1=C(C(=O)CC1)CCC(C)C,3-methyl-2-(3-methylbutyl)cyclopent-2-en-1-one,dihydro iso-jasmone
 574068,153.22,CC1=C(OC(=N1)CC(C)C)C,"4,5-dimethyl-2-(2-methylpropyl)-1,3-oxazole","2-isobutyl-4,5-dimethyloxazole"
-574100,168.26,CCCCC(=O)C1=CC=CS1,1-thiophen-2-ylpentan-1-one,1-thien-2-ylpentan-1-one
+574100,168.26,CCCCC(=O)C1=CC=CS1,1-thiophen-2-ylpentan-1-one,53119-25-8
 574811,155.26,CC1=CN=C(S1)CC(C)C,"5-methyl-2-(2-methylpropyl)-1,3-thiazole",2-isobutyl-5-methylthiazole
 574813,155.26,CC1=CSC(=N1)CC(C)C,"4-methyl-2-(2-methylpropyl)-1,3-thiazole",2-isobutyl-4-methylthiazole
 574997,196.29,CC(CCC=C(C)C)C=CC(=O)OC,"methyl 4,8-dimethylnona-2,7-dienoate","methyl 4,8-dimethylnona-2,7-dienoate"
@@ -6434,7 +6436,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 579336,196.33,CC1=C(C(CCC1)(C)C)CCC(C)O,"4-(2,6,6-trimethylcyclohexen-1-yl)butan-2-ol",dihydro-beta-ionol
 579338,123.15,CCN1C=CC=C1C=O,1-ethylpyrrole-2-carbaldehyde,1-ethyl-1h-pyrrole-2-carbaldehyde
 579675,138.16,CC1=CC(=C(O1)C(=O)C)C,"1-(3,5-dimethylfuran-2-yl)ethanone","1-(3,5-dimethylfuran-2-yl)ethanone"
-581239,214.34,CCCCCCCC(=O)OC(C)CCC,pentan-2-yl octanoate,pentan-2-yl octanoate
+581239,214.34,CCCCCCCC(=O)OC(C)CCC,pentan-2-yl octanoate,1-methylbutyl octanoate
 582941,146.19,CC1=CC=C(C=C1)C=CC=O,3-(4-methylphenyl)prop-2-enal,3-(4-methylphenyl)prop-2-enal
 582976,238.28,CC1=CC=C(C=C1)OC(=O)C=CC2=CC=CC=C2,(4-methylphenyl) 3-phenylprop-2-enoate,"2-propenoic acid, 3-phenyl-, 4-methylphenyl ester"
 584507,220.35,CC1CCC2C13CC=C(C(C3)C2(C)C)CO,"(2,6,6-trimethyl-8-tricyclo[5.3.1.01,5]undec-8-enyl)methanol",cedr-8-en-15-ol
@@ -6518,7 +6520,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 642785,110.11,CC1=COC(=O)C=C1,5-methylpyran-2-one,5-methyl-2h-pyran-2-one
 642793,168.23,CCCCC[C@@H]1CC=CC(=O)O1,"(2R)-2-pentyl-2,3-dihydropyran-6-one",51154-96-2
 642887,162.18,C[C@H]1C2=C(C=C(C=C2)C)OC1=O,"(3S)-3,6-dimethyl-3H-1-benzofuran-2-one",zinc100827440
-643001,116.16,CC[C@H](C)C(=O)OC,methyl (2S)-2-methylbutanoate,10307-60-5
+643001,116.16,CC[C@H](C)C(=O)OC,methyl (2S)-2-methylbutanoate,methyl (2s)-2-methylbutanoate
 643135,126.2,CC[C@@H](C)C(=O)/C=C/C,"(E,5R)-5-methylhept-2-en-4-one",unii-f91628pi7j
 643139,98.14,CC/C=C/CC=O,(E)-hex-3-enal,3-hexenal
 643312,138.16,C1=CC=C(C=C1)[C@@H](CO)O,"(1S)-1-phenylethane-1,2-diol",25779-13-9
@@ -6529,7 +6531,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 643731,138.21,CC/C=C\CC/C=C/C=O,"(2E,6Z)-nona-2,6-dienal","trans-2,cis-6-nonadienal"
 643757,174.11,C(/C(=C/C(=O)O)/C(=O)O)C(=O)O,"(Z)-prop-1-ene-1,2,3-tricarboxylic acid",cis-aconitic acid
 643779,152.23,CC(=CCC/C(=C\C=O)/C)C,"(2Z)-3,7-dimethylocta-2,6-dienal",neral
-643789,72.11,C/C=C\CO,(Z)-but-2-en-1-ol,(z)-but-2-en-1-ol
+643789,72.11,C/C=C\CO,(Z)-but-2-en-1-ol,4088-60-2
 643790,88.11,C(/C=C\CO)O,"(Z)-but-2-ene-1,4-diol","cis-2-butene-1,4-diol"
 643820,154.25,CC(=CCC/C(=C\CO)/C)C,"(2Z)-3,7-dimethylocta-2,6-dien-1-ol",nerol
 643915,100.12,C/C=C(/C)\C(=O)O,(Z)-2-methylbut-2-enoic acid,angelic acid
@@ -6558,7 +6560,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 734154,178.18,COC1=CC=CC=C1/C=C/C(=O)O,(E)-3-(2-methoxyphenyl)prop-2-enoic acid,2-methoxycinnamic acid
 734597,332.3,C1=CC=C(C=C1)COC(=O)C2=CC=C(C=C2)OC(=O)C3=CC=CC=C3,benzyl 4-benzoyloxybenzoate,benzyl 4-benzoyloxybenzoate
 735940,136.15,CC(=O)/C=C/C1=CC=CO1,(E)-4-(furan-2-yl)but-3-en-2-one,4-(2-furyl)-3-buten-2-one
-736172,198.17,COC1=C(C=CC(=C1)[C@@H](C(=O)O)O)O,(2S)-2-hydroxy-2-(4-hydroxy-3-methoxyphenyl)acetic acid,unii-t9eah8nhtc
+736172,198.17,COC1=C(C=CC(=C1)[C@@H](C(=O)O)O)O,(2S)-2-hydroxy-2-(4-hydroxy-3-methoxyphenyl)acetic acid,(+)-vanilmandelic acid
 736366,202.28,C1=CC=C2C(=C1)C=CC=C2NC(=S)N,naphthalen-1-ylthiourea,1-(1-naphthyl)-2-thiourea
 736668,228.28,C[C@@]1(CC[C@H](C1(C)C)C(=O)OC)C(=O)OC,"dimethyl (1S,3R)-1,2,2-trimethylcyclopentane-1,3-dicarboxylate",camphoric acid dimethyl ester
 736889,176.21,CC(=O)/C=C/C1=CC=C(C=C1)OC,(E)-4-(4-methoxyphenyl)but-3-en-2-one,1-(p-methoxyphenyl)-1-buten-3-one
@@ -6585,12 +6587,12 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 1201529,150.22,CC1([C@H]2CC=C([C@@H]1C2)C=O)C,"(1R,5S)-6,6-dimethylbicyclo[3.1.1]hept-2-ene-2-carbaldehyde",(-)-myrtenal
 1201530,152.23,CC1([C@H]2C[C@@H]1C(=C)[C@@H](C2)O)C,"(1S,3R,5S)-6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptan-3-ol",(-)-trans-pinocarveol
 1201551,222.37,CC1=CC[C@@H](CC1)[C@](C)(CCC=C(C)C)O,(2S)-6-methyl-2-[(1R)-4-methylcyclohex-3-en-1-yl]hept-5-en-2-ol,(+)-epi-alpha-bisabolol
-1201552,204.35,C[C@H]1CC[C@@H]2[C@]13CC=C([C@H](C3)C2(C)C)C,"(1S,2S,5S,7S)-2,6,6,8-tetramethyltricyclo[5.3.1.01,5]undec-8-ene","(3s,3as,7s,8as)-3,6,8,8-tetramethyl-2,3,4,7,8,8a-hexahydro-1h-3a,7-methanoazulene"
+1201552,204.35,C[C@H]1CC[C@@H]2[C@]13CC=C([C@H](C3)C2(C)C)C,"(1S,2S,5S,7S)-2,6,6,8-tetramethyltricyclo[5.3.1.01,5]undec-8-ene",2-epi-alpha-cedrene
 1252759,152.23,CC1=CC[C@@H](C1(C)C)CC=O,"2-[(1R)-2,2,3-trimethylcyclopent-3-en-1-yl]acetaldehyde",alpha-campholenal
 1268142,218.33,C[C@@H]1CC(=O)C=C2[C@]1(C[C@@H](CC2)C(=C)C)C,"(4R,4aS,6R)-4,4a-dimethyl-6-prop-1-en-2-yl-3,4,5,6,7,8-hexahydronaphthalen-2-one",nootkatone
 1269845,128.15,C1=CNC(=S)NC1=O,2-sulfanylidene-1H-pyrimidin-4-one,2-thiouracil
-1381163,171.24,C/C(=C/C#N)/CCC1=CC=CC=C1,(Z)-3-methyl-5-phenylpent-2-enenitrile,53243-59-7
-1384928,160.21,CC/C(=C/C1=CC=CC=C1)/C=O,(2Z)-2-benzylidenebutanal,unii-md8u7j2a25
+1381163,171.24,C/C(=C/C#N)/CCC1=CC=CC=C1,(Z)-3-methyl-5-phenylpent-2-enenitrile,(z)-3-methyl-5-phenylpent-2-enenitrile
+1384928,160.21,CC/C(=C/C1=CC=CC=C1)/C=O,(2Z)-2-benzylidenebutanal,md8u7j2a25
 1477985,189.3,CC(C)CN1CCCC2=CC=CC=C21,"1-(2-methylpropyl)-3,4-dihydro-2H-quinoline","1-isobutyl-1,2,3,4-tetrahydroquinoline"
 1548943,305.4,CC(C)/C=C/CCCCC(=O)NCC1=CC(=C(C=C1)O)OC,(E)-N-[(4-hydroxy-3-methoxyphenyl)methyl]-8-methylnon-6-enamide,capsaicin
 1549018,164.24,CC/C=C\CC1=C(CCC1=O)C,3-methyl-2-[(Z)-pent-2-enyl]cyclopent-2-en-1-one,cis-jasmone
@@ -6697,7 +6699,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 3015972,232.4,CC1C(=CCO1)SC2(CCOC2C)S,"2-methyl-3-[(2-methyl-2,5-dihydrofuran-3-yl)sulfanyl]oxolane-3-thiol",38325-24-5
 3015979,146.25,CCCC(CC=O)SC,3-methylsulfanylhexanal,3-(methylthio)hexanal
 3016085,174.24,CCCCCC(=O)OCC(C)O,2-hydroxypropyl hexanoate,2-hydroxypropyl hexanoate
-3016224,148.23,CCOC(=O)C(C)SC,ethyl 2-methylsulfanylpropanoate,ethyl 2-(methylthio)propionate
+3016224,148.23,CCOC(=O)C(C)SC,ethyl 2-methylsulfanylpropanoate,40800-76-8
 3016499,162.25,CCOC(=O)C(C)(C)SC,ethyl 2-methyl-2-methylsulfanylpropanoate,ethyl 2-methyl-2-(methylthio)propionate
 3016598,199.33,CCC(C(C)C)(C(C)C)C(=O)NCC,"N,2-diethyl-3-methyl-2-propan-2-ylbutanamide",51115-70-9
 3017015,233.13,C1CN(CCN1)C2=CC=CC=C2Cl.Cl,1-(2-chlorophenyl)piperazine;hydrochloride,1-(2-chlorophenyl)piperazine hydrochloride
@@ -6734,7 +6736,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 3019015,209.33,CC(C)C(=NO)C(C)(C)CC=C(C)C=C,"N-(2,4,4,7-tetramethylnona-6,8-dien-3-ylidene)hydroxylamine",81783-01-9
 3019017,182.3,CC(C(=C(C)C(=O)C)C)C(C)(C)C,"3,4,5,6,6-pentamethylhept-3-en-2-one","3,4,5,6,6-pentamethylhept-3-en-2-one"
 3019031,326.6,CCCCCCCCCCCCCCCC(=O)OCCC(C)C,3-methylbutyl hexadecanoate,3-methylbutyl hexadecanoate
-3019775,170.25,CCC(C)C(=O)OCCC(=C)C,3-methylbut-3-enyl 2-methylbutanoate,84254-81-9
+3019775,170.25,CCC(C)C(=O)OCCC(=C)C,3-methylbut-3-enyl 2-methylbutanoate,3-methylbut-3-enyl 2-methylbutyrate
 3019958,190.31,CC(C)CC(=O)OCCCSC,3-methylsulfanylpropyl 3-methylbutanoate,3-(methylthio)propyl isovalerate
 3019960,156.26,CCCCCC1CCCC1O,2-pentylcyclopentan-1-ol,2-pentylcyclopentan-1-ol
 3020011,246.34,CC(=C)C1CCC(C1=C)(C)C(=O)C2CCCC2=O,2-(1-methyl-2-methylidene-3-prop-1-en-2-ylcyclopentanecarbonyl)cyclopentan-1-one,84642-56-8
@@ -6745,7 +6747,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 3021997,178.27,CC(CC(C)C1=CC=CC=C1)CO,2-methyl-4-phenylpentan-1-ol,2-methyl-4-phenylpentanol
 3022051,202.4,CC(C)(C)CC(C)(CC(C)(C)C)S,"2,2,4,6,6-pentamethylheptane-4-thiol","2,2,4,6,6-pentamethylheptane-4-thiol"
 3022280,248.36,CCCCC(CC)C(=O)OCCC1=CC=CC=C1,2-phenylethyl 2-ethylhexanoate,2-phenylethyl 2-ethylhexanoate
-3022477,298.5,CCCCCCCCCCCCCC(=O)OCC(C)CC,2-methylbutyl tetradecanoate,2-methylbutyl myristate
+3022477,298.5,CCCCCCCCCCCCCC(=O)OCC(C)CC,2-methylbutyl tetradecanoate,2-methylbutyl tetradecanoate
 3022504,222.32,CC(C)OC(CC1=CC=CC=C1)OC(C)C,"2,2-di(propan-2-yloxy)ethylbenzene","(2,2-bis(1-methylethoxy)ethyl)benzene"
 3022715,244.37,CCOC(C)OC(C)(C)CCCC(C)CC=O,"7-(1-ethoxyethoxy)-3,7-dimethyloctanal","7-(1-ethoxyethoxy)-3,7-dimethyloctanal"
 3022846,325.4,CC(=CCCC1=CCC(CC1)C=NC2=CC=CC=C2C(=O)OC)C,methyl 2-[[4-(4-methylpent-3-enyl)cyclohex-3-en-1-yl]methylideneamino]benzoate,93894-30-5
@@ -6755,7 +6757,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 3023179,162.23,CC1=CC(=C(C=C1)OCC=C)C,"2,4-dimethyl-1-prop-2-enoxybenzene",4-(allyloxy)-m-xylene
 3023273,213.3,CC1=C(N=CS1)CCOC(=O)C(C)C,"2-(5-methyl-1,3-thiazol-4-yl)ethyl 2-methylpropanoate",94021-42-8
 3023280,212.33,CC(C)C(=O)OCCCC1CCCCC1,3-cyclohexylpropyl 2-methylpropanoate,3-cyclohexylpropyl isobutyrate
-3023392,198.3,CCC=CCCOC(=O)C(CC)CC,hex-3-enyl 2-ethylbutanoate,hex-3-enyl 2-ethylbutanoate
+3023392,198.3,CCC=CCCOC(=O)C(CC)CC,hex-3-enyl 2-ethylbutanoate,233666-04-1
 3023551,309.4,CCOC(=O)C1=CC=CC=C1N=CC2=CC=C(C=C2)C(C)(C)C,ethyl 2-[(4-tert-butylphenyl)methylideneamino]benzoate,94108-09-5
 3023704,222.28,CCCCCOC(=O)C1=C(C=C(C=C1)C)O,pentyl 2-hydroxy-4-methylbenzoate,pentyl 4-methylsalicylate
 3023838,213.3,CCCC(=O)OCCC1=C(N=CS1)C,"2-(4-methyl-1,3-thiazol-5-yl)ethyl butanoate",2-(4-methylthiazol-5-yl)ethyl butyrate
@@ -6782,9 +6784,9 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 3032541,144.943,[O-]P(=O)([O-])[O-].[Na+].[Al+3],aluminum;sodium;phosphate,aluminum sodium phosphate
 3032552,46.006,N(=O)[O],,10102-44-0
 3032553,252.07,[NH2-].[Cl-].[Hg+2],azanide;mercury(2+);chloride,ammoniated mercury
-3032731,126.2,CC/C(=C(/C)\C(=O)C)/C,"(Z)-3,4-dimethylhex-3-en-2-one",20685-45-4
+3032731,126.2,CC/C(=C(/C)\C(=O)C)/C,"(Z)-3,4-dimethylhex-3-en-2-one","3-hexen-2-one, 3,4-dimethyl-, (z)-"
 3032792,370.5,CCOC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OCC,ethyl N-[[2-(ethoxycarbonylcarbamothioylamino)phenyl]carbamothioyl]carbamate,thiophanate
-3032853,206.37,C[C@H]1CC[C@H]([C@H]2[C@H]1C=C[C@@H](C2)C)C(C)C,"(1S,4S,4aS,6R,8aR)-1,6-dimethyl-4-propan-2-yl-1,2,3,4,4a,5,6,8a-octahydronaphthalene",unii-86ya6o0oos
+3032853,206.37,C[C@H]1CC[C@H]([C@H]2[C@H]1C=C[C@@H](C2)C)C(C)C,"(1S,4S,4aS,6R,8aR)-1,6-dimethyl-4-propan-2-yl-1,2,3,4,4a,5,6,8a-octahydronaphthalene","cadinene, (-)-"
 3033030,151.25,CC(CCC=C(C)C)CC#N,"3,7-dimethyloct-6-enenitrile",citronellyl nitrile
 3033866,204.35,CC1=CC/C(=C(/C)\CCC=C(C)C)/CC1,(4Z)-1-methyl-4-(6-methylhept-5-en-2-ylidene)cyclohexene,(z)-gamma-bisabolene
 3034034,324.4,COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O,"(R)-[(2S,4S,5R)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxyquinolin-4-yl)methanol",quinine
@@ -6822,7 +6824,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 3085610,244.28,CCCC(=O)OC(C)(C(=O)C)OC(=O)CCC,(2-butanoyloxy-3-oxobutan-2-yl) butanoate,1-methyl-2-oxopropylidene butyrate
 3085812,236.35,CC(=CCCC1=CCC[C@@H](C1)COC(=O)C)C,[(1S)-3-(4-methylpent-3-enyl)cyclohex-3-en-1-yl]methyl acetate,myraldyl acetate
 3085817,196.33,C[C@@H]1C[C@H]2CC(CO[C@@H]2C[C@@H]1C)(C)C,"(4aS,6R,7S,8aR)-3,3,6,7-tetramethyl-2,4,4a,5,6,7,8,8a-octahydrochromene",72429-08-4
-3085845,151.19,CC1=C[N+](=CC(=N1)C)C(=O)C,"1-(3,5-dimethylpyrazin-1-ium-1-yl)ethanone","2-acetyl-3,(5 or 6)-dimethylpyrazine"
+3085845,151.19,CC1=C[N+](=CC(=N1)C)C(=O)C,"1-(3,5-dimethylpyrazin-1-ium-1-yl)ethanone",einecs 276-848-2
 3085846,254.32,CCOC1=C(C=C(C=C1)C(OCC)OCC)OC,4-(diethoxymethyl)-1-ethoxy-2-methoxybenzene,4-(diethoxymethyl)-1-ethoxy-2-methoxybenzene
 3085847,190.24,CC(=CC1=CC=CC=C1)COC(=O)C,(2-methyl-3-phenylprop-2-enyl) acetate,"2-propen-1-ol, 2-methyl-3-phenyl-, acetate"
 3085924,266.4,CCCCCCC(=O)OCC=C(C)CCC=C(C)C,"3,7-dimethylocta-2,6-dienyl heptanoate","3,7-dimethylocta-2,6-dienyl heptanoate"
@@ -6972,13 +6974,13 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 5282714,142.2,CCCCC/C=C/C(=O)O,(E)-oct-2-enoic acid,trans-2-octenoic acid
 5282716,142.2,CCCC/C=C/CC(=O)O,(E)-oct-3-enoic acid,3-octenoic acid
 5282718,142.2,CC/C=C\CCCC(=O)O,(Z)-oct-5-enoic acid,cis-5-octenoic acid
-5282722,156.22,CCCCCC/C=C\C(=O)O,(Z)-non-2-enoic acid,(z)-2-nonenoic acid
+5282722,156.22,CCCCCC/C=C\C(=O)O,(Z)-non-2-enoic acid,cis-2-nonenoic acid
 5282723,156.22,CCCCC/C=C/CC(=O)O,(E)-non-3-enoic acid,3-nonenoic acid
 5282724,170.25,CCCCCCC/C=C/C(=O)O,(E)-dec-2-enoic acid,2-decenoic acid
 5282725,170.25,CCCCCC/C=C/CC(=O)O,(E)-dec-3-enoic acid,53678-20-9
 5282726,170.25,CCCCC/C=C/CCC(=O)O,(E)-dec-4-enoic acid,57602-94-5
-5282729,198.3,CCCCCCCCC/C=C/C(=O)O,(E)-dodec-2-enoic acid,2-dodecenoic acid
-5282730,198.3,CCCCCCC/C=C/CCC(=O)O,(E)-dodec-4-enoic acid,4-dodecenoic acid
+5282729,198.3,CCCCCCCCC/C=C/C(=O)O,(E)-dodec-2-enoic acid,dodec-2-enoic acid
+5282730,198.3,CCCCCCC/C=C/CCC(=O)O,(E)-dodec-4-enoic acid,linderic acid
 5282735,212.33,CCCCCCCCCC/C=C/C(=O)O,(E)-tridec-2-enoic acid,2-tridecenoic acid
 5282822,278.4,CC/C=C/C/C=C/C/C=C/CCCCCCCC(=O)O,"(9E,12E,15E)-octadeca-9,12,15-trienoic acid",elaidolinolenic acid
 5282940,270.41,C(CCCCO)CCC/C=C/CCCCCC(=O)O,(E)-16-hydroxyhexadec-7-enoic acid,ambrettolic acid
@@ -7026,7 +7028,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 5312351,170.25,CCCCC/C=C\CCC(=O)O,(Z)-dec-4-enoic acid,505-90-8
 5312542,304.5,CCCCC/C=C/C/C=C/C/C=C/C/C=C/CCCC(=O)O,"(5E,8E,11E,14E)-icosa-5,8,11,14-tetraenoic acid","5,8,11,14-eicosatetraenoic acid"
 5312586,156.22,CCCCCC/C=C/C(=O)O,(E)-non-2-enoic acid,2-nonenoic acid
-5312887,214.3,CCCCCCCCCCC(=O)C(=O)O,2-oxododecanoic acid,2-oxolauric acid
+5312887,214.3,CCCCCCCCCCC(=O)C(=O)O,2-oxododecanoic acid,2-oxododecanoic acid
 5314044,208.3,CC1=C(C(CCC1)(C)C)/C=C/OC(=O)C,"[(E)-2-(2,6,6-trimethylcyclohexen-1-yl)ethenyl] acetate",ghl.pd_mitscher_leg0.23
 5314126,183.04,C1=CC=C(C=C1)/C=C/Br,[(E)-2-bromoethenyl]benzene,beta-bromostyrene
 5315347,204.35,C/C/1=C\CC/C(=C/C2C(C2(C)C)CC1)/C,"(2E,6E)-3,7,11,11-tetramethylbicyclo[8.1.0]undeca-2,6-diene",bicyclogermacrene
@@ -7139,7 +7141,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 5352855,146.3,C/C=C/SSCC=C,(E)-1-(prop-2-enyldisulfanyl)prop-1-ene,unii-d5hz9xv5ei
 5352874,124.18,CC/C=C/CC(=O)C=C,"(5E)-octa-1,5-dien-3-one","1,5-octadien-3-one"
 5352876,124.18,CC/C=C/C=C/C(=O)C,"(3E,5E)-octa-3,5-dien-2-one","3,5-octadien-2-one"
-5352899,188.22,CCC/C=C/1\C2=CC=CC=C2C(=O)O1,(3E)-3-butylidene-2-benzofuran-1-one,butylidenephthalide
+5352899,188.22,CCC/C=C/1\C2=CC=CC=C2C(=O)O1,(3E)-3-butylidene-2-benzofuran-1-one,3-butylidenephthalide
 5352905,194.23,C/C=C/C1=CC(=C(C(=C1)OC)O)OC,"2,6-dimethoxy-4-[(E)-prop-1-enyl]phenol","4-propenyl-2,6-dimethoxyphenol"
 5352972,128.17,CCC/C=C/COC=O,[(E)-hex-2-enyl] formate,trans-2-hexenyl formate
 5352973,198.3,CCCCCC(=O)OC/C=C/CCC,[(E)-hex-2-enyl] hexanoate,trans-2-hexenyl hexanoate
@@ -7185,7 +7187,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 5355857,262.4,CCCCCCC1=CC=C(C=C1)/C=C/C(OC)OC,"1-[(E)-3,3-dimethoxyprop-1-enyl]-4-hexylbenzene",29896-45-5
 5355858,284.4,CC(=CCCC(C)(C=C)OC(=O)/C=C/C1=CC=CC=C1)C,"3,7-dimethylocta-1,6-dien-3-yl (E)-3-phenylprop-2-enoate",linalyl cinnamate
 5355899,294.3,COC1=C(C=CC(=C1)CC=C)OC(=O)/C=C/C2=CC=CC=C2,(2-methoxy-4-prop-2-enylphenyl) (E)-3-phenylprop-2-enoate,cinnamyl eugenol
-5355902,160.21,C/C(=C/C1=CC=CC=C1)/C(=O)C,(Z)-3-methyl-4-phenylbut-3-en-2-one,(z)-3-methyl-4-phenylbut-3-en-2-one
+5355902,160.21,C/C(=C/C1=CC=CC=C1)/C(=O)C,(Z)-3-methyl-4-phenylbut-3-en-2-one,"3-buten-2-one, 3-methyl-4-phenyl-"
 5356250,206.28,CCOC(/C=C/C1=CC=CC=C1)OCC,"[(E)-3,3-diethoxyprop-1-enyl]benzene",7148-78-9
 5356256,156.22,CCCCCOC(=O)/C=C\C,pentyl (Z)-but-2-enoate,nsc53944
 5356259,176.21,C/C=C/C(=O)OCC1=CC=CC=C1,benzyl (E)-but-2-enoate,71338-71-1
@@ -7197,17 +7199,17 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 5356596,170.25,CCCCCCC/C=C\C(=O)O,(Z)-dec-2-enoic acid,(z)-2-decenoic acid
 5356697,82.1,C=C/C=C\C=O,"(2Z)-penta-2,4-dienal","1,3-pentadien-5-al"
 5356787,206.32,CC1=CCCC(C1/C=C(/C)\C(=O)C)(C)C,"(Z)-3-methyl-4-(2,6,6-trimethylcyclohex-2-en-1-yl)but-3-en-2-one","(z)-3-methyl-4-(2,6,6-trimethylcyclohex-2-en-1-yl)but-3-en-2-one"
-5356788,206.32,CC1=C(C(CCC1)(C)C)/C=C(/C)\C(=O)C,"(Z)-3-methyl-4-(2,6,6-trimethylcyclohexen-1-yl)but-3-en-2-one",unii-bqk721e59n
+5356788,206.32,CC1=C(C(CCC1)(C)C)/C=C(/C)\C(=O)C,"(Z)-3-methyl-4-(2,6,6-trimethylcyclohexen-1-yl)but-3-en-2-one","isomethyl-beta-ionone, (z)-"
 5356796,112.21,CCCCC/C=C\C,(Z)-oct-2-ene,cis-2-octene
 5356896,198.3,CCCCCCCCOC(=O)/C=C\C,octyl (Z)-but-2-enoate,"crotonic acid, octyl ester"
 5356908,170.25,CCCCCCOC(=O)/C=C\C,hexyl (Z)-but-2-enoate,hexyl crotonate
-5356940,218.25,CCOC(=O)/C(=C\C1=CC=CC=C1)/C(=O)C,ethyl (2Z)-2-benzylidene-3-oxobutanoate,unii-9h3310j1du
+5356940,218.25,CCOC(=O)/C(=C\C1=CC=CC=C1)/C(=O)C,ethyl (2Z)-2-benzylidene-3-oxobutanoate,(z)-ethyl 2-benzylidene-3-oxobutanoate
 5357002,204.26,C/C=C(\C)/C(=O)OCCC1=CC=CC=C1,2-phenylethyl (E)-2-methylbut-2-enoate,phenethyl tiglate
 5357153,230.3,C1CCC(CC1)OC(=O)/C=C/C2=CC=CC=C2,cyclohexyl (E)-3-phenylprop-2-enoate,cyclohexyl cinnamate
 5357156,410.6,CC(=CCC/C(=C/COC(OC/C=C(/CCC=C(C)C)\C)CC1=CC=CC=C1)/C)C,"2,2-bis[(2E)-3,7-dimethylocta-2,6-dienoxy]ethylbenzene","1,1-digeranyloxy-2-phenylethane"
 5357159,292.5,CC(C)C(=O)OC(C)(CC/C=C(/C)\CCC=C(C)C)C=C,"[(6Z)-3,7,11-trimethyldodeca-1,6,10-trien-3-yl] 2-methylpropanoate",2639-68-1
 5357253,112.21,CCC/C=C/CCC,(E)-oct-4-ene,trans-4-octene
-5357388,170.25,CCCCCC/C=C\C(=O)OC,methyl (Z)-non-2-enoate,methyl nonylenate
+5357388,170.25,CCCCCC/C=C\C(=O)OC,methyl (Z)-non-2-enoate,methyl (z)-2-nonenoate
 5358336,128.21,CCCC/C=C/C(C)O,(E)-oct-3-en-2-ol,3-octen-2-ol
 5358363,156.22,CCCC/C=C/C(=O)OCC,ethyl (E)-hept-2-enoate,ethyl (e)-hept-2-enoate
 5358374,98.14,CCC(=O)/C=C\C,(Z)-hex-4-en-3-one,"4-hexen-3-one, (4z)-"
@@ -7231,7 +7233,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 5362583,198.3,CCCCC/C=C/CCC(=O)OCC,ethyl (E)-dec-4-enoate,ethyl trans-4-decenoate
 5362584,143.25,CCC1N=C(C(S1)C)C,"2-ethyl-4,5-dimethyl-2,5-dihydro-1,3-thiazole",76788-46-0
 5362588,126.2,CCC(C)C(=O)/C=C/C,(E)-5-methylhept-2-en-4-one,5-methyl-2-hepten-4-one
-5362591,198.3,CCCCC/C=C/COC(=O)CCC,[(E)-oct-2-enyl] butanoate,(e)-oct-2-enyl butyrate
+5362591,198.3,CCCCC/C=C/COC(=O)CCC,[(E)-oct-2-enyl] butanoate,84642-60-4
 5362592,210.31,CCCCC/C=C/C=C/C(=O)OCCC,"propyl (2E,4E)-deca-2,4-dienoate","propyl 2,4-decadienoate"
 5362593,170.25,CCCC/C=C/CCCC(=O)O,(E)-dec-5-enoic acid,5-decenoic acid
 5362594,170.25,CCC/C=C/CCCCC(=O)O,(E)-dec-6-enoic acid,6-decenoic acid
@@ -7292,7 +7294,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 5364230,114.19,CC/C=C\CCOC,(Z)-1-methoxyhex-3-ene,(z)-1-methoxyhex-3-ene
 5364231,172.22,CC/C=C\CCOC(=O)C(C)O,[(Z)-hex-3-enyl] 2-hydroxypropanoate,cis-3-hexenyl lactate
 5364291,172.26,CC/C=C\CC(OCC)OCC,"(Z)-1,1-diethoxyhex-3-ene",cis-3-hexenal diethyl acetal
-5364389,184.27,CCCCCC/C=C/C(=O)OCC,ethyl (E)-non-2-enoate,"2-nonenoic acid, ethyl ester"
+5364389,184.27,CCCCCC/C=C/C(=O)OCC,ethyl (E)-non-2-enoate,ethyl non-2-enoate
 5364397,170.25,CCCC/C=C/CC(=O)OCC,ethyl (E)-oct-3-enoate,ethyl (e)-oct-3-enoate
 5364399,170.25,CCCCC/C=C/C(=O)OCC,ethyl (E)-oct-2-enoate,ethyl trans-2-octenoate
 5364409,128.17,CCC/C=C/C(=O)OC,methyl (E)-hex-2-enoate,methyl 2-hexenoate
@@ -7300,7 +7302,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 5364446,112.21,CCC/C=C\CCC,(Z)-oct-4-ene,cis-4-octene
 5364448,112.21,CCCCC/C=C/C,(E)-oct-2-ene,trans-2-octene
 5364452,154.29,CCCCCCCC/C=C/C,(E)-undec-2-ene,"2-undecene, (e)-"
-5364475,128.21,CCCC/C=C/CCO,(E)-oct-3-en-1-ol,"3-octen-1-ol, (3e)-"
+5364475,128.21,CCCC/C=C/CCO,(E)-oct-3-en-1-ol,oct-3-en-1-ol
 5364495,238.41,CCCC/C=C\CCCCCCCCCC=O,(Z)-hexadec-11-enal,(z)-11-hexadecenal
 5364497,266.5,CCCC/C=C\CCCCCCCCCCCC=O,(Z)-octadec-13-enal,(z)-13-octadecenal
 5364509,296.5,CCCCCCCC/C=C\CCCCCCCC(=O)OC,methyl (Z)-octadec-9-enoate,methyl oleate
@@ -7339,7 +7341,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 5365622,156.26,CCCC/C=C\CCCCO,(Z)-dec-5-en-1-ol,z-5-decen-1-ol
 5365699,158.19,CC/C=C\CCOC(=O)OC,[(Z)-hex-3-enyl] methyl carbonate,67633-96-9
 5365703,252.39,C1CCCCOC(=O)CCCCC/C=C\CCC1,(8Z)-1-oxacycloheptadec-8-en-2-one,ambrettolid
-5365706,140.22,CC/C=C/C/C=C/CCO,"(3E,6E)-nona-3,6-dien-1-ol","trans,cis-3,6-nonadien-1-ol"
+5365706,140.22,CC/C=C/C/C=C/CCO,"(3E,6E)-nona-3,6-dien-1-ol","3,6-nonadien-1-ol"
 5365793,142.2,C/C=C/C(=O)OCC(C)C,2-methylpropyl (E)-but-2-enoate,isobutyl 2-butenoate
 5365794,226.35,CCOC(/C=C(\C)/CCC=C(C)C)OCC,"(2E)-1,1-diethoxy-3,7-dimethylocta-2,6-diene",citral diethyl acetal
 5365811,98.14,CCC(=O)/C=C/C,(E)-hex-4-en-3-one,4-hexen-3-one
@@ -7404,7 +7406,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 5367745,142.2,C/C=C(\C)/C(=O)OC(C)C,propan-2-yl (E)-2-methylbut-2-enoate,isopropyl tiglate
 5367761,128.17,CC/C=C/C(=O)OCC,ethyl (E)-pent-2-enoate,24410-84-2
 5367762,142.2,CCCOC(=O)/C(=C/C)/C,propyl (E)-2-methylbut-2-enoate,propyl tiglate
-5367766,216.27,C/C=C(\C)/C(=O)OC/C=C/C1=CC=CC=C1,[(E)-3-phenylprop-2-enyl] (E)-2-methylbut-2-enoate,cinnamyl tiglate
+5367766,216.27,C/C=C(\C)/C(=O)OC/C=C/C1=CC=CC=C1,[(E)-3-phenylprop-2-enyl] (E)-2-methylbut-2-enoate,cinnamyl 2-methylcrotonate
 5367767,226.35,CC/C=C\CCOC(OCC/C=C\CC)C,(Z)-1-[1-[(Z)-hex-3-enoxy]ethoxy]hex-3-ene,63449-64-9
 5367785,236.35,C/C=C(\C)/C(=O)OC/C=C(\C)/CCC=C(C)C,"[(2E)-3,7-dimethylocta-2,6-dienyl] (E)-2-methylbut-2-enoate",geranyl tiglate
 5367806,156.22,C/C=C(\C)/C(=O)OCC(C)C,2-methylpropyl (E)-2-methylbut-2-enoate,isobutyl tiglate
@@ -7537,7 +7539,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 5853952,196.29,CCCCC/C=C/CC1CCC(=O)O1,5-[(E)-oct-2-enyl]oxolan-2-one,5-[(e)-oct-2-enyl]oxolan-2-one
 5862476,284.4,CC(=CCC/C(=C/COC(=O)/C=C/C1=CC=CC=C1)/C)C,"[(2E)-3,7-dimethylocta-2,6-dienyl] (E)-3-phenylprop-2-enoate",geranylcinnamat
 5869600,252.39,C1CCCC/C=C/CCCCC(=O)OCCCC1,(7E)-1-oxacycloheptadec-7-en-2-one,d6-ambrettolide
-5875676,276.4,CCCCC/C(=C\C1=CC=CC=C1)/C(OCC)OCC,[(E)-2-(diethoxymethyl)hept-1-enyl]benzene,amyl cinnamic aldehyde diethyl acetal
+5875676,276.4,CCCCC/C(=C\C1=CC=CC=C1)/C(OCC)OCC,[(E)-2-(diethoxymethyl)hept-1-enyl]benzene,60763-41-9
 5879967,353.5,CCCCCCCC/C=C/CCCCCCCC(=O)N(C)CC(=O)O,2-[methyl-[(E)-octadec-9-enoyl]amino]acetic acid,n-oleoylsarcosine
 5889665,387.9,COC1=C(C=C(C=C1)/C(=C/C(=O)N2CCOCC2)/C3=CC=C(C=C3)Cl)OC,"(E)-3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-morpholin-4-ylprop-2-en-1-one",dimethomorph
 5905098,204.26,CC1CCOC(O1)/C=C/C2=CC=CC=C2,"4-methyl-2-[(E)-2-phenylethenyl]-1,3-dioxane","cinnamaldehyde-1,3-butylene glycol acetal"
@@ -7568,7 +7570,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6096959,218.28,OP(=O)(O)[O-].OP(=O)(O)[O-].[Mg+2],magnesium;dihydrogen phosphate,13092-66-5
 6097028,132.14,[NH4+].[NH4+].[O-]S(=O)(=O)[O-],diazanium;sulfate,ammonium sulfate
 6112114,313.3,CC1=CC=CC=C1OCC2=CC=CC=C2/C(=N\OC)/C(=O)OC,methyl (2E)-2-methoxyimino-2-[2-[(2-methylphenoxy)methyl]phenyl]acetate,kresoxim-methyl
-6112709,196.29,C/C(=C\CCC(C)(C)OC(=O)C)/C=C,"[(5E)-2,6-dimethylocta-5,7-dien-2-yl] acetate","5,7-octadien-2-ol, 2,6-dimethyl-, acetate"
+6112709,196.29,C/C(=C\CCC(C)(C)OC(=O)C)/C=C,"[(5E)-2,6-dimethylocta-5,7-dien-2-yl] acetate",72214-23-4
 6114390,282.3,C/C=C/C1=CC(=C(C=C1)OC(=O)CC2=CC=CC=C2)OC,[2-methoxy-4-[(E)-prop-1-enyl]phenyl] 2-phenylacetate,isoeugenyl phenylacetate
 6124299,296.23,C1=CC(=C(C=C1/C=C/C(=O)OC(CC(=O)O)C(=O)O)O)O,"2-[(E)-3-(3,4-dihydroxyphenyl)prop-2-enoyl]oxybutanedioic acid",caffeoylmalic acid
 6125184,334.28,C/C(=N\NC(=O)NC1=CC(=CC(=C1)F)F)/C2=C(C=CC=N2)C(=O)O,"2-[(E)-N-[(3,5-difluorophenyl)carbamoylamino]-C-methylcarbonimidoyl]pyridine-3-carboxylic acid",diflufenzopyr
@@ -7618,7 +7620,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6366381,198.3,CC/C=C/CCOC(=O)C(CC)CC,[(E)-hex-3-enyl] 2-ethylbutanoate,hex-3-enyl 2-ethylbutanoate
 6366429,266.4,CCC(CCC1C(=CCCC1(C)C)C)(/C=C/CO)O,"(E)-4-ethyl-6-(2,6,6-trimethylcyclohex-2-en-1-yl)hex-2-ene-1,4-diol","4-ethyl-6-(2,6,6-trimethylcyclohex-2-en-1-yl)hex-2-ene-1,4-diol"
 6366434,198.3,CCCC/C=C/COC(=O)CC(C)C,[(E)-hept-2-enyl] 3-methylbutanoate,(e)-hept-2-enyl isovalerate
-6366446,184.27,CCCC/C=C/CCOC(=O)CC,[(E)-oct-3-enyl] propanoate,94133-58-1
+6366446,184.27,CCCC/C=C/CCOC(=O)CC,[(E)-oct-3-enyl] propanoate,oct-3-enyl propionate
 6366609,172.26,CC/C=C/CCOC(CC)OC,(E)-1-(1-methoxypropoxy)hex-3-ene,(e)-1-(1-methoxypropoxy)hex-3-ene
 6366719,210.31,CCC/C=C/COC(=O)CC1CCCC1,[(E)-hex-2-enyl] 2-cyclopentylacetate,2-hexenyl cyclopentanylacetate
 6371716,306.5,CC/C=C/C/C=C/C/C=C/CCCCCCCC(=O)OCC,"ethyl (9E,12E,15E)-octadeca-9,12,15-trienoate",ethyl linolenate
@@ -7684,7 +7686,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6429059,192.3,CSSSCC1=CC=CO1,2-[(methyltrisulfanyl)methyl]furan,2-[(methyltrithio)methyl]furan
 6429077,202.33,C[C@H]1CC[C@H](C2=C1C=CC(=C2)C)C(C)C,"(1S,4S)-1,6-dimethyl-4-propan-2-yl-1,2,3,4-tetrahydronaphthalene",calamenene
 6429101,238.37,CC(=CCCC(C)(C1CCC(O1)(C)C=C)O)C,2-(5-ethenyl-5-methyloxolan-2-yl)-6-methylhept-5-en-2-ol,"7,10-epoxy-2,6,10-trimethyl-dodeca-2,11-dien-6-ol b"
-6429107,130.18,CC[C@H](C)C(=O)OCC,ethyl (2S)-2-methylbutanoate,10307-61-6
+6429107,130.18,CC[C@H](C)C(=O)OCC,ethyl (2S)-2-methylbutanoate,(s)-ethyl 2-methylbutanoate
 6429195,180.24,CC1(C2CC=C(C1C2)COC=O)C,"(6,6-dimethyl-2-bicyclo[3.1.1]hept-2-enyl)methyl formate",myrtenyl formate
 6429214,218.33,CC(=CCCC(=C)C1CCC(=CC1)C=O)C,"4-(6-methylhepta-1,5-dien-2-yl)cyclohexene-1-carbaldehyde",.beta.-bisabolenal
 6429218,138.17,CC1=CN=C(C(=N1)C)OC,"2-methoxy-3,5-dimethylpyrazine","2-methoxy-3,5-dimethylpyrazine"
@@ -7700,7 +7702,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6429302,204.35,CC1=CC[C@H]2C[C@@H]1[C@]2(C)CCC=C(C)C,"(1S,5S,6R)-2,6-dimethyl-6-(4-methylpent-3-enyl)bicyclo[3.1.1]hept-2-ene",trans-alpha-bergamotene
 6429308,134.24,CC(CC(C)(C)S)O,4-methyl-4-sulfanylpentan-2-ol,4-mercapto-4-methyl-2-pentanol
 6429310,98.1,CC1C(=O)C=CO1,2-methylfuran-3-one,2-methyl-3(2h)-furanone
-6429325,182.26,CC/C=C/C/C=C/CCOC(=O)C,"[(3E,6E)-nona-3,6-dienyl] acetate","3,6-nonadienyl acetate"
+6429325,182.26,CC/C=C/C/C=C/CCOC(=O)C,"[(3E,6E)-nona-3,6-dienyl] acetate","(2e,6z)-3,6-nonadien-1-ol acetate"
 6429333,146.19,C/C=C(/C=O)\C1=CC=CC=C1,(E)-2-phenylbut-2-enal,2-phenyl-2-butenal
 6429343,124.18,CC/C=C\CC(=O)C=C,"(5Z)-octa-1,5-dien-3-one","(5z)-octa-1,5-dien-3-one"
 6429375,222.37,C/C/1=C\CC[C@@](/C=C/[C@@H](CC1)C(C)C)(C)O,"(1R,2E,4S,7E)-1,7-dimethyl-4-propan-2-ylcyclodeca-2,7-dien-1-ol",germacren-4-ol
@@ -7798,7 +7800,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6435824,142.2,C/C=C\C(=O)OCC(C)C,2-methylpropyl (Z)-but-2-enoate,"crotonic acid, isobutyl ester"
 6435825,180.2,CCCOC(=O)/C=C\C1=CC=CO1,propyl (Z)-3-(furan-2-yl)prop-2-enoate,propyl 2-furanacrylate
 6435826,150.17,CC/C(=C\C1=CC=CO1)/C=O,(2E)-2-(furan-2-ylmethylidene)butanal,alpha-ethylfurylacrolein
-6435828,136.15,C/C(=C/C1=CC=CO1)/C=O,(Z)-3-(furan-2-yl)-2-methylprop-2-enal,unii-65u4yz14mx
+6435828,136.15,C/C(=C/C1=CC=CO1)/C=O,(Z)-3-(furan-2-yl)-2-methylprop-2-enal,2-methyl-3(2-furyl)acrolein
 6435833,152.19,C/C=C/C=C/C(=O)OCC=C,"prop-2-enyl (2E,4E)-hexa-2,4-dienoate",allyl sorbate
 6435834,232.32,CCCCC/C(=C/C1=CC=CC=C1)/COC=O,[(2Z)-2-benzylideneheptyl] formate,alpha-amylcinnamyl formate
 6435835,288.4,CCCCC/C(=C/C1=CC=CC=C1)/COC(=O)CC(C)C,[(2Z)-2-benzylideneheptyl] 3-methylbutanoate,alpha-amylcinnamyl isovalerate
@@ -7812,12 +7814,12 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6435866,114.14,C/C=C/C(C)C(=O)O,(E)-2-methylpent-3-enoic acid,2-methyl-3-pentenoic acid
 6435868,170.32,CC(=CCC/C(=C\CS)/C)C,"(2Z)-3,7-dimethylocta-2,6-diene-1-thiol","(z)-3,7-dimethylocta-2,6-diene-1-thiol"
 6435869,126.2,CC/C=C\CCCC=O,(Z)-oct-5-enal,(z)-oct-5-enal
-6435876,198.22,C1=CC=C(C=C1)/C(=C\C2=CC=CO2)/C=O,(E)-3-(furan-2-yl)-2-phenylprop-2-enal,spicy acrolein
+6435876,198.22,C1=CC=C(C=C1)/C(=C\C2=CC=CO2)/C=O,(E)-3-(furan-2-yl)-2-phenylprop-2-enal,57568-60-2
 6435882,196.29,CC/C=C\CCOC(=O)C/C=C\CC,[(Z)-hex-3-enyl] (Z)-hex-3-enoate,cis-3-hexenyl cis-3-hexenoate
 6435890,1732.1,CCC(C)[C@@H]1[C@H](C=C[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C.C[C@H]1/C=C/C=C/2\CO[C@H]3[C@@]2([C@@H](C=C([C@H]3O)C)C(=O)O[C@H]4C[C@@H](C/C=C(/[C@H]1O[C@H]5C[C@@H]([C@H]([C@@H](O5)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O)OC)OC)\C)O[C@]7(C4)C=C[C@@H]([C@H](O7)C(C)C)C)O,"(1'R,2R,3S,4'S,6S,8'R,10'E,12'S,13'S,14'E,16'E,20'R,21'R,24'S)-2-butan-2-yl-21',24'-dihydroxy-12'-[(2R,4S,5S,6S)-5-[(2S,4S,5S,6S)-5-hydroxy-4-methoxy-6-methyloxan-2-yl]oxy-4-methoxy-6-methyloxan-2-yl]oxy-3,11',13',22'-tetramethylspiro[2,3-dihydropyran-6,6'-3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene]-2'-one;(1'R,2R,3S,4'S,6S,8'R,10'E,12'S,13'S,14'E,16'E,20'R,21'R,24'S)-21',24'-dihydroxy-12'-[(2R,4S,5S,6S)-5-[(2S,4S,5S,6S)-5-hydroxy-4-methoxy-6-methyloxan-2-yl]oxy-4-methoxy-6-methyloxan-2-yl]oxy-3,11',13',22'-tetramethyl-2-propan-2-ylspiro[2,3-dihydropyran-6,6'-3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene]-2'-one",avomec
 6435903,198.3,C/C=C/CCCCCCCC(=O)OC,methyl (E)-undec-9-enoate,methyl 9-undecenoate
 6435914,174.24,CC(C)/C=C(/C=O)\C1=CC=CC=C1,(E)-4-methyl-2-phenylpent-2-enal,"4-methyl-2-phenyl-2-pentenal, (e)+(z)"
-6435925,130.21,C/C=C(\CSC)/C=O,(Z)-2-(methylsulfanylmethyl)but-2-enal,unii-l3my5l63pw
+6435925,130.21,C/C=C(\CSC)/C=O,(Z)-2-(methylsulfanylmethyl)but-2-enal,2-((methylthio)methyl)-2-butenal
 6436105,188.26,CC(C)C1=CC=C(C=C1)/C=C(\C)/C=O,(E)-2-methyl-3-(4-propan-2-ylphenyl)prop-2-enal,831-97-0
 6436311,142.2,CC/C=C(\C)/C(=O)OCC,ethyl (E)-2-methylpent-2-enoate,"2-pentenoic acid, 2-methyl-, ethyl ester"
 6436336,182.26,CCCCC/C=C\C=C\C(=O)OC,"methyl (2E,4Z)-deca-2,4-dienoate","methyl (2e,4z)-2,4-decadienoate"
@@ -7831,12 +7833,12 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6436486,144.21,CCC/C=C/C(OC)OC,"(E)-1,1-dimethoxyhex-2-ene",trans-2-hexenal dimethyl acetal
 6436488,126.2,CCC/C=C/C=C/CO,"(2E,4E)-octa-2,4-dien-1-ol","(2e,4e)-octa-2,4-dien-1-ol"
 6436491,182.3,CCCCCCC/C=C/C=C/CO,"(2E,4E)-dodeca-2,4-dien-1-ol",18485-38-6
-6436502,128.17,C/C=C(\C)/COC(=O)C,[(E)-2-methylbut-2-enyl] acetate,"2-buten-1-ol, 2-methyl-, acetate, (2e)-"
+6436502,128.17,C/C=C(\C)/COC(=O)C,[(E)-2-methylbut-2-enyl] acetate,19248-94-3
 6436546,182.3,CCOC/C=C(/C)\CCC=C(C)C,"(2Z)-1-ethoxy-3,7-dimethylocta-2,6-diene","(2z)-1-ethoxy-3,7-dimethylocta-2,6-diene"
 6436548,192.3,C/C=C\C(=O)C1C(=CCCC1(C)C)C,"(Z)-1-(2,6,6-trimethylcyclohex-2-en-1-yl)but-2-en-1-one","(z)-1-(2,6,6-trimethyl-2-cyclohexen-1-yl)-2-buten-1-one"
 6436582,204.35,C/C/1=C\CCC(=C)/C=C/C(CC1)C(C)C,"(1E,6E)-1-methyl-5-methylidene-8-propan-2-ylcyclodeca-1,6-diene",germacren d
 6436625,136.19,CC/C=C\C=C/C=C\C=O,"(2Z,4Z,6Z)-nona-2,4,6-trienal","2,4,6-nonatrienal"
-6436647,198.3,CCCCCC(=O)OC/C=C\CCC,[(Z)-hex-2-enyl] hexanoate,(z)-2-hexenyl hexanoate
+6436647,198.3,CCCCCC(=O)OC/C=C\CCC,[(Z)-hex-2-enyl] hexanoate,(z)-hex-2-enyl hexanoate
 6436679,198.3,CCCCC/C=C\C(=O)OCCCC,butyl (Z)-oct-2-enoate,butyl oct-2-enoate
 6436703,206.32,CC1=CCCC(C1/C=C\C(C)C=O)(C)C,"(Z)-2-methyl-4-(2,6,6-trimethylcyclohex-2-en-1-yl)but-3-enal",einecs 261-121-4
 6436710,168.28,CC/C=C\CCCCCCC=O,(Z)-undec-8-enal,cis-8-undecen-1-al
@@ -7854,7 +7856,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6437002,152.23,CC/C=C/CC1CCCC1=O,2-[(E)-pent-2-enyl]cyclopentan-1-one,2-(trans-2-pentenyl)cyclopentanone
 6437020,184.27,CCC(C)CCOC(=O)/C(=C\C)/C,3-methylpentyl (Z)-2-methylbut-2-enoate,3-methylpentyl angelate
 6437044,142.2,CCCOC(=O)/C(=C\C)/C,propyl (Z)-2-methylbut-2-enoate,propyl 2-methylisocrotonate
-6437112,158.19,CC/C=C/CCOC(=O)OC,[(E)-hex-3-enyl] methyl carbonate,"carbonic acid, (3z)-3-hexenyl methyl ester"
+6437112,158.19,CC/C=C/CCOC(=O)OC,[(E)-hex-3-enyl] methyl carbonate,3-cis-hexenyl methyl carbonate
 6437114,212.33,CC/C=C/CC/C=C/C(OCC)OCC,"(2E,6E)-1,1-diethoxynona-2,6-diene","(2e,6z)-1,1-diethoxy-2,6-nonadiene"
 6437137,184.27,CCC/C=C/CCOC(=O)C(C)C,[(E)-hept-3-enyl] 2-methylpropanoate,hept-3-enyl isobutyrate
 6437138,285.4,CC(=CCC/C(=C/C=NC1=CC=CC=C1C(=O)OC)/C)C,"methyl 2-[[(2E)-3,7-dimethylocta-2,6-dienylidene]amino]benzoate",unii-55494k367r
@@ -7863,8 +7865,8 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6437207,294.5,CCCCCCCCC(=O)OC/C=C(\C)/CCC=C(C)C,"[(2E)-3,7-dimethylocta-2,6-dienyl] nonanoate",geranyl nonanoate
 6437243,290.4,CCCC(=O)OC/C(=C/CCC1(C2CC3C1(C3C2)C)C)/C,"[(E)-5-(2,3-dimethyl-3-tricyclo[2.2.1.02,6]heptanyl)-2-methylpent-2-enyl] butanoate",einecs 266-801-4
 6437247,206.32,CCC(/C(=C/C1(CC2CC1C=C2)C)/C)O,(E)-2-methyl-1-(2-methyl-2-bicyclo[2.2.1]hept-5-enyl)pent-1-en-3-ol,methyl sandeflor
-6437266,208.34,CC1=CCC(C1(C)C)/C=C\C(C)C(C)O,"(Z)-3-methyl-5-(2,2,3-trimethylcyclopent-3-en-1-yl)pent-4-en-2-ol",ebanol
-6437267,238.37,C/C=C(\C)/C(=O)OC1CC(CCC1C(C)C)C,(5-methyl-2-propan-2-ylcyclohexyl) (E)-2-methylbut-2-enoate,67801-23-4
+6437266,208.34,CC1=CCC(C1(C)C)/C=C\C(C)C(C)O,"(Z)-3-methyl-5-(2,2,3-trimethylcyclopent-3-en-1-yl)pent-4-en-2-ol",67801-20-1
+6437267,238.37,C/C=C(\C)/C(=O)OC1CC(CCC1C(C)C)C,(5-methyl-2-propan-2-ylcyclohexyl) (E)-2-methylbut-2-enoate,2-isopropyl-5-methylcyclohexyl 2-methylbut-2-enoate
 6437269,206.32,CC1CC(=CC(C1/C=C(\C)/C(=O)C)C)C,"(E)-3-methyl-4-(2,4,6-trimethylcyclohex-3-en-1-yl)but-3-en-2-one","3-methyl-4-(2,4,6-trimethyl-3-cyclohexen-1-yl)-3-buten-2-one"
 6437290,196.29,C/C=C/C(=O)OC(C)C1CCCCC1,1-cyclohexylethyl (E)-but-2-enoate,"2-butenoicacid, 1-cyclohexylethyl ester"
 6437291,222.32,C/C=C/C(=O)OC1CCCC1C2CCCC2,(2-cyclopentylcyclopentyl) (E)-but-2-enoate,2-cyclopentylcyclopentyl crotonate
@@ -7906,7 +7908,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6438193,137.22,CCCCCC/C=C\C#N,(Z)-non-2-enenitrile,ai3-28305
 6438195,194.31,CC1=CCC(C1(C)C)C/C=C(\C)/CO,"(E)-2-methyl-4-(2,2,3-trimethylcyclopent-3-en-1-yl)but-2-en-1-ol",28219-60-5
 6438196,208.34,CC/C(=C\CC1CC=C(C1(C)C)C)/CO,"(E)-2-ethyl-4-(2,2,3-trimethylcyclopent-3-en-1-yl)but-2-en-1-ol",28219-61-6
-6438200,210.31,CCCCC/C=C\C=C\C(=O)OCCC,"propyl (2E,4Z)-deca-2,4-dienoate",unii-2eee2o3te8
+6438200,210.31,CCCCC/C=C\C=C\C(=O)OCCC,"propyl (2E,4Z)-deca-2,4-dienoate","propyl (2e,4z)-2,4-decadienoate"
 6438203,224.34,CCCCC/C=C\C=C\C(=O)OCCCC,"butyl (2E,4Z)-deca-2,4-dienoate","butyl (2e,4z)-2,4-decadienoate"
 6438291,204.31,C1CC2C(C1)C\3CC2C/C3=C\CCC=O,"(4E)-4-(8-tricyclo[5.2.1.02,6]decanylidene)butanal",30168-23-1
 6438313,194.31,CC(C/C=C(\C)/CCCC(=C)C)C=O,"(4E)-2,5,9-trimethyldeca-4,9-dienal","2,5,9-trimethyl-4,9-decadienal"
@@ -7952,7 +7954,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 6453423,194.31,CC1(CCCC(C1)C(=O)CCC=C)C,"1-(3,3-dimethylcyclohexyl)pent-4-en-1-one","1-(3,3-dimethylcyclohexyl)pent-4-en-1-one"
 6454216,202.29,CC(=C)C(=O)CC(C)(C)C1=CC=CC=C1,"2,5-dimethyl-5-phenylhex-1-en-3-one","1-hexen-3-one, 2,5-dimethyl-5-phenyl-"
 6455146,186.25,CCCCCCC1COC(=O)CO1,"5-hexyl-1,4-dioxan-2-one","5-hexyl-1,4-dioxan-2-one"
-6455283,180.24,CCOC(C)OCC1=CC=CC=C1,1-ethoxyethoxymethylbenzene,1-ethoxyethoxymethylbenzene
+6455283,180.24,CCOC(C)OCC1=CC=CC=C1,1-ethoxyethoxymethylbenzene,66222-24-0
 6455496,236.39,CC12CCCC(=C)C1CC(CC2)CC(C)(C)O,"1-(4a-methyl-8-methylidene-1,2,3,4,5,6,7,8a-octahydronaphthalen-2-yl)-2-methylpropan-2-ol",dtxsid80986919
 6504440,178.27,CC1=CC/C(=C(\C)/CCC=O)/CC1,(4E)-4-(4-methylcyclohex-3-en-1-ylidene)pentanal,4-(4-methyl-3-cyclohexen-1-ylidene)pentanal
 6504499,208.34,CC1=CCC(C1(C)C)/C=C/C(C)C(C)O,"(E)-3-methyl-5-(2,2,3-trimethylcyclopent-3-en-1-yl)pent-4-en-2-ol",ebanol
@@ -8128,7 +8130,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 9964072,104.85,[B-](F)(F)(F)F.[NH4+],azanium;tetrafluoroborate,ammonium tetrafluoroborate
 9964247,178.23,CCC1=CC=C(C=C1)CC(=O)OC,methyl 2-(4-ethylphenyl)acetate,36207-10-0
 9964407,204.33,CCCCCCOC(=O)CC(C)S,hexyl 3-sulfanylbutanoate,hexyl 3-sulfanylbutanoate
-9964606,228.33,C[C@@H]1CC[C@H](C2(C1)OCC(O2)CO)C(C)C,"[(6S,9R)-9-methyl-6-propan-2-yl-1,4-dioxaspiro[4.5]decan-3-yl]methanol","l-menthone 1,2-glycerol ketal"
+9964606,228.33,C[C@@H]1CC[C@H](C2(C1)OCC(O2)CO)C(C)C,"[(6S,9R)-9-methyl-6-propan-2-yl-1,4-dioxaspiro[4.5]decan-3-yl]methanol",unii-7v7gib547y
 9989226,101.961,[O-2].[O-2].[O-2].[Al+3].[Al+3],dialuminum;oxygen(2-),aluminum oxide
 9990075,190.24,CCCC[C@@H]1C2=CC=CC=C2C(=O)O1,(3R)-3-butyl-3H-2-benzofuran-1-one,125412-70-6
 10012081,150.22,CC1([C@@H]2C[C@H]1C(=C)C(=O)C2)C,"(1R,5R)-6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptan-3-one",(+)-pinocarvone
@@ -8182,7 +8184,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 10702081,158.24,CCCCCC1CCC(O1)O,5-pentyloxolan-2-ol,5-pentyltetrahydrofuran-2-ol
 10725569,154.21,CCCCCC1=CCC(=O)O1,5-pentyl-3H-furan-2-one,5-pentyl-3h-furan-2-one
 10726905,204.35,CC1=CCC[C@]2([C@H]1C[C@H](CC2)C(=C)C)C,"(3S,4aR,8aR)-5,8a-dimethyl-3-prop-1-en-2-yl-2,3,4,4a,7,8-hexahydro-1H-naphthalene",(-)-7-epi-alpha-selinene
-10796756,128.13,C1COC(=O)C1CC=O,2-(2-oxooxolan-3-yl)acetaldehyde,schembl8762116
+10796756,128.13,C1COC(=O)C1CC=O,2-(2-oxooxolan-3-yl)acetaldehyde,2-(2-oxooxolan-3-yl)acetaldehyde
 10820954,166.22,C[C@H]1[C@@H]2CCC(=C[C@@H]2OC1=O)C,"(3S,3aS,7aR)-3,6-dimethyl-3a,4,5,7a-tetrahydro-3H-1-benzofuran-2-one",unii-pbi72od596
 10856172,184.23,CCCCC1CC(C(=O)O1)C(=O)C,3-acetyl-5-butyloxolan-2-one,40010-99-9
 10856176,184.23,CC(C=O)C1=CC2=CC=CC=C2C=C1,2-naphthalen-2-ylpropanal,2-(naphthalen-2-yl)propanal
@@ -8297,7 +8299,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 11357212,252.39,C[C@@H]1CC(=O)[C@](C12CC(CC(C2)(C)C)(C)C)(C)O,"(1R,4R)-4-hydroxy-1,4,7,7,9,9-hexamethylspiro[4.5]decan-3-one",schembl4396406
 11367306,176.25,CC1=CC2=C(CC(C2)(C)CO)C=C1,"(2,5-dimethyl-1,3-dihydroinden-2-yl)methanol",285977-85-7
 11378500,128.17,CCC[C@@H]1CCC(=O)O1,(5R)-5-propyloxolan-2-one,(r)-gamma-heptanolactone
-11378520,136.19,C=CC1=C(CCCC1)C=O,2-ethenylcyclohexene-1-carbaldehyde,21403-37-2
+11378520,136.19,C=CC1=C(CCCC1)C=O,2-ethenylcyclohexene-1-carbaldehyde,"1-cyclohexene-1-carboxaldehyde, 2-ethenyl-"
 11378760,171.24,CCCCCN1C(COC1=O)C,"4-methyl-3-pentyl-1,3-oxazolidin-2-one",schembl4416368
 11379273,232.32,CC1=CC(=C(C2=C1CCCC2=O)C(C)C)OC,"7-methoxy-5-methyl-8-propan-2-yl-3,4-dihydro-2H-naphthalen-1-one","7-methoxy-5-methyl-8-propan-2-yl-3,4-dihydro-2H-naphthalen-1-one"
 11391149,254.24,CC(=O)OC(C1=CC(=C(C=C1)O)OC)OC(=O)C,[acetyloxy-(4-hydroxy-3-methoxyphenyl)methyl] acetate,vanillin diacetyl acetal
@@ -8359,7 +8361,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 11954184,180.24,CCCCC1=C(C(=CC=C1)OC)O,2-butyl-6-methoxyphenol,"phenol, 2-butyl-6-methoxy-"
 11954225,368.1,[H+].C(C(C(=O)[O-])[S-])C(=O)[O-].[Na+].[Au+],sodium;gold(1+);hydron;2-sulfidobutanedioate,sodium;gold(1+);hydron;2-sulfidobutanedioate
 11959971,160.17,C1C2C1C(=O)OC3=CC=CC=C23,"1a,7b-dihydro-1H-cyclopropa[c]chromen-2-one",schembl14135291
-11962784,166.26,C/C(=C\C=O)/CCC1CC1(C)C,"(E)-5-(2,2-dimethylcyclopropyl)-3-methylpent-2-enal",schembl18338905
+11962784,166.26,C/C(=C\C=O)/CCC1CC1(C)C,"(E)-5-(2,2-dimethylcyclopropyl)-3-methylpent-2-enal","5-(2,2-dimethylcyclopropyl)-3-methyl-2-pentenal"
 11964245,194.27,CC1=CC[C@H](CC1OC(=O)C)C(=C)C,[(5R)-2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-yl] acetate,(-)-carvyl acetate
 11966264,129.13,CCCC(=O)CC(=O)[O-],3-oxohexanoate,3-oxohexanoate
 11967982,154.25,CC1[C@H]2C[C@@]2(C[C@H]1O)C(C)C,"(1R,3R,5R)-4-methyl-1-propan-2-ylbicyclo[3.1.0]hexan-3-ol",schembl1245770
@@ -8419,7 +8421,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 12315492,204.35,C[C@@H](CCC=C(C)C)[C@H]1CCC(=C)C=C1,(3R)-3-[(2S)-6-methylhept-5-en-2-yl]-6-methylidenecyclohexene,beta-sesquiphellandrene
 12351478,173.25,CC(C)CC1=CNC2=CC=CC=C21,3-(2-methylpropyl)-1H-indole,"1h-indole, 3-(2-methylpropyl)-"
 12358480,380.9,C1[C@@H]2[C@@H]3[C@H]([C@H]1[C@H]4[C@@H]2O4)[C@@]5(C(=C([C@]3(C5(Cl)Cl)Cl)Cl)Cl)Cl,"(1R,2R,3R,6S,7S,8S,9S,11R)-3,4,5,6,13,13-hexachloro-10-oxapentacyclo[6.3.1.13,6.02,7.09,11]tridec-4-ene",endrin
-12361768,175.18,COC(=O)N1C=CC2=CC=CC=C21,methyl indole-1-carboxylate,methyl indole-1-carboxylate
+12361768,175.18,COC(=O)N1C=CC2=CC=CC=C21,methyl indole-1-carboxylate,39203-20-8
 12367058,210.27,CCCCC(=O)C1CCCC=C1C(=O)O,6-pentanoylcyclohexene-1-carboxylic acid,sedanonic acid
 12379457,117.19,CCC(CC)(CN)O,3-(aminomethyl)pentan-3-ol,3-(aminomethyl)pentan-3-ol
 12397703,134.3,CC1CC(SS1)C,"3,5-dimethyldithiolane","3,5-dimethyl-1,2-dithiolane"
@@ -8450,7 +8452,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 12601142,148.2,C=COCCC1=CC=CC=C1,2-ethenoxyethylbenzene,(2-vinyloxy-ethyl)-benzene
 12603004,136.18,C1=CSC2=CN=CN=C21,"thieno[3,2-d]pyrimidine","thieno[3,2-d]pyrimidine"
 12607745,126.2,CCC/C=C\C=C\CO,"(2E,4Z)-octa-2,4-dien-1-ol","2,4-octadien-1-ol, (2e,4z)-"
-12613663,146.23,CCCCCOC(C)OC,1-(1-methoxyethoxy)pentane,1-methoxy-1-pentyloxyethane
+12613663,146.23,CCCCCOC(C)OC,1-(1-methoxyethoxy)pentane,1-(1-methoxyethoxy)pentane
 12619485,156.26,CCCCCCC[C@H](C=C)O,(3R)-dec-1-en-3-ol,(r)-1-decen-3-ol
 12619486,156.26,CCCCCCC[C@@H](C=C)O,(3S)-dec-1-en-3-ol,(s)-1-decen-3-ol
 12648855,212.28,CC(=CCC/C(=C/COCC(=O)O)/C)C,"2-[(2E)-3,7-dimethylocta-2,6-dienoxy]acetic acid","[(2e)-3,7-dimethyl-octa-2,6-dienyloxy]-acetic acid"
@@ -8507,14 +8509,14 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 13180982,90.08,CC(=O)C(O)O,"1,1-dihydroxypropan-2-one","1,1-dihydroxypropan-2-one"
 13182665,148.23,CCC(C(=O)OCC)S,ethyl 2-sulfanylbutanoate,ethyl 2-sulfanylbutanoate
 13183557,164.2,CCC(=O)C(C1=CC=CC=C1)O,1-hydroxy-1-phenylbutan-2-one,1-hydroxy-1-phenylbutan-2-one
-13192443,182.26,CCCCCC1C(=C(C(=O)O1)C)C,"3,4-dimethyl-2-pentyl-2H-furan-5-one","2,3-dimethyl-2-nonen-4-olide"
+13192443,182.26,CCCCCC1C(=C(C(=O)O1)C)C,"3,4-dimethyl-2-pentyl-2H-furan-5-one",dihydrobovolide
 13199021,196.29,CC1CCC(CC1C(=O)OC)C(=C)C,methyl 2-methyl-5-prop-1-en-2-ylcyclohexane-1-carboxylate,methyl 2-methyl-5-prop-1-en-2-ylcyclohexane-1-carboxylate
 13213649,222.37,CC(CCC=C(C)C)C1CCC(C=C1)(C)O,1-methyl-4-(6-methylhept-5-en-2-yl)cyclohex-2-en-1-ol,zingiberenol
 13215578,170.25,CCCCCC(=O)OCC(=C)C,2-methylprop-2-enyl hexanoate,86143-85-3
 13220327,123.15,CC1=CC=C(N1)C(=O)C,1-(5-methyl-1H-pyrrol-2-yl)ethanone,1-(5-methyl-1h-pyrrol-2-yl)ethanone
 13227122,204.26,CCOC(=O)CC(C)(OCC)OCC,"ethyl 3,3-diethoxybutanoate","ethyl 3,3-diethoxybutanoate"
 13237362,160.21,CCOC(=O)[C@H](CC(C)C)O,ethyl (2S)-2-hydroxy-4-methylpentanoate,(s)-(-)-ethyl leucate
-13244981,126.2,CCC/C=C/CC(=O)C,(E)-oct-4-en-2-one,4-octene-2-one
+13244981,126.2,CCC/C=C/CC(=O)C,(E)-oct-4-en-2-one,oct-4-en-2-one
 13250020,180.2,CCOC(=O)C1=CC=CC=C1CO,ethyl 2-(hydroxymethyl)benzoate,ethyl 2-(hydroxymethyl)benzoate
 13270883,204.22,CCOC(=O)CCC(C(=O)OCC)O,diethyl 2-hydroxypentanedioate,diethyl 2-hydroxypentanedioate
 13281366,252.39,CCCCCCCCOC(=O)C#CCCCCC,octyl oct-2-ynoate,octyl oct-2-ynoate
@@ -8534,7 +8536,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 13479201,238.41,CCCCCCC/C=C(\CCCCCC)/C=O,(E)-2-hexyldec-2-enal,v7nk8bcx89
 13479947,210.36,CCCCCCCCC1CCC(=O)CC1,4-octylcyclohexan-1-one,4-octylcyclohexanone
 13483073,140.22,C1CC=C(C1)CCCCO,4-(cyclopenten-1-yl)butan-1-ol,schembl6565462
-13501357,170.25,CCCCCCC(=O)C(=O)CC,"decane-3,4-dione",methyl nonane dione
+13501357,170.25,CCCCCCC(=O)C(=O)CC,"decane-3,4-dione",schembl1171469
 13508494,298.5,CCCCCCCCCCCC(=O)OCCCCCCC,heptyl dodecanoate,heptyl dodecanoate
 13524626,206.28,CCCC1(OC2=CC=CC=C2O1)CCC,"2,2-dipropyl-1,3-benzodioxole","2,2-dipropyl-1,3-benzodioxole"
 13555721,206.28,CC(C)C1(OC2=CC=CC=C2O1)C(C)C,"2,2-di(propan-2-yl)-1,3-benzodioxole",4436-28-6
@@ -8547,7 +8549,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 13716562,118.2,CC(C)C(=S)OC,O-methyl 2-methylpropanethioate,methyl thioisobutyrate
 13750367,198.3,CC1(C2CCC1(C(C2)OCCO)C)C,"2-[(1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl)oxy]ethanol",arbanol
 13762356,226.35,CCOC(C1CCC(=CC1(C)C)C)OCC,"4-(diethoxymethyl)-1,3,3-trimethylcyclohexene","4-(diethoxymethyl)-1,3,3-trimethylcyclohexene"
-13774146,126.2,CCCC/C=C\CC=O,(Z)-oct-3-enal,(z)-3-octenal
+13774146,126.2,CCCC/C=C\CC=O,(Z)-oct-3-enal,cis-3-octenal
 13788048,390.31,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)[O-])O)O.C([C@@H]([C@@H]1C(=C(C(=O)O1)O)[O-])O)O.[Ca+2],"calcium;(2R)-2-[(1S)-1,2-dihydroxyethyl]-4-hydroxy-5-oxo-2H-furan-3-olate",calcium diascorbate
 13811873,198.3,CC(=O)O[C@H]1CCC[C@H](C1)C(C)(C)C,"[(1S,3R)-3-tert-butylcyclohexyl] acetate",cis-3-tert-butylcyclohexyl acetate
 13815082,314.5,CC(C)(C)OC(=O)CCCCCCCCC(=O)OC(C)(C)C,ditert-butyl decanedioate,di-tert-butyl decanedioate
@@ -8625,7 +8627,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 15141631,164.2,CC(C)(C1=CC=CC=C1)OC=O,2-phenylpropan-2-yl formate,schembl135668
 15151630,208.25,CCOC(=O)COCCC1=CC=CC=C1,ethyl 2-(2-phenylethoxy)acetate,schembl3259593
 15162770,234.33,CC(C)CC(=O)OC(C)CCC1=CC=CC=C1,4-phenylbutan-2-yl 3-methylbutanoate,4-phenylbutan-2-yl 3-methylbutanoate
-15210716,148.23,CC(=O)OCCCCS,4-sulfanylbutyl acetate,4-(acetyloxy)butane-1-thiol
+15210716,148.23,CC(=O)OCCCCS,4-sulfanylbutyl acetate,89534-39-4
 15219341,186.33,CC(C(C)C(C)O)C(C)C(C)(C)C,"3,4,5,6,6-pentamethylheptan-2-ol","3,4,5,6,6-pentamethylheptan-2-ol"
 15225386,200.26,COC(=O)CCSCC1=CC=CO1,methyl 3-(furan-2-ylmethylsulfanyl)propanoate,94278-26-9
 15273629,140.22,CCC(CC=C)C(=O)CC,4-ethylhept-6-en-3-one,4-ethyl-6-hepten-3-one
@@ -8723,7 +8725,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 16220105,244.34,CCC1=NC(=CN=C1)C.CCC1=NC=C(N=C1)C,2-ethyl-5-methylpyrazine;2-ethyl-6-methylpyrazine,2-ethyl-5(6)-methylpyrazine
 16220109,182.26,CC/C=C\CCOC(=O)/C(=C\C)/C,[(Z)-hex-3-enyl] (Z)-2-methylbut-2-enoate,(z)-3-hexenyl angelate
 16220110,168.23,CC/C=C\CCOC(=O)/C=C/C,[(Z)-hex-3-enyl] (E)-but-2-enoate,cis-3-hexenyl crotonate
-16220111,246.4,C[C@@H]1CC[C@@H]2[C@@]13C[C@H](C2(C)C)C(=C(C3)C(=O)C)C,"1-[(1R,2R,5S,7R)-2,6,6,8-tetramethyl-9-tricyclo[5.3.1.01,5]undec-8-enyl]ethanone",32388-55-9
+16220111,246.4,C[C@@H]1CC[C@@H]2[C@@]13C[C@H](C2(C)C)C(=C(C3)C(=O)C)C,"1-[(1R,2R,5S,7R)-2,6,6,8-tetramethyl-9-tricyclo[5.3.1.01,5]undec-8-enyl]ethanone",acetylcedrene
 16224907,224.34,CCCC/C=C\CCCC1CCCC(=O)O1,6-[(Z)-non-4-enyl]oxan-2-one,"9-tetradecen-5-olide, (9z)-"
 16664423,184.4,CC1(CSSSS1)C,"5,5-dimethyltetrathiane","5,5-dimethyltetrathiane"
 16667664,168.23,C[C@H](C=O)[C@H]1CC[C@@](O1)(C)C=C,"(2S)-2-[(2R,5S)-5-ethenyl-5-methyloxolan-2-yl]propanal",unii-4tb943ojyt
@@ -8767,14 +8769,14 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 18533727,230.21,CC(=O)O.CC(=O)O.C1=CC(=CC(=C1)O)O,"acetic acid;benzene-1,3-diol",schembl249306
 18539813,146.25,CC1OCCC(S1)(C)C,"2,4,4-trimethyl-1,3-oxathiane","2,4,4-trimethyl-1,3-oxathiane"
 18539814,160.28,CCC1OCCC(S1)(C)C,"2-ethyl-4,4-dimethyl-1,3-oxathiane","1,3-oxathiane, 2-ethyl-4,4-dimethyl-"
-18539818,132.23,CC1(CCOCS1)C,"4,4-dimethyl-1,3-oxathiane",27959-66-6
+18539818,132.23,CC1(CCOCS1)C,"4,4-dimethyl-1,3-oxathiane","4,4-dimethyl-1,3-oxathiane"
 18598146,182.26,CCC1CCC2(CC1)CCC(=O)O2,8-ethyl-1-oxaspiro[4.5]decan-2-one,91069-39-5
 18601051,209.11,C(CC(=O)[O-])[C@@H](C(=O)[O-])N.O.[Na+].[Na+],disodium;(2S)-2-aminopentanedioate;hydrate,sodium l-glutamate monohydrate
 18677383,237.25,CC(C)(C)C1=C(C(=CC(=C1)C=O)[N+](=O)[O-])OC,3-tert-butyl-4-methoxy-5-nitrobenzaldehyde,99758-40-4
 18696447,156.22,CC(C)CCC(=O)OCC=C,prop-2-enyl 4-methylpentanoate,allyl 4-methylpentanoate
 18699577,174.2,CCC1=C2C=CC(=O)OC2=CC=C1,5-ethylchromen-2-one,5-ethylcumarine
 18705074,204.31,CC(C)C1=CC(=CC(=C1)C(=O)C)C(C)C,"1-[3,5-di(propan-2-yl)phenyl]ethanone",schembl8146335
-18718393,274.35,CCC(C)COC(=O)CC(C(=O)OCC(C)CC)O,bis(2-methylbutyl) 2-hydroxybutanedioate,di(2-methylbutyl) malate
+18718393,274.35,CCC(C)COC(=O)CC(C(=O)OCC(C)CC)O,bis(2-methylbutyl) 2-hydroxybutanedioate,di-(2-methylbutyl)-dl-malate
 18728905,160.21,CCC(C)C(=O)OC(C)CO,1-hydroxypropan-2-yl 2-methylbutanoate,unii-3z73c506a9
 18728909,174.24,CCC(C)C(=O)OCCCCO,4-hydroxybutyl 2-methylbutanoate,schembl2532470
 18757749,186.29,CC(C)CCCCOC(=O)C(C)C,5-methylhexyl 2-methylpropanoate,isoheptyl isobutyrate
@@ -8788,7 +8790,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 18974564,198.34,CCC(C)(C)C1CCC(CC1)OCC,1-ethoxy-4-(2-methylbutan-2-yl)cyclohexane,181258-87-7
 19022215,160.21,CCCC(=O)OCCCCO,4-hydroxybutyl butanoate,4-hydroxybutyl butanoate
 19352744,158.19,CCCCC(C(=O)C)C(=O)O,2-acetylhexanoic acid,2-acetylhexanoic acid
-19425778,154.16,CCCC(=O)OC1=CC=CO1,furan-2-yl butanoate,furaneyl butyrate
+19425778,154.16,CCCC(=O)OC1=CC=CO1,furan-2-yl butanoate,furan-2-yl butanoate
 19693163,534.9,CC(C)CCCCCCCCCCOC(/C=C(\C)/CCC=C(C)C)OCCCCCCCCCCC(C)C,"1-[(2E)-3,7-dimethyl-1-(11-methyldodecoxy)octa-2,6-dienoxy]-11-methyldodecane",einecs 299-092-5
 19693171,338.6,CCCCCCCCCCCCCCCC(=O)OCC/C=C/CC,[(E)-hex-3-enyl] hexadecanoate,hex-3-enyl hexadecanoate
 19693405,284.5,CCCCCCCCCCCCOCCCCCCC,1-heptoxydodecane,dodecyl heptyl ether
@@ -8797,7 +8799,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 19693442,256.5,CCCCCCCCCCOCCCCCCC,1-heptoxydecane,decyl heptyl ether
 19693446,242.44,CCCCCCCCCOCCCCCCC,1-heptoxynonane,heptylnonyl ether
 19702290,242.31,C1CCCCCOC(=O)CC(=O)OCCCC1,"1,5-dioxacyclopentadecane-2,4-dione",schembl8651579
-19737259,162.25,CCC(CS)C(=O)OCC,ethyl 2-(sulfanylmethyl)butanoate,ethyl 2-ethyl-3-mercaptopropanoate
+19737259,162.25,CCC(CS)C(=O)OCC,ethyl 2-(sulfanylmethyl)butanoate,schembl6739813
 19742583,274.4,CC(C)COCC(C)C.C1=CC=C2C=C(C=CC2=C1)O,2-methyl-1-(2-methylpropoxy)propane;naphthalen-2-ol,schembl9456328
 19742584,218.29,CCOCC.C1=CC=C2C=C(C=CC2=C1)O,ethoxyethane;naphthalen-2-ol,2-naphthol ether
 19758701,202.14,[O-][Si](=O)[O-].[O-][Si](=O)[O-].[Na+].[Al+3],aluminum;sodium;dioxido(oxo)silane,sodium aluminosilicate
@@ -8865,7 +8867,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 20538510,242.35,C1CCCCCCOC(=O)OCCCCCC1,"1,3-dioxacyclohexadecan-2-one",schembl11257558
 20557073,286.71,CC1=C(C(=C(C(=C1Cl)C)[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-],"1-tert-butyl-4-chloro-3,5-dimethyl-2,6-dinitrobenzene",schembl10941016
 20560352,155.22,CCC(=O)C1=NC(=CS1)C,"1-(4-methyl-1,3-thiazol-2-yl)propan-1-one",4-methyl-2-propionylthiazole
-20560364,182.22,CCC(C)C(=O)OCC1=CC=CO1,furan-2-ylmethyl 2-methylbutanoate,furan-2-ylmethyl 2-methylbutanoate
+20560364,182.22,CCC(C)C(=O)OCC1=CC=CO1,furan-2-ylmethyl 2-methylbutanoate,13678-61-0
 20561535,166.26,CC1=CCC(CC1)C(CC=C)O,1-(4-methylcyclohex-3-en-1-yl)but-3-en-1-ol,schembl11306894
 20561537,182.3,CC1CC2(CCC1C(O2)C(C)C)C,"1,5-dimethyl-3-propan-2-yl-2-oxabicyclo[2.2.2]octane",schembl11303738
 20561539,180.29,CC1CC(=CCC1C(CC=C)O)C,"1-(4,6-dimethylcyclohex-3-en-1-yl)but-3-en-1-ol",71477-77-5
@@ -9085,7 +9087,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 23502647,212.33,CC(C)(CCCC1CCC(CC1)C=O)O,4-(4-hydroxy-4-methylpentyl)cyclohexane-1-carbaldehyde,schembl6231153
 23513561,170.25,CC1CCC(CC1)(C)C(=O)OC,"methyl 1,4-dimethylcyclohexane-1-carboxylate",23059-38-3
 23519722,248.32,CC(=CCC/C(=C/COC(=O)C1=CC=CO1)/C)C,"[(2E)-3,7-dimethylocta-2,6-dienyl] furan-2-carboxylate",schembl4953225
-23572848,148.2,CC1CC(C2=NC=CN=C12)C,"5,7-dimethyl-6,7-dihydro-5H-cyclopenta[b]pyrazine",unii-94lr72ey8i
+23572848,148.2,CC1CC(C2=NC=CN=C12)C,"5,7-dimethyl-6,7-dihydro-5H-cyclopenta[b]pyrazine",41330-21-6
 23616937,154.25,CC1CC(C2(C1C2)C(C)C)O,4-methyl-1-propan-2-ylbicyclo[3.1.0]hexan-2-ol,schembl2592736
 23617539,158.24,CCCCC[C@H]1OC[C@@H](O1)C,"(2S,4S)-4-methyl-2-pentyl-1,3-dioxolane","trans-4-methyl-2-pentyl-1,3-dioxolane"
 23617863,210.31,CCC(=O)O[C@H]1C[C@@H]2CC[C@]1(C2(C)C)C,"[(1S,2S,4S)-1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl] propanoate","isobornyl propionate, >=92%"
@@ -9164,7 +9166,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 25200724,128.13,CC1=C(C(=C(O1)C)O)O,"2,5-dimethylfuran-3,4-diol",furaneol (enol form)
 28487856,261.36,C[C@H]1CCC[C@@H]([C@@H]1C)N[C@@H]2COC3=C2C=CC(=C3)O,"(3S)-3-[[(1S,2R,3S)-2,3-dimethylcyclohexyl]amino]-2,3-dihydro-1-benzofuran-6-ol","(3S)-3-[[(1S,2R,3S)-2,3-dimethylcyclohexyl]amino]-2,3-dihydro-1-benzofuran-6-ol"
 29933357,199.27,CCC(=O)OCCC1=C(N=CS1)C,"2-(4-methyl-1,3-thiazol-5-yl)ethyl propanoate",324742-96-3
-36689269,222.32,C/C=C/C(=O)OC/C=C(/C)\CCC=C(C)C,"[(2Z)-3,7-dimethylocta-2,6-dienyl] (E)-but-2-enoate",neryl crotonate
+36689269,222.32,C/C=C/C(=O)OC/C=C(/C)\CCC=C(C)C,"[(2Z)-3,7-dimethylocta-2,6-dienyl] (E)-but-2-enoate",71648-17-4
 36691376,193.22,CC(C)(C1=CC=C(C=C1)OC)C(=O)[O-],2-(4-methoxyphenyl)-2-methylpropanoate,2-(4-methoxyphenyl)-2-methylpropanoate
 38988368,194.31,CC1=CCCC([C@@H]1CCC(=O)C)(C)C,"4-[(1S)-2,6,6-trimethylcyclohex-2-en-1-yl]butan-2-one",(s)-(?)-dihydro-alpha-ionone
 40488241,196.29,C[C@@H]1CC[C@@H](C[C@@H]1OC(=O)C)C(=C)C,"[(1S,2R,5S)-2-methyl-5-prop-1-en-2-ylcyclohexyl] acetate",zinc4521481
@@ -9248,7 +9250,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 53423848,150.18,CC1=NC=C(N=C1C)C(=O)C,"1-(5,6-dimethylpyrazin-2-yl)ethanone","1-(5,6-dimethylpyrazin-2-yl)ethanone"
 53423849,150.18,CCC1=CN=CC(=N1)C(=O)C,1-(6-ethylpyrazin-2-yl)ethanone,34413-34-8
 53424309,238.41,CCCCCCCC=C(CCCCCC)C=O,2-hexyldec-2-enal,2-hexyldec-2-enal
-53424389,166.17,CC=CC(=O)OCC1=CC=CO1,furan-2-ylmethyl but-2-enoate,59020-84-7
+53424389,166.17,CC=CC(=O)OCC1=CC=CO1,furan-2-ylmethyl but-2-enoate,(furan-2-yl)methyl but-2-enoate
 53424394,214.34,CCCCC(CC)(CCCC)C(=O)OC,methyl 2-butyl-2-ethylhexanoate,methyl 2-butyl-2-ethylhexanoate
 53425122,168.4,CCCSSSCC,1-(ethyltrisulfanyl)propane,1-(ethyltrisulfanyl)propane
 53425201,189.3,CC1CC2C(C2(C)C)CC1=CCC#N,"3-(4,7,7-trimethyl-3-bicyclo[4.1.0]heptanylidene)propanenitrile","3-(4,7,7-trimethylbicyclo[4.1.0]heptan-3-ylidene)propanenitrile"
@@ -9258,7 +9260,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 53426765,156.18,CC(=C)OC(=O)CCC(=O)C,prop-1-en-2-yl 4-oxopentanoate,dtxsid70910208
 53427622,210.36,CCCCCCC=CCCCCC(=O)C,tetradec-7-en-2-one,(z)-7-tetradecen-2-one
 53427914,160.25,CCC(C)COC(C)OCC,1-(1-ethoxyethoxy)-2-methylbutane,1-(1-ethoxyethoxy)-2-methylbutane
-53427962,202.33,CCC(C)COC(C)OCCC(C)C,2-methyl-1-[1-(3-methylbutoxy)ethoxy]butane,13548-84-0
+53427962,202.33,CCC(C)COC(C)OCCC(C)C,2-methyl-1-[1-(3-methylbutoxy)ethoxy]butane,2-methyl-1-[1-(3-methylbutoxy)ethoxy]butane
 53428090,188.31,CCCCOC(C)OCCC(C)C,1-(1-butoxyethoxy)-3-methylbutane,1-(1-butoxyethoxy)-3-methylbutane
 53428112,188.31,CCOC(C(C)C)OCCC(C)C,1-(1-ethoxy-2-methylpropoxy)-3-methylbutane,253679-74-2
 53428150,202.33,CCCCCOC(C)OCCC(C)C,1-[1-(3-methylbutoxy)ethoxy]pentane,1-[1-(3-methylbutoxy)ethoxy]pentane
@@ -9284,7 +9286,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 53470667,189.3,CC1CC2C(C2(C)C)CC1/C=C/C#N,"(E)-3-(4,7,7-trimethyl-3-bicyclo[4.1.0]heptanyl)prop-2-enenitrile",68804-00-2
 53470669,189.3,CC\1CC2C(C2(C)C)C/C1=C/CC#N,"(3Z)-3-(4,7,7-trimethyl-3-bicyclo[4.1.0]heptanylidene)propanenitrile",68804-02-4
 53471638,186.32,CC(C)CC(=O)SCC=C(C)C,S-(3-methylbut-2-enyl) 3-methylbutanethioate,s-prenyl thioisopentanoate
-53471898,164.3,CC(C)C(=O)SCSC,S-(methylsulfanylmethyl) 2-methylpropanethioate,unii-nc83xa7lmv
+53471898,164.3,CC(C)C(=O)SCSC,S-(methylsulfanylmethyl) 2-methylpropanethioate,s-(methylthiomethyl) 2-methylpropanethioate
 53472027,181.66,CC[C@@H](C)[C@H](C(=O)OC)N.Cl,"methyl (2R,3R)-2-amino-3-methylpentanoate;hydrochloride",onion oil
 53472047,470.8,CC(=O)O.CC1(C2CCC(C1C2)(C)C3(CCC4CC3(C4(C)C)C5(CCC6CC5C6(C)C)C)C)C,"acetic acid;2,6,6-trimethyl-1,2-bis(2,6,6-trimethyl-2-bicyclo[3.1.1]heptanyl)bicyclo[3.1.1]heptane",akos015837978
 53630039,90.08,CCOC([O-])[O-],ethoxymethanediolate,ethylorthoformate
@@ -9293,7 +9295,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 53664107,162.23,CCOC1=CC=C(C=C1)C=CC,1-ethoxy-4-prop-1-enylbenzene,1-ethoxy-4-prop-1-enylbenzene
 53666773,168.28,CCCC=CC(=O)CCC(C)C,2-methyldec-6-en-5-one,2-methyldec-6-en-5-one
 53680649,196.29,CCCCC=COC(=O)C=CCCC,hex-1-enyl hex-2-enoate,83247-41-0
-53683233,154.25,CCCC=CCCCCC=O,dec-6-enal,"6-decenal, (6z)-"
+53683233,154.25,CCCC=CCCCCC=O,dec-6-enal,dec-6-enal
 53686594,324.5,CCCCOCCOC(C1=CC=CC=C1)OCCOCCCC,bis(2-butoxyethoxy)methylbenzene,schembl11233599
 53689298,154.21,C1CCCOC(=O)C=CCC1,"2,3,4,5,6,7-hexahydrooxecin-10-one","2,3,4,5,6,7-hexahydrooxecin-10-one"
 53721729,182.26,CCCC=CC(CC=C)OC(=O)C,"nona-1,5-dien-4-yl acetate","1,5-nonadien-4-yl acetate"
@@ -9302,7 +9304,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 53754001,194.31,CC=CC(=O)C1C(CCCC1(C)C)C,"1-(2,2,6-trimethylcyclohexyl)but-2-en-1-one","2-buten-1-one, 1-(2,2,6-trimethylcyclohexyl)-"
 53756778,180.29,CC=C1CC2CC1C(C2)OC(C)C,2-ethylidene-6-propan-2-yloxybicyclo[2.2.1]heptane,80901-68-4
 53761233,168.28,CCCCCC=CCC=CCO,"undeca-2,5-dien-1-ol",75817-50-4
-53763665,150.22,CCCC=CC=CC=CC=O,"deca-2,4,6-trienal","2,4,6-decatrienal"
+53763665,150.22,CCCC=CC=CC=CC=O,"deca-2,4,6-trienal","deca-2,4,6-trienal"
 53781394,228.29,C1=CC=C(C=C1)CC(O)OCC2=CC=CC=C2,2-phenyl-1-phenylmethoxyethanol,schembl1357789
 53822360,156.26,CCCCC(C(=CCC)C)O,4-methylnon-3-en-5-ol,4-methyl-3-nonen-5-ol
 53830717,156.2,C1=CSC(=C1)C(=O)CCO,3-hydroxy-1-thiophen-2-ylpropan-1-one,3-hydroxy-1-(thiophen-2-yl)propan-1-one
@@ -9395,7 +9397,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 55295881,183.32,CCCC1=C(SC(=N1)CC)CC,"2,5-diethyl-4-propyl-1,3-thiazole","2,5-diethyl-4-propylthiazole"
 55295883,169.29,CCCCCC1=NC(=CS1)C,"4-methyl-2-pentyl-1,3-thiazole",4-methyl-2-pentylthiazole
 56597780,178.23,CC1=C(C=C(C=C1)C(C)C)OC=O,(2-methyl-5-propan-2-ylphenyl) formate,schembl18256093
-56618482,162.23,COC1=CC=CC=C1CC2CC2,1-(cyclopropylmethyl)-2-methoxybenzene,2-cyclopropylmethyl-anisole
+56618482,162.23,COC1=CC=CC=C1CC2CC2,1-(cyclopropylmethyl)-2-methoxybenzene,schembl23886286
 56841839,152.23,CC(=O)C1CCCC/C=C\C1,1-[(3Z)-cyclooct-3-en-1-yl]ethanone,"ethanone, 1-(3-cycloocten-1-yl)-"
 56841881,332.32,C(CC(=O)O)[C@@H](C(=O)[O-])N.C(CC(=O)O)[C@@H](C(=O)[O-])N.[Ca+2],calcium;(2S)-2-amino-5-hydroxy-5-oxopentanoate,calcium diglutamate
 56841936,258.16,O.O.O=[Al]O[Si](=O)O[Si](=O)O[Al]=O,oxo-oxoalumanyloxy-[oxo(oxoalumanyloxy)silyl]oxysilane;dihydrate,kaolin
@@ -9424,13 +9426,13 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 57320331,186.25,CCCC1=NN(C=C1)C2=CC=CC=C2,1-phenyl-3-propylpyrazole,65504-93-0
 57347212,246.3,C(CO)O.C(C(=O)O)S.C(C(=O)O)S,"ethane-1,2-diol;2-sulfanylacetic acid","acetic acid, 2-mercapto-, 1,1'-(1,2-ethanediyl) ester"
 57347404,334.4,CCCCCCCCCCCC(=O)CC(=O)O.C(C(CO)O)O,"3-oxotetradecanoic acid;propane-1,2,3-triol",glycerol 3-oxotetradecanoate
-57347853,230.39,CC(C)CCOC(C(C)C)OCCC(C)C,3-methyl-1-[2-methyl-1-(3-methylbutoxy)propoxy]butane,unii-mn4rb37zma
-57347944,244.41,CC(C)CCOC(CC(C)C)OCCC(C)C,"3-methyl-1,1-bis(3-methylbutoxy)butane","3-methyl-1,1-di-isopentyloxybutane"
+57347853,230.39,CC(C)CCOC(C(C)C)OCCC(C)C,3-methyl-1-[2-methyl-1-(3-methylbutoxy)propoxy]butane,13112-63-5
+57347944,244.41,CC(C)CCOC(CC(C)C)OCCC(C)C,"3-methyl-1,1-bis(3-methylbutoxy)butane",diisopentyl acetal
 57349573,166.17,CC(=CC(=O)C=C1COC1=O)C,3-(4-methyl-2-oxopent-3-enylidene)oxetan-2-one,3-(4-methyl-2-oxopent-3-enylidene)oxetan-2-one
 57350395,160.28,CCCCC(CC=O)SC,3-methylsulfanylheptanal,3-(methylthio)heptanal
 57353225,310.5,CCCCCCCCCC(=O)OCCC(C)CCC=C(C)C,"3,7-dimethyloct-6-enyl decanoate","3,7-dimethyloct-6-en-1-yl decanoate"
 57353762,236.39,CC1=CCCCCCCCCCCCCC1=O,2-methylcyclopentadec-2-en-1-one,2-methylcyclopentadec-2-en-1-one
-57355543,272.5,CCCCCCOC(CCCCC)OCCC(C)C,1-hexoxy-1-(3-methylbutoxy)hexane,hexanal hexyl isoamyl acetal
+57355543,272.5,CCCCCCOC(CCCCC)OCCC(C)C,1-hexoxy-1-(3-methylbutoxy)hexane,1-hexoxy-1-isopentyloxy-hexane
 57357460,136.15,CC(CO)O.CC(=O)O,"acetic acid;propane-1,2-diol",1331-12-0
 57357659,182.26,CCCCC=CC1C(CC(=O)O1)C,5-hex-1-enyl-4-methyloxolan-2-one,188442-41-3
 57357909,100.12,C12C3C4C1=C5C2C3=C45,"pentacyclo[4.2.0.02,5.03,8.04,7]octa-1,3-diene",dtxsid70723931
@@ -9464,7 +9466,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 57759198,270.36,CCOC(=O)CC(=O)OC(C)C1CCCC(C1)(C)C,"3-O-[1-(3,3-dimethylcyclohexyl)ethyl] 1-O-ethyl propanedioate",478695-70-4
 58004815,223.35,C[C@@H]1CC[C@H]([C@H](C1)NC(=O)C2CC2)C(C)C,"N-[(1S,2S,5R)-5-methyl-2-propan-2-ylcyclohexyl]cyclopropanecarboxamide",unii-4g2nya84qj
 58105461,256.42,CCCCCCCCCCOC(=O)CCC(C)C,decyl 4-methylpentanoate,schembl889133
-58165301,129.23,CCC1N=C(CS1)C,"2-ethyl-4-methyl-2,5-dihydro-1,3-thiazole","2-ethyl-4-methyl-2,5-dihydrothiazole"
+58165301,129.23,CCC1N=C(CS1)C,"2-ethyl-4-methyl-2,5-dihydro-1,3-thiazole","3-thiazoline, 2-ethyl-4-methyl-"
 58265243,176.25,CCC1=CC=C(C=C1)C/C=C/OC,1-ethyl-4-[(E)-3-methoxyprop-2-enyl]benzene,4-ethyl 1-(3-methoxy-2-propen-1-yl)benzene
 58960730,144.21,CCC(CC)CC(=O)OC,methyl 3-ethylpentanoate,methyl 3-ethylpentanoate
 59018943,264.4,CC1C(C2CCCC3C2(C1(C)C)CC(O3)(C)C)(C)C,"2,2,7,7,8,9,9-heptamethyl-3a,4,5,6,6a,8-hexahydro-1H-cyclopenta[d][1]benzofuran",unii-k8r4083bcl
@@ -9528,7 +9530,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 68161670,280.4,CC1(CCC2=C(C=C(C=C21)C(C)(C)C)C3=NC=NC=C3)C,"4-(6-tert-butyl-1,1-dimethyl-2,3-dihydroinden-4-yl)pyrimidine",schembl11907474
 68161955,256.4,CC1(CC2=CN=CN=C2C3C14CCC(C4)C3(C)C)C,"2,2,11,11-tetramethyl-6,8-diazatetracyclo[10.2.1.01,10.04,9]pentadeca-4,6,8-triene",schembl11907863
 68161970,242.36,C[C@H]1C(C2=C(C1(C)C)C3=NC=NC=C3CC2)(C)C,"(8S)-7,7,8,9,9-pentamethyl-6,8-dihydro-5H-cyclopenta[h]quinazoline","7,7,8,9,9-pentamethyl-6,7,8,9-tetrahydro-5h-cyclopenta(h)quinazoline"
-68411792,196.29,C1CCCCC=CC(=O)OCCCC1,1-oxacyclotridec-3-en-2-one,98330-96-2
+68411792,196.29,C1CCCCC=CC(=O)OCCCC1,1-oxacyclotridec-3-en-2-one,1-oxacyclotridec-3-en-2-one
 68449596,192.25,CC(=CC1=CC=CC=C1)C(OC)OC,"(3,3-dimethoxy-2-methylprop-1-enyl)benzene",870002-59-8
 68575400,218.29,C=CCOC(CC1=CC=CC=C1)OCC=C,"2,2-bis(prop-2-enoxy)ethylbenzene",151259-41-5
 68575757,278.4,CCCCCOC(CC1=CC=CC=C1)OCCCCC,"2,2-dipentoxyethylbenzene",schembl3270666
@@ -9580,7 +9582,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 71391764,187.21,CCCCOC(=O)C(CC)C(=O)[O-],2-butoxycarbonylbutanoate,61841-84-7
 71391970,164.24,CC(=O)C=CC1(CCC=CC1)C,4-(1-methylcyclohex-3-en-1-yl)but-3-en-2-one,4-(1-methylcyclohex-3-en-1-yl)but-3-en-2-one
 71396131,212.35,CCCC1CC=C(C(S1)CCC)C=O,"2,6-dipropyl-3,6-dihydro-2H-thiopyran-5-carbaldehyde",unii-oty1t56cso
-71397942,168.28,CCCCCCCC=CC=CO,"undeca-1,3-dien-1-ol",schembl317205
+71397942,168.28,CCCCCCCC=CC=CO,"undeca-1,3-dien-1-ol","undeca-1,3-dien-1-ol"
 71398367,230.4,CC1=CC(=C(O1)C)SSCCC(C)C,"2,5-dimethyl-3-(3-methylbutyldisulfanyl)furan",61197-13-5
 71404539,188.26,CCC=CCCCCO.CC(=O)O,acetic acid;oct-5-en-1-ol,dtxsid00825376
 71406239,152.19,CCOC(C)C1=NC=CN=C1,2-(1-ethoxyethyl)pyrazine,2-(1-ethoxyethyl)pyrazine
@@ -9606,13 +9608,13 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 71587032,234.29,CC[C@@]1([C@](O1)(C)C2=CC=CC=C2)C(=O)OCC,"ethyl (2R,3S)-2-ethyl-3-methyl-3-phenyloxirane-2-carboxylate",ethyl alpha-ethyl-beta-methyl-beta-phenylglycidate
 71587038,220.35,C[C@@H]1CC(=O)C[C@H]2[C@]1(C[C@@H](CC2)C(=C)C)C,"(4R,4aS,6R,8aS)-4,4a-dimethyl-6-prop-1-en-2-yl-1,3,4,5,6,7,8,8a-octahydronaphthalen-2-one",dihydronootkatone
 71587144,252.35,CCCCCCCCCC(=O)OCC1=CC=CO1,furan-2-ylmethyl decanoate,furfuryl decanoate
-71587152,158.26,CC(C)/C=C(/CSC)\C=O,(E)-4-methyl-2-(methylsulfanylmethyl)pent-2-enal,unii-1g46e74k99
+71587152,158.26,CC(C)/C=C(/CSC)\C=O,(E)-4-methyl-2-(methylsulfanylmethyl)pent-2-enal,4-methyl-2-(methylthiomethyl)-2-pentenal
 71587170,168.23,C[C@@H](C=O)[C@H]1CC[C@@](O1)(C)C=C,"(2R)-2-[(2R,5S)-5-ethenyl-5-methyloxolan-2-yl]propanal","(2r,2'r,5's)-lilac aldehyde"
 71587277,164.2,C[C@@H]1CCC2=C(C(=O)OC2=C1)C,"(6R)-3,6-dimethyl-5,6-dihydro-4H-1-benzofuran-2-one",dehydromenthofurolactone
 71587283,174.26,CCCCOC(=O)/C=C/SC,butyl (E)-3-methylsulfanylprop-2-enoate,butyl beta-(methylthio)acrylate
 71587306,182.26,CC/C=C\C/C=C\CCOC(=O)C,"[(3Z,6Z)-nona-3,6-dienyl] acetate","(z,z)-3,6-nonadienyl acetate"
 71587339,171.22,CC1=C(N=CS1)CCOC=O,"2-(5-methyl-1,3-thiazol-4-yl)ethyl formate","2-(5-methyl-1,3-thiazol-4-yl)ethyl formate"
-71587372,190.26,CC(C(=O)OCC1CCCO1)S,oxolan-2-ylmethyl 2-sulfanylpropanoate,unii-xk1j81950o
+71587372,190.26,CC(C(=O)OCC1CCCO1)S,oxolan-2-ylmethyl 2-sulfanylpropanoate,fema no. 4535
 71587376,172.29,CCC(C)/C=C(/CSC)\C=O,(E)-4-methyl-2-(methylsulfanylmethyl)hex-2-enal,4-methyl-2-(methylthiomethyl)-2-hexenal
 71587383,302.5,CCCC(SCC1=CC=CC=C1)SCC2=CC=CC=C2,1-benzylsulfanylbutylsulfanylmethylbenzene,butanal dibenzyl thioacetal
 71587434,189.3,C[C@H]1N2CCC[C@H]2S[C@H](S1)C,"(2S,4S,8aR)-2,4-dimethyl-6,7,8,8a-tetrahydro-4H-pyrrolo[2,1-d][1,3,5]dithiazine",116505-60-3
@@ -9652,7 +9654,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 73997464,156.26,CCCCCCC(=C(C)O)C,3-methylnon-2-en-2-ol,dimethyl octenol
 74000387,434.6,CCCCCCCCCCCC(=O)OCC(C1C(C(CO1)OCCO)OCCO)O,"[2-[3,4-bis(2-hydroxyethoxy)oxolan-2-yl]-2-hydroxyethyl] dodecanoate",dtxsid70860052
 74689675,181.25,C1CCC2CC(CCC2C1)C(=O)[O-],"1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene-2-carboxylate","1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene-2-carboxylate"
-74934545,220.31,CCCCOC1=C(C=C(C=C1)C=CC)OC,1-butoxy-2-methoxy-4-prop-1-enylbenzene,schembl18035639
+74934545,220.31,CCCCOC1=C(C=C(C=C1)C=CC)OC,1-butoxy-2-methoxy-4-prop-1-enylbenzene,115422-59-8
 75219341,192.25,CCOCOCC=CC1=CC=CC=C1,3-(ethoxymethoxy)prop-1-enylbenzene,3-(ethoxymethoxy)prop-1-enylbenzene
 75492608,530.9,CNC.C1=CC(=C(C=C1Cl)Cl)OCC(=O)O.C(=O)(C(Cl)(Cl)Cl)C(Cl)(Cl)Cl,"2-(2,4-dichlorophenoxy)acetic acid;1,1,1,3,3,3-hexachloropropan-2-one;N-methylmethanamine",cocamides diethanolamines
 75584678,100.12,CC=C(C(=O)C)O,3-hydroxypent-3-en-2-one,3-hydroxypent-3-en-2-one
@@ -9680,7 +9682,7 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 80558711,200.27,CCCCCC1(C(O1)C(=O)OCC)C,ethyl 3-methyl-3-pentyloxirane-2-carboxylate,3-methyl-3-pentyl-oxiranecarboxylic acid ethyl ester
 82111910,192.21,COC1=C(C=CC(=C1)C(=O)CC=C)O,1-(4-hydroxy-3-methoxyphenyl)but-3-en-1-one,allylvanillin
 82502382,119.23,CC(CCCN)S,5-aminopentane-2-thiol,schembl6044861
-83043387,160.21,CCCC(CO)C(=O)OCC,ethyl 2-(hydroxymethyl)pentanoate,akos021364317
+83043387,160.21,CCCC(CO)C(=O)OCC,ethyl 2-(hydroxymethyl)pentanoate,ethyl 2-(hydroxymethyl)pentanoate
 83157785,196.33,CC1CCC(=O)C(C1)CCCC(C)C,4-methyl-2-(4-methylpentyl)cyclohexan-1-one,akos021479445
 85377469,188.22,CC(=C)C=COC(=O)C1=CC=CC=C1,"3-methylbuta-1,3-dienyl benzoate",isoprenyl benzoate
 85423699,130.21,CCOC(=S)C=CC,O-ethyl but-2-enethioate,O-ethyl but-2-enethioate
@@ -9941,8 +9943,8 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 145793235,208.34,CC(C)CCC(=CCCC(=CC=O)C)C,"3,7,10-trimethylundeca-2,6-dienal","3,7,10-trimethylundeca-2,6-dienal"
 145804821,210.36,CC(C)CC=CC(C)(CCC=C(C)C)O,"2,6,10-trimethylundeca-2,7-dien-6-ol","2,6,10-trimethylundeca-2,7-dien-6-ol"
 146677385,175.3,CCC1SC(N=C(S1)C)C,"2-ethyl-4,6-dimethyl-4H-1,3,5-dithiazine","2-ethyl-4,6-dimethyl-4H-1,3,5-dithiazine"
-146677681,216.36,CC(C)CCOC(C(C)C)OCC(C)C,3-methyl-1-[2-methyl-1-(2-methylpropoxy)propoxy]butane,3-methyl-1-[2-methyl-1-(2-methylpropoxy)propoxy]butane
-146679225,174.28,CCOC(C(C)C)OCC(C)C,1-ethoxy-2-methyl-1-(2-methylpropoxy)propane,1-isobutoxy-1-ethoxy-2-methylpropane
+146677681,216.36,CC(C)CCOC(C(C)C)OCC(C)C,3-methyl-1-[2-methyl-1-(2-methylpropoxy)propoxy]butane,dtxsid901020870
+146679225,174.28,CCOC(C(C)C)OCC(C)C,1-ethoxy-2-methyl-1-(2-methylpropoxy)propane,u6q3x367bh
 146679297,202.33,CCOC(CC(C)C)OCCC(C)C,1-ethoxy-3-methyl-1-(3-methylbutoxy)butane,1-ethoxy-1-(3-methylbutoxy)-3-methylbutane
 148244304,158.19,CCCCC1C(=O)OCCO1,"3-butyl-1,4-dioxan-2-one","3-butyl-1,4-dioxan-2-one"
 148244548,154.21,CCCC(=O)OC=CC(=C)C,"3-methylbuta-1,3-dienyl butanoate","3-methylbuta-1,3-dienyl butanoate"

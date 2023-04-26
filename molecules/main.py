@@ -47,23 +47,17 @@ print(f'{len(archives)} archives contributing to the master molecule list')
 # Get molecules
 all_molecules = {}
 for archive in archives:
-    df = pyrfume.load_data(f'{archive}/molecules.csv')
-    
-    # Add column to later disambiguate <0 CIDs (molecule with strucutre but no CID on PubChem that were assigned "CIDs" 
-    # during curation) so that duplicated values will not get dropped for unique molecules
-    df['new CID'] = df.apply(lambda row: f'{row.name}_{row.IsomericSMILES}' if row.name < 0 else row.name, axis=1)
-    
+    df = pyrfume.load_data(f'{archive}/molecules.csv')   
     all_molecules[archive] = df
 
 # +
 # Covnert to dataframe
 molecules = pd.concat(all_molecules, axis=0).reset_index().rename(columns={'level_0': 'Archive'})
 molecules = molecules.set_index('CID').sort_index()
-molecules = molecules[['MolecularWeight', 'IsomericSMILES', 'IUPACName', 'name', 'new CID']]
+molecules = molecules[['MolecularWeight', 'IsomericSMILES', 'IUPACName', 'name']]
  
 # Drop duplicates (~80 CIDs appear in duplicate because of differences in common name)
-molecules = molecules[~molecules.index.duplicated()].set_index('new CID')
-molecules.index.name = 'CID'
+molecules = molecules[~molecules.index.duplicated()]
 
 print(f'{molecules.shape[0]} unique molecules')
 molecules.head()
@@ -72,9 +66,10 @@ molecules.head()
 # Usage
 usage = pd.DataFrame(index=molecules.index)
 for archive in archives:
-    archive_mols = all_molecules[archive].set_index('new CID')
+    archive_mols = all_molecules[archive]
     usage[archive] = usage.index.isin(archive_mols.index).astype(int)
 
+print(usage.shape)
 usage.head()
 # -
 
