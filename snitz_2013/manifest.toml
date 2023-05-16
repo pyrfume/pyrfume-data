@@ -7,6 +7,7 @@ tags = "human;odorCharacter;mixtures;academic"
 
 [raw]
 "pcbi.1003184.s003.pdf" = "Supplementary Table 2: Similarity ratings by dataset"
+"pcbi.1003184.s002.csv" = "Physicochemical (Dragon) descriptors"
 
 [parsed]
 "experiment1_comparisons.csv" = "Parsed behavior for experiment 1 from raw data"
@@ -18,6 +19,7 @@ tags = "human;odorCharacter;mixtures;academic"
 "molecules.csv" = "Information about odorant molecules used"
 "behavior.csv" = "Similarity ratings for single molecules and mixtures"
 "stimuli.csv" = "Maps stimulus to CID"
+"physics.csv" = "Physicochemical descriptors"
 
 [code]
-"main.py" = "Processing workflow from parsed to processed data"
+"main.py" = "Processing workflow from raw/parsed to processed data"
