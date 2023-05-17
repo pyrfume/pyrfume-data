@@ -1,0 +1,18 @@
+# Manifest for Jones et al, 2019 data
+[source]
+doi = "https://doi.org/10.1016/j.cels.2019.02.009"
+title = "A Scalable, Multiplexed Assay for Decoding GPCR-Ligand Interactions with RNA Sequencing"
+authors = "E M Jones, R Jajoo, D Cancilla, N B Lubock, J Wang, M Satyadi, R Cheung, C de March, J S Bloom, H Matsunami, S Kosuri"
+tags = "rodent;receptorResponse;academic;threshold"
+
+[raw]
+"mmc2.xlsx" = "List of the odorant-receptor interactions identified in their screen. Interactions listed with the Mouse OR nomenclature and authors OR code, the odorant, the minimum activating concentration, reporter fold-change, p-value, and FDR."
+
+[processed]
+"molecules.csv" = "Information about odorant molecules used"
+"stimuli.csv" = "Maps stimulus ID to Odorant and CID (where applicable)"
+"subjects.csv" = "Maps subject ID to OR Name (using Mouse naming convention)"
+"behavior.csv" = "Minimum activating concentration, reporter fold-change, p-value, and FDR for each stimulus/OR pair"
+
+[code]
+"main.py" = "Processing workflow"
