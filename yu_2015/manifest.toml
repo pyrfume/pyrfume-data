@@ -1,0 +1,18 @@
+# Manifest for YU et al, 2015 data
+[source]
+doi = "https://doi.org/10.1073/pnas.1517510112"
+title = "Responsiveness of G protein-coupled odorant receptors is partially attributed to the activation mechanism"
+authors = "Y Yu, C A de March, M J Ni, K A Adipietro, J Golebiowski, H Matsunami, M Ma"
+tags = "receptorResponse;academic"
+
+[raw]
+"Table_S1.xlsx" = "Supplementary Table 1. Odorant responses of wild type (WT) and mutant MOR256-3 ORs. For each OR, responses to individual odorants (all at 300 μM) are normalized to WT response to 1-octanol and corrected for surface expression. Total response is the sum of responses to all five odorants."
+
+[processed]
+"molecules.csv" = "Molecules used"
+"stimuli.csv" = "Maps stimulus ID to in-lab odorant code, odorant name, CID, and concentration"
+"subjects" = "Maps subject ID to OR domain and MOR256-3 mutant"
+"behavior.csv" = "Normalized odorant responses"
+
+[code]
+"main.py" = "Processing workflow"
