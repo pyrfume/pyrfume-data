@@ -1,0 +1,27 @@
+CID,MolecularWeight,IsomericSMILES,IUPACName,name
+6669,294.30,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)C(=O)C,"1-(4-tert-butyl-2,6-dimethyl-3,5-dinitrophenyl)ethanone",musk ketone
+6753,268.27,CC1=C(C=C(C(=C1[N+](=O)[O-])OC)C(C)(C)C)[N+](=O)[O-],"1-tert-butyl-2-methoxy-4-methyl-3,5-dinitrobenzene",musk ambrette
+8376,227.13,CC1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-],"2-methyl-1,3,5-trinitrobenzene","2,4,6-trinitrotoluene"
+8461,182.13,CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-],"1-methyl-2,4-dinitrobenzene","2,4-dinitrotoluene"
+10409,224.38,C1CCCCCCCC(=O)CCCCCC1,cyclopentadecanone,cyclopentadecanone
+10947,238.41,CC1CCCCCCCCCCCCC(=O)C1,3-methylcyclopentadecan-1-one,muscone
+10954,250.4,C1CCCC=CCCCCCCCC(=O)CCC1,cycloheptadec-9-en-1-one,cycloheptadec-9-en-1-one
+13246,182.30,C1CCCCCC(=O)CCCCC1,cyclododecanone,cyclododecanone
+13690,197.32,C1CCCCCC(=O)NCCCCC1,azacyclotridecan-2-one,azacyclotridecan-2-one
+61014,270.36,C1CCCCCC(=O)OCCOC(=O)CCCCC1,"1,4-dioxacycloheptadecane-5,17-dione",ethylene brassylate
+62329,297.26,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)[N+](=O)[O-],"1-tert-butyl-3,5-dimethyl-2,4,6-trinitrobenzene",musk xylene
+67350,266.29,CC1=C(C(=C(C(=C1C)[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C,"1-tert-butyl-3,4,5-trimethyl-2,6-dinitrobenzene",musk tibetene
+67525,210.40,C1CCCCCCCCCCCCCC1,cyclopentadecane,cyclopentadecane
+70354,198.30,C1CCCCCC(=O)OCCCCC1,oxacyclotridecan-2-one,oxacyclotridecan-2-one
+75695,238.41,C1CCCCCCCC(=O)CCCCCCC1,cyclohexadecanone,cyclohexadecanone
+77226,252.4,C1CCCCCCCCC(=O)CCCCCCC1,cycloheptadecanone,cycloheptadecanone
+89440,258.4,CC1CC(C2=C(C1(C)C)C=C(C(=C2)C(=O)C)C)(C)C,"1-(3,5,5,6,8,8-hexamethyl-6,7-dihydronaphthalen-2-yl)ethanone",tonalide
+91497,258.4,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,"4,6,6,7,8,8-hexamethyl-1,3,4,7-tetrahydrocyclopenta[g]isochromene",galaxolide
+91696,258.4,CC1C(C2=C(C1(C)C)C=C(C(=C2)C(=O)C)C)C(C)C,"1-(1,1,2,6-tetramethyl-3-propan-2-yl-2,3-dihydroinden-5-yl)ethanone",traseolide
+107327,226.40,C1CCCCCCCC(CCCCCC1)O,cyclopentadecanol,cyclopentadecanol
+162268,236.39,C1CCCCCC(=O)CCCC=CCCCC1,cyclohexadec-5-en-1-one,5-cyclohexadecen-1-one
+235414,240.38,C1CCCCCCCOC(=O)CCCCCC1,oxacyclohexadecan-2-one,oxacyclohexadecan-2-one
+3591866,252.39,C1CCCCC=CCCCCC(=O)OCCCC1,1-oxacycloheptadec-7-en-2-one,1-oxacycloheptadec-7-en-2-one
+7160826,238.41,C[C@@H]1CCCCCCCCCCCCC(=O)C1,(3R)-3-methylcyclopentadecan-1-one,10403-00-6
+12543973,228.44,C1CCCCCCCSCCCCCC1,thiacyclopentadecane,thiacyclopentadecane
+87547960,242.5,C1CCCCCCCC(CCCCCC1)S,cyclopentadecanethiol,schembl3627050

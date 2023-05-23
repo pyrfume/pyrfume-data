@@ -1,0 +1,42 @@
+Code,Odorant,IUPAC Name,CID
+(E)-34,"(R,E)-10,11-Dehydro-7,7-dilfuoromuscone","(R,E)-7,7-Difluoro-3-methylcyclopentadec-10-en-1-one",
+(E)-36,"(R, E)-6,7-Dehydro-9,9-difluoromuscone","(R,E)-9,9-Difluoro-3-methylcyclopentadec-6-en-1-one",
+(E)-37,"(R, E)-6,7-Dehydro-10,10-difluoromuscone","(R,E)-10,10-Difluoro-3-methylcyclopentadec-6-en-1-one",
+(R)-1,(R)-Muscone,(R)-3-Methylcyclopentadecan-1-one,
+(Z)-32,"((R,Z)-6,7-Dehydromuscone","(R,Z)-3-Methylcyclopentadec-6-en-1-one",
+(Z)-34,"(R,Z)-10,11-Dehydro-7,7-dilfuoromuscone","(R,Z)-7,7-Difluoro-3-methylcyclopentadec-10-en-1-one",
+(Z)-37,"(R, Z)-6,7-Dehydro-10,10-difluoromuscone","(R,Z)-10,10-Difluoro-3-methylcyclopentadec-6-en-1-one",
+1,Racemic muscone,3-Methylcyclopentadecan-1-one,10947
+10,Ambretone,Cyclohexadec-5-en-1-one,162268
+11,Dihydrocivetone,Cycloheptadecanone,77226
+12,Civetone,Cycloheptadec-9-en-1-one,10954
+13,Ambrettolide,1-Oxacycloheptadec-7-en-2-one,3591866
+14,Ethylene brassylate,"1,4-Dioxacycloheptadecane-5,17-dione",61014
+15,Cyclododecanone,Cyclododecanone,13246
+16,Oxacyclotridecan-2-one,Oxacyclotridecan-2-one,70354
+17,Thiacyclotridecane 1-oxide,Thiacyclotridecane-1-oxide,
+18,Azacyclotridecan-2-one,Azacyclotridecan-2-one,13690
+19,Musk ketone,"1-(4-tert-Butyl-2,6-dimethyl-3,5-dinitrophenyl)ethanone",6669
+2,Cyclopentadecanone,Cyclopentadecanone,10409
+20,Musk xylene,"1-tert-Butyl-3,5-dimethyl-2,4,6-trinitrobenzene",62329
+21,Musk tibetene,"1-tert-Butyl-3,4,5-trimethyl-2,6-dinitrobenzene",67350
+22,Musk ambrette,"1-tert-Butyl-2-methoxy-4-methyl-3,5-dinitrobenzene",6753
+23,Trinitrotoluene,"2-Methyl-1,3,5-trinitrobenzene",8376
+24,"2,4-Dinitrotoluene","1-Methyl-2,4-dinitrobenzene",8461
+25,Traseolide,"1-(1,1,2,6-Tetramethyl-3-propan-2-yl-2,3-dihydroinden-5-yl)ethanone",91696
+26,Galaxolide,"4,6,6,7,8,8-Hexamethyl-1,3,4,7-tetrahydrocyclopenta[g]isochromene",91497
+27,Tonalide,"1-(3,5,5,6,8,8-Hexamethyl-6,7-dihydronaphthalen-2-yl)ethanone",89440
+28,"(R)-6,6-Difluoromuscone","(R)-6,6-Difluoro-3-methylcyclopentadecan-1-one",
+29,"(R)-7,7-Difluoromuscone","R)-7,7-Difluoro-3-methylcyclopentadecan-1-one",
+3,Cyclopentadecanol,Cyclopentadecanol,107327
+30,"(R)-8,8-Difluoromuscone","(R)-8,8-Difluoro-3-methylcyclopentadecan-1-one",
+31,"(R)-10,10-Difluoromuscone","(R)-10,10-Difluoro-3-methylcyclopentadecan-1-one",
+32,"(R)-6,7-Dehydromuscone (E:Z = 10:1)",(R)-3-Methylcyclopentadec-6-en-1-one E:Z = 10:1,
+33,"(R)-9,10-Dehydro-6,6-difluoromuscone (E:Z = 3:2)","(R)-6,6-Difluoro-3-methylcyclopentadec-8-en-1-one E:Z = 3:2",
+35,"(R)-5,6-Dehydro-8,8-difluoromuscone (E:Z = 10:1)","(R)-8,8-Difluoro-3-methylcyclopentadec-5-en-1-one E:Z = 10:1",
+4,Cyclopentadecane,Cyclopentadecane,67525
+5,Thiacyclopentadecane 1-oxide,Thiacyclopentadecane 1-oxide,
+6,Thiacyclopentadecane,Thiacyclopentadecane,12543973
+7,Cyclopentadecanethiol,Cyclopentadecanethiol,87547960
+8,Isomuscone,Cyclohexadecanone,75695
+9,ω-Pentadecalactone,Oxacyclohexadecan-2-one,235414
