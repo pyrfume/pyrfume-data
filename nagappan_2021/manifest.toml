@@ -1,0 +1,15 @@
+# Manifest for Nagappan and Franks, 2021
+[source]
+doi = “10.7554/eLife.73668”
+title = “Parallel processing by distinct classes of principal neurons in the olfactory cortex”
+authors = “S Nagappan, K Franks”
+tags = "rodent;academic;electrophysiology"
+
+[processed]
+“subjects.csv” = “List of experimental subjects, each a being unique session, odor, concentration tuple”
+“stimuli.csv” = “Stimuli, ID’d on odor and concentration” 
+"molecules.csv" = "Information about odorant molecules used"
+"behavior.csv" = “Spiking data for all subject, stimulus combinations”
+
+[code]
+"main.py" = "Processing workflow"
