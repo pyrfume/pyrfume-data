@@ -1,0 +1,54 @@
+stimuli,odorant panel,odor,odor name,CID,conc in ppm,conc dilution from 85 mM
+natMix_0,natMix,0,Sunflower Butter,,100.0,
+natMix_1,natMix,1,Peanut Butter,,100.0,
+natMix_2,natMix,2,Female Mouse Urine,,100.0,
+natMix_3,natMix,3,Male Mouse Urine,,100.0,
+natMix_4,natMix,4,Wolf Urine,,100.0,
+natMix_5,natMix,5,Bobcat Urine,,100.0,
+natMix_6,natMix,6,Lavander Flowers,,100.0,
+natMix_7,natMix,7,Rose Oil,,100.0,
+natMix_8,natMix,8,Coffee Beans,,100.0,
+natMix_9,natMix,9,Mint Leaves,,100.0,
+natMix_10,natMix,10,Hickory Chips,,100.0,
+natMix_11,natMix,11,Clove Budes,,100.0,
+natMix_12,natMix,12,Eucalyptus Oil,,100.0,
+CS_0,CS,0,2 phenylethanol,6054.0,,1.0
+CS_1,CS,1,2 phenylethanol,6054.0,,0.1
+CS_2,CS,2,2 phenylethanol,6054.0,,0.01
+CS_3,CS,3,2 phenylethanol,6054.0,,0.001
+CS_4,CS,4,2 phenylethanol,6054.0,,0.0001
+CS_5,CS,5,isoamylacetate,,,1.0
+CS_6,CS,6,isoamylacetate,,,0.1
+CS_7,CS,7,isoamylacetate,,,0.01
+CS_8,CS,8,isoamylacetate,,,0.001
+CS_9,CS,9,isoamylacetate,,,0.0001
+CS_10,CS,10,"2,3,4-trimethyl-3-thiazoline",,,1.0
+CS_11,CS,11,"2,3,4-trimethyl-3-thiazoline",,,0.1
+CS_12,CS,12,"2,3,4-trimethyl-3-thiazoline",,,0.01
+CS_13,CS,13,"2,3,4-trimethyl-3-thiazoline",,,0.001
+CS_14,CS,14,"2,3,4-trimethyl-3-thiazoline",,,0.0001
+15_0,15,0,pentanal,8063.0,100.0,
+15_1,15,1,hexanal,6184.0,100.0,
+15_2,15,2,heptanal,8130.0,100.0,
+15_3,15,3,heptanol,8129.0,100.0,
+15_4,15,4,octanol,957.0,100.0,
+15_5,15,5,nonanol,8914.0,100.0,
+15_6,15,6,phenetol,7674.0,100.0,
+15_7,15,7,guaiacol,460.0,100.0,
+15_8,15,8,m-cresol,342.0,100.0,
+15_9,15,9,"2,4,5-trimethylthiazole",61653.0,100.0,
+15_10,15,10,"4,5-dimethylthiazole",62510.0,100.0,
+15_11,15,11,4-methylthiazole,12748.0,100.0,
+15_12,15,12,trimethylamine,1146.0,100.0,
+15_13,15,13,isopentylamine,7894.0,100.0,
+15_14,15,14,2-phenyl-ethylamine,1001.0,100.0,
+AA_0,AA,0,"2,3,5-trimethyl-3-thiazoline",,100.0,
+AA_1,AA,1,2-methylbutyric acid,8314.0,100.0,
+AA_2,AA,2,2-propyltiethane,,100.0,
+AA_3,AA,3,3-mercapto-3-methuybutan-1-ol,520682.0,100.0,
+AA_4,AA,4,isopentylamine,7894.0,100.0,
+AA_5,AA,5,"2,3-butanedione",650.0,100.0,
+AA_6,AA,6,geraniol,637566.0,100.0,
+AA_7,AA,7,2-phenylethanol,6054.0,100.0,
+AA_8,AA,8,Peanut oil,,100.0,
+AA_9,AA,9,Estrus female urine,,100.0,

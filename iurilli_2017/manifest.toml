@@ -1,0 +1,19 @@
+# Manifest for Iurilli and Datta 2017
+[source]
+doi = "10.1016/j.neuron.2017.02.010"
+title = "Population coding in an innately relevant olfactory area"
+authors = "G Iurilli, SR Datta"
+tags = "rodent;academic"
+
+[raw]
+
+"B_P.mat" = "Single unit spiking data from 2 brain areas, in response to odor stimulation. B is brain region, P is odorant panel; B = ['aPCx', 'plCoA']: anterior piriform cortex and Cortical Amygdala, respectively; P = ['15', 'AA', 'CS', 'natMix']: 15 monomolecular odorants, Aversive/Appetitive, Concentration Series, natural Mixtures"
+
+[processed]
+"molecules.csv" = "Information about odorant molecules used"
+"behavior.csv" = "Spike times and firing rate, indexed on subjects and stimuli"
+"subjects.csv" = "Unique subjects comprising brain area, odorant panel, electrode shank #, and cell #"
+"stimuli.csv" = "Odorants used in the experiments; 4 odorant panels"
+
+[code]
+"main.py" = "Processing workflow"
