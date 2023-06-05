@@ -329,7 +329,14 @@ molecules.set_index('CID', inplace=True)
 
 # + id="qmFzrDnSVvjs"
 # write the behavior, subjects, stimuli, and molecules files
-behavior.to_csv('behavior.csv')
 stimuli.to_csv('stimuli.csv')
 subjects.to_csv('subjects.csv')
 molecules.to_csv('molecules.csv')
+# -
+
+# behavior.csv file is too large for github. Using LFS-cache system.
+actual_file = os.path.join('untracked','behavior.csv')
+behavior.to_csv(actual_file)
+hashed = pyrfume.lfs_hash(actual_file)
+df_hashed_behavior = pd.DataFrame(['redirect', hashed])
+df_hashed_behavior.to_csv('behavior.csv', header=False, index=False)
