@@ -1,0 +1,16 @@
+# Manifest for Bolding and Franks 2018
+[source]
+doi = "10.1126/science.aat6904"
+
+title = "Recurrent cortical circuits implement concentration-invariant odor coding"
+authors = "KA Bolding, KM Franks"
+tags = "rodent;academic"
+
+[processed]
+"molecules.csv" = "Information about odorant molecules used"
+"behavior.csv" = "Spike counts, indexed on subjects and stimuli"
+"subjects.csv" = "Unique subjects comprising experiment name, odor series#, and cell#"
+"stimuli.csv" = "Odorants used in the experiments; 2 odorant panels with different permutations of stimuli and concentrations"
+
+[code]
+"main.py" = "Processing workflow"
