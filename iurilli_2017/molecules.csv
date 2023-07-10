@@ -1,0 +1,22 @@
+CID,MolecularWeight,IsomericSMILES,IUPACName,name
+342,108.14,CC1=CC(=CC=C1)O,3-methylphenol,m-cresol
+460,124.14,COC1=CC=CC=C1O,2-methoxyphenol,guaiacol
+650,86.09,CC(=O)C(=O)C,"butane-2,3-dione","2,3-butanedione"
+957,130.23,CCCCCCCCO,octan-1-ol,1-octanol
+1001,121.18,C1=CC=C(C=C1)CCN,2-phenylethanamine,phenethylamine
+1146,59.11,CN(C)C,"N,N-dimethylmethanamine",trimethylamine
+6054,122.16,C1=CC=C(C=C1)CCO,2-phenylethanol,2-phenylethanol
+6054,122.16,C1=CC=C(C=C1)CCO,2-phenylethanol,2-phenylethanol
+6184,100.16,CCCCCC=O,hexanal,hexanal
+7674,122.16,CCOC1=CC=CC=C1,ethoxybenzene,phenetole
+7894,87.16,CC(C)CCN,3-methylbutan-1-amine,isoamylamine
+8063,86.13,CCCCC=O,pentanal,pentanal
+8129,116.20,CCCCCCCO,heptan-1-ol,1-heptanol
+8130,114.19,CCCCCCC=O,heptanal,heptanal
+8314,102.13,CCC(C)C(=O)O,2-methylbutanoic acid,2-methylbutanoic acid
+8914,144.25,CCCCCCCCCO,nonan-1-ol,nonan-1-ol
+12748,99.16,CC1=CSC=N1,"4-methyl-1,3-thiazole",4-methylthiazole
+61653,127.21,CC1=C(SC(=N1)C)C,"2,4,5-trimethyl-1,3-thiazole","2,4,5-trimethylthiazole"
+62510,113.18,CC1=C(SC=N1)C,"4,5-dimethyl-1,3-thiazole","4,5-dimethylthiazole"
+520682,120.22,CC(C)(CCO)S,3-methyl-3-sulfanylbutan-1-ol,3-mercapto-3-methyl-1-butanol
+637566,154.25,CC(=CCC/C(=C/CO)/C)C,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",geraniol
