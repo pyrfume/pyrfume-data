@@ -1,0 +1,22 @@
+# Manifest for Slone et al, 2017 data
+[source]
+doi = "10.1073/pnas.1704647114"
+title = "Functional characterization of odorant receptors in the ponerine ant, Harpegnathos saltator"
+authors = "J D Slone, G M Pask, S T Ferguson, J G Millar, S L Berger, D Reinberg, J Liebig, A Ray, L J Zwiebel"
+tags = "harpegnathos;receptorResponse;academic"
+
+[raw]
+"Table_S2.xlsx" = "Supplementary Table 2. List of odorants used."
+"pnas.1704647114.sd01.xlsx" = "Dataset S1. Average SSR and EAG responses."
+"pnas.1704647114.sd02.xlsx" = "Dataset S2. Principal Component Scores for SRR and EAG recordings."
+
+[processed]
+"molecules.csv" = "Information about odorant molecules used."
+"stimuli.csv" = "Maps stimulus ID to full name, CAS #, and CID."
+"subjects.csv" = "Maps subject ID to OR Line, Subfamily, and Enrichment."
+"behavior_1.csv" = "SSR data. 'No-UAS' control = parental flies with only Orco-GAL4 containing chromosomes."
+"behavior_2.csv" = "EAG data. 'No-UAS' control = parental flies with only Orco-GAL4 containing chromosomes."
+"behavior_3.csv" = "PCA components."
+
+[code]
+"main.py" = "Processing workflow from parsed to processed data."

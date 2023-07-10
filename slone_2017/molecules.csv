@@ -1,0 +1,80 @@
+CID,MolecularWeight,IsomericSMILES,IUPACName,name
+176,60.05,CC(=O)O,acetic acid,acetic acid
+180,58.08,CC(=O)C,propan-2-one,acetone
+284,46.025,C(=O)O,formic acid,formic acid
+650,86.09,CC(=O)C(=O)C,"butane-2,3-dione","2,3-butanedione"
+702,46.07,CCO,ethanol,ethanol
+1254,156.26,CC1CCC(C(C1)O)C(C)C,5-methyl-2-propan-2-ylcyclohexan-1-ol,menthol
+2537,152.23,CC1(C2CCC1(C(=O)C2)C)C,"1,7,7-trimethylbicyclo[2.2.1]heptan-2-one",camphor
+2758,154.25,CC1(C2CCC(O1)(CC2)C)C,"1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane",eucalyptol
+4133,152.15,COC(=O)C1=CC=CC=C1O,methyl 2-hydroxybenzoate,methyl salicylate
+4284,191.27,CCN(CC)C(=O)C1=CC=CC(=C1)C,"N,N-diethyl-3-methylbenzamide",diethyltoluamide
+6276,88.15,CCCCCO,pentan-1-ol,1-pentanol
+6549,154.25,CC(=CCCC(C)(C=C)O)C,"3,7-dimethylocta-1,6-dien-3-ol",linalool
+6920,126.18,CC(=O)C1=CC=CS1,1-thiophen-2-ylethanone,2-acetylthiophene
+7043,138.16,COC1=CC=CC=C1OC,"1,2-dimethoxybenzene","1,2-dimethoxybenzene"
+7938,108.14,CC1=CN=CC(=N1)C,"2,6-dimethylpyrazine","2,6-dimethylpyrazine"
+7945,130.18,CCOC(=O)CC(C)C,ethyl 3-methylbutanoate,ethyl isovalerate
+7967,98.14,C1CCC(=O)CC1,cyclohexanone,cyclohexanone
+7976,94.11,CC1=NC=CN=C1,2-methylpyrazine,2-methylpyrazine
+8003,72.15,CCCCC,pentane,pentane
+8051,114.19,CCCCCC(=O)C,heptan-2-one,2-heptanone
+8182,170.33,CCCCCCCCCCCC,dodecane,dodecane
+8205,228.37,CCCCCCCCCCCCOC(=O)C,dodecyl acetate,dodecyl acetate
+8222,282.5,CCCCCCCCCCCCCCCCCCCC,icosane,eicosane
+8842,156.26,CC(CCC=C(C)C)CCO,"3,7-dimethyloct-6-en-1-ol",citronellol
+8857,88.11,CCOC(=O)C,ethyl acetate,ethyl acetate
+9261,80.09,C1=CN=CC=N1,pyrazine,pyrazine
+9862,126.20,CC(=CCCC(=O)C)C,6-methylhept-5-en-2-one,6-methyl-5-hepten-2-one
+11006,226.44,CCCCCCCCCCCCCCCC,hexadecane,hexadecane
+11008,450.9,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,dotriacontane,dotriacontane
+11635,254.5,CCCCCCCCCCCCCCCCCC,octadecane,octadecane
+11636,380.7,CCCCCCCCCCCCCCCCCCCCCCCCCCC,heptacosane,heptacosane
+12388,184.36,CCCCCCCCCCCCC,tridecane,tridecane
+12389,198.39,CCCCCCCCCCCCCC,tetradecane,tetradecane
+12391,212.41,CCCCCCCCCCCCCCC,pentadecane,pentadecane
+12398,240.5,CCCCCCCCCCCCCCCCC,heptadecane,heptadecane
+12401,268.5,CCCCCCCCCCCCCCCCCCC,nonadecane,nonadecane
+12403,296.6,CCCCCCCCCCCCCCCCCCCCC,henicosane,heneicosane
+12405,310.6,CCCCCCCCCCCCCCCCCCCCCC,docosane,docosane
+12406,352.7,CCCCCCCCCCCCCCCCCCCCCCCCC,pentacosane,pentacosane
+12407,366.7,CCCCCCCCCCCCCCCCCCCCCCCCCC,hexacosane,hexacosane
+12408,394.8,CCCCCCCCCCCCCCCCCCCCCCCCCCCC,octacosane,octacosane
+12409,408.8,CCCCCCCCCCCCCCCCCCCCCCCCCCCCC,nonacosane,nonacosane
+12410,436.8,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,hentriacontane,hentriacontane
+12411,464.9,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,tritriacontane,tritriacontane
+12412,507.0,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,hexatriacontane,hexatriacontane
+12413,492.9,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,pentatriacontane,pentatriacontane
+12534,324.6,CCCCCCCCCCCCCCCCCCCCCCC,tricosane,tricosane
+12535,422.8,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,triacontane,triacontane
+12592,338.7,CCCCCCCCCCCCCCCCCCCCCCCC,tetracosane,tetracosane
+13187,142.24,CCCCCCCC(=O)C,nonan-2-one,2-nonanone
+14257,156.31,CCCCCCCCCCC,undecane,undecane
+14296,136.19,CC1=C(N=C(C(=N1)C)C)C,"2,3,5,6-tetramethylpyrazine","2,3,5,6-tetramethylpyrazine"
+15600,142.28,CCCCCCCCCC,decane,decane
+17100,154.25,CC1=CCC(CC1)C(C)(C)O,2-(4-methylcyclohex-3-en-1-yl)propan-2-ol,alpha-terpineol
+18827,128.21,CCCCCC(C=C)O,oct-1-en-3-ol,1-octen-3-ol
+23598,521.0,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,heptatriacontane,heptatriacontane
+26331,108.14,CCC1=NC=CN=C1,2-ethylpyrazine,2-ethylpyrazine
+26519,478.9,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,tetratriacontane,tetratriacontane
+26989,130.23,CCCC(C)C(CC)O,4-methylheptan-3-ol,4-methyl-3-heptanol
+29746,182.30,C[C@H]1CCC[C@@]2([C@@]1(CCCC2)O)C,"(4S,4aS,8aR)-4,8a-dimethyl-1,2,3,4,5,6,7,8-octahydronaphthalen-4a-ol",geosmin
+31231,164.20,CC(=O)CC1=CC=C(C=C1)OC,1-(4-methoxyphenyl)propan-2-one,4-methoxyphenylacetone
+31260,88.15,CC(C)CCO,3-methylbutan-1-ol,isoamyl alcohol
+61653,127.21,CC1=C(SC(=N1)C)C,"2,4,5-trimethyl-1,3-thiazole","2,4,5-trimethylthiazole"
+73796,436.8,CCCCCCCCCCCCCCCCCCCCCCCCCCCCC(C)C,2-methyltriacontane,2-methyltriacontane
+85691,422.8,CCCCCCCCCCCCCCCCCCCCCCCCCCC(C)CC,3-methylnonacosane,3-methylnonacosane
+445070,222.37,CC(=CCC/C(=C/CC/C(=C/CO)/C)/C)C,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",farnesol
+519147,408.8,CCCCCCCCCCCCCCCCCCCCCCCCCCC(C)C,2-methyloctacosane,2-methyloctacosane
+522504,422.8,CCCCCCCCCCCCCCCCC(C)CCCCCCCCCCCC,13-methylnonacosane,13-methylnonacosane
+527410,450.9,CCCCCCCCCCCCCCCCCCCCCCCCCCC(C)CCCC,5-methylhentriacontane,5-methylhentriacontane
+530409,450.9,CCCCCCCCCCCCCCCCCCC(C)CCCCCCCCCCCC,13-methylhentriacontane,13-methylhentriacontane
+637566,154.25,CC(=CCC/C(=C/CO)/C)C,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",geraniol
+638011,152.23,CC(=CCC/C(=C/C=O)/C)C,"(2E)-3,7-dimethylocta-2,6-dienal",citral
+1549026,196.29,CC(=CCC/C(=C/COC(=O)C)/C)C,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",geranyl acetate
+5281168,98.14,CCC/C=C/C=O,(E)-hex-2-enal,trans-2-hexenal
+6430031,450.9,CCCCCCCCCCCCCCCCC(C)CCCCCCCCCCCCCC,15-methylhentriacontane,15-methylhentriacontane
+6430404,549.1,CCCCCCCCCCCCCCC(C)CCCCCCCCCC(C)CCCCCCCCCCCC,"13,23-dimethylheptatriacontane","13,23-dimethylheptatriacontane"
+6430405,422.8,CCCCCCCCCCCCCCC(C)CCCCCCCCCCCCCC,15-methylnonacosane,15-methylnonacosane
+14367299,406.8,CCCCCCCCCCCCCCCCCCC/C=C\CCCCCCCC,(Z)-nonacos-9-ene,(z)-9-nonacosene
+56936093,434.8,CCCCCCCCCCCCCCCCCCCCC/C=C\CCCCCCCC,(Z)-hentriacont-9-ene,9z-hentriacontene
