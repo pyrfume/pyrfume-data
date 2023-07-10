@@ -1,0 +1,21 @@
+stim ID,odor idx,loading,odor name,CID,concs
+4_C,4,C,mineral oil,,1.0
+5_C,5,C,hexanal,6184.0,0.3
+6_C,6,C,2-hexanone,11583.0,0.3
+7_C,7,C,isoamyl acetate,31276.0,0.3
+9_C,9,C,ethyl acetate,8857.0,0.3
+10_C,10,C,ethyl butyrate,7762.0,0.3
+11_C,11,C,ethyl tiglate,5281163.0,0.3
+0_A,0,A,mineral oil,,1.0
+1_A,1,A,ethyl butyrate,7762.0,0.03
+2_A,2,A,ethyl butyrate,7762.0,0.1
+3_A,3,A,ethyl butyrate,7762.0,0.3
+4_A,4,A,ethyl butyrate,7762.0,1.0
+6_A,6,A,2-hexanone,11583.0,0.3
+7_A,7,A,isoamyl acetate,31276.0,0.3
+9_A,9,A,hexanal,6184.0,0.03
+10_A,10,A,hexanal,6184.0,0.1
+11_A,11,A,hexanal,6184.0,0.3
+12_A,12,A,hexanal,6184.0,1.0
+14_A,14,A,ethyl tiglate,5281163.0,0.3
+15_A,15,A,ethyl acetate,8857.0,0.3
