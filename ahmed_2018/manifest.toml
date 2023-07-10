@@ -1,0 +1,18 @@
+# Manifest for Ahmed et al 2018
+[source]
+doi = "https://doi.org/10.1073/pnas.1713026115"
+title = "Molecular mechanism of activation of human musk receptors OR5AN1 and OR1A1 by (R)-muscone and diverse other musk-smelling compounds"
+authors = "L Ahmed, Y Zhang, E Block, M Buehl, M J Corr, R A Cormanich, S Gundala, H Matsunami, D O’Hagan, M Ozbil, Y Pan, S Sekharan, N Ten, M Wang, M Yang, Q Zhang, R Zhang, V S Batista, H Zhuang"
+tags = "receptorResponse;academic"
+
+[raw]
+"pnas.1713026115.sapp52-70.pdf" = "Pages 52-70 from Supporing Information which contain supplemental tables."
+
+[processed]
+"molecules.csv" = "Information about odorant molecules used"
+"subjects.csv" = "Maps subject ID or OR"
+"stimuli.csv" = "Maps stimulus ID (in-lab odorant code) to common name, IUPAC name, and CID"
+"behavior_1.csv" = "EC50 data for OR5AN1 and OR1A1 responses to musks. 'Nan' values indicate little or no response where no meaningful EC50 value could be obtained."
+
+[code]
+"main.py" = "Processing workflow"
