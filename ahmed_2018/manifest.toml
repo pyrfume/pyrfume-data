@@ -12,7 +12,7 @@ tags = "receptorResponse;academic"
 "molecules.csv" = "Information about odorant molecules used"
 "subjects.csv" = "Maps subject ID or OR"
 "stimuli.csv" = "Maps stimulus ID (in-lab odorant code) to common name, IUPAC name, and CID"
-"behavior_1.csv" = "EC50 data for OR5AN1 and OR1A1 responses to musks. 'Nan' values indicate little or no response where no meaningful EC50 value could be obtained."
+"behavior.csv" = "EC50 data for OR5AN1 and OR1A1 responses to musks. 'Nan' values indicate little or no response where no meaningful EC50 value could be obtained."
 
 [code]
 "main.py" = "Processing workflow"
