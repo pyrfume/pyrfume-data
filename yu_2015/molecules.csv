@@ -1,0 +1,6 @@
+CID,MolecularWeight,IsomericSMILES,IUPACName,name
+323,146.14,C1=CC=C2C(=C1)C=CC(=O)O2,chromen-2-one,coumarin
+957,130.23,CCCCCCCCO,octan-1-ol,1-octanol
+8785,150.17,CC(=O)OCC1=CC=CC=C1,benzyl acetate,benzyl acetate
+15717,176.21,C=CCOC(=O)CC1=CC=CC=C1,prop-2-enyl 2-phenylacetate,allyl phenylacetate
+439570,150.22,CC1=CC[C@H](CC1=O)C(=C)C,(5R)-2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-one,(-)-carvone
