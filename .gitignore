@@ -7,10 +7,12 @@ scratch.ipynb
 *untracked*
 *.npz
 more/
+.DS_Store
 
 # Pipeline notebooks
 # These should be under version control as .py files via jupytext
 */main.ipynb
+*/benchmarks.ipynb
 
 \#test.sh\#
 
