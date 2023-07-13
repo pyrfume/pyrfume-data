@@ -13,6 +13,14 @@
 #     name: python3
 # ---
 
+'''Benchmarking workflow for IFRA 2019.
+
+Runs classification tasks on 'Descriptor 1' (= primary odor) from behavior.csv.
+Mordred and Morgan features sets are tried (independently, not merged).
+Descriptors appearing less than 10 times are dropped from the dataset.
+Test/training splits are generated using StratifiedKfold with n_splits=5.
+'''
+
 import pyrfume
 import pandas as pd
 import numpy as np
