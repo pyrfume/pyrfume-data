@@ -15,10 +15,11 @@
 
 '''Benchmarking workflow for IFRA 2019.
 
-Runs classification tasks on 'Descriptor 1' (= primary odor) from behavior.csv.
-Mordred and Morgan features sets are tried (independently, not merged).
-Descriptors appearing less than 10 times are dropped from the dataset.
-Test/training splits are generated using StratifiedKfold with n_splits=5.
+- Runs classification tasks on 'Descriptor 1' (= primary odor) from behavior.csv.
+- Mordred and Morgan features sets are tried (independently, not merged).
+- Descriptors appearing less than 10 times are dropped from the dataset.
+- Train/test splits are generated using StratifiedKfold with n_splits=5.
+- Train/test splits can be reporduced using indices returned by pyrfume.benchmarking.get_train_test_splits()
 '''
 
 import pyrfume
