@@ -19,7 +19,8 @@
 - Mordred and Morgan features sets are tried (independently, not merged).
 - Descriptors appearing less than 10 times are dropped from the dataset.
 - Train/test splits are generated using StratifiedKfold with n_splits=5.
-- Train/test splits can be reporduced using indices returned by pyrfume.benchmarking.get_train_test_splits()
+- Train/test splits can be reporduced using indices returned by pyrfume.benchmarking.get_train_test_splits(dataset)
+    where 'dataset' has been prepared using the prepare_dataset() function in this script.
 '''
 
 import pyrfume
