@@ -12,6 +12,8 @@ tags = "human;threshold;academic"
 "molecules.csv" = "Molecules used"
 "behavior.csv" = "Compiled odor thresholds and threshold algorithm parameters, indexed by CID"
 "stimuli.csv" = "Maps stimulus to CID"
+"benchmarks.csv" = "Benchmarks for modeling Log(1/ODT)"
 
 [code]
 "main.py" = "Processing workflow"
+"benchmarks.py" = "Workflow for ML benchmarking"
