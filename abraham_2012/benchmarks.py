@@ -18,7 +18,8 @@
 - Runs regression suite on 'Log (1/ODT)' (ODT = odor detection threshold) from behavior.csv
 - Mordred and Morgan features sets are tried (independently, not merged).
 - Train/test splits are generated using Kfold with n_splits=10.
-- Train/test splits can be reporduced using indices returned by pyrfume.benchmarking.get_train_test_splits()
+- Train/test splits can be reporduced using indices returned by pyrfume.benchmarking.get_train_test_splits(dataset)
+    where 'dataset' has been prepared using the prepare_dataset() function in this script.
 '''
 
 import pyrfume
@@ -36,7 +37,6 @@ feature_sets = ['mordred', 'morgan']
 pipelines = [
     pbm.Model(estimator)
     for estimator in pbm.list_default_estimators('regression')
-    if estimator in ['LinearRegression', 'Ridge']
 ]
 
 
@@ -89,6 +89,5 @@ best_results.head()
 # Heatmap of results
 pbm.plot_heatmap(best_results)
 
-# +
 # Save benchmarks
-# pbm.save_benchmarks(results, 'benchmarks.csv')
+pbm.save_benchmarks(results, 'benchmarks.csv')
