@@ -21,7 +21,9 @@ LICENSE = "This is an Open Access article distributed under the terms of the Cre
 "behavior_2.csv" = "Descriptor ratings from each control group participant for each odorant (each descriptor in separate column)"
 "subjects.csv" = "Maps partipant UID to age/gender where available"
 "stimuli.csv" = "Maps stimulus (denoted by in-lab odor abbreviation) to CID"
+"benchmarks.csv" = "Benchmarks for modeling descriptor rankings (from behavior_1.csv), averaged over study participants"
 
 [code]
 "main.py" = "Processing workflow"
 "complete_odorants_csv.ipynb" = "Jupyter notebook to clean odorants_raw.csv and add CAS and CID lists for mixtures"
+"benchmarks.py" = "Workflow for ML benchmarking"
