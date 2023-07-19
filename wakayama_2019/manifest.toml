@@ -12,6 +12,8 @@ tags = "human;intensity"
 "molecules.csv" = "Molecules used"
 "behavior.csv" = "Supratheshold intensity curve parameters"
 "stimuli.csv" = "Maps stimulus to CID"
+"benchmarks.csv" = "Benchmarks for modeling dose-response cureve parameters I_max, C, and D"
 
 [code]
 "main.py" = "Processing workflow"
+"benchmarks.py" = "Workflow for ML benchmarking"
