@@ -15,8 +15,8 @@
 
 '''Benchmarking workflow for Arshamian 2022.
 
-- Runs regression suite on 'EC50 (uM)' from behavior.csv; using only data for olfactory receptor 'OR5AN1' since only
-    3 odorants tested produced response in OR 'OR1A1'
+- Runs regression suite on Pleasantness (from behavior_1.csv) and Intensity (from behavior_2.csv) ratings
+- Ratings are averaged across study participants (for Pleasantness) and molecule (for Intensity)
 - Mordred and Morgan features sets are tried (independently, not merged).
 - Train/test splits are generated using Kfold with n_splits=5.
 - Train/test splits can be reporduced using indices returned by pyrfume.benchmarking.get_train_test_splits(dataset)
@@ -38,36 +38,27 @@ feature_sets = ['mordred', 'morgan']
 pipelines = [
     pbm.Model(estimator)
     for estimator in pbm.list_default_estimators('regression')
-    if estimator in ['LinearRegression', 'Ridge', 'Lasso']
 ]
-
-# +
-df = pyrfume.load_data(f'{archive}/behavior_1.csv').rename_axis('CID').reset_index()
-
-df = df.groupby(by='CID').mean().drop(columns=['ParticipantID'])
-
-df.head(20)
-
-# +
-df = pyrfume.load_data(f'{archive}/behavior_1.csv').rename_axis('CID').reset_index()
-
-df[df.CID == 1183]['Ranking'].mean()
 
 
 # -
 
 # Function to prepare dataset; archive, prediction target, and feature set specific
 def prepare_dataset(archive, target, feature_set):
-    # Load behavior data
-    behavior = pyrfume.load_data(f'{archive}/behavior.csv').dropna()
-    
-    # Load stimuli to get CIDs
-    stimuli = pyrfume.load_data(f'{archive}/stimuli.csv').rename_axis('Stimulus').dropna(subset='CID')
-    
-    df = behavior.join(stimuli[['CID']]).dropna(subset='CID')
-    df = df[df['Subject'] == 'OR5AN1']
-    df.CID = df.CID.astype(int)
-    df = df.set_index('CID').sort_index().drop(columns=['Subject'])
+    # Pleasantness ratings data
+    if target == 'Pleasantness':
+        # Stimulus ID = CID
+        df = pyrfume.load_data(f'{archive}/behavior_1.csv').rename_axis('CID').reset_index()
+        df.rename(columns={'Ranking': 'Pleasantness'}, inplace=True)
+        # Average over participants
+        df = df.groupby(by='CID').mean().drop(columns=['ParticipantID'])
+
+    elif target == 'Intensity':
+        df = pyrfume.load_data(f'{archive}/behavior_2.csv')
+        df = pd.melt(df, var_name='Intensity', value_name='CID', ignore_index=False)
+        df['Intensity'] = df['Intensity'].str.split(' ').str[-1].astype(int)
+        # Average over CID
+        df = df.groupby(by='CID').mean()
     
     # Convert to PyrfumeDataset class
     dataset = pbm.PyrfumeDataset(
@@ -113,5 +104,3 @@ pbm.plot_heatmap(best_results)
 
 # Save benchmarks
 pbm.save_benchmarks(results, 'benchmarks.csv')
-
-
