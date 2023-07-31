@@ -13,6 +13,16 @@
 #     name: python3
 # ---
 
+'''Benchmarking workflow for aromadb.
+
+- Runs classification tasks on 'Filtered Descriptors' from behavior.csv.
+- Mordred and Morgan features sets are tried (independently, not merged).
+- Descriptors appearing less than 5 times are dropped from the dataset.
+- Train/test splits are generated using StratifiedKfold with n_splits=5.
+- Train/test splits can be reporduced using indices returned by pyrfume.benchmarking.get_train_test_splits(dataset)
+    where 'dataset' has been prepared using the prepare_dataset() function in this script.
+'''
+
 import pyrfume
 import pandas as pd
 import numpy as np
@@ -89,3 +99,9 @@ pbm.plot_heatmap(best_results)
 # Save benchmarks
 pbm.save_benchmarks(results, 'benchmarks.csv')
 
+
+# Pickle best models, in addition to the 'prepare_dataset' function 
+pbm.pickle_best_models(results=results, archive=archive, prepare_dataset=prepare_dataset)
+
+# Execute the remote notebook for visualization
+pbm.execute_viz_notebook(archive)

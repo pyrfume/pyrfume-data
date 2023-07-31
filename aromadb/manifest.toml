@@ -14,7 +14,11 @@ LICENSE = "Licensing information and use restrictions according to the terms of 
 "molecules.csv" = "Information about odorant molecules used"
 "behavior.csv" = "Odor labels for each molecule (all labels comma separated in single column)"
 "stimuli.csv" = "Maps stimulus to CID"
+"benchmarks.csv" = "Benchmarks for predicting Filtered Descriptors"
+"benchmarks.pkl" = "Pickled list of best estimators and function to prepare datasets"
 
 [code]
 "Scrape_AromaDb.ipynb" = "Scrape raw data from AromaDb"
 "main.py" = "Processing workflow"
+"benchmarks.py" = "Workflow for ML benchmarking"
+"benchmarks_viz.ipynb" = "Benchmarking results visualization notebook"
