@@ -1,5 +1,20 @@
 #!/usr/bin/env python
 # coding: utf-8
+# ---
+# jupyter:
+#   jupytext:
+#     cell_metadata_filter: -all
+#     formats: ipynb,py:light
+#     text_representation:
+#       extension: .py
+#       format_name: light
+#       format_version: '1.5'
+#       jupytext_version: 1.14.4
+#   kernelspec:
+#     display_name: Python 3 (ipykernel)
+#     language: python
+#     name: python3
+# ---
 
 import pandas as pd
 from pyrfume.odorants import get_cids, from_cids, canonical_smiles
@@ -67,6 +82,7 @@ cids = list(set(data[cid_col].values) - set([0]))
 
 molecules = pd.DataFrame(from_cids(cids)).set_index('CID').sort_index()
 
+print(molecules.shape)
 molecules.head()
 
 stimuli = data[['ChemicalName', 'CAS', cid_col, 'ArctanderNum']].set_index('ArctanderNum')
@@ -74,17 +90,70 @@ stimuli = stimuli.sort_index()
 stimuli.index.name = 'Stimulus'
 stimuli.head()
 
-sparse = data.set_index('ArctanderNum')['ChastretteDetails'].fillna('').str.split()
-sparse.index.name = 'Stimulus'
-sparse.name = 'Labels'
-pd.DataFrame(sparse).head()
+# Dict for standardizing labels
+label_map = {
+    'aldehidic': 'aldehydic',
+    'almondy': 'almond',
+    'aromatique': 'aromatic',
+    'basalmic': 'balsamic',
+    'camphor': 'camphoraceous',
+    'citrusy': 'citrus',
+    'ehtereal': 'ethereal',
+    'foral': 'floral',
+    'fruit': 'fruity',
+    'gas': 'gassy',
+    'herbaceous': 'herbal',
+    'leathery': 'leather',
+    'lillac': 'lilac',
+    'mint': 'minty',
+    'mushroomy': 'mushroom',
+    'musk': 'musky',
+    'must': 'musty',
+    'nut': 'nutty',
+    'peachy': 'peach',
+    'peppery': 'pepper',
+    'piney': 'pine',
+    'root': 'rooty',
+    'rosy': 'rose',
+    'vanlilin': 'vanillin',
+    'woney': 'winey',
+    'wood': 'woody'
+}
 
-all_labels = set.union(*sparse.apply(set).values)
+# +
+sparse = data.set_index('ArctanderNum')[['ChastretteDetails']].rename_axis('Stimulus')
+sparse.rename(columns=({'ChastretteDetails': 'Labels'}), inplace=True)
+sparse['Labels'] = sparse['Labels'].fillna('').str.replace(',', '').str.split()
+
+# Standardize lables and fix spelling errors
+sparse['Labels'] = sparse['Labels'].apply(
+    lambda x: [label_map[term] if term in label_map else term for term in x]
+)
+
+# Make sure no duplicate labels
+sparse['Labels'] = sparse['Labels'].apply(lambda x: list(set(x)))
+
+# To Series
+sparse = sparse['Labels']
+# -
+
+all_labels = list(set.union(*sparse.apply(set).values))
+
 dense = pd.DataFrame(index=sparse.index, columns=all_labels)
 dense = dense.apply(lambda x: pd.Series({label: label in sparse[x.name] for label in x.index}),
                     axis=1)
 dense = dense.astype(int).sort_index(axis=1)
+print(dense.shape)
 dense.head()
+
+# +
+# Convert lists to ;-separated strings
+sparse = sparse.to_frame()
+sparse['Labels'] = sparse['Labels'].apply(';'.join)
+
+print(sparse.shape)
+sparse.head()
+# -
 
 desc = data.set_index('ArctanderNum')[['Description']]
 desc.index.name = 'Stimulus'
