@@ -104,3 +104,9 @@ pbm.plot_heatmap(best_results)
 
 # Save benchmarks
 pbm.save_benchmarks(results, 'benchmarks.csv')
+
+# Pickle best models, in addition to the 'prepare_dataset' function 
+pbm.pickle_best_models(results=results, archive=archive, prepare_dataset=prepare_dataset)
+
+# Execute the remote notebook for visualization
+pbm.execute_viz_notebook(archive)

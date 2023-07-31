@@ -18,7 +18,9 @@ tags = "human;pleasantness;academic"
 "behavior_2.csv" = "All intensity data. Rank 1 is most intenst odor (by CID), Rank 10 is the least intense/weakest"
 "behavior_3.csv" = "Mainland lab ranking with raters converted to anonymized ParticipantID's"
 "benchmarks.csv" = "Benchmarks for modeling Pleasantness and Intensity data"
+"benchmarks.pkl" = "Pickled list of best estimators and function to prepare datasets"
 
 [code]
 "main.py" = "Processing workflow"
 "benchmarks.py" = "Workflow for ML benchmarking"
+"benchmarks_viz.ipynb" = "Benchmarking results visualization notebook"
