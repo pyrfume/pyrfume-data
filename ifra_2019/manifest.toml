@@ -19,7 +19,9 @@ extra = "Other representatives of IFRA Regular and Supporting Members, IFRA Nati
 "behavior.csv" = "The top 3 descriptors (in order of applicability)"
 "stimuli.csv" = "Maps stimulus to CID"
 "benchmarks.csv" = "Benchmarks for predicting primary odor ('Descriptor 1')"
+"benchmarks.pkl" = "Pickled list of best estimators and function to prepare datasets"
 
 [code]
 "main.py" = "Processing workflow from parsed to processed data"
 "benchmarks.py" = "Workflow for ML benchmarking"
+"benchmarks_viz.ipynb" = "Benchmarking results visualization notebook"
