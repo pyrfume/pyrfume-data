@@ -18,7 +18,9 @@ extra = "Copyright 2021 Emily Mayhew, Rick Gerkin, Brian Lee, Joel Mainland"
 "physics.csv" = "Data from s3.csv; transprot features for GDB-17 molecules"
 "stimuli.csv" = "Maps SMILES (stimulus) to CID"
 "benchmarks.csv" = "Benchmarks for predicting odor class (odor.class in behavior_1.csv)"
+"benchmarks.pkl" = "Pickled list of best estimators and function to prepare datasets"
 
 [code]
 "main.py" = "Processing workflow"
 "benchmarks.py" = "Workflow for ML benchmarking"
+"benchmarks_viz.ipynb" = "Benchmarking results visualization notebook"
