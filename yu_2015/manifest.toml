@@ -11,7 +11,7 @@ tags = "receptorResponse;academic"
 [processed]
 "molecules.csv" = "Molecules used"
 "stimuli.csv" = "Maps stimulus ID to in-lab odorant code, odorant name, CID, and concentration"
-"subjects" = "Maps subject ID to OR domain and MOR256-3 mutant"
+"subjects.csv" = "Maps subject ID to OR domain and MOR256-3 mutant"
 "behavior.csv" = "Normalized odorant responses"
 
 [code]
