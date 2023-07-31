@@ -19,6 +19,10 @@ LICENSE = "2022 Copyright OlfactionBase. All Rights Reserved."
 "behavior_1.csv" = "Odor descriptors and strength for each molecule (odorants and odorless chemicals)."
 "behavior_2.csv" = "Olfactory receptor pair for each CID."
 "physics.csv" = "Physicochemical and pharmacokinetic properties indexed by CID."
+"benchmarks.csv" = "Benchmarks for predicting 'Primary Odor' and 'Sub Odor"
+"benchmarks.pkl" = "Pickled list of best estimators and function to prepare datasets"
 
 [code]
 "main.py" = "Processing workflow."
+"benchmarks.py" = "Workflow for ML benchmarking"
+"benchmarks_viz.ipynb" = "Benchmarking results visualization notebook"
