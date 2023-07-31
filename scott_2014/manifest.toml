@@ -12,7 +12,9 @@ tags = "rodent;academic"
 "behavior.csv" = "Log of the calculated air/mucus partition coefficient"
 "stimuli.csv" = "Maps stimulus to CID"
 "benchmarks.csv" = "Benchmarks for predicting Log(air/mucus partition coefficient)"
+"benchmarks.pkl" = "Pickled list of best estimators and function to prepare datasets"
 
 [code]
 "main.py" = "Processing workflow"
 "benchmarks.py" = "Workflow for ML benchmarking"
+"benchmarks_viz.ipynb" = "Benchmarking results visualization notebook"
