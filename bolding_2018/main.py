@@ -6,7 +6,7 @@
 #       extension: .py
 #       format_name: light
 #       format_version: '1.5'
-#       jupytext_version: 1.14.5
+#       jupytext_version: 1.14.4
 #   kernelspec:
 #     display_name: Python 3 (ipykernel)
 #     language: python
@@ -30,26 +30,26 @@ import pyrfume
 
 # Returns a matlab array as a nested dictionary
 def load_matfile(filename: str) -> Dict:
-        def parse_mat(element: Any):
-            # lists (1D cell arrays usually) or numpy arrays as well
-            if element.__class__ == np.ndarray and element.dtype == np.object_ and len(element.shape) > 0:
-                return [parse_mat(entry) for entry in element]
+    def parse_mat(element: Any):
+        # lists (1D cell arrays usually) or numpy arrays as well
+        if element.__class__ == np.ndarray and element.dtype == np.object_ and len(element.shape) > 0:
+            return [parse_mat(entry) for entry in element]
 
-            # matlab struct
-            if element.__class__ == scio.matlab.mio5_params.mat_struct:
-                return {fn: parse_mat(getattr(element, fn)) for fn in element._fieldnames}
+        # matlab struct
+        if element.__class__ == scio.matlab.mio5_params.mat_struct:
+            return {fn: parse_mat(getattr(element, fn)) for fn in element._fieldnames}
 
-            # regular numeric matrix, or a scalar
-            return element
+        # regular numeric matrix, or a scalar
+        return element
 
-        mat = scio.loadmat(filename, struct_as_record=False, squeeze_me=True)
-        dict_output = dict()
+    mat = scio.loadmat(filename, struct_as_record=False, squeeze_me=True)
+    dict_output = dict()
 
-        # not considering the '__header__', '__version__', '__globals__'
-        for key, value in mat.items():
-            if not key.startswith('_'):
-                dict_output[key] = parse_mat(mat[key])
-        return dict_output
+    # not considering the '__header__', '__version__', '__globals__'
+    for key, value in mat.items():
+        if not key.startswith('_'):
+            dict_output[key] = parse_mat(mat[key])
+    return dict_output
 
 # Unpack a nested dictionary into a flat dict w composite key names
 def unpack_dict(dictionary):
@@ -228,17 +228,18 @@ data_merge_subjects = pd.merge(data_merge_stim, subjects.reset_index(), how='lef
 # + colab={"base_uri": "https://localhost:8080/", "height": 260} id="OH9nRxXPz52Y" outputId="516010d0-caf6-4937-8f2b-b5afd109a18b"
 # behavior
 behavior = data_merge_subjects[['sub ID', 'stim ID', 'spike count']]
-behavior = behavior.set_index('sub ID')
-behavior.head(5)
+behavior.rename(columns={'sub ID': 'Subject', 'stim ID': 'Stimulus'}, inplace=True)
+behavior = behavior.set_index('Stimulus')
+
+behavior.head()
 
 # + colab={"base_uri": "https://localhost:8080/", "height": 101, "referenced_widgets": ["ced5c31cd09b4e5ea20e7c4148bcb041", "d0d31870ae38488d9c32c8aab2b080de", "468cb10bbbda4574ada36d9330181c2b", "6d3c6b935c604ec9a600f2b0739b56aa", "2b3e3d6c3b30406bbf8ed9935bf5d113", "5f9a48e1f7b843b48b2e77991941156c", "dbf8660efcc943419c24cdd28db957d9", "0887e604482744b7af6056e651514e8a", "4d8d4789e65f497ab8e2be6d06d0eb28", "3c13a20b95ec4165b457ec9cfbe38a82", "c5d37b20c2f9413cbeb705b7225b2ed3", "6f105bdd73534a898be96837887f97f3", "fe086cba78c24c56b814b95d4241f654", "2d2d31cd0d364dd39711214bd7923438", "1861967b23af4a67bbb4175a34539b45", "6aa087faae4f411b8e91d2fbf40e4af8", "13838e3b7f1146728aa576220644b1a7", "86663ec82ac14324bf7d1e7e55bbd666", "9ad172a1b92f49fe9d169f4d87371da7", "a12e7903322d4d6faf261cf0ea8d1bee", "0b9395a8e3cc40b992a24a835cf85abe", "7baaa20a9b684e2f92dfcdd449208521"]} id="YP3sRwiMghP3" outputId="7588986d-7000-43a8-98c6-ed97a9914701"
 odorants = pyrfume.get_cids(mono_odorants, kind='name')
 cids = pd.Series(odorants)
-molecules = pd.DataFrame(pyrfume.from_cids(cids.values))
+molecules = pd.DataFrame(pyrfume.from_cids(cids.values)).set_index('CID').sort_index()
 
 # + id="9nmzlINphTAc"
-molecules.sort_values(by='CID', inplace=True)
-molecules.set_index('CID', inplace=True)
+molecules.head()
 
 # + id="YjyzoFxshe-W"
 cids_merged = pd.merge(stimuli.reset_index(), molecules.reset_index(), how='left', left_on = 'odor name', right_on = 'name')
@@ -248,8 +249,7 @@ stimuli = cids_merged[['stim ID', 'odor idx', 'loading', 'odor name', 'CID', 'co
 stimuli.set_index('stim ID', inplace=True)
 stimuli = stimuli[~stimuli['odor name'].isna()]
 
-# + colab={"base_uri": "https://localhost:8080/", "height": 733} id="TROsbEHTh64R" outputId="ef105482-a387-4615-81c5-5f7f2b9e1d62"
-stimuli
+stimuli.head()
 
 # + id="EaW8JbO3kTuk"
 # Write the final .csv files
