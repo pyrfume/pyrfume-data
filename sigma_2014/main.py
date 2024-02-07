@@ -13,35 +13,44 @@ def get_data():
         lines = text.split("\n")
 
     data = {}
-    organoleptic = 0
+    count = 0
     for line_num, line in enumerate(lines):
-        if len(line):
-            if not organoleptic and line[0] == "[":
-                key = line.split("]")[0][1:]
-                if platform.python_version() > "3.0":
-                    key = key.replace("\u2011", "-")
-                else:
-                    key = key.decode("utf-8").replace("\u2011", "-").encode("ascii")
-                organoleptic = 1
-            if organoleptic and "Organoleptic" in line:
-                try:
-                    value = line.split(":")[1][1:]
-                    if value[-1] in ["-", ","]:
-                        if value[-1] == "-":
-                            value = value[:-1]
-                        else:
-                            value = value + " "
-                        value += lines[line_num + 1]
-                    value = [i.strip() for i in value.split(";") if len(i.strip())]
-                    data[key] = value
-                    organoleptic = 0
-                except Exception:
-                    pass
+        if not len(line):
+            continue
+        # getting the last CAS number
+        if line.startswith("["):
+            key = line.split("]")[0][1:]
+            key = key.replace("\u2011", "-")
 
-    descriptors = []
+        # getting the descriptors
+        if "Organoleptic:" in line:
+            count += 1
+            values = line.split(":")[1].strip()
+            # if the line ends with a semicolon, it means the descriptor continues on the next line
+            # if the line ends with a comma, it means the onion descriptor continues on the next line
+            if values.endswith(";") or values.endswith(",") or values.endswith("wine-"):
+                values += lines[line_num + 1].strip()
+            # if the line ends with a dash, it means the descriptor has been split across two lines
+            if values.endswith("-"):
+                values = values[:-1] + lines[line_num + 1].strip()
+
+            values = values.replace(" ", "", )
+            valuelist = values.split(";")
+            if key in data.keys():
+                data[key].extend(valuelist)
+                count -= 1
+            else:
+                data[key] = list(valuelist)
+
+    #print(len(data))
+    #print(count)
+    #print(data['100-06-1'])
+    if len(data) != count:
+        raise ValueError("Not all molecules collected.")
+    descriptors = set()
     for x in data.values():
-        descriptors += x
-    descriptors = list(set(descriptors))  # Remove duplicates.
+        descriptors.update(x)
+    descriptors = list(descriptors)
     return descriptors, data
 
 descriptors, data = get_data()
@@ -83,4 +92,3 @@ for descriptor in descriptors:
 behavior.drop('descriptors', axis=1).T.sort_index().T.astype(int)
 behavior.to_csv('behavior.csv')
 behavior.head()
-
