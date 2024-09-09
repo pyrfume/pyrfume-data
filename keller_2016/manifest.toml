@@ -12,6 +12,7 @@ tags = "human;intensity;pleasantness;familiarity;odorCharacter;academic"
 "molecules.csv" = "Information about odorant molecules used"
 "behavior.csv" = "Re-organized ratings for all odorants, subjects, descriptors, and replicates"
 "stimuli.csv" = "Maps stimuli to CID"
+"subjects.csv" = "Maps subjects to behavior"
 
 [code]
-"main.py" = "Processing workflow"
+"main.r" = "Processing workflow"
