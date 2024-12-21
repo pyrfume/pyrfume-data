@@ -1,0 +1,14 @@
+# Manifest for "Olfactory Label Prediction on Aroma-Chemical Pairs", 2024
+[source]
+doi = "10.48550/arXiv.2312.16124"
+title = "Olfactory Label Prediction on Aroma-Chemical Pairs"
+authors = "L Sisson, AA Barsainyan, M Sharma, R Kumar"
+tags = "odorCharacter;mixtures;crawled"
+
+[raw]
+"molecules.csv" = "Information about odorant molecules used"
+"blends.csv" = "Pairs of molecules and their descriptions crawled from GoodScents"
+LICENSE = "Licensing information and use restrictions"
+
+[code]
+"main.py" = "Processing workflow"

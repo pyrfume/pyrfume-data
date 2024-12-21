@@ -10,3 +10,4 @@
 "arctander_1960.csv" = "CID, Odor Descriptors"
 "aromadb.csv" = "CID, Odor Descriptors"
 "scott_2014.csv" = "CID, Log(air/mucus partition coefficient)"
+"sisson_2024.csv" = "CID.1, CID.2, Descriptors"
