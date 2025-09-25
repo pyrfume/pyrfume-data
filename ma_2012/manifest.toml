@@ -15,6 +15,10 @@ extra = "5 in-lab odor abbreviatons (ALBE, HXA, FO, HXM, HPL) in the deltaF/F da
 "behavior_1.csv" = "Odorant dorsal response data. Original indicators None, *, **, *** were mapped to 0, 1, 2, 3, respectively."
 "behavior_2.csv" = "X and Y coordinates of glomeruli, DeltaF/F, and 'artifact' indexed on Stimulus, Experiment, Glom #, and odor concentration (% of satuated vapor). The boolean 'artifact' indicates whether motion artifact is present in the data point (1 is artifact present, 0 otherwise). Artifact free data can be selected from full data set using df[~df['Artifact']]."
 "stimuli.csv" = "Maps stimulus to CIDs and in-lab odor abbreviations."
+"benchmarks.csv" = "Benchmarks for predicting dorsal responses)"
+"benchmarks.pkl" = "Pickled list of best estimators and function to prepare datasets"
 
 [code]
 "main.py" = "Processing workflow"
+"benchmarks.py" = "Workflow for ML benchmarking"
+"benchmarks_viz.ipynb" = "Benchmarking results visualization notebook"
