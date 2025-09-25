@@ -17,6 +17,10 @@ tags = "human;intensity;pleasantness;odorCharacter;threshold;academic"
 "behavior_3.csv" = "Intensity for 134 odorants"
 "behavior_4.csv" = "Pleasantness for 134 odorants"
 "subjects.csv" = "Subject metadata"
+"benchmarks.csv" = "Benchmarks for predicting odor intensity (target 1), and pleasantness (target 2)"
+"benchmarks.pkl" = "Pickled list of best estimators and function to prepare datasets"
 
 [code]
 "main.py" = "Processing workflow"
+"benchmarks.py" = "Workflow for ML benchmarking"
+"benchmarks_viz.ipynb" = "Benchmarking results visualization notebook"
