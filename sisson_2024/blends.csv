@@ -1,0 +1,29 @@
+CID.1,CID.2,Descriptors
+7351,521348,"['fruity', 'sulfurous']"
+7660,79409,['spicy']
+7660,582941,['spicy']
+8193,61024,"['creamy', 'soapy', 'waxy']"
+13204,8193,"['soapy', 'waxy']"
+15448,8193,['waxy']
+16925,8193,"['astringent', 'soapy', 'waxy']"
+16925,61024,"['astringent', 'creamy', 'waxy']"
+42296,81964,"['floral', 'woody']"
+61040,42296,"['floral', 'herbal', 'woody']"
+61040,81964,"['floral', 'herbal']"
+61040,109183,['herbal']
+61040,109257,"['fatty', 'herbal']"
+62127,16925,['woody']
+67285,16925,['green']
+67285,61024,"['creamy', 'waxy']"
+67285,91978,['green']
+67285,5363120,['green']
+68150,109418,['floral']
+79409,8193,"['soapy', 'waxy']"
+91978,81964,"['floral', 'green']"
+102562,109183,['aldehydic']
+109183,61024,"['aldehydic', 'creamy', 'waxy']"
+161675,79409,['woody']
+5320250,7660,['spicy']
+5320250,8193,"['soapy', 'waxy']"
+5320250,91978,"['floral', 'green']"
+5364409,89307,['fatty']

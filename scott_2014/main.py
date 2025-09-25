@@ -1,5 +1,20 @@
 #!/usr/bin/env python
 # coding: utf-8
+# ---
+# jupyter:
+#   jupytext:
+#     cell_metadata_filter: -all
+#     formats: ipynb,py:light
+#     text_representation:
+#       extension: .py
+#       format_name: light
+#       format_version: '1.5'
+#       jupytext_version: 1.14.4
+#   kernelspec:
+#     display_name: Python 3 (ipykernel)
+#     language: python
+#     name: python3
+# ---
 
 import pandas as pd
 import pyrfume
@@ -22,7 +37,7 @@ behavior = pd.concat([df1, df2]).set_index('Number')
 
 #Getting Molecules and CIDs
 names = behavior['Odorant'].tolist()
-cids = pd.Series(get_cids(names))
+cids = pd.Series(get_cids(names, kind='name'))
 
 cids['Methyl pyridone'] = 12755
 cids['Ethylacetoacetate'] = 8868
@@ -40,9 +55,9 @@ molecules = molecules[~molecules.index.duplicated()] # Remove duplicate rows
 molecules.head()
 
 behavior['CID'] = behavior['Odorant'].apply(cids.xs)
-behavior = behavior.set_index('CID')
+behavior = behavior.set_index('CID').sort_index()
 behavior.index.name = 'Stimulus'
-behavior.drop('Odorant', axis=1, inplace=True)
+behavior.drop(['Odorant', 'Chemical Abstracts Service (CAS) registry number'], axis=1, inplace=True)
 behavior.head()
 
 stimuli = pd.DataFrame(molecules.index.copy(), index=molecules.index.copy())
@@ -51,6 +66,6 @@ stimuli.head()
 
 # Write to disk
 molecules.to_csv('molecules.csv')
-behavior.to_csv('behavior.csv', index=False)
+behavior.to_csv('behavior.csv')
 stimuli.to_csv('stimuli.csv')
 

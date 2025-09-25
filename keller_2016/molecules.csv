@@ -1,481 +1,482 @@
-CID,MolecularWeight,IsomericSMILES,IUPACName,name
-126,122.12,C1=CC(=CC=C1C=O)O,4-hydroxybenzaldehyde,4-hydroxybenzaldehyde
-176,60.05,CC(=O)O,acetic acid,acetic acid
-177,44.05,CC=O,acetaldehyde,acetaldehyde
-180,58.08,CC(=O)C,propan-2-one,acetone
-196,146.14,C(CCC(=O)O)CC(=O)O,hexanedioic acid,adipic acid
-239,89.09,C(CN)C(=O)O,3-aminopropanoic acid,beta-alanine
-240,106.12,C1=CC=C(C=C1)C=O,benzaldehyde,benzaldehyde
-241,78.11,C1=CC=CC=C1,benzene,benzene
-243,122.12,C1=CC=C(C=C1)C(=O)O,benzoic acid,benzoic acid
-244,108.14,C1=CC=C(C=C1)CO,phenylmethanol,benzyl alcohol
-261,72.11,CCCC=O,butanal,butyraldehyde
-262,90.12,CC(C(C)O)O,"butane-2,3-diol","2,3-butanediol"
-263,74.12,CCCCO,butan-1-ol,1-butanol
-264,88.11,CCCC(=O)O,butanoic acid,butyric acid
-311,192.12,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,"2-hydroxypropane-1,2,3-tricarboxylic acid",citric acid
-323,146.14,C1=CC=C2C(=C1)C=CC(=O)O2,chromen-2-one,coumarin
-325,150.22,CC(C)C1=CC=C(C=C1)CO,(4-propan-2-ylphenyl)methanol,4-isopropylbenzyl alcohol
-326,148.20,CC(C)C1=CC=C(C=C1)C=O,4-propan-2-ylbenzaldehyde,4-isopropylbenzaldehyde
-356,114.23,CCCCCCCC,octane,octane
-379,144.21,CCCCCCCC(=O)O,octanoic acid,octanoic acid
-454,128.21,CCCCCCCC=O,octanal,octanal
-460,124.14,COC1=CC=CC=C1O,2-methoxyphenol,guaiacol
-650,86.09,CC(=O)C(=O)C,"butane-2,3-dione","2,3-butanedione"
-660,148.16,C1CC(=O)OC2=CC=CC=C21,"3,4-dihydrochromen-2-one",dihydrocoumarin
-679,78.14,CS(=O)C,methylsulfinylmethane,dimethyl sulfoxide
-702,46.07,CCO,ethanol,ethanol
-750,75.07,C(C(=O)O)N,2-aminoacetic acid,glycine
-753,92.09,C(C(CO)O)O,"propane-1,2,3-triol",glycerol
-807,253.8089,II,molecular iodine,7553-56-2
-875,150.09,C(C(C(=O)O)O)(C(=O)O)O,"2,3-dihydroxybutanedioic acid",dl-tartaric acid
-887,32.042,CO,methanol,methanol
-957,130.23,CCCCCCCCO,octan-1-ol,1-octanol
-962,18.015,O,oxidane,water
-994,165.19,C1=CC=C(C=C1)CC(C(=O)O)N,2-amino-3-phenylpropanoic acid,dl-phenylalanine
-1001,121.18,C1=CC=C(C=C1)CCN,2-phenylethanamine,phenethylamine
-1030,76.09,CC(CO)O,"propane-1,2-diol",propylene glycol
-1031,60.10,CCCO,propan-1-ol,1-propanol
-1032,74.08,CCC(=O)O,propanoic acid,propionic acid
-1049,79.10,C1=CC=NC=C1,pyridine,pyridine
-1060,88.06,CC(=O)C(=O)O,2-oxopropanoic acid,pyruvic acid
-1068,62.14,CSC,methylsulfanylmethane,dimethyl sulfide
-1110,118.09,C(CC(=O)O)C(=O)O,butanedioic acid,succinic acid
-1136,143.21,CC1=C(SC=N1)CCO,"2-(4-methyl-1,3-thiazol-5-yl)ethanol",4-methyl-5-thiazoleethanol
-1183,152.15,COC1=C(C=CC(=C1)C=O)O,4-hydroxy-3-methoxybenzaldehyde,vanillin
-2214,166.17,CC(=O)C1=CC(=C(C=C1)O)OC,1-(4-hydroxy-3-methoxyphenyl)ethanone,acetovanillone
-2345,212.24,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2,benzyl benzoate,benzyl benzoate
-2346,149.21,C1=CC=C(C=C1)CN=C=S,isothiocyanatomethylbenzene,benzyl isothiocyanate
-2537,152.23,CC1(C2CCC1(C(=O)C2)C)C,"1,7,7-trimethylbicyclo[2.2.1]heptan-2-one",camphor
-2682,242.44,CCCCCCCCCCCCCCCCO,hexadecan-1-ol,1-hexadecanol
-2758,154.25,CC1(C2CCC(O1)(CC2)C)C,"1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane",eucalyptol
-2879,108.14,CC1=CC=C(C=C1)O,4-methylphenol,p-cresol
-2969,172.26,CCCCCCCCCC(=O)O,decanoic acid,decanoic acid
-3102,182.22,C1=CC=C(C=C1)C(=O)C2=CC=CC=C2,diphenylmethanone,benzophenone
-3314,164.20,COC1=C(C=CC(=C1)CC=C)O,2-methoxy-4-prop-2-enylphenol,eugenol
-3776,60.10,CC(C)O,propan-2-ol,isopropanol
-3893,200.32,CCCCCCCCCCCC(=O)O,dodecanoic acid,lauric acid
-4133,152.15,COC(=O)C1=CC=CC=C1O,methyl 2-hydroxybenzoate,methyl salicylate
-5541,218.20,CC(=O)OCC(COC(=O)C)OC(=O)C,"2,3-diacetyloxypropyl acetate",triacetin
-5610,137.18,C1=CC(=CC=C1CCN)O,4-(2-aminoethyl)phenol,tyramine
-5779,150.13,C([C@@H]1[C@H]([C@H](C(O1)O)O)O)O,"(3R,4S,5R)-5-(hydroxymethyl)oxolane-2,3,4-triol",d-ribofuranose
-5780,182.17,C([C@H]([C@H]([C@@H]([C@H](CO)O)O)O)O)O,"(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol",d-sorbitol
-5862,121.16,C([C@@H](C(=O)O)N)S,(2R)-2-amino-3-sulfanylpropanoic acid,l-cysteine
-5950,89.09,C[C@@H](C(=O)O)N,(2S)-2-aminopropanoic acid,l-alanine
-5960,133.10,C([C@@H](C(=O)O)N)C(=O)O,(2S)-2-aminobutanedioic acid,l-aspartic acid
-5961,146.14,C(CC(=O)N)[C@@H](C(=O)O)N,"(2S)-2,5-diamino-5-oxopentanoic acid",l-glutamine
-5962,146.19,C(CCN)C[C@@H](C(=O)O)N,"(2S)-2,6-diaminohexanoic acid",l-lysine
-6050,302.36,CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC,"2,3-di(butanoyloxy)propyl butanoate",tributyrin
-6054,122.16,C1=CC=C(C=C1)CCO,2-phenylethanol,2-phenylethanol
-6057,181.19,C1=CC(=CC=C1C[C@@H](C(=O)O)N)O,(2S)-2-amino-3-(4-hydroxyphenyl)propanoic acid,l-tyrosine
-6106,131.17,CC(C)C[C@@H](C(=O)O)N,(2S)-2-amino-4-methylpentanoic acid,l-leucine
-6137,149.21,CSCC[C@@H](C(=O)O)N,(2S)-2-amino-4-methylsulfanylbutanoic acid,l-methionine
-6140,165.19,C1=CC=C(C=C1)C[C@@H](C(=O)O)N,(2S)-2-amino-3-phenylpropanoic acid,l-phenylalanine
-6184,100.16,CCCCCC=O,hexanal,hexanal
-6202,337.3,CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO.Cl.[Cl-],"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol;chloride;hydrochloride",thiamine hydrochloride
-6213,94.14,CS(=O)(=O)C,methylsulfonylmethane,dimethyl sulfone
-6274,155.15,C1=C(NC=N1)C[C@@H](C(=O)O)N,(2S)-2-amino-3-(1H-imidazol-5-yl)propanoic acid,l-histidine
-6276,88.15,CCCCCO,pentan-1-ol,1-pentanol
-6287,117.15,CC(C)[C@@H](C(=O)O)N,(2S)-2-amino-3-methylbutanoic acid,l-valine
-6322,174.20,C(C[C@@H](C(=O)O)N)CN=C(N)N,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,l-arginine
-6374,393.732,C(I)(I)I,iodoform,iodoform
-6386,74.12,CC(C)(C)O,2-methylpropan-2-ol,tert-butanol
-6448,196.29,CC(=O)OC1CC2CCC1(C2(C)C)C,"(1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl) acetate",bornyl acetate
-6501,206.24,CCOC(=O)C1C(O1)(C)C2=CC=CC=C2,ethyl 3-methyl-3-phenyloxirane-2-carboxylate,77-83-8
-6505,402.5,CCCCOC(=O)CC(CC(=O)OCCCC)(C(=O)OCCCC)OC(=O)C,"tributyl 2-acetyloxypropane-1,2,3-tricarboxylate",77-90-7
-6506,276.28,CCOC(=O)CC(CC(=O)OCC)(C(=O)OCC)O,"triethyl 2-hydroxypropane-1,2,3-tricarboxylate",triethyl citrate
-6544,138.21,CC1=CC(=O)CC(C1)(C)C,"3,5,5-trimethylcyclohex-2-en-1-one",isophorone
-6549,154.25,CC(=CCCC(C)(C=C)O)C,"3,7-dimethylocta-1,6-dien-3-ol",linalool
-6560,74.12,CC(C)CO,2-methylpropan-1-ol,2-methyl-1-propanol
-6561,72.11,CC(C)C=O,2-methylpropanal,isobutyraldehyde
-6569,72.11,CCC(=O)C,butan-2-one,2-butanone
-6584,74.08,CC(=O)OC,methyl acetate,methyl acetate
-6590,88.11,CC(C)C(=O)O,2-methylpropanoic acid,isobutyric acid
-6658,100.12,CC(=C)C(=O)OC,methyl 2-methylprop-2-enoate,methyl methacrylate
-6669,294.30,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)C(=O)C,"1-(4-tert-butyl-2,6-dimethyl-3,5-dinitrophenyl)ethanone",musk ketone
-6753,268.27,CC1=C(C=C(C(=C1[N+](=O)[O-])OC)C(C)(C)C)[N+](=O)[O-],"1-tert-butyl-2-methoxy-4-methyl-3,5-dinitrobenzene",musk ambrette
-6826,165.19,CNC1=CC=CC=C1C(=O)OC,methyl 2-(methylamino)benzoate,methyl 2-(methylamino)benzoate
-6920,126.18,CC(=O)C1=CC=CS1,1-thiophen-2-ylethanone,2-acetylthiophene
-6943,136.19,CC(C)C1=CC=CC=C1O,2-propan-2-ylphenol,2-isopropylphenol
-6989,150.22,CC1=CC(=C(C=C1)C(C)C)O,5-methyl-2-propan-2-ylphenol,thymol
-6997,122.16,CCC1=CC=CC=C1O,2-ethylphenol,2-ethylphenol
-6998,122.12,C1=CC=C(C(=C1)C=O)O,2-hydroxybenzaldehyde,salicylaldehyde
-7047,129.16,C1=CC=C2C(=C1)C=CC=N2,quinoline,quinoline
-7059,143.18,CC1=CC2=C(C=C1)N=CC=C2,6-methylquinoline,6-methylquinoline
-7092,160.17,CC1=CC2=C(C=C1)OC(=O)C=C2,6-methylchromen-2-one,6-methylcoumarin
-7095,154.21,C1=CC=C(C=C1)C2=CC=CC=C2,"1,1'-biphenyl",biphenyl
-7119,158.20,COC1=CC2=CC=CC=C2C=C1,2-methoxynaphthalene,2-methoxynaphthalene
-7122,170.21,CC(=O)C1=CC2=CC=CC=C2C=C1,1-naphthalen-2-ylethanone,2-acetylnaphthalene
-7127,178.23,COC1=C(C=C(C=C1)CC=C)OC,"1,2-dimethoxy-4-prop-2-enylbenzene",methyl eugenol
-7136,206.24,CC(=O)OC1=C(C=C(C=C1)CC=C)OC,(2-methoxy-4-prop-2-enylphenyl) acetate,eugenol acetate
-7137,206.24,CC=CC1=CC(=C(C=C1)OC(=O)C)OC,(2-methoxy-4-prop-1-enylphenyl) acetate,isoeugenol acetate
-7144,138.16,CC1=CC(=C(C=C1)O)OC,2-methoxy-4-methylphenol,2-methoxy-4-methylphenol
-7147,136.19,CCC(C1=CC=CC=C1)O,1-phenylpropan-1-ol,1-phenyl-1-propanol
-7150,136.15,COC(=O)C1=CC=CC=C1,methyl benzoate,methyl benzoate
-7151,137.14,COC(=O)C1=CN=CC=C1,methyl pyridine-3-carboxylate,methyl nicotinate
-7165,150.17,CCOC(=O)C1=CC=CC=C1,ethyl benzoate,ethyl benzoate
-7194,226.27,C1=CC=C(C=C1)CCOC(=O)C2=CC=CC=C2,2-phenylethyl benzoate,phenethyl benzoate
-7288,86.13,CCC(=O)CC,pentan-3-one,3-pentanone
-7302,86.09,C1CC(=O)OC1,oxolan-2-one,gamma-butyrolactone
-7335,194.27,CC1=CCC(CC1OC(=O)C)C(=C)C,(2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-yl) acetate,carvyl acetate
-7341,116.16,CCCC(C)C(=O)O,2-methylpentanoic acid,2-methylpentanoic acid
-7360,102.13,C1CC(OC1)CO,oxolan-2-ylmethanol,tetrahydrofurfuryl alcohol
-7361,98.10,C1=COC(=C1)CO,furan-2-ylmethanol,furfuryl alcohol
-7409,122.16,CC(C1=CC=CC=C1)O,1-phenylethanol,1-phenylethanol
-7410,120.15,CC(=O)C1=CC=CC=C1,1-phenylethanone,acetophenone
-7463,134.22,CC1=CC=C(C=C1)C(C)C,1-methyl-4-propan-2-ylbenzene,p-cymene
-7476,150.17,CC(=O)C1=CC=C(C=C1)OC,1-(4-methoxyphenyl)ethanone,4'-methoxyacetophenone
-7500,106.16,CCC1=CC=CC=C1,ethylbenzene,ethylbenzene
-7519,108.14,COC1=CC=CC=C1,anisole,anisole
-7559,150.17,COC(=O)CC1=CC=CC=C1,methyl 2-phenylacetate,methyl phenylacetate
-7583,170.21,C1=CC=C(C=C1)OC2=CC=CC=C2,phenoxybenzene,diphenyl ether
-7593,210.27,C1=CC=C(C=C1)CC(=O)CC2=CC=CC=C2,"1,3-diphenylpropan-2-one","1,3-diphenylacetone"
-7601,240.30,C1=CC=C(C=C1)CCOC(=O)CC2=CC=CC=C2,2-phenylethyl 2-phenylacetate,phenethyl phenylacetate
-7632,164.24,CC(C)(CCC1=CC=CC=C1)O,2-methyl-4-phenylbutan-2-ol,2-methyl-4-phenyl-2-butanol
-7635,172.26,CCCCC(CC)COC(=O)C,2-ethylhexyl acetate,2-ethylhexyl acetate
-7654,164.20,CC(=O)OCCC1=CC=CC=C1,2-phenylethyl acetate,phenethyl acetate
-7657,198.26,C1=CC=C(C=C1)COCC2=CC=CC=C2,phenylmethoxymethylbenzene,dibenzyl ether
-7695,180.20,CC(=O)OCC1=CC=C(C=C1)OC,(4-methoxyphenyl)methyl acetate,4-methoxybenzyl acetate
-7720,130.23,CCCCC(CC)CO,2-ethylhexan-1-ol,2-ethylhexan-1-ol
-7731,122.16,CC1=CC=C(C=C1)OC,1-methoxy-4-methylbenzene,4-methylanisole
-7749,102.13,CCC(=O)OCC,ethyl propanoate,ethyl propionate
-7761,160.17,CCOC(=O)CC(=O)OCC,diethyl propanedioate,diethyl malonate
-7762,116.16,CCCC(=O)OCC,ethyl butanoate,ethyl butyrate
-7765,118.17,CCOC(C)OCC,"1,1-diethoxyethane",acetal
-7768,113.16,C1CCC(=O)NCC1,azepan-2-one,azepan-2-one
-7770,130.18,CCCC(=O)OCCC,propyl butanoate,propyl butyrate
-7792,158.28,CC(C)CCCC(C)CCO,"3,7-dimethyloctan-1-ol","3,7-dimethyloctan-1-ol"
-7793,156.26,C[C@@H](CCC=C(C)C)CCO,"(3S)-3,7-dimethyloct-6-en-1-ol",7540-51-4
-7795,158.24,CCCC(=O)OCCC(C)C,3-methylbutyl butanoate,isoamyl butyrate
-7797,158.24,CCCCCCC(=O)OCC,ethyl heptanoate,ethyl heptanoate
-7799,172.26,CCCCCCCC(=O)OCC,ethyl octanoate,ethyl octanoate
-7803,116.16,CCCOC(=O)CC,propyl propanoate,propyl propionate
-7820,146.14,COC(=O)CCC(=O)OC,dimethyl butanedioate,dimethyl succinate
-7824,130.18,CCCCCC(=O)OC,methyl hexanoate,methyl hexanoate
-7826,144.21,CCCCCCC(=O)OC,methyl heptanoate,methyl heptanoate
-7894,87.16,CC(C)CCN,3-methylbutan-1-amine,isoamylamine
-7915,102.13,CC(C)OC(=O)C,propan-2-yl acetate,isopropyl acetate
-7916,100.12,CC(=C)OC(=O)C,prop-1-en-2-yl acetate,isopropenyl acetate
-7921,100.12,CC1CCC(=O)O1,5-methyloxolan-2-one,gamma-valerolactone
-7937,107.15,CC1=NC(=CC=C1)C,"2,6-dimethylpyridine","2,6-dimethylpyridine"
-7967,98.14,C1CCC(=O)CC1,cyclohexanone,cyclohexanone
-7969,110.18,C1=CC=C(C=C1)S,benzenethiol,benzenethiol
-7983,144.21,CCCCOC(=O)CCC,butyl butanoate,butyl butyrate
-7991,102.13,CCCCC(=O)O,pentanoic acid,valeric acid
-7997,102.13,CCCOC(=O)C,propyl acetate,propyl acetate
-8007,73.14,CCCCN,butan-1-amine,butylamine
-8025,74.08,CCOC=O,ethyl formate,ethyl formate
-8030,84.14,C1=CSC=C1,thiophene,thiophene
-8038,116.16,CC(C)COC(=O)C,2-methylpropyl acetate,isobutyl acetate
-8042,270.5,CCCCCCCCCCCCCC(=O)OC(C)C,propan-2-yl tetradecanoate,isopropyl myristate
-8048,200.32,CCCCCCCCCC(=O)OCC,ethyl decanoate,ethyl decanoate
-8049,258.35,CCOC(=O)CCCCCCCCC(=O)OCC,diethyl decanedioate,diethyl decanedioate
-8051,114.19,CCCCCC(=O)C,heptan-2-one,2-heptanone
-8063,86.13,CCCCC=O,pentanal,valeraldehyde
-8077,122.3,CCSSCC,(ethyldisulfanyl)ethane,diethyl disulfide
-8078,84.16,C1CCCCC1,cyclohexane,cyclohexane
-8082,85.15,C1CCNCC1,piperidine,piperidine
-8091,158.24,CCCCCCCC(=O)OC,methyl octanoate,methyl octanoate
-8093,128.21,CCCCCCC(=O)C,octan-2-one,2-octanone
-8094,130.18,CCCCCCC(=O)O,heptanoic acid,heptanoic acid
-8103,102.17,CCCCCCO,hexan-1-ol,1-hexanol
-8118,118.24,CCCSCCC,1-propylsulfanylpropane,propyl sulfide
-8122,312.5,CCCCCCCCCCCCCCCCCC(=O)OCC,ethyl octadecanoate,ethyl stearate
-8125,112.21,CCCCCCC=C,oct-1-ene,1-octene
-8129,116.20,CCCCCCCO,heptan-1-ol,1-heptanol
-8137,168.23,CCCCCCC#CC(=O)OC,methyl non-2-ynoate,methyl 2-nonynoate
-8159,158.24,CCCCCCCOC(=O)C,heptyl acetate,heptyl acetate
-8163,170.29,CCCCCCCCCC(=O)C,undecan-2-one,2-undecanone
-8174,158.28,CCCCCCCCCCO,decan-1-ol,1-decanol
-8175,156.26,CCCCCCCCCC=O,decanal,decanal
-8180,186.29,CCCCCCCCCCC(=O)O,undecanoic acid,undecanoic acid
-8184,172.31,CCCCCCCCCCCO,undecan-1-ol,1-undecanol
-8186,170.29,CCCCCCCCCCC=O,undecanal,undecanal
-8193,186.33,CCCCCCCCCCCCO,dodecan-1-ol,1-dodecanol
-8205,228.37,CCCCCCCCCCCCOC(=O)C,dodecyl acetate,dodecyl acetate
-8294,196.29,CC(=CCCC(C)(C=C)OC(=O)C)C,"3,7-dimethylocta-1,6-dien-3-yl acetate",linalyl acetate
-8363,228.24,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2O,benzyl 2-hydroxybenzoate,benzyl salicylate
-8375,136.15,CC(=O)C1=CC=CC=C1O,1-(2-hydroxyphenyl)ethanone,2'-hydroxyacetophenone
-8419,166.17,COC1=C(C=C(C=C1)C=O)OC,"3,4-dimethoxybenzaldehyde","3,4-dimethoxybenzaldehyde"
-8438,150.13,C1OC2=C(O1)C=C(C=C2)C=O,"1,3-benzodioxole-5-carbaldehyde",piperonal
-8452,84.12,C1CCC(=O)C1,cyclopentanone,cyclopentanone
-8456,180.24,CC(C)(C)C1=C(C=CC(=C1)OC)O,2-tert-butyl-4-methoxyphenol,3-tert-butyl-4-hydroxyanisole
-8467,166.17,CCOC1=C(C=CC(=C1)C=O)O,3-ethoxy-4-hydroxybenzaldehyde,3-ethoxy-4-hydroxybenzaldehyde
-8468,168.15,COC1=C(C=CC(=C1)C(=O)O)O,4-hydroxy-3-methoxybenzoic acid,vanillic acid
-8615,241.28,C1=CC=C(C=C1)CCOC(=O)C2=CC=CC=C2N,2-phenylethyl 2-aminobenzoate,phenethyl anthranilate
-8635,151.16,COC(=O)C1=CC=CC=C1N,methyl 2-aminobenzoate,methyl anthranilate
-8658,136.15,COC1=CC=CC=C1C=O,2-methoxybenzaldehyde,2-methoxybenzaldehyde
-8697,144.21,CCCCC(CC)C(=O)O,2-ethylhexanoic acid,2-ethylhexanoic acid
-8712,124.21,CC1=CC=CC=C1S,2-methylbenzenethiol,2-methylbenzenethiol
-8723,88.15,CCC(C)CO,2-methylbutan-1-ol,2-methyl-1-butanol
-8785,150.17,CC(=O)OCC1=CC=CC=C1,benzyl acetate,benzyl acetate
-8797,150.17,CC1=CC=C(C=C1)OC(=O)C,(4-methylphenyl) acetate,p-tolyl acetate
-8815,148.20,COC1=CC=C(C=C1)CC=C,1-methoxy-4-prop-2-enylbenzene,estragole
-8857,88.11,CCOC(=O)C,ethyl acetate,ethyl acetate
-8878,170.25,CCCCCCC(=O)OCC=C,prop-2-enyl heptanoate,allyl heptanoate
-8892,116.16,CCCCCC(=O)O,hexanoic acid,hexanoic acid
-8908,144.21,CCCCCCOC(=O)C,hexyl acetate,hexyl acetate
-8914,144.25,CCCCCCCCCO,nonan-1-ol,1-nonanol
-8918,186.29,CCCCCCCCCOC(=O)C,nonyl acetate,nonyl acetate
-9012,246.4,C1=CC=C(C=C1)CSSCC2=CC=CC=C2,(benzyldisulfanyl)methylbenzene,dibenzyl disulfide
-9016,138.16,COC1=CC=C(C=C1)OC,"1,4-dimethoxybenzene","1,4-dimethoxybenzene"
-9024,192.25,CC(=O)OC(C)(C)CC1=CC=CC=C1,(2-methyl-1-phenylpropan-2-yl) acetate,dimethylbenzylcarbinyl acetate
-9025,138.16,COC1=CC(=CC=C1)OC,"1,3-dimethoxybenzene","1,3-dimethoxybenzene"
-9256,85.13,C1=CSC=N1,"1,3-thiazole",thiazole
-9261,80.09,C1=CN=CC=N1,pyrazine,pyrazine
-9589,121.14,CC(=O)C1=CN=CC=C1,1-pyridin-3-ylethanone,3-acetylpyridine
-9609,90.19,CCSCC,ethylsulfanylethane,diethyl sulfide
-9862,126.20,CC(=CCCC(=O)C)C,6-methylhept-5-en-2-one,6-methyl-5-hepten-2-one
-10285,143.18,CC1=CC=NC2=CC=CC=C12,4-methylquinoline,lepidine
-10364,150.22,CC1=C(C=C(C=C1)C(C)C)O,2-methyl-5-propan-2-ylphenol,carvacrol
-10400,112.17,C1CCCC(=O)CC1,cycloheptanone,cycloheptanone
-10430,102.13,CC(C)CC(=O)O,3-methylbutanoic acid,isovaleric acid
-10448,106.19,CSCCCO,3-methylsulfanylpropan-1-ol,methionol
-10722,120.15,CC1=CC=CC=C1C=O,2-methylbenzaldehyde,2-methylbenzaldehyde
-10748,176.17,COC1=CC2=C(C=C1)C=CC(=O)O2,7-methoxychromen-2-one,7-methoxycoumarin
-10797,82.10,CC1=CC=CO1,2-methylfuran,2-methylfuran
-10882,130.18,CCCCC(=O)OCC,ethyl pentanoate,ethyl pentanoate
-10886,186.29,CCCCCC(=O)OCCCCC,pentyl hexanoate,pentyl hexanoate
-10890,158.24,CCCCCOC(=O)CCC,pentyl butanoate,pentyl butyrate
-10895,130.18,CCC(=O)OCC(C)C,2-methylpropyl propanoate,isobutyl propionate
-10925,104.22,CC(C)CCS,3-methylbutane-1-thiol,3-methyl-1-butanethiol
-11086,135.16,CC(=O)C1=CC=CC=C1N,1-(2-aminophenyl)ethanone,2'-aminoacetophenone
-11124,88.11,CCC(=O)OC,methyl propanoate,methyl propionate
-11419,112.17,CC1CCCCC1=O,2-methylcyclohexan-1-one,2-methylcyclohexanone
-11428,88.15,CCC(CC)O,pentan-3-ol,3-pentanol
-11525,112.17,CC1CCC(=O)CC1,4-methylcyclohexan-1-one,4-methylcyclohexanone
-11527,130.23,CCCCCC(CC)O,octan-3-ol,3-octanol
-11529,130.18,CCCCOC(=O)CC,butyl propanoate,butyl propionate
-11567,112.17,CC1CCCC(=O)C1,3-methylcyclohexan-1-one,3-methylcyclohexanone
-11569,136.15,COC1=CC=CC(=C1)C=O,3-methoxybenzaldehyde,3-methoxybenzaldehyde
-11583,100.16,CCCCC(=O)C,hexan-2-one,2-hexanone
-11614,102.13,CCCCOC=O,butyl formate,butyl formate
-11617,114.21,C=CCSCC=C,3-prop-2-enylsulfanylprop-1-ene,diallyl sulfide
-11902,126.11,COC(=O)C1=CC=CO1,methyl furan-2-carboxylate,methyl 2-furoate
-11980,140.14,CCOC(=O)C1=CC=CO1,ethyl furan-2-carboxylate,ethyl 2-furoate
-12020,86.13,CCC(C=C)O,pent-1-en-3-ol,1-penten-3-ol
-12097,110.11,CC1=CC=C(O1)C=O,5-methylfuran-2-carbaldehyde,5-methylfurfural
-12178,102.17,CCCC(CC)O,hexan-3-ol,3-hexanol
-12180,102.13,CCCC(=O)OC,methyl butanoate,methyl butyrate
-12206,116.16,CCCCC(=O)OC,methyl pentanoate,methyl valerate
-12265,95.14,CC1=CC=C(N1)C,"2,5-dimethyl-1H-pyrrole","2,5-dimethyl-1h-pyrrole"
-12297,102.17,CCCCC(C)O,hexan-2-ol,2-hexanol
-12327,214.34,CCCCCCCCCCC(=O)OCC,ethyl undecanoate,ethyl undecanoate
-12348,130.18,CCCCCOC(=O)C,pentyl acetate,amyl acetate
-12377,150.3,CCCSSCCC,1-(propyldisulfanyl)propane,dipropyl disulfide
-12506,144.17,CC(=O)OCC1CCCO1,oxolan-2-ylmethyl acetate,tetrahydrofurfuryl acetate
-12580,136.19,CCCC1=CC=C(C=C1)O,4-propylphenol,4-propylphenol
-12587,116.16,CC(C)CCC(=O)O,4-methylpentanoic acid,4-methylpentanoic acid
-12741,156.26,CCCCCCCCC(=O)C,decan-2-one,2-decanone
-12748,99.16,CC1=CSC=N1,"4-methyl-1,3-thiazole",4-methylthiazole
-12810,170.25,CCCCCC1CCCC(=O)O1,6-pentyloxan-2-one,delta-decalactone
-12813,170.25,CCCCCCC1CCC(=O)O1,5-hexyloxolan-2-one,gamma-decalactone
-13187,142.24,CCCCCCCC(=O)C,nonan-2-one,2-nonanone
-13204,114.14,CC1CCCC(=O)O1,6-methyloxan-2-one,delta-hexanolactone
-13216,154.25,C1CCC2CC(CCC2C1)O,"1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalen-2-ol",825-51-4
-13436,218.3,C1=CC=C(C=C1)SSC2=CC=CC=C2,(phenyldisulfanyl)benzene,diphenyl disulfide
-13561,170.29,CCCCCC(=O)CCCCC,undecan-6-one,6-undecanone
-14104,164.24,CC1=CC(=C(C=C1)C(C)C)OC,2-methoxy-4-methyl-1-propan-2-ylbenzene,thymol methyl ether
-14228,228.37,CCCCCCCC(=O)OCCCCCC,hexyl octanoate,hexyl octanoate
-14257,156.31,CCCCCCCCCCC,undecane,undecane
-14286,121.14,CC(=O)C1=CC=CC=N1,1-pyridin-2-ylethanone,2-acetylpyridine
-14296,136.19,CC1=C(N=C(C(=N1)C)C)C,"2,3,5,6-tetramethylpyrazine","2,3,5,6-tetramethylpyrazine"
-14328,180.20,CC(=O)C1=CC(=C(C=C1)OC)OC,"1-(3,4-dimethoxyphenyl)ethanone",1131-62-0
-14491,150.3,C(CCCS)CCS,"hexane-1,6-dithiol","1,6-hexanedithiol"
-14514,124.14,CC1=CC=C(O1)C(=O)C,1-(5-methylfuran-2-yl)ethanone,2-acetyl-5-methylfuran
-14525,152.23,CC1(C2CCC(C2)(C1=O)C)C,"1,3,3-trimethylbicyclo[2.2.1]heptan-2-one",(.+/-.)-fenchone
-15037,147.17,C1=CN(C=C1)CC2=CC=CO2,1-(furan-2-ylmethyl)pyrrole,1-furfurylpyrrole
-15380,108.23,CSCSC,bis(methylsulfanyl)methane,bis(methylthio)methane
-15510,102.20,C1CCC(C1)S,cyclopentanethiol,cyclopentanethiol
-15606,172.26,CCCCCCCCC(=O)OC,methyl nonanoate,methyl nonanoate
-15654,125.19,CC1=C(SC=N1)C=C,"5-ethenyl-4-methyl-1,3-thiazole",4-methyl-5-vinylthiazole
-15717,176.21,C=CCOC(=O)CC1=CC=CC=C1,prop-2-enyl 2-phenylacetate,allyl phenylacetate
-16255,214.34,CCCCCCCC(=O)OCCC(C)C,3-methylbutyl octanoate,isopentyl octanoate
-16324,128.17,CCCC(=O)OCC=C,prop-2-enyl butanoate,allyl butyrate
-16537,182.26,CC1=CCC(CC1)C(C)(C)OC=O,2-(4-methylcyclohex-3-en-1-yl)propan-2-yl formate,terpinyl formate
-16741,163.24,C1=CC=C(C=C1)CCN=C=S,2-isothiocyanatoethylbenzene,2-phenylethyl isothiocyanate
-17121,170.25,CCCCCC(C=C)OC(=O)C,oct-1-en-3-yl acetate,1-octen-3-yl acetate
-17525,172.26,CCCCCCOC(=O)CCC,hexyl butanoate,hexyl butyrate
-17617,196.29,C=CCOC(=O)CCC1CCCCC1,prop-2-enyl 3-cyclohexylpropanoate,2705-87-5
-17898,124.14,CC1=NC=CN=C1OC,2-methoxy-3-methylpyrazine,2-methoxy-3-methylpyrazine
-18467,110.11,COC1=NC=CN=C1,2-methoxypyrazine,2-methoxypyrazine
-18554,96.13,CCC1=CC=CO1,2-ethylfuran,2-ethylfuran
-18635,104.17,CSCCC=O,3-methylsulfanylpropanal,3-(methylthio)propionaldehyde
-18827,128.21,CCCCCC(C=C)O,oct-1-en-3-ol,1-octen-3-ol
-19310,126.3,CSSSC,(methyltrisulfanyl)methane,dimethyl trisulfide
-21057,114.19,CCCCC(C=C)O,hept-1-en-3-ol,1-hepten-3-ol
-21363,142.20,C1CCC(CC1)CC(=O)O,2-cyclohexylacetic acid,cyclohexylacetic acid
-21648,164.20,CC(=O)CCC1=CC=C(C=C1)O,4-(4-hydroxyphenyl)butan-2-one,4-(4-hydroxyphenyl)-2-butanone
-22310,170.25,CC1(CCC(O1)C(C)(C)O)C=C,2-(5-ethenyl-5-methyloxolan-2-yl)propan-2-ol,60047-17-8
-22386,88.15,CCCC(C)O,pentan-2-ol,2-pentanol
-22873,200.32,CCCCCCOC(=O)CCCCC,hexyl hexanoate,hexyl hexanoate
-23235,206.28,CCCCCCOC(=O)C1=CC=CC=C1,hexyl benzoate,hexyl benzoate
-23642,140.20,COC1=CC=CC=C1S,2-methoxybenzenethiol,2-methoxybenzenethiol
-24020,130.18,CCC(C)C(=O)OCC,ethyl 2-methylbutanoate,ethyl 2-methylbutyrate
-24116,177.20,C=CCOC(=O)C1=CC=CC=C1N,prop-2-enyl 2-aminobenzoate,allyl anthranilate
-24197,190.19,CCOC(=O)CC(C(=O)OCC)O,diethyl 2-hydroxybutanedioate,diethyl malate
-24203,141.959,OP(=O)([O-])[O-].[Na+].[Na+],disodium;hydrogen phosphate,7558-79-4
-24473,152.23,CC1CCC(CC1=O)C(=C)C,2-methyl-5-prop-1-en-2-ylcyclohexan-1-one,dihydrocarvone
-24513,202.33,CCCCCCCCCC(OC)OC,"1,1-dimethoxydecane","1,1-dimethoxydecane"
-24834,150.17,CCOC1=CC=C(C=C1)C=O,4-ethoxybenzaldehyde,4-ethoxybenzaldehyde
-26331,108.14,CCC1=NC=CN=C1,2-ethylpyrazine,2-ethylpyrazine
-27440,127.21,CCC1=NC(=CS1)C,"2-ethyl-4-methyl-1,3-thiazole",2-ethyl-4-methylthiazole
-27457,122.17,CCC1=NC=CN=C1C,2-ethyl-3-methylpyrazine,2-ethyl-3-methylpyrazine
-27458,136.19,CCC1=NC=CN=C1CC,"2,3-diethylpyrazine","2,3-diethylpyrazine"
-31209,202.29,CCCCCC(=CC1=CC=CC=C1)C=O,2-benzylideneheptanal,122-40-7
-31210,192.25,CCCCOC(=O)CC1=CC=CC=C1,butyl 2-phenylacetate,butyl phenylacetate
-31219,164.20,CCC(=O)OCC1=CC=CC=C1,benzyl propanoate,benzyl propionate
-31225,178.23,CCC(=O)OCCC1=CC=CC=C1,2-phenylethyl propanoate,2-phenylethyl propionate
-31234,136.19,C1=CC=C(C=C1)CCCO,3-phenylpropan-1-ol,3-phenyl-1-propanol
-31244,136.15,COC1=CC=C(C=C1)C=O,4-methoxybenzaldehyde,4-methoxybenzaldehyde
-31246,114.19,CCCC(=O)CCC,heptan-4-one,4-heptanone
-31249,174.19,CCOC(=O)CCC(=O)OCC,diethyl butanedioate,diethyl succinate
-31252,108.14,CC1=CN=C(C=N1)C,"2,5-dimethylpyrazine","2,5-dimethylpyrazine"
-31260,88.15,CC(C)CCO,3-methylbutan-1-ol,isoamyl alcohol
-31265,144.21,CCCCCC(=O)OCC,ethyl hexanoate,ethyl caproate
-31266,156.22,CCCCCC(=O)OCC=C,prop-2-enyl hexanoate,allyl hexanoate
-31268,71.12,C1CCNC1,pyrrolidine,pyrrolidine
-31272,116.16,CCCCOC(=O)C,butyl acetate,butyl acetate
-31276,130.18,CC(C)CCOC(=O)C,3-methylbutyl acetate,isoamyl acetate
-31283,256.42,CCCCCCCCCCCCCC(=O)OCC,ethyl tetradecanoate,ethyl myristate
-31404,220.35,CC1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C,"2,6-ditert-butyl-4-methylphenol","2,6-di-tert-butyl-4-methylphenol"
-32594,166.22,CC(C)CC1=NC=CN=C1OC,2-methoxy-3-(2-methylpropyl)pyrazine,2-isobutyl-3-methoxypyrazine
-33032,147.13,C(CC(=O)O)[C@@H](C(=O)O)N,(2S)-2-aminopentanedioic acid,l-glutamic acid
-36822,134.18,C1CCC2=NC=CN=C2C1,"5,6,7,8-tetrahydroquinoxaline","5,6,7,8-tetrahydroquinoxaline"
-60998,192.25,CC(C)COC(=O)CC1=CC=CC=C1,2-methylpropyl 2-phenylacetate,isobutyl phenylacetate
-60999,226.27,C1=CC=C(C=C1)CC(=O)OCC2=CC=CC=C2,benzyl 2-phenylacetate,benzyl phenylacetate
-61005,208.25,CC(C)C(=O)OCCOC1=CC=CC=C1,2-phenoxyethyl 2-methylpropanoate,2-phenoxyethyl isobutyrate
-61024,200.32,CCCCCCCCOC(=O)C(C)C,octyl 2-methylpropanoate,octyl isobutyrate
-61027,240.38,CCCCOC(=O)CCCCCCCCC=C,butyl undec-10-enoate,butyl undec-10-enoate
-61048,178.23,CC(C)COC(=O)C1=CC=CC=C1,2-methylpropyl benzoate,isobutyl benzoate
-61052,192.25,CCC(=O)OCCCC1=CC=CC=C1,3-phenylpropyl propanoate,3-phenylpropyl propanoate
-61130,150.22,CC1(C2CC=C(C1C2)C=O)C,"6,6-dimethylbicyclo[3.1.1]hept-2-ene-2-carbaldehyde",myrtenal
-61138,100.12,C=CCCC(=O)O,pent-4-enoic acid,4-pentenoic acid
-61151,166.17,COC1=CC=CC=C1C(=O)OC,methyl 2-methoxybenzoate,methyl 2-methoxybenzoate
-61155,166.17,CC(=O)OC1=CC=CC=C1OC,(2-methoxyphenyl) acetate,2-methoxyphenyl acetate
-61177,130.18,CCCCCCOC=O,hexyl formate,hexyl formate
-61185,214.34,CCCCCCCC(=O)OCCCCC,pentyl octanoate,pentyl octanoate
-61192,185.25,CC1=C(SC=N1)CCOC(=O)C,"2-(4-methyl-1,3-thiazol-5-yl)ethyl acetate",656-53-1
-61199,142.15,CCC1C(=C(C(=O)O1)O)C,2-ethyl-4-hydroxy-3-methyl-2H-furan-5-one,698-10-2
-61204,184.27,CCCCCCC1CCCC(=O)O1,6-hexyloxan-2-one,delta-undecalactone
-61209,112.13,CC1CCC(=O)C1=O,"3-methylcyclopentane-1,2-dione","3-methylcyclopentane-1,2-dione"
-61229,194.18,CC(=O)OC1=C(C=C(C=C1)C=O)OC,(4-formyl-2-methoxyphenyl) acetate,vanillin acetate
-61252,102.16,C1CSCC1=O,thiolan-3-one,tetrahydrothiophen-3-one
-61293,160.21,CCCC(CC(=O)OCC)O,ethyl 3-hydroxyhexanoate,ethyl 3-hydroxyhexanoate
-61325,142.15,CC1C(=O)C(=C(O1)C)OC,"4-methoxy-2,5-dimethylfuran-3-one",4077-47-8
-61331,242.27,COC1=CC=CC=C1OC(=O)CC2=CC=CC=C2,(2-methoxyphenyl) 2-phenylacetate,guaiacyl phenylacetate
-61337,152.15,C=CCOC(=O)C1=CC=CO1,prop-2-enyl furan-2-carboxylate,allyl 2-furoate
-61386,270.5,CCCCCCCCCCCC(=O)OCCC(C)C,3-methylbutyl dodecanoate,isoamyl laurate
-61408,156.22,CCC(CC)C(=O)OCC=C,prop-2-enyl 2-ethylbutanoate,allyl 2-ethylbutyrate
-61523,164.24,C1=CC=C(C=C1)CCCCCO,5-phenylpentan-1-ol,5-phenylpentan-1-ol
-61527,138.16,CC1=CC(=C(O1)C)C(=O)C,"1-(2,5-dimethylfuran-3-yl)ethanone","3-acetyl-2,5-dimethylfuran"
-61641,134.20,COC(=O)CCSC,methyl 3-methylsulfanylpropanoate,methyl 3-(methylthio)propionate
-61653,127.21,CC1=C(SC(=N1)C)C,"2,4,5-trimethyl-1,3-thiazole","2,4,5-trimethylthiazole"
-61659,194.25,C1=COC(=C1)CSCC2=CC=CO2,2-(furan-2-ylmethylsulfanylmethyl)furan,difurfuryl sulfide
-61670,144.17,CC1=C2C(=CC=C1)N=CC=N2,5-methylquinoxaline,5-methylquinoxaline
-61771,154.25,CCC(C)C1CCCCC1=O,2-butan-2-ylcyclohexan-1-one,2-sec-butylcyclohexanone
-61809,129.18,CCOC1=NC=CS1,"2-ethoxy-1,3-thiazole",2-ethoxythiazole
-61918,150.18,CCC1=NC=CN=C1C(=O)C,1-(3-ethylpyrazin-2-yl)ethanone,2-acetyl-3-ethylpyrazine
-61945,140.21,C1=CN=C(C=N1)CCS,2-pyrazin-2-ylethanethiol,pyrazineethanethiol
-62087,106.19,CC(C(C)S)O,3-sulfanylbutan-2-ol,3-mercapto-2-butanol
-62089,158.24,CCCCC(C)CCC(=O)O,4-methyloctanoic acid,4-methyloctanoic acid
-62144,142.18,C1=COC(=C1)CSC=O,S-(furan-2-ylmethyl) methanethioate,furfuryl thioformate
-62332,242.27,C1=CC=C(C=C1)CCOC(=O)C2=CC=CC=C2O,2-phenylethyl 2-hydroxybenzoate,phenethyl salicylate
-62351,147.3,CSCCCN=C=S,1-isothiocyanato-3-methylsulfanylpropane,3-(methylthio)propyl isothiocyanate
-62374,152.19,CC1=CC(=O)CC(C1=O)(C)C,"2,6,6-trimethylcyclohex-2-ene-1,4-dione",1125-21-9
-62375,152.19,COC(C1=CC=CC=C1)OC,dimethoxymethylbenzene,benzaldehyde dimethyl acetal
-62378,166.26,CCCCCC1=C(CCC1=O)C,3-methyl-2-pentylcyclopent-2-en-1-one,dihydrojasmone
-62444,118.20,CCCC(=O)SC,S-methyl butanethioate,methyl thiobutyrate
-62465,152.19,CCC1=CC(=C(C=C1)O)OC,4-ethyl-2-methoxyphenol,4-ethyl-2-methoxyphenol
-62572,132.16,CCOC(=O)CC(C)O,ethyl 3-hydroxybutanoate,ethyl 3-hydroxybutyrate
-62580,222.24,CC(C)C(=O)OCC1=CC2=C(C=C1)OCO2,"1,3-benzodioxol-5-ylmethyl 2-methylpropanoate",piperonyl isobutyrate
-62725,141.24,CC(C)CC1=NC=CS1,"2-(2-methylpropyl)-1,3-thiazole",2-isobutylthiazole
-62835,128.13,CC1C(=C(C(=O)O1)O)C,"4-hydroxy-2,3-dimethyl-2H-furan-5-one",28664-35-9
-62900,156.22,CCCCC1C(CC(=O)O1)C,5-butyl-4-methyloxolan-2-one,whiskey lactone
-62902,144.21,CCCC(C)C(=O)OCC,ethyl 2-methylpentanoate,ethyl 2-methylpentanoate
-69963,100.16,C=CCCCCO,hex-5-en-1-ol,5-hexen-1-ol
-78925,92.16,CSCCO,2-methylsulfanylethanol,2-(methylthio)ethanol
-82227,136.23,CC1=CC[C@@H]2C[C@H]1C2(C)C,"(1R,5R)-2,6,6-trimethylbicyclo[3.1.1]hept-2-ene",(+)-alpha-pinene
-85522,120.17,COC(=O)CSC,methyl 2-methylsulfanylacetate,methyl (methylthio)acetate
-88454,158.24,CCCCCCOC(=O)CC,hexyl propanoate,hexyl propionate
-89440,258.4,CC1CC(C2=C(C1(C)C)C=C(C(=C2)C(=O)C)C)(C)C,"1-(3,5,5,6,8,8-hexamethyl-6,7-dihydronaphthalen-2-yl)ethanone",tonalide
-92979,270.4,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CCC4=CC(=O)CC[C@]34C,"(8S,9S,10R,13R,14S)-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15-decahydrocyclopenta[a]phenanthren-3-one","androsta-4,16-dien-3-one"
-93375,138.21,CC1C=C(CCC1C=O)C,"2,4-dimethylcyclohex-3-ene-1-carbaldehyde",68039-49-6
-98330,152.2,C1C(SCC(S1)O)O,"1,4-dithiane-2,5-diol","1,4-dithiane-2,5-diol"
-101010,160.28,CCCC1CCOC(S1)C,"2-methyl-4-propyl-1,3-oxathiane","2-methyl-4-propyl-1,3-oxathiane"
-101604,208.30,CC(=O)OCCC1=CCC2CC1C2(C)C,"2-(6,6-dimethyl-2-bicyclo[3.1.1]hept-2-enyl)ethyl acetate",nopyl acetate
-104721,150.18,CC1=CN=C(C(=N1)C)C(=O)C,"1-(3,5-dimethylpyrazin-2-yl)ethanone","2-acetyl-3,5-dimethylpyrazine"
-106441,152.19,CC(C)C1=CN=CC(=N1)OC,2-methoxy-6-propan-2-ylpyrazine,2-isopropyl-6-methoxypyrazine
-106997,182.30,CCC1(C(C2CCC1(C2)C)(C)C)O,"2-ethyl-1,3,3-trimethylbicyclo[2.2.1]heptan-2-ol",2-ethylfenchol
-145742,115.13,C1C[C@H](NC1)C(=O)O,(2S)-pyrrolidine-2-carboxylic acid,l-proline
-159055,152.23,C[C@@]12CC[C@@H](C1(C)C)CC2=O,"(1R,4R)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one",d-camphor
-165675,156.26,C[C@H]1CC[C@@H]([C@H](C1)O)C(C)C,"(1S,2R,5S)-5-methyl-2-propan-2-ylcyclohexan-1-ol",(+)-menthol
-170833,154.25,C[C@@H]1CC[C@H]([C@@H](C1)O)C(=C)C,"(1R,2S,5R)-5-methyl-2-prop-1-en-2-ylcyclohexan-1-ol",(-)-isopulegol
-220674,198.30,C[C@@H]1CC[C@H]([C@@H](C1)OC(=O)C)C(C)C,"[(1R,2S,5R)-5-methyl-2-propan-2-ylcyclohexyl] acetate",l-menthyl acetate
-228769,214.34,CCCCCCCCOC(=O)CC(C)C,octyl 3-methylbutanoate,octyl isovalerate
-235414,240.38,C1CCCCCCCOC(=O)CCCCCC1,oxacyclohexadecan-2-one,oxacyclohexadecan-2-one
-246728,128.21,CCCCCC(=O)CC,octan-3-one,3-octanone
-251531,216.23,C1=CC=C(C=C1)CCOC(=O)C2=CC=CO2,2-phenylethyl furan-2-carboxylate,phenethyl 2-furoate
-439570,150.22,CC1=CC[C@H](CC1=O)C(=C)C,(5R)-2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-one,(-)-carvone
-440917,136.23,CC1=CC[C@@H](CC1)C(=C)C,(4R)-1-methyl-4-prop-1-en-2-ylcyclohexene,d-limonene
-440967,136.23,CC1([C@H]2CCC(=C)[C@@H]1C2)C,"(1S,5S)-6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptane",(-)-beta-pinene
-444539,148.16,C1=CC=C(C=C1)/C=C/C(=O)O,(E)-3-phenylprop-2-enoic acid,cinnamic acid
-444683,74.12,CC[C@H](C)O,(2S)-butan-2-ol,(s)-(+)-2-butanol
-444972,116.07,C(=C/C(=O)O)\C(=O)O,(E)-but-2-enedioic acid,fumaric acid
-519539,141.24,CCC(C)C1=NC=CS1,"2-butan-2-yl-1,3-thiazole",18277-27-5
-520108,127.17,CC(=O)C1=NC=CS1,"1-(1,3-thiazol-2-yl)ethanone",2-acetylthiazole
-520191,154.23,CC1=CC(=C(S1)C)C(=O)C,"1-(2,5-dimethylthiophen-3-yl)ethanone","3-acetyl-2,5-dimethylthiophene"
-520296,226.35,CCCCCCCCCC1CCCC(=O)O1,6-nonyloxan-2-one,delta-tetradecalactone
-521238,172.26,CCCCCC(CC)OC(=O)C,octan-3-yl acetate,3-octyl acetate
-526618,128.19,CC1=C(C=CO1)SC,2-methyl-3-methylsulfanylfuran,2-methyl-3-(methylthio)furan
-556940,214.28,CCOC(=O)CCSCC1=CC=CO1,ethyl 3-(furan-2-ylmethylsulfanyl)propanoate,ethyl 3-(furfurylthio)propionate
-565690,240.38,CC1CCC(C(C1)OC(=O)CC(C)C)C(C)C,(5-methyl-2-propan-2-ylcyclohexyl) 3-methylbutanoate,menthyl isovalerate
-595928,164.20,CC1COC(O1)C2=CC=CC=C2,"4-methyl-2-phenyl-1,3-dioxolane","4-methyl-2-phenyl-1,3-dioxolane"
-637563,148.20,C/C=C/C1=CC=C(C=C1)OC,1-methoxy-4-[(E)-prop-1-enyl]benzene,anethole
-637566,154.25,CC(=CCC/C(=C/CO)/C)C,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",geraniol
-637758,176.21,CCOC(=O)/C=C/C1=CC=CC=C1,ethyl (E)-3-phenylprop-2-enoate,ethyl cinnamate
-637776,178.23,C/C=C/C1=CC(=C(C=C1)OC)OC,"1,2-dimethoxy-4-[(E)-prop-1-enyl]benzene",methylisoeugenol
-637796,162.18,C/C=C/C1=CC2=C(C=C1)OCO2,"5-[(E)-prop-1-enyl]-1,3-benzodioxole",isosafrole
-638014,192.30,CC1=C(C(CCC1)(C)C)/C=C/C(=O)C,"(E)-4-(2,6,6-trimethylcyclohexen-1-yl)but-3-en-2-one",beta-ionone
-638024,285.34,C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3,"(2E,4E)-5-(1,3-benzodioxol-5-yl)-1-piperidin-1-ylpenta-2,4-dien-1-one",piperine
-641256,98.14,C/C=C/C=C/CO,"(2E,4E)-hexa-2,4-dien-1-ol","trans,trans-2,4-hexadien-1-ol"
-641423,188.22,C=CCOC(=O)/C=C/C1=CC=CC=C1,prop-2-enyl (E)-3-phenylprop-2-enoate,allyl cinnamate
-643820,154.25,CC(=CCC/C(=C\CO)/C)C,"(2Z)-3,7-dimethylocta-2,6-dien-1-ol",nerol
-778574,204.26,CC(C)COC(=O)/C=C/C1=CC=CC=C1,2-methylpropyl (E)-3-phenylprop-2-enoate,isobutyl cinnamate
-853433,164.20,C/C=C/C1=CC(=C(C=C1)O)OC,2-methoxy-4-[(E)-prop-1-enyl]phenol,isoeugenol
-1549025,196.29,CC(=CCC/C(=C\COC(=O)C)/C)C,"[(2Z)-3,7-dimethylocta-2,6-dienyl] acetate",neryl acetate
-1549026,196.29,CC(=CCC/C(=C/COC(=O)C)/C)C,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",geranyl acetate
-1549778,194.31,CC(=CCC/C(=C/CCC(=O)C)/C)C,"(5E)-6,10-dimethylundeca-5,9-dien-2-one",geranylacetone
-1550470,140.18,CCOC(=O)/C=C/C=C/C,"ethyl (2E,4E)-hexa-2,4-dienoate",ethyl sorbate
-1551246,149.23,CC(=CCC/C(=C/C#N)/C)C,"(2E)-3,7-dimethylocta-2,6-dienenitrile","3,7-dimethylocta-2,6-dienenitrile"
-2733294,142.20,CCC/C=C/COC(=O)C,[(E)-hex-2-enyl] acetate,trans-2-hexenyl acetate
-3578033,152.19,CC1=CC=C(O1)C(C)CC=O,3-(5-methylfuran-2-yl)butanal,31704-80-0
-5273467,218.29,CC(C)CCOC(=O)/C=C/C1=CC=CC=C1,3-methylbutyl (E)-3-phenylprop-2-enoate,isopentyl cinnamate
-5280450,280.4,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,"(9Z,12Z)-octadeca-9,12-dienoic acid",linoleic acid
-5281167,100.16,CC/C=C\CCO,(Z)-hex-3-en-1-ol,cis-3-hexen-1-ol
-5281168,98.14,CCC/C=C/C=O,(E)-hex-2-enal,trans-2-hexenal
-5315892,134.17,C1=CC=C(C=C1)/C=C/CO,(E)-3-phenylprop-2-en-1-ol,cinnamyl alcohol
-5318599,128.21,CCCCC/C=C/CO,(E)-oct-2-en-1-ol,trans-2-octen-1-ol
-5352539,170.25,CC/C=C\CCOC(=O)C(C)C,[(Z)-hex-3-enyl] 2-methylpropanoate,cis-3-hexenyl isobutyrate
-5352837,128.21,CC/C=C\CCCCO,(Z)-oct-5-en-1-ol,cis-5-octen-1-ol
-5355850,190.24,CCC(=O)OC/C=C/C1=CC=CC=C1,[(E)-3-phenylprop-2-enyl] propanoate,cinnamyl propionate
-5362588,126.20,CCC(C)C(=O)/C=C/C,(E)-5-methylhept-2-en-4-one,5-methyl-2-hepten-4-one
-5362798,156.26,CCCCC/C=C\CCCO,(Z)-dec-4-en-1-ol,cis-4-decen-1-ol
-5362814,112.17,CC/C=C\CCC=O,(Z)-hept-4-enal,cis-4-heptenal
-5363233,154.25,CCCCCC/C=C/C(=O)C,(E)-dec-3-en-2-one,3-decen-2-one
-5363388,142.20,CC/C=C\CCOC(=O)C,[(Z)-hex-3-enyl] acetate,cis-3-hexenyl acetate
-5363491,140.18,C/C=C/C=C/COC(=O)C,"[(2E,4E)-hexa-2,4-dienyl] acetate",sorbyl acetate
-5364231,172.22,CC/C=C\CCOC(=O)C(C)O,[(Z)-hex-3-enyl] 2-hydroxypropanoate,cis-3-hexenyl lactate
-5364729,140.18,C/C=C(\C)/C(=O)OCC=C,prop-2-enyl (E)-2-methylbut-2-enoate,allyl tiglate
-5365027,142.24,CCCCCC/C=C\CO,(Z)-non-2-en-1-ol,cis-2-nonen-1-ol
-5365049,156.22,CC/C=C\CCOC(=O)CC,[(Z)-hex-3-enyl] propanoate,33467-74-2
-5366244,296.5,CC(C)CCCC(C)CCCC(C)CCC/C(=C/CO)/C,"(E)-3,7,11,15-tetramethylhexadec-2-en-1-ol",phytol
-5367698,218.29,CC/C=C\CCOC(=O)CC1=CC=CC=C1,[(Z)-hex-3-enyl] 2-phenylacetate,42436-07-7
-5367706,204.26,CC/C=C\CCOC(=O)C1=CC=CC=C1,[(Z)-hex-3-enyl] benzoate,cis-3-hexenyl benzoate
-5368076,170.25,CCCCCC/C=C/C(=O)OC,methyl (E)-non-2-enoate,methyl 2-nonenoate
-5371102,220.26,CC/C=C\CCOC(=O)C1=CC=CC=C1O,[(Z)-hex-3-enyl] 2-hydroxybenzoate,cis-3-hexenyl salicylate
-6114390,282.3,C/C=C/C1=CC(=C(C=C1)OC(=O)CC2=CC=CC=C2)OC,[2-methoxy-4-[(E)-prop-1-enyl]phenyl] 2-phenylacetate,isoeugenyl phenylacetate
-6429333,146.19,C/C=C(/C=O)\C1=CC=CC=C1,(E)-2-phenylbut-2-enal,2-phenyl-2-butenal
-6999977,146.18,CCCCOC(=O)[C@H](C)O,butyl (2S)-2-hydroxypropanoate,34451-19-9
-10857465,236.39,C[C@]12CCCC([C@@H]1CC[C@@]3([C@@H]2CCO3)C)(C)C,"(3aR,5aS,9aS,9bR)-3a,6,6,9a-tetramethyl-2,4,5,5a,7,8,9,9b-octahydro-1H-benzo[e][1]benzofuran",(-)-ambroxide
-16220109,182.26,CC/C=C\CCOC(=O)/C(=C\C)/C,[(Z)-hex-3-enyl] (Z)-2-methylbut-2-enoate,(z)-3-hexenyl angelate
+"","CID","OdorName","CAS","CanonicalSMILES","MolecularWeight"
+"1","16741","2-Phenylethyl isothiocyanate","2257-09-2","C1=CC=C(C=C1)CCN=C=S","163.24"
+"2","17121","1-Octen-3-yl acetate","2442-10-6","CCCCCC(C=C)OC(=O)C","170.25"
+"3","520191","3-Acetyl-2,5-dimethylthiophene","2530-10-1","CC1=CC(=C(S1)C)C(=O)C","154.23"
+"4","92979","Androstadienone","4075-07-4","CC12CCC3C(C1CC=C2)CCC4=CC(=O)CCC34C","270.4"
+"5","62580","Piperonyl isobutyrate","5461-08-5","CC(C)C(=O)OCC1=CC2=C(C=C1)OCO2","222.24"
+"6","24197","Diethyl malate","7554-12-3","CCOC(=O)CC(C(=O)OCC)O","190.19"
+"7","7476","Acetanisole","100-06-1","CC(=O)C1=CC=C(C=C1)OC","150.17"
+"8","61252","4,5-Dihydro-3(2H)-thiophenone","1003-04-9","C1CSCC1=O","102.16"
+"9","24834","4-Ethoxybenzaldehyde","10031-82-0","CCOC1=CC=C(C=C1)C=O","150.17"
+"10","7500","ethylbenzene","100-41-4","CCC1=CC=CC=C1","106.16"
+"11","244","benzyl alcohol","100-51-6","C1=CC=C(C=C1)CO","108.14"
+"12","240","benzaldehyde","100-52-7","C1=CC=C(C=C1)C=O","106.12"
+"13","7519","anisole","100-66-3","COC1=CC=CC=C1","108.14"
+"14","7559","Methyl phenylacetate","101-41-7","COC(=O)CC1=CC=CC=C1","150.17"
+"15","7583","Diphenyl ether","101-84-8","C1=CC=C(C=C1)OC2=CC=CC=C2","170.21"
+"16","7593","1,3-Diphenyl-2-propanone","102-04-5","C1=CC=C(C=C1)CC(=O)CC2=CC=CC=C2","210.27"
+"17","60998","Isobutyl phenylacetate","102-13-6","CC(C)COC(=O)CC1=CC=CC=C1","192.25"
+"18","60999","Benzyl phenylacetate","102-16-9","C1=CC=C(C=C1)CC(=O)OCC2=CC=CC=C2","226.27"
+"19","7601","Phenethyl phenylacetate","102-20-5","C1=CC=C(C=C1)CCOC(=O)CC2=CC=CC=C2","240.30"
+"20","5541","Triacetin","102-76-1","CC(=O)OCC(COC(=O)C)OC(=O)C","218.20"
+"21","7632","dimethyl benzene propanol","103-05-9","CC(C)(CCC1=CC=CC=C1)O","164.24"
+"22","7635","2-ethylhexyl acetate","103-09-3","CCCCC(CC)COC(=O)C","172.26"
+"23","637758","ethyl cinnamate","103-36-6","CCOC(=O)C=CC1=CC=CC=C1","176.21"
+"24","7654","Phenethyl acetate","103-45-7","CC(=O)OCCC1=CC=CC=C1","164.20"
+"25","7657","Benzyl ether","103-50-4","C1=CC=C(C=C1)COCC2=CC=CC=C2","198.26"
+"26","61005","2-Phenoxyethyl isobutyrate","103-60-6","CC(C)C(=O)OCCOC1=CC=CC=C1","208.25"
+"27","7695","Anisyl acetate","104-21-2","CC(=O)OCC1=CC=C(C=C1)OC","180.20"
+"28","5315892","cinnamyl alcohol","104-54-1","C1=CC=C(C=C1)C=CCO","134.17"
+"29","7720","2-ethyl-1-hexanol","104-76-7","CCCCC(CC)CO","130.23"
+"30","7731","4-Methylanisole","104-93-8","CC1=CC=C(C=C1)OC","122.16"
+"31","5363233","3-Decen-2-one","10519-33-2","CCCCCCC=CC(=O)C","154.25"
+"32","61523","5-Phenyl-1-pentanol","10521-91-2","C1=CC=C(C=C1)CCCCCO","164.24"
+"33","7749","ethyl propionate","105-37-3","CCC(=O)OCC","102.13"
+"34","7761","Diethyl malonate","105-53-3","CCOC(=O)CC(=O)OCC","160.17"
+"35","7762","ethyl butyrate","105-54-4","CCCC(=O)OCC","116.16"
+"36","7765","Acetal","105-57-7","CCOC(C)OCC","118.17"
+"37","7768","epsilon-Caprolactam","105-60-2","C1CCC(=O)NCC1","113.16"
+"38","7770","propyl butyrate","105-66-8","CCCC(=O)OCCC","130.18"
+"39","1549026","geranyl acetate","105-87-3","CC(=CCCC(=CCOC(=O)C)C)C","196.29"
+"40","61527","3-Acetyl-2,5-dimethylfuran","10599-70-9","CC1=CC(=C(O1)C)C(=O)C","138.16"
+"41","235414","Omega-Pentadecalactone","106-02-5","C1CCCCCCCOC(=O)CCCCCC1","240.38"
+"42","7792","3,7-Dimethyl-1-octanol","106-21-8","CC(C)CCCC(C)CCO","158.28"
+"43","637566","geraniol","106-24-1","CC(=CCCC(=CCO)C)C","154.25"
+"44","643820","Nerol","106-25-2","CC(=CCCC(=CCO)C)C","154.25"
+"45","7795","Isoamyl butyrate","106-27-4","CCCC(=O)OCCC(C)C","158.24"
+"46","7797","Ethyl heptanoate","106-30-9","CCCCCCC(=O)OCC","158.24"
+"47","7799","Ethyl octanoate","106-32-1","CCCCCCCC(=O)OCC","172.26"
+"48","7803","Propyl propionate","106-36-5","CCCOC(=O)CC","116.16"
+"49","2879","p-cresol","106-44-5","CC1=CC=C(C=C1)O","108.14"
+"50","7820","dimethyl succinate","106-65-0","COC(=O)CCC(=O)OC","146.14"
+"51","246728","3-octanone","106-68-3","CCCCCC(=O)CC","128.21"
+"52","7824","methyl caproate","106-70-7","CCCCCC(=O)OC","130.18"
+"53","7826","Methyl heptanoate","106-73-0","CCCCCCC(=O)OC","144.21"
+"54","14104","1-Methyl-3-methoxy-4-isopropylbenzene","1076-56-8","CC1=CC(=C(C=C1)C(C)C)OC","164.24"
+"55","7894","Isoamylamine","107-85-7","CC(C)CCN","87.16"
+"56","264","butyric acid","107-92-6","CCCC(=O)O","88.11"
+"57","239","beta-Alanine","107-95-9","C(CN)C(=O)O","89.09"
+"58","7915","isopropyl acetate","108-21-4","CC(C)OC(=O)C","102.13"
+"59","7916","Isopropenyl acetate","108-22-5","CC(=C)OC(=O)C","100.12"
+"60","7921","gamma-valerolactone","108-29-2","CC1CCC(=O)O1","100.12"
+"61","7937","2,6-Dimethylpyridine","108-48-5","CC1=NC(=CC=C1)C","107.15"
+"62","7967","Cyclohexanone","108-94-1","C1CCC(=O)CC1","98.14"
+"63","7969","Benzenethiol","108-98-5","C1=CC=C(C=C1)S","110.18"
+"64","61024","Octyl isobutyrate","109-15-9","CCCCCCCCOC(=O)C(C)C","200.32"
+"65","8038","isobutyl acetate","109-19-0",NA,NA
+"66","7983","butyl butyrate","109-21-7","CCCCOC(=O)CCC","144.21"
+"67","61027","Butyl 10-undecenoate","109-42-2","CCCCOC(=O)CCCCCCCCC=C","240.38"
+"68","7991","valeric acid","109-52-4","CCCCC(=O)O","102.13"
+"69","7997","propyl acetate","109-60-4","CCCOC(=O)C","102.13"
+"70","8007","Butylamine","109-73-9","CCCCN","73.14"
+"71","8025","Ethyl formate","109-94-4","CCOC=O","74.08"
+"72","8030","Thiophene","110-02-1","C1=CSC=C1","84.14"
+"73","1110","Succinic acid","110-15-6","C(CC(=O)O)C(=O)O","118.09"
+"74","444972","Fumaric acid","110-17-8","C(=CC(=O)O)C(=O)O","116.07"
+"75","8042","Isopropyl myristate","110-27-0","CCCCCCCCCCCCCC(=O)OC(C)C","270.5"
+"76","8048","Ethyl decanoate","110-38-3","CCCCCCCCCC(=O)OCC","200.32"
+"77","8049","Diethyl sebacate","110-40-7","CCOC(=O)CCCCCCCCC(=O)OCC","258.35"
+"78","8051","2-heptanone","110-43-0","CCCCCC(=O)C","114.19"
+"79","8063","valeraldehyde","110-62-3","CCCCC=O","86.13"
+"80","8077","Diethyl disulfide","110-81-6","CCSSCC","122.3"
+"81","8078","Cyclohexane","110-82-7","C1CCCCC1","84.16"
+"82","1049","pyridine","110-86-1","C1=CC=NC=C1","79.10"
+"83","8082","Piperidine","110-89-4","C1CCNCC1","85.15"
+"84","9862","6-Methyl-5-hepten-2-one","110-93-0","CC(=CCCC(=O)C)C","126.20"
+"85","8091","Methyl caprylate","111-11-5","CCCCCCCC(=O)OC","158.24"
+"86","8093","2-octanone","111-13-7","CCCCCCC(=O)C","128.21"
+"87","8094","Heptanoic Acid","111-14-8","CCCCCCC(=O)O","130.18"
+"88","8103","hexanol","111-27-3","CCCCCCO","102.17"
+"89","8118","propyl sulfide","111-47-7","CCCSCCC","118.24"
+"90","8122","Ethyl stearate","111-61-5","CCCCCCCCCCCCCCCCCC(=O)OCC","312.5"
+"91","356","Octane","111-65-9","CCCCCCCC","114.23"
+"92","8125","1-Octene","111-66-0","CCCCCCC=C","112.21"
+"93","8129","heptanol","111-70-6","CCCCCCCO","116.20"
+"94","14228","Hexyl octanoate","1117-55-1","CCCCCCCC(=O)OCCCCCC","228.37"
+"95","5368076","Methyl trans-2-nonenoate","111-79-5","CCCCCCC=CC(=O)OC","170.25"
+"96","8137","Methyl 2-nonynoate","111-80-8","CCCCCCC#CC(=O)OC","168.23"
+"97","957","octanol","111-87-5","CCCCCCCCO","130.23"
+"98","14257","undecane","1120-21-4","CCCCCCCCCCC","156.31"
+"99","8159","heptyl acetate","112-06-1","CCCCCCCOC(=O)C","158.24"
+"100","8163","2-Undecanone","112-12-9","CCCCCCCCCC(=O)C","170.29"
+"101","14286","2-acetyl pyridine","1122-62-9","CC(=O)C1=CC=CC=N1","121.14"
+"102","8174","decanol","112-30-1","CCCCCCCCCCO","158.28"
+"103","8175","decanal","112-31-2","CCCCCCCCCC=O","156.26"
+"104","8180","Undecanoic acid","112-37-8","CCCCCCCCCCC(=O)O","186.29"
+"105","14296","2,3,5,6-Tetramethylpyrazine","1124-11-4","CC1=C(N=C(C(=N1)C)C)C","136.19"
+"106","8184","1-undecanol","112-42-5","CCCCCCCCCCCO","172.31"
+"107","8186","undecanal","112-44-7","CCCCCCCCCCC=O","170.29"
+"108","62374","4-Oxoisophorone","1125-21-9","CC1=CC(=O)CC(C1=O)(C)C","152.19"
+"109","8193","Lauryl alcohol","112-53-8","CCCCCCCCCCCCO","186.33"
+"110","62375","Benzaldehyde dimethyl acetal","1125-88-8","COC(C1=CC=CC=C1)OC","152.19"
+"111","8205","Lauryl acetate","112-66-3","CCCCCCCCCCCCOC(=O)C","228.37"
+"112","62378","Dihydrojasmone","1128-08-1","CCCCCC1=C(CCC1=O)C","166.26"
+"113","14328","3,4-Dimethoxyacetophenone","1131-62-0","CC(=O)C1=CC(=C(C=C1)OC)OC","180.20"
+"114","8294","Linalyl acetate","115-95-7","CC(=CCCC(C)(C=C)OC(=O)C)C","196.29"
+"115","8363","Benzyl salicylate","118-58-1","C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2O","228.24"
+"116","8375","2-Hydroxyacetophenone","118-93-4","CC(=O)C1=CC=CC=C1O","136.15"
+"117","14491","1,6-Hexanedithiol","1191-43-1","C(CCCS)CCS","150.3"
+"118","4133","methyl salicylate","119-36-8","COC(=O)C1=CC=CC=C1O","152.15"
+"119","14514","2-Acetyl-5-methylfuran","1193-79-9","CC1=CC=C(O1)C(=O)C","124.14"
+"120","3102","benzophenone","119-61-9","C1=CC=C(C=C1)C(=O)C2=CC=CC=C2","182.22"
+"121","660","Dihydrocoumarin","119-84-6","C1CC(=O)OC2=CC=CC=C21","148.16"
+"122","8419","Veratraldehyde","120-14-9","COC1=C(C=C(C=C1)C=O)OC","166.17"
+"123","6114390","Isoeugenyl phenylacetate","120-24-1","CC=CC1=CC(=C(C=C1)OC(=O)CC2=CC=CC=C2)OC","282.3"
+"124","61048","Isobutyl benzoate","120-50-3","CC(C)COC(=O)C1=CC=CC=C1","178.23"
+"125","2345","Benzyl benzoate","120-51-4","C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2","212.24"
+"126","8438","piperonal","120-57-0","C1OC2=C(O1)C=C(C=C2)C=O","150.13"
+"127","637796","Isosafrole","120-58-1","CC=CC1=CC2=C(C=C1)OCO2","162.18"
+"128","8452","Cyclopentanone","120-92-3","C1CCC(=O)C1","84.12"
+"129","8467","Ethyl Vanillin","121-32-4","CCOC1=C(C=CC(=C1)C=O)O","166.17"
+"130","1183","vanillin","121-33-5","COC1=C(C=CC(=C1)C=O)O","152.15"
+"131","8468","4-hydroxy-3-methoxybenzoic acid","121-34-6","COC1=C(C=CC(=C1)C(=O)O)O","168.15"
+"132","326","cuminaldehyde","122-03-2","CC(C)C1=CC=C(C=C1)C=O","148.20"
+"133","31209","alpha-Amylcinnamaldehyde","122-40-7","CCCCCC(=CC1=CC=CC=C1)C=O","202.29"
+"134","31210","Butyl phenylacetate","122-43-0","CCCCOC(=O)CC1=CC=CC=C1","192.25"
+"135","31219","Benzyl propionate","122-63-4","CCC(=O)OCC1=CC=CC=C1","164.20"
+"136","778574","Isobutyl cinnamate","122-67-8","CC(C)COC(=O)C=CC1=CC=CC=C1","204.26"
+"137","31225","Phenethyl propionate","122-70-3","CCC(=O)OCCC1=CC=CC=C1","178.23"
+"138","61052","3-Phenylpropyl propionate","122-74-7","CCC(=O)OCCCC1=CC=CC=C1","192.25"
+"139","31234","3-Phenyl-1-propanol","122-97-4","C1=CC=C(C=C1)CCCO","136.19"
+"140","126","4-Hydroxybenzaldehyde","123-08-0","C1=CC(=CC=C1C=O)O","122.12"
+"141","31244","p-Anisaldehyde","123-11-5","COC1=CC=C(C=C1)C=O","136.15"
+"142","31246","4-Heptanone","123-19-3","CCCC(=O)CCC","114.19"
+"143","31249","diethyl succinate","123-25-1","CCOC(=O)CCC(=O)OCC","174.19"
+"144","31252","2,5-dimethyl pyrazine","123-32-0","CC1=CN=C(C=N1)C","108.14"
+"145","31260","isoamyl alcohol","123-51-3","CC(C)CCO","88.15"
+"146","31265","ethyl hexanoate","123-66-0","CCCCCC(=O)OCC","144.21"
+"147","31266","allyl hexanoate","123-68-2","CCCCCC(=O)OCC=C","156.22"
+"148","261","butyraldehyde","123-72-8","CCCC=O","72.11"
+"149","31268","Pyrrolidine","123-75-1","C1CCNC1","71.12"
+"150","31272","butyl acetate","123-86-4","CCCCOC(=O)C","116.16"
+"151","31276","isopentyl acetate","123-92-2","CC(C)CCOC(=O)C","130.18"
+"152","196","Adipic acid","124-04-9","C(CCC(=O)O)CC(=O)O","146.14"
+"153","31283","Ethyl myristate","124-06-1","CCCCCCCCCCCCCC(=O)OCC","256.42"
+"154","379","Octanoic acid","124-07-2","CCCCCCCC(=O)O","144.21"
+"155","454","octanal","124-13-0","CCCCCCCC=O","128.21"
+"156","1060","Pyruvic Acid","127-17-3","CC(=O)C(=O)O","88.06"
+"157","31404","Butylated hydroxytoluene","128-37-0","CC1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C","220.35"
+"158","8615","Phenethyl anthranilate","133-18-6","C1=CC=C(C=C1)CCOC(=O)C2=CC=CC=C2N","241.28"
+"159","875","DL-Tartaric acid","133-37-9","C(C(C(=O)O)O)(C(=O)O)O","150.09"
+"160","8635","Methyl anthranilate","134-20-3","COC(=O)C1=CC=CC=C1N","151.16"
+"161","8658","o-Anisaldehyde","135-02-4","COC1=CC=CC=C1C=O","136.15"
+"162","61641","Methyl 3-(methylthio)propionate","13532-18-8","COC(=O)CCSC","134.20"
+"163","61653","2,4,5-Trimethylthiazole","13623-11-5","CC1=C(SC(=N1)C)C","127.21"
+"164","61659","2,2'-(Thiodimethylene)difuran","13678-67-6","C1=COC(=C1)CSCC2=CC=CO2","194.25"
+"165","1136","4-Methyl-5-thiazoleethanol","137-00-8","CC1=C(SC=N1)CCO","143.21"
+"166","8712","o-Toluenethiol","137-06-4","CC1=CC=CC=C1S","124.21"
+"167","61670","5-Methylquinoxaline","13708-12-8","CC1=C2C(=CC=C1)N=CC=N2","144.17"
+"168","8723","2-Methyl-1-butanol","137-32-6","CCC(C)CO","88.15"
+"169","26331","2-ethyl pyrazine","13925-00-3","CCC1=NC=CN=C1","108.14"
+"170","444539","trans-Cinnamic acid","140-10-3","C1=CC=C(C=C1)C=CC(=O)O","148.16"
+"171","8785","benzyl acetate","140-11-4","CC(=O)OCC1=CC=CC=C1","150.17"
+"172","8797","p-Tolyl acetate","140-39-6","CC1=CC=C(C=C1)OC(=O)C","150.17"
+"173","8815","4-Allylanisole","140-67-0","COC1=CC=C(C=C1)CC=C","148.20"
+"174","1549025","Neryl acetate","141-12-8","CC(=CCCC(=CCOC(=O)C)C)C","196.29"
+"175","8857","ethyl acetate","141-78-6","CCOC(=O)C","88.11"
+"176","8878","Allyl heptanoate","142-19-8","CCCCCCC(=O)OCC=C","170.25"
+"177","8892","caproic acid","142-62-1","CCCCCC(=O)O","116.16"
+"178","8908","hexyl acetate","142-92-7","CCCCCCOC(=O)C","144.21"
+"179","3893","Lauric acid","143-07-7","CCCCCCCCCCCC(=O)O","200.32"
+"180","8914","nonanol","143-08-8","CCCCCCCCCO","144.25"
+"181","8918","Nonyl acetate","143-13-5","CCCCCCCCCOC(=O)C","186.29"
+"182","15037","1-Furfurylpyrrole","1438-94-4","C1=CN(C=C1)CC2=CC=CO2","147.17"
+"183","61771","2-sec-Butylcyclohexanone","14765-30-1","CCC(C)C1CCCCC1=O","154.25"
+"184","145742","L-Proline","147-85-3","C1CC(NC1)C(=O)O","115.13"
+"185","8697","2-Ethylhexanoic acid","149-57-5","CCCCC(CC)C(=O)O","144.21"
+"186","994","DL-Phenylalanine","150-30-1","C1=CC=C(C=C1)CC(C(=O)O)N","165.19"
+"187","9012","Benzyl disulfide","150-60-7","C1=CC=C(C=C1)CSSCC2=CC=CC=C2","246.4"
+"188","9016","dimethoxy benzene","150-78-7","COC1=CC=C(C=C1)OC","138.16"
+"189","9024","alpha,alpha-Dimethylphenethyl acetate","151-05-3","CC(=O)OC(C)(C)CC1=CC=CC=C1","192.25"
+"190","9025","1,3-Dimethoxybenzene","151-10-0","COC1=CC(=CC=C1)OC","138.16"
+"191","5363491","trans,trans-2,4-Hexadienyl acetate","1516-17-2","CC=CC=CCOC(=O)C","140.18"
+"192","165675","( + )-menthol","15356-60-2","CC1CCC(C(C1)O)C(C)C","156.26"
+"193","27440","2-Ethyl-4-methylthiazole","15679-12-6","CCC1=NC(=CS1)C","127.21"
+"194","61809","2-Ethoxythiazole","15679-19-3","CCOC1=NC=CS1","129.18"
+"195","27457","2-Ethyl-3-methylpyrazine","15707-23-0","CCC1=NC=CN=C1C","122.17"
+"196","27458","2,3-Diethylpyrazine","15707-24-1","CCC1=NC=CN=C1CC","136.19"
+"197","15380","Bis(methylthio)methane","1618-26-4","CSCSC","108.23"
+"198","565690","Menthyl isovalerate","16409-46-4","CC1CCC(C(C1)OC(=O)CC(C)C)C(C)C","240.38"
+"199","85522","Methyl (methylthio)acetate","16630-66-3","COC(=O)CSC","120.17"
+"200","15510","Cyclopentanethiol","1679-07-8","C1CCC(C1)S","102.20"
+"201","641256","trans,trans-2,4-Hexadien-1-ol","17102-64-6","CC=CC=CCO","98.14"
+"202","15606","Methyl nonanoate","1731-84-6","CCCCCCCCC(=O)OC","172.26"
+"203","15654","4-Methyl-5-vinylthiazole","1759-28-0","CC1=C(SC=N1)C=C","125.19"
+"204","15717","Allyl phenylacetate","1797-74-6","C=CCOC(=O)CC1=CC=CC=C1","176.21"
+"205","440967","(-)-beta-Pinene","18172-67-3","CC1(C2CCC(=C)C1C2)C","136.23"
+"206","519539","2-(1-Methylpropyl)thiazole","18277-27-5","CCC(C)C1=NC=CS1","141.24"
+"207","106997","2-Ethylfenchol","18368-91-7","CCC1(C(C2CCC1(C2)C)(C)C)O","182.30"
+"208","5318599","trans-2-Octen-1-ol","18409-17-1","CCCCCC=CCO","128.21"
+"209","61130","(1R)-(-)-Myrtenal","18486-69-6","CC1(C2CC=C(C1C2)C=O)C","150.22"
+"210","62725","2-Isobutylthiazole","18640-74-9","CC(C)CC1=NC=CS1","141.24"
+"211","641423","Allyl cinnamate","1866-31-5","C=CCOC(=O)C=CC1=CC=CC=C1","188.22"
+"212","16255","Isoamyl octanoate","2035-99-6","CCCCCCCC(=O)OCCC(C)C","214.34"
+"213","16324","Allyl butyrate","2051-78-7","CCCC(=O)OCC=C","128.17"
+"214","89440","6-Acetyl-1,1,2,4,4,7-Hexamethyltetralin","21145-77-7","CC1CC(C2=C(C1(C)C)C=C(C(=C2)C(=O)C)C)(C)C","258.4"
+"215","16537","Terpinyl formate","2153-26-6","CC1=CCC(CC1)C(C)(C)OC=O","182.26"
+"216","61293","ethyl-3-hydroxyhexanoate","2305-25-1","CCCC(CC(=O)OCC)O","160.21"
+"217","1550470","Ethyl sorbate","2396-84-1","CCOC(=O)C=CC=CC","140.18"
+"218","520108","2-Acetylthiazole","24295-03-2","CC(=O)C1=NC=CS1","127.17"
+"219","62444","Methyl thiobutyrate","2432-51-1","CCCC(=O)SC","118.20"
+"220","88454","Hexyl propionate","2445-76-3","CCCCCCOC(=O)CC","158.24"
+"221","32594","2-isobutyl-3-methoxypyrazine","24683-00-9","CC(C)CC1=NC=CN=C1OC","166.22"
+"222","2733294","trans-2-Hexenyl acetate","2497-18-9","CCCC=CCOC(=O)C","142.20"
+"223","8456","Butylated hydroxyanisole","25013-16-5","CC(C)(C)C1=C(C=CC(=C1)OC)O","180.24"
+"224","5367706","cis-3-Hexenyl benzoate","25152-85-6","CCC=CCCOC(=O)C1=CC=CC=C1","204.26"
+"225","595928","Benzaldehyde propylene glycol acetal","2568-25-4","CC1COC(O1)C2=CC=CC=C2","164.20"
+"226","220674","L-Menthyl acetate","2623-23-6","CC1CCC(C(C1)OC(=O)C)C(C)C","198.30"
+"227","17525","hexyl butyrate","2639-63-6","CCCCCCOC(=O)CCC","172.26"
+"228","17617","Allyl cyclohexanepropionate","2705-87-5","C=CCOC(=O)CCC1CCCCC1","196.29"
+"229","520296","delta-Tetradecalactone","2721-22-4","CCCCCCCCCC1CCCC(=O)O1","226.35"
+"230","62465","4-Ethylguaiacol","2785-89-9","CCC1=CC(=C(C=C1)O)OC","152.19"
+"231","93375","Trivertal","27939-60-2","CC1C=C(CCC1C=O)C","138.21"
+"232","17898","2-Methoxy-3-methylpyrazine","2847-30-5","CC1=NC=CN=C1OC","124.14"
+"233","62835","4,5-Dimethyl-3-hydroxy-2,5-dihydrofuran-2-one","28664-35-9","CC1C(=C(C(=O)O1)O)C","128.13"
+"234","9256","Thiazole","288-47-1","C1=CSC=N1","85.13"
+"235","9261","pyrazine","290-37-9","C1=CN=CC=N1","80.09"
+"236","18467","2-Methoxypyrazine","3149-28-8","COC1=NC=CN=C1","110.11"
+"237","3578033","3-(5-Methyl-2-furyl)butanal","31704-80-0","CC1=CC=C(O1)C(C)CC=O","152.19"
+"238","18554","2-Ethylfuran","3208-16-0","CCC1=CC=CO1","96.13"
+"239","18635","3-(Methylthio)propionaldehyde","3268-49-3","CSCCC=O","104.17"
+"240","61918","2-Acetyl-3-ethylpyrazine","32974-92-8","CCC1=NC=CN=C1C(=O)C","150.18"
+"241","2969","decanoic acid","334-48-5","CCCCCCCCCC(=O)O","172.26"
+"242","5365049","cis-3-Hexenyl propionate","33467-74-2","CCC=CCCOC(=O)CC","156.22"
+"243","18827","1-Octen-3-ol","3391-86-4","CCCCCC(C=C)O","128.21"
+"244","36822","5,6,7,8-Tetrahydroquinoxaline","34413-35-9","C1CCC2=NC=CN=C2C1","134.18"
+"245","6999977","Butyl (S)-(-)-lactate","34451-19-9","CCCCOC(=O)C(C)O","146.18"
+"246","9589","3-Acetylpyridine","350-03-8","CC(=O)C1=CN=CC=C1","121.14"
+"247","61945","Pyrazineethanethiol","35250-53-4","C1=CN=C(C=N1)CCS","140.21"
+"248","9609","Diethyl sulfide","352-93-2","CCSCC","90.19"
+"249","101604","Nopol acetate","35836-72-7","CC(=O)OCCC1=CCC2CC1C2(C)C","208.30"
+"250","19310","Dimethyl trisulfide","3658-80-8","CSSSC","126.3"
+"251","2682","1-Hexadecanol","36653-82-4","CCCCCCCCCCCCCCCCO","242.44"
+"252","5363388","cis-3-hexenyl acetate","3681-71-8","CCC=CCCOC(=O)C","142.20"
+"253","62087","2-Mercapto-3-butanol","37887-04-0","CC(C(C)S)O","106.19"
+"254","1549778","6,10-Dimethyl-5,9-undecadien-2-one","3796-70-1",NA,NA
+"255","62900","Whiskey lactone","39212-23-2","CCCCC1C(CC(=O)O1)C","156.22"
+"256","62902","Ethyl 2-methylpentanoate","39255-32-8","CCCC(C)C(=O)OCC","144.21"
+"257","98330","2,5-Dihydroxy-1,4-dithiane","40018-26-6","C1C(SCC(S1)O)O","152.2"
+"258","61325","2,5-Dimethyl-4-methoxy-3(2H)-furanone","4077-47-8","CC1C(=O)C(=C(O1)C)OC","142.15"
+"259","61331","Guaiacyl phenylacetate","4112-89-4","COC1=CC=CC=C1OC(=O)CC2=CC=CC=C2","242.27"
+"260","5365027","cis-2-Nonen-1-ol","41453-56-9","CCCCCCC=CCO","142.24"
+"261","5352539","cis-3-Hexenyl isobutyrate","41519-23-7","CCC=CCCOC(=O)C(C)C","170.25"
+"262","637563","trans-Anethole","4180-23-8","CC=CC1=CC=C(C=C1)OC","148.20"
+"263","61337","Allyl 2-furoate","4208-49-5","C=CCOC(=O)C1=CC=CO1","152.15"
+"264","444683","(S)-( + )-2-butanol","4221-99-2","CCC(C)O","74.12"
+"265","5367698","cis-3-Hexenyl phenylacetate","42436-07-7","CCC=CCCOC(=O)CC1=CC=CC=C1","218.29"
+"266","650","2,3-butanedione","431-03-8","CC(=O)C(=O)C","86.09"
+"267","6429333","2-Phenyl-2-butenal","4411-89-6","CC=C(C=O)C1=CC=CC=C1","146.19"
+"268","159055","D-Camphor","464-49-3","CC1(C2CCC1(C(=O)C2)C)C","152.23"
+"269","2758","1,8-cineole","470-82-6","CC1(C2CCC(O1)(CC2)C)C","154.25"
+"270","521238","3-Octyl Acetate","4864-61-3","CCCCCC(CC)OC(=O)C","172.26"
+"271","10285","4-Methylquinoline","491-35-0","CC1=CC=NC2=CC=CC=C12","143.18"
+"272","21057","1-Hepten-3-ol","4938-52-7","CCCCC(C=C)O","114.19"
+"273","2214","Acetovanillone","498-02-2","CC(=O)C1=CC(=C(C=C1)O)OC","166.17"
+"274","10364","Carvacrol","499-75-2","CC1=C(C=C(C=C1)C(C)C)O","150.22"
+"275","10400","Cycloheptanone","502-42-1","C1CCCC(=O)CC1","112.17"
+"276","10430","isovaleric acid","503-74-2","CC(C)CC(=O)O","102.13"
+"277","10448","3-(methylthio)-1-propanol","505-10-2","CSCCCO","106.19"
+"278","62351","3-(Methylthio)propyl isothiocyanate","505-79-3","CSCCCN=C=S","147.3"
+"279","5779","D-(-)-Ribose","50-69-1","C(C1C(C(C(O1)O)O)O)O","150.13"
+"280","5780","D-Sorbitol","50-70-4","C(C(C(C(C(CO)O)O)O)O)O","182.17"
+"281","262","butanediol","513-85-9","CC(C(C)O)O","90.12"
+"282","1551246","3,7-Dimethyl-2,6-octadienenitrile","5146-66-7","CC(=CCCC(=CC#N)C)C","149.23"
+"283","5610","Tyramine","51-67-2","C1=CC(=CC=C1CCN)O","137.18"
+"284","78925","2-(Methylthio)ethanol","5271-38-5","CSCCO","92.16"
+"285","5862","L-Cysteine","52-90-4","C(C(C(=O)O)N)S","121.16"
+"286","10722","o-Tolualdehyde","529-20-4","CC1=CC=CC=C1C=O","120.15"
+"287","21363","Cyclohexaneacetic acid","5292-21-7","C1CCC(CC1)CC(=O)O","142.20"
+"288","10748","7-Methoxycoumarin","531-59-9","COC1=CC2=C(C=C1)C=CC(=O)O2","176.17"
+"289","10797","2-Methylfuran","534-22-5","CC1=CC=CO1","82.10"
+"290","325","4-Isopropylbenzyl alcohol","536-60-7","CC(C)C1=CC=C(C=C1)CO","150.22"
+"291","10882","Ethyl Valerate","539-82-2","CCCCC(=O)OCC","130.18"
+"292","10886","Amyl hexanoate","540-07-8","CCCCCC(=O)OCCCCC","186.29"
+"293","10890","Amyl butyrate","540-18-1","CCCCCOC(=O)CCC","158.24"
+"294","10895","Isobutyl propionate","540-42-1","CCC(=O)OCC(C)C","130.18"
+"295","62572","ethyl-3-hydroxybutyrate","5405-41-4","CCOC(=O)CC(C)O","132.16"
+"296","10925","3-Methyl-1-butanethiol","541-31-1","CC(C)CCS","104.22"
+"297","104721","2-Acetyl-3,5(6)-dimethylpyrazine","54300-08-2","CC1=CN=C(C(=N1)C)C(=O)C","150.18"
+"298","21648","4-(4-Hydroxyphenyl)-2-butanone","5471-51-2","CC(=O)CCC1=CC=C(C=C1)O","164.20"
+"299","62089","(±)-4-Methyloctanoic acid","54947-74-9","CCCCC(C)CCC(=O)O","158.24"
+"300","11086","2-Aminoacetophenone","551-93-9","CC(=O)C1=CC=CC=C1N","135.16"
+"301","11124","Methyl Propionate","554-12-1","CCC(=O)OC","88.11"
+"302","750","Glycine","56-40-6","C(C(=O)O)N","75.07"
+"303","5950","L-Alanine","56-41-7","CC(C(=O)O)N","89.09"
+"304","753","glycerol","56-81-5","C(C(CO)O)O","92.09"
+"305","5960","Aspartic Acid","56-84-8","C(C(C(=O)O)N)C(=O)O","133.10"
+"306","5961","L-Glutamine","56-85-9","C(CC(=O)N)C(C(=O)O)N","146.14"
+"307","33032","L-Glutamic acid","56-86-0","C(CC(=O)O)C(C(=O)O)N","147.13"
+"308","5962","L-Lysine","56-87-1","C(CCN)CC(C(=O)O)N","146.19"
+"309","5362798","cis-4-Decen-1-ol","57074-37-0","CCCCCC=CCCCO","156.26"
+"310","1030","Propylene glycol","57-55-6","CC(CO)O","76.09"
+"311","11419","2-Methylcyclohexanone","583-60-8","CC1CCCCC1=O","112.17"
+"312","11428","3-pentanol","584-02-1","CCC(CC)O","88.15"
+"313","11525","4-Methylcyclohexanone","589-92-4","CC1CCC(=O)CC1","112.17"
+"314","11527","3-Octanol","589-98-0","CCCCCC(CC)O","130.23"
+"315","11529","Butyl Propionate","590-01-2","CCCCOC(=O)CC","130.18"
+"316","62144","2-Furanmethanethiol formate","59020-90-5","C1=COC(=C1)CSC=O","142.18"
+"317","11567","3-Methylcyclohexanone","591-24-2","CC1CCCC(=O)C1","112.17"
+"318","11569","m-Anisaldehyde","591-31-1","COC1=CC=CC(=C1)C=O","136.15"
+"319","11583","2-hexanone","591-78-6","CCCCC(=O)C","100.16"
+"320","61138","4-Pentenoic acid","591-80-0","C=CCCC(=O)O","100.12"
+"321","11614","Butyl formate","592-84-7","CCCCOC=O","102.13"
+"322","11617","Allyl Sulfide","592-88-1","C=CCSCC=C","114.21"
+"323","440917","d-Limonene","5989-27-5","CC1=CCC(CC1)C(=C)C","136.23"
+"324","6050","Tributyrin","60-01-5","CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC","302.36"
+"325","22310","linalool oxide","60047-17-8","CC1(CCC(O1)C(C)(C)O)C=C","170.25"
+"326","6054","2-phenylethanol","60-12-8","C1=CC=C(C=C1)CCO","122.16"
+"327","6057","L-Tyrosine","60-18-4","C1=CC(=CC=C1CC(C(=O)O)N)O","181.19"
+"328","22386","2-pentanol","6032-29-7","CCCC(C)O","88.15"
+"329","5280450","Linoleic acid","60-33-3","CCCCCC=CCC=CCCCCCCCC(=O)O","280.4"
+"330","61151","Methyl 2-methoxybenzoate","606-45-1","COC1=CC=CC=C1C(=O)OC","166.17"
+"331","11902","methyl 2-furoate","611-13-2","COC(=O)C1=CC=CO1","126.11"
+"332","61155","2-Methoxyphenyl acetate","613-70-7","CC(=O)OC1=CC=CC=C1OC","166.17"
+"333","11980","Ethyl 2-furoate","614-99-3","CCOC(=O)C1=CC=CO1","140.14"
+"334","12020","1-Penten-3-ol","616-25-1","CCC(C=C)O","86.13"
+"335","6106","L-Leucine","61-90-5","CC(C)CC(C(=O)O)N","131.17"
+"336","5364231","cis-3-Hexenyl lactate","61931-81-5","CCC=CCCOC(=O)C(C)O","172.22"
+"337","12097","5-Methylfurfural","620-02-0","CC1=CC=C(O1)C=O","110.11"
+"338","2346","Benzyl isothiocyanate","622-78-6","C1=CC=C(C=C1)CN=C=S","149.21"
+"339","12178","3-hexanol","623-37-0","CCCC(CC)O","102.17"
+"340","12180","Methyl butyrate","623-42-7","CCCC(=O)OC","102.13"
+"341","12206","Methyl valerate","624-24-8","CCCCC(=O)OC","116.16"
+"342","12265","2,5-Dimethylpyrrole","625-84-3","CC1=CC=C(N1)C","95.14"
+"343","12297","2-hexanol","626-93-7","CCCCC(C)O","102.17"
+"344","12327","Ethyl undecanoate","627-90-7","CCCCCCCCCCC(=O)OCC","214.34"
+"345","12348","pentyl acetate","628-63-7","CCCCCOC(=O)C","130.18"
+"346","12377","dipropyl disulfide","629-19-6","CCCSSCCC","150.3"
+"347","61177","Hexyl Formate","629-33-4","CCCCCCOC=O","130.18"
+"348","526618","2-Methyl-3-methylthiofuran","63012-97-5","CC1=C(C=CO1)SC","128.19"
+"349","61386","Isoamyl laurate","6309-51-9","CCCCCCCCCCCC(=O)OCCC(C)C","270.5"
+"350","6137","L-Methionine","63-68-3","CSCCC(C(=O)O)N","149.21"
+"351","12506","Tetrahydrofurfuryl acetate","637-64-9","CC(=O)OCC1CCCO1","144.17"
+"352","22873","Hexyl hexanoate","6378-65-0","CCCCCCOC(=O)CCCCC","200.32"
+"353","61185","N-Amyl octanoate","638-25-5","CCCCCCCC(=O)OCCCCC","214.34"
+"354","6140","L-Phenylalanine","63-91-2","C1=CC=C(C=C1)CC(C(=O)O)N","165.19"
+"355","1001","Phenethylamine","64-04-0","C1=CC=C(C=C1)CCN","121.18"
+"356","702","ethanol","64-17-5","CCO","46.07"
+"357","176","acetic acid","64-19-7","CC(=O)O","60.05"
+"358","5352837","cis-5-Octen-1-ol","64275-73-6","CCC=CCCCCO","128.21"
+"359","12580","4-propylphenol","645-56-7","CCCC1=CC=C(C=C1)O","136.19"
+"360","12587","4-Methylvaleric acid","646-07-1","CC(C)CCC(=O)O","116.16"
+"361","439570","(-)-Carvone","6485-40-1","CC1=CCC(CC1=O)C(=C)C","150.22"
+"362","5371102","cis-3-Hexenyl salicylate","65405-77-8","CCC=CCCOC(=O)C1=CC=CC=C1O","220.26"
+"363","61192","4-Methyl-5-thiazoleethanol acetate","656-53-1","CC1=C(SC=N1)CCOC(=O)C","185.25"
+"364","243","Benzoic acid","65-85-0","C1=CC=C(C=C1)C(=O)O","122.12"
+"365","6184","Hexanal","66-25-1","CCCCCC=O","100.16"
+"366","6202","Thiamine hydrochloride","67-03-8","CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO.Cl.[Cl-]","337.3"
+"367","5281168","2-hexenal","6728-26-3","CCCC=CC=O","98.14"
+"368","5362814","cis-4-Heptenal","6728-31-0","CCC=CCCC=O","112.17"
+"369","887","methanol","67-56-1","CO","32.042"
+"370","3776","Isopropyl alcohol","67-63-0","CC(C)O","60.10"
+"371","180","acetone","67-64-1","CC(=O)C","58.08"
+"372","679","Methyl sulfoxide","67-68-5","CS(=O)C","78.14"
+"373","6213","Methyl sulfone","67-71-0","CS(=O)(=O)C","94.14"
+"374","101010","2-Methyl-4-propyl-1,3-oxathiane","67715-80-4","CCCC1CCOC(S1)C","160.28"
+"375","16220109","cis-3-Hexenyl tiglate","67883-79-8","CCC=CCCOC(=O)C(=CC)C","182.26"
+"376","23235","Hexyl benzoate","6789-88-4","CCCCCCOC(=O)C1=CC=CC=C1","206.28"
+"377","10857465","Ambrox","6790-58-5","CC1(CCCC2(C1CCC3(C2CCO3)C)C)C","236.39"
+"378","12741","2-decanone","693-54-9","CCCCCCCCC(=O)C","156.26"
+"379","12748","4-Methylthiazole","693-95-8","CC1=CSC=N1","99.16"
+"380","61199","5-Ethyl-3-hydroxy-4-methyl-2(5H)-furanone","698-10-2","CCC1C(=C(C(=O)O1)O)C","142.15"
+"381","12810","delta-Decalactone","705-86-2","CCCCCC1CCCC(=O)O1","170.25"
+"382","12813","gamma-decalactone","706-14-9","CCCCCCC1CCC(=O)O1","170.25"
+"383","6274","L-Histidine","71-00-1","C1=C(NC=N1)CC(C(=O)O)N","155.15"
+"384","61204","delta-Undecalactone","710-04-3","CCCCCCC1CCCC(=O)O1","184.27"
+"385","1031","propanol","71-23-8","CCCO","60.10"
+"386","263","butanol","71-36-3","CCCCO","74.12"
+"387","6276","pentanol","71-41-0","CCCCCO","88.15"
+"388","241","Benzene","71-43-2","C1=CC=CC=C1","78.11"
+"389","251531","Phenethyl 2-furoate","7149-32-8","C1=CC=C(C=C1)CCOC(=O)C2=CC=CO2","216.23"
+"390","23642","2-Methoxythiophenol","7217-59-6","COC1=CC=CC=C1S","140.20"
+"391","6287","L-Valine","72-18-4","CC(C)C(C(=O)O)N","117.15"
+"392","24020","Ethyl 2-methylbutyrate","7452-79-1","CCC(C)C(=O)OCC","130.18"
+"393","6322","L-Arginine","74-79-3","C(CC(C(=O)O)N)CN=C(N)N","174.20"
+"394","24116","Allyl anthranilate","7493-63-2","C=CCOC(=O)C1=CC=CC=C1N","177.20"
+"395","61408","Allyl 2-ethylbutyrate","7493-69-8","CCC(CC)C(=O)OCC=C","156.22"
+"396","5364729","Allyl tiglate","7493-71-2","CC=C(C)C(=O)OCC=C","140.18"
+"397","177","acetaldehyde","75-07-0","CC=O","44.05"
+"398","1068","methyl sulfide","75-18-3","CSC","62.14"
+"399","7793","(-)-citronellol","7540-51-4","CC(CCC=C(C)C)CCO","156.26"
+"400","5366244","Phytol","7541-49-3","CC(C)CCCC(C)CCCC(C)CCCC(=CCO)C","296.5"
+"401","6374","Iodoform","75-47-8","C(I)(I)I","393.732"
+"402","807","Iodine","7553-56-2","II","253.8089"
+"403","24203","Sodium phosphate dibasic","7558-79-4","OP(=O)([O-])[O-].[Na+].[Na+]","141.959"
+"404","6386","tert-butanol","75-65-0","CC(C)(C)O","74.12"
+"405","2537","Camphor","76-22-2","CC1(C2CCC1(C(=O)C2)C)C","152.23"
+"406","6448","Bornyl acetate","76-49-3","CC(=O)OC1CC2CCC1(C2(C)C)C","196.29"
+"407","61209","Methylcyclopentenolone","765-70-8","CC1CCC(=O)C1=O","112.13"
+"408","962","Water","7732-18-5","O","18.015"
+"409","24473","D-Dihydrocarvone","7764-50-3","CC1CCC(CC1=O)C(=C)C","152.23"
+"410","24513","Decanal dimethyl acetal","7779-41-1","CCCCCCCCCC(OC)OC","202.33"
+"411","6753","omega-6-Hexadecenlactone","7779-50-2","CC1=C(C=C(C(=C1[N+](=O)[O-])OC)C(C)(C)C)[N+](=O)[O-]","268.27"
+"412","5273467","Isoamyl cinnamate","7779-65-9","CC(C)CCOC(=O)C=CC1=CC=CC=C1","218.29"
+"413","6501","Ethyl 3-methyl-3-phenylglycidate","77-83-8","CCOC(=O)C1C(O1)(C)C2=CC=CC=C2","206.24"
+"414","82227","alpha-pinene","7785-70-8","CC1=CCC2CC1C2(C)C","136.23"
+"415","228769","Octyl isovalerate","7786-58-5","CCCCCCCCOC(=O)CC(C)C","214.34"
+"416","14525","l-fenchone","7787-20-4","CC1(C2CCC(C2)(C1=O)C)C","152.23"
+"417","6505","Tributyl-2-Acetylcitrate","77-90-7","CCCCOC(=O)CC(CC(=O)OCCCC)(C(=O)OCCCC)OC(=O)C","402.5"
+"418","311","Citric acid","77-92-9","C(C(=O)O)C(CC(=O)O)(C(=O)O)O","192.12"
+"419","6506","Triethyl citrate","77-93-0","CCOC(=O)CC(CC(=O)OCC)(C(=O)OCC)O","276.28"
+"420","6544","Isophorone","78-59-1","CC1=CC(=O)CC(C1)(C)C","138.21"
+"421","6549","Linalool","78-70-6","CC(=CCCC(C)(C=C)O)C","154.25"
+"422","5355850","trans-Cinnamyl propionate","78761-38-3","CCC(=O)OCC=CC1=CC=CC=C1","190.24"
+"423","6560","2-methyl-1-propanol","78-83-1","CC(C)CO","74.12"
+"424","6561","Isobutyraldehyde","78-84-2","CC(C)C=O","72.11"
+"425","6569","2-butanone","78-93-3","CCC(=O)C","72.11"
+"426","1032","propionic acid","79-09-4","CCC(=O)O","74.08"
+"427","6584","methyl acetate","79-20-9","CC(=O)OC","74.08"
+"428","6590","Isobutyric acid","79-31-2","CC(C)C(=O)O","88.11"
+"429","638014","beta-Ionone","79-77-6","CC1=C(C(CCC1)(C)C)C=CC(=O)C","192.30"
+"430","6658","Methyl methacrylate","80-62-6","CC(=C)C(=O)OC","100.12"
+"431","6669","musk ketone","81-14-1","CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)C(=O)C","294.30"
+"432","5362588","5-Methyl-2-hepten-4-one","81925-81-7","CCC(C)C(=O)C=CC","126.20"
+"433","69963","5-Hexen-1-ol","821-41-0","C=CCCCCO","100.16"
+"434","13187","2-Nonanone","821-55-6","CCCCCCCC(=O)C","142.24"
+"435","13204","delta-Hexalactone","823-22-3","CC1CCCC(=O)O1","114.14"
+"436","13216","Decahydro-2-naphthol","825-51-4","C1CCC2CC(CCC2C1)O","154.25"
+"437","6826","Dimethyl anthranilate","85-91-6","CNC1=CC=CC=C1C(=O)OC","165.19"
+"438","62332","Phenethyl salicylate","87-22-9","C1=CC=C(C=C1)CCOC(=O)C2=CC=CC=C2O","242.27"
+"439","6920","2-Acetylthiophene","88-15-3","CC(=O)C1=CC=CS1","126.18"
+"440","61229","Vanillin Acetate","881-68-5","CC(=O)OC1=C(C=C(C=C1)C=O)OC","194.18"
+"441","13436","Phenyl disulfide","882-33-7","C1=CC=C(C=C1)SSC2=CC=CC=C2","218.3"
+"442","6943","2-Isopropylphenol","88-69-7","CC(C)C1=CC=CC=C1O","136.19"
+"443","170833","(-)-Isopulegol","89-79-2","CC1CCC(C(C1)O)C(=C)C","154.25"
+"444","6989","thymol","89-83-8","CC1=CC(=C(C=C1)C(C)C)O","150.22"
+"445","6997","2-ethylphenol","90-00-6","CCC1=CC=CC=C1O","122.16"
+"446","6998","salicylaldehyde","90-02-8","C1=CC=C(C(=C1)C=O)O","122.12"
+"447","460","Guaiacol","90-05-1","COC1=CC=CC=C1O","124.14"
+"448","7047","Quinoline","91-22-5","C1=CC=C2C(=C1)C=CC=N2","129.16"
+"449","7059","6-methyl quinoline","91-62-3","CC1=CC2=C(C=C1)N=CC=C2","143.18"
+"450","323","coumarin","91-64-5","C1=CC=C2C(=C1)C=CC(=O)O2","146.14"
+"451","7092","6-Methylcoumarin","92-48-8","CC1=CC2=C(C=C1)OC(=O)C=C2","160.17"
+"452","7095","Biphenyl","92-52-4","C1=CC=C(C=C1)C2=CC=CC=C2","154.21"
+"453","13561","6-Undecanone","927-49-1","CCCCCC(=O)CCCCC","170.29"
+"454","5281167","cis-3-Hexen-1-ol","928-96-1","CCC=CCCO","100.16"
+"455","7119","Nerolin Yara Yara","93-04-9","COC1=CC2=CC=CC=C2C=C1","158.20"
+"456","7122","Methyl beta-naphthyl ketone","93-08-3","CC(=O)C1=CC2=CC=CC=C2C=C1","170.21"
+"457","7127","4-allyl-1,2-dimethoxy benzene","93-15-2","COC1=C(C=C(C=C1)CC=C)OC","178.23"
+"458","637776","methyl isoeugenol","93-16-3","CC=CC1=CC(=C(C=C1)OC)OC","178.23"
+"459","7136","Eugenyl Acetate","93-28-7","CC(=O)OC1=C(C=C(C=C1)CC=C)OC","206.24"
+"460","7137","isoeugenol acetate","93-29-8","CC=CC1=CC(=C(C=C1)OC(=O)C)OC","206.24"
+"461","7144","2-Methoxy-4-methylphenol","93-51-6","CC1=CC(=C(C=C1)O)OC","138.16"
+"462","7147","1-Phenyl-1-propanol","93-54-9","CCC(C1=CC=CC=C1)O","136.19"
+"463","7150","methyl benzoate","93-58-3","COC(=O)C1=CC=CC=C1","136.15"
+"464","7151","Methyl nicotinate","93-60-7","COC(=O)C1=CN=CC=C1","137.14"
+"465","7165","Ethyl benzoate","93-89-0","CCOC(=O)C1=CC=CC=C1","150.17"
+"466","106441","2-Methoxy-3(5 or 6)-isopropylpyrazine","93905-03-4","CC(C)C1=CN=CC(=N1)OC","152.19"
+"467","556940","Ethyl 3-(furfurylthio)propionate","94278-27-0","CCOC(=O)CCSCC1=CC=CO1","214.28"
+"468","7194","Phenethyl benzoate","94-47-3","C1=CC=C(C=C1)CCOC(=O)C2=CC=CC=C2","226.27"
+"469","638024","Piperine","94-62-2","C1CCN(CC1)C(=O)C=CC=CC2=CC3=C(C=C2)OCO3","285.34"
+"470","7288","3-Pentanone","96-22-0","CCC(=O)CC","86.13"
+"471","7302","4-Hydroxybutanoic acid lactone","96-48-0","C1CC(=O)OC1","86.09"
+"472","7335","carvyl acetate","97-42-7","CC1=CCC(CC1OC(=O)C)C(=C)C","194.27"
+"473","3314","eugenol","97-53-0","COC1=C(C=CC(=C1)CC=C)O","164.20"
+"474","853433","Isoeugenol","97-54-1","CC=CC1=CC(=C(C=C1)O)OC","164.20"
+"475","7341","2-Methylpentanoic acid","97-61-0","CCCC(C)C(=O)O","116.16"
+"476","7360","Tetrahydrofurfuryl alcohol","97-99-4","C1CC(OC1)CO","102.13"
+"477","7361","Furfuryl alcohol","98-00-0","C1=COC(=C1)CO","98.10"
+"478","7409","alpha-Methylbenzyl alcohol","98-85-1","CC(C1=CC=CC=C1)O","122.16"
+"479","7410","acetophenone","98-86-2","CC(=O)C1=CC=CC=C1","120.15"
+"480","7463","para-cymene","99-87-6","CC1=CC=C(C=C1)C(C)C","134.22"
+"481","5315892","Cinnamyl alcohol","104-54-1","C1=CC=C(C=C1)C=CCO","134.17"

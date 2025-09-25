@@ -42,7 +42,6 @@ CID,MolecularWeight,IsomericSMILES,IUPACName,name
 10106,154.25,CC(C)C12CCC(O1)(CC2)C,1-methyl-4-propan-2-yl-7-oxabicyclo[2.2.1]heptane,"1,4-cineole"
 10819,152.23,CC(=C)C1CCC(=CC1)CO,(4-prop-1-en-2-ylcyclohexen-1-yl)methanol,perillyl alcohol
 11124,88.11,CCC(=O)OC,methyl propanoate,methyl propionate
-11583,100.16,CCCCC(=O)C,hexan-2-one,2-hexanone
 12146,142.20,CC(=O)OC1CCCCC1,cyclohexyl acetate,cyclohexyl acetate
 12180,102.13,CCCC(=O)OC,methyl butanoate,methyl butyrate
 12206,116.16,CCCCC(=O)OC,methyl pentanoate,methyl valerate

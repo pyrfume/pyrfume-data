@@ -1,6 +1,6 @@
 # Manifest for AromaDb odor descriptors dataset
 [source]
-doi = "http://bioinfo.cimap.res.in/aromadb/"
+doi = "10.3389/fpls.2018.01081"
 title = "AromaDb Odor Dataset"
 authors = "Y Kumar, O Prakash, H Tripathi, S Tandon, MM Gupta, L Rahman, RK Lal, M Semwal, MP Darokar, F Khan"
 tags = "human;odorCharacter"
@@ -22,3 +22,4 @@ LICENSE = "Licensing information and use restrictions according to the terms of 
 "main.py" = "Processing workflow"
 "benchmarks.py" = "Workflow for ML benchmarking"
 "benchmarks_viz.ipynb" = "Benchmarking results visualization notebook"
+
